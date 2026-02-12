@@ -1,66 +1,53 @@
-# 👋 Hola, soy Vladimir Acuña (Senior Software Architect / Full-Stack)
+# 👋 Vladimir Acuña — Senior Software Architect / Full-Stack
 
-Construyo y modernizo sistemas **de producción**: desde plataformas legacy (PHP/SQL) hasta arquitecturas modernas con **Docker, CI/CD, Cloud (AWS)** y **automatización con IA/Agentes**.
+Modernizo y construyo sistemas **de producción**: desde **PHP/SQL legacy** hasta arquitectura moderna con **Docker, CI/CD, Cloud (AWS)** y automatización con IA.
 
-- 🧠 +16 años en desarrollo profesional (y programando desde los 80s)
-- 🧱 Arquitectura pragmática: rendimiento, estabilidad, mantenibilidad
-- 🚀 Enfoque actual: **cloud + DevOps + repos “docker-first” + agentes**
-
----
-
-## 🧭 Qué hago (en una línea)
-**Tomo sistemas reales, los hago más rápidos, estables y escalables, y dejo el proceso automatizado para que el equipo avance sin fricción.**
+- 🧱 +16 años en desarrollo profesional (y programando desde los 80s)
+- ⚙️ Especialidad: modernización incremental, performance y mantenibilidad
+- 🚀 Enfoque actual: Cloud + DevOps + repos reproducibles (docker-first) + agentes
+- ✅ Busco: roles Senior (Arquitectura / Full-Stack / DevOps pragmático)
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stack (resumen)
 **Backend:** PHP (legacy→8.x), Node.js  
 **Frontend:** JavaScript/TypeScript, HTML/CSS  
-**Datos:** SQL Server, MySQL/MariaDB  
+**DB:** SQL Server, MySQL/MariaDB  
 **DevOps:** Docker/Compose, CI/CD (GitHub Actions / GitLab CI / Jenkins)  
-**Cloud:** AWS (S3/CloudFront/Amplify/Lambda/API Gateway/RDS/DynamoDB) + IaC (Terraform)  
-**IA/Automatización:** agentes, workflows, herramientas locales (Ollama/ComfyUI/n8n) y API de OpenAI
+**Cloud:** AWS (S3/CloudFront/Amplify/Lambda/API Gateway/RDS/DynamoDB) + Terraform  
+**IA/Automatización:** agentes, workflows, tooling local + API
 
 ---
 
-## 🧠 Especialidades “de batalla”
-- 🧯 **Modernización de legado** sin detener operación (refactor incremental)
-- ⚙️ **Optimización** orientada a UX (tiempos, carga, estabilidad)
-- 🔐 Buenas prácticas: variables de entorno, secrets, auditoría básica
-- 🧪 Automatización: pipelines, tests, build reproducible
-- 📦 Repos listos para equipos: documentación, plantillas, releases
+## ⭐ Evidencia rápida (Top repos)
+> 6 repos = ideal para reclutadores. 1 línea por repo.
+
+- 🔥 **Cloud Portfolio (AWS + IaC + CI/CD)** — despliegues reproducibles y arquitectura cloud
+- 🧪 **docker-labs** — laboratorios listos para correr y demostrar stack
+- 🧰 **microsistemas** — herramientas reales (migración/diagnóstico/productividad)
+- 🌱 **portal-bienestar** — app moderna + docker + DB + pipeline
+- 🤖 **Agentes / LangGraph casos reales** — flujos y automatización “agentic”
+- 📆 **social-bot-scheduler** — automatización y scheduling multi-plataforma
 
 ---
 
-## ⭐ Proyectos destacados (selección)
-> Elige 6–10 para mantenerlo limpio. Reemplaza los links por los que quieras priorizar.
-
-- **Cloud Portfolio (AWS / IaC / CI/CD)** — demos y despliegues reproducibles  
-- **docker-labs** — ecosistema de laboratorios con servicios listos  
-- **microsistemas** — utilidades y mini-tools (migración, diagnósticos, etc.)  
-- **portal-bienestar** — stack moderno con DB + Docker + CI/CD  
-- **LangGraph: casos reales** — enfoque en agentes y flujos de trabajo  
-- **social-bot-scheduler** — automatización de publicaciones / agenda
+## 🧠 Cómo trabajo (lo que llevo a producción)
+- Refactor incremental (sin “big bang”)
+- Performance orientado a experiencia de usuario
+- Entornos reproducibles (docker-first)
+- CI/CD y estándares de repo (docs, roadmap, security)
+- Diagnóstico y mantenimiento: logs, métricas, estabilidad
 
 ---
 
-## 📌 En qué estoy trabajando ahora
-- 🔁 Repos “docker-first” + estándares (README/ROADMAP/SECURITY)
-- ☁️ Arquitecturas cloud costo-eficientes (AWS)
-- 🤖 Agentes para soporte técnico: diagnóstico, clasificación, propuestas de fix
-- 🧩 Portafolio profesional para clientes y reclutadores (demos ejecutables)
-
----
-
-## 🤝 Cómo puedo aportar
-- Arquitectura y refactor de sistemas legacy
-- Diseño de APIs + capas de datos
-- CI/CD, dockerización y entrega continua
-- Migraciones y optimización de performance
-- Automatización con IA (sin romper producción)
+## 📌 Disponibilidad
+**Abierto a**: Senior Full-Stack / Arquitectura / Modernización de legado / DevOps pragmático  
+**Modalidad**: Remoto / Híbrido (según proyecto)
 
 ---
 
 ## 📬 Contacto
-Si quieres colaborar, revisar una arquitectura o levantar un plan de modernización, conversemos.
+- LinkedIn: ([pon tu link](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/))
+- Email: vladimir.acuna.dev@gmail.com
+
 
