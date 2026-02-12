@@ -5,7 +5,7 @@ Diseño, construyo y escalo sistemas de producción: arquitectura, APIs, datos y
 - 🧱 +16 años construyendo y operando software en entornos reales  
 - ⚙️ Especialidad: performance, mantenibilidad, calidad de entrega y estabilidad  
 - 🚀 Enfoque actual: Cloud + DevOps + repos reproducibles (docker-first) + agentes  
-- ✅ Busco: roles Senior (Arquitectura / Full-Stack / Plataforma / DevOps pragmático)
+- ✅ Busco: roles Senior (Arquitectura de Software · Full-Stack Senior · Platform Engineer/IDP · SRE orientado a aplicaciones · Tech Lead de migraciones · DevOps pragmático · Automatización con IA aplicada)
 
 ---
 
