@@ -2,7 +2,7 @@
 
 Modernizo y construyo sistemas **de producción**: desde **PHP/SQL legacy** hasta arquitectura moderna con **Docker, CI/CD, Cloud (AWS)** y automatización con IA.
 
-- 🧱 +16 años en desarrollo profesional (y programando desde los 80s)
+- 🧱 +16 años en desarrollo profesional
 - ⚙️ Especialidad: modernización incremental, performance y mantenibilidad
 - 🚀 Enfoque actual: Cloud + DevOps + repos reproducibles (docker-first) + agentes
 - ✅ Busco: roles Senior (Arquitectura / Full-Stack / DevOps pragmático)
