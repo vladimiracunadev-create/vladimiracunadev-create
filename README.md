@@ -46,7 +46,7 @@ Diseño, construyo y escalo sistemas de producción: arquitectura, APIs, datos y
 ---
 
 ## 📬 Contacto
-- LinkedIn: ([pon tu link](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/))
+- LinkedIn: https://www.linkedin.com/in/vladimir-acuna-valdebenito-11924a29/
 - Web : https://vladimiracunadev-create.github.io/
 - Gitlab : https://gitlab.com/vladimir.acuna.dev-group
 - Email: vladimir.acuna.dev@gmail.com
