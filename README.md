@@ -1,11 +1,11 @@
-# 👋 Vladimir Acuña — Senior Software Architect / Full-Stack
+# Arquitecto de Software | Full Stack Senior | Modernización de legacy y escalabilidad | PHP 8 · Node/TS · SQL Server · AWS · CI/CD · IA aplicada
 
-Modernizo y construyo sistemas **de producción**: desde **PHP/SQL legacy** hasta arquitectura moderna con **Docker, CI/CD, Cloud (AWS)** y automatización con IA.
+Diseño, construyo y escalo sistemas de producción: arquitectura, APIs, datos y automatización, con enfoque en confiabilidad, performance y entrega continua (Docker, CI/CD, AWS e IA aplicada).
 
-- 🧱 +16 años en desarrollo profesional
-- ⚙️ Especialidad: modernización incremental, performance y mantenibilidad
-- 🚀 Enfoque actual: Cloud + DevOps + repos reproducibles (docker-first) + agentes
-- ✅ Busco: roles Senior (Arquitectura / Full-Stack / DevOps pragmático)
+- 🧱 +16 años construyendo y operando software en entornos reales  
+- ⚙️ Especialidad: performance, mantenibilidad, calidad de entrega y estabilidad  
+- 🚀 Enfoque actual: Cloud + DevOps + repos reproducibles (docker-first) + agentes  
+- ✅ Busco: roles Senior (Arquitectura / Full-Stack / Plataforma / DevOps pragmático)
 
 ---
 
