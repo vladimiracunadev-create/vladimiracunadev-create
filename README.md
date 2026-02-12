@@ -20,7 +20,6 @@ Modernizo y construyo sistemas **de producción**: desde **PHP/SQL legacy** hast
 ---
 
 ## ⭐ Evidencia rápida (Top repos)
-> 6 repos = ideal para reclutadores. 1 línea por repo.
 
 - 🔥 **Cloud Portfolio (AWS + IaC + CI/CD)** — despliegues reproducibles y arquitectura cloud
 - 🧪 **docker-labs** — laboratorios listos para correr y demostrar stack
