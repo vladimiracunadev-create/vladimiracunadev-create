@@ -152,3 +152,13 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - Email: vladimir.acuna.dev@gmail.com
 
 
+
+
+## 📚 Documentación del Proyecto
+
+Como parte de los estándares de este ecosistema, la documentación detallada se divide en:
+- [📘 Guía de Instalación y Despliegue (INSTALL.md)](INSTALL.md)
+- [📜 Historial de Cambios (CHANGELOG.md)](CHANGELOG.md)
+- [🤝 Guía de Contribución (CONTRIBUTING.md)](CONTRIBUTING.md)
+- [🛡️ Política de Seguridad (SECURITY.md)](SECURITY.md)
+- [⚖️ Código de Conducta (CODE_OF_CONDUCT.md)](CODE_OF_CONDUCT.md)
