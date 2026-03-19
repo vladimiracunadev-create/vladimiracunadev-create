@@ -1,12 +1,12 @@
-# Arquitecto de Software | Full Stack Senior | Polyglot Engineer | Modernización y Escalabilidad
-**PHP 8 · Python · Go · Node/TS · C# · Ruby · Rust · AWS · Docker · K8s · CI/CD · Observabilidad · IA aplicada (local-first + agentes)**
+# Arquitecto de Soluciones | Legacy Modernization Architect | Senior Full-Stack · AI Automation Architect
+**PHP 8 · Python · Go · Node/TS · C# · Ruby · Rust · AWS · Terraform · K8s · n8n · LangGraph/MCP · CI/CD · FinOps · Observabilidad · IA aplicada**
 
-Diseño, construyo y escalo sistemas de producción: arquitectura, APIs, datos y automatización, con foco en **confiabilidad, performance, entrega continua** y **operación real**.
+Arquitectura, modernización, automatización e IA aplicada a proyectos reales. Diseño, construyo y opero sistemas de producción con foco en **confiabilidad, performance, entrega continua** y **criterio técnico propio**.
 
 - 🧱 +16 años construyendo y operando software en entornos reales (incluye 14+ años en plataformas web educativas/psicométricas)
 - ⚙️ Especialidad: performance, mantenibilidad, estabilidad, deuda técnica y continuidad operacional
 - 🚀 Enfoque 2026: **Cloud + DevOps + polyglot persistence + repos reproducibles (docker-first) + observabilidad + multiplataforma (PWA/Capacitor) + agentes/IA local**
-- ✅ Busco: roles Senior / Lead donde el perfil híbrido **Arquitectura + Delivery + Operación** sea una ventaja
+- ✅ Busco: roles donde el perfil **Arquitecto + Full-Stack + AI Automation** sea una ventaja real — no un genérico
 
 ---
 
@@ -137,20 +137,47 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 
 ---
 
-## ✅ Roles donde encajo (ampliado, pero atado a evidencia)
-- Arquitecto de Software / Solutions Architect (modernización, escalabilidad, delivery)
-- Full-Stack Senior / Tech Lead (arquitectura + ejecución + estándares)
-- Modernization Architect (legacy real: PHP 5.x→8.x, SQL, refactor incremental)
-- Platform Engineer / IDP (plantillas, pipelines, entornos reproducibles, DX)
-- SRE orientado a aplicaciones (observabilidad, performance, resiliencia, incident response)
-- DevOps pragmático (CI/CD, costos, guardrails, despliegues en AWS)
-- Automation Engineer (n8n/workflows, integración multi-sistema, polyglot)
-- Solutions Engineer / Pre-Sales técnico (PoCs, demos verificables, puente TI–negocio)
+## ✅ Alcance profesional real (3 capas, atado a evidencia)
+
+### 🎯 Identidad principal
+- **Arquitecto de Soluciones / Solutions Architect** — diseño de sistemas modulares, escalables y con criterio evolutivo
+- **Legacy Modernization Architect** — experiencia real en evolución de legacy (PHP 5.x→8.x, SQL, refactor incremental sin cortar operación)
+- **Senior Full-Stack Developer / Tech Lead** — arquitectura + ejecución + estándares en plataformas reales (14+ años)
+- **AI Automation Architect** — sistemas agénticos con LangGraph/MCP, flujos n8n con guardrails, IA aplicada con validación humana
+
+### ↗ Expansión natural — cargos asumibles con fuerza
+- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph, FastAPI, MCP)
+- **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia
+- **Solutions Engineer** — demos y PoCs verificables, comunicación técnico-negocio, requisitos y arquitectura orientada a cliente
+- **Technical Product Builder** — construcción end-to-end: arquitectura, desarrollo, operación y entrega con criterio de producto
+- **Consultor de Transformación Digital** — diagnóstico, plan evolutivo y ejecución de modernización en organizaciones con legacy real
+- **Product Operations Técnico** — continuidad y evolución de plataformas con observabilidad, reducción de fricción y mejora continua
+
+### ⚙️ Alcance complementario (respaldado por experiencia directa)
+- Platform Engineer / IDP · DevOps / CI-CD Engineer · Cloud / AWS Engineer
+- SRE orientado a aplicaciones · Automation Engineer · Relator Técnico / Technical Trainer
+- Consultor Técnico-Comercial (puente TI–negocio)
+
+> *Perfil híbrido verificable: Arquitectura + Delivery + Operación + IA aplicada. No es un listado de aspiraciones — cada punto tiene evidencia en este GitHub.*
+
+---
+
+## 🤖 Flujo de desarrollo asistido por IA (en uso activo)
+
+| Herramienta | Uso principal |
+|---|---|
+| **Claude Code** | Revisión arquitectónica, implementación y documentación técnica |
+| **ChatGPT Plus** | Análisis, arquitectura, iteración y documentación (desde 2023) |
+| **Codex** | Generación y refactorización de código |
+| **Antigravity** | Aceleración de flujos de desarrollo y automatización |
+| **VS Code / OpenCode** | Entornos de desarrollo con asistencia IA integrada |
+
+> *Combino criterio técnico propio, validación humana y dirección arquitectónica. La IA amplifica capacidad, velocidad y alcance — no reemplaza experiencia.*
 
 ---
 
 ## 📌 Disponibilidad
-**Abierto a**: Senior Full-Stack / Arquitectura / Modernización de legado / Platform-IDP / SRE apps / DevOps pragmático / Automatización
+**Abierto a**: Senior Full-Stack / Arquitectura / Modernización de legado / Platform-IDP / SRE apps / DevOps pragmático / Automatización / AI Automation
 **Modalidad**: Remoto / Híbrido (según proyecto)
 
 ---
