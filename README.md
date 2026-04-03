@@ -97,6 +97,14 @@ Este perfil está construido como un portafolio verificable:
 **Web:** https://vladimiracunadev-create.github.io/
 **Qué demuestra:** Portafolio profesional en 6 idiomas (ES/EN/PT/IT/FR/ZH), 30+ PDFs generados por pipeline Python, PWA instalable, guías de build móvil/desktop.
 
+### ⚡ Unikernel Labs · Control Center
+**Repo:** https://github.com/vladimiracunadev-create/unikernel-labs
+**Qué demuestra:** Suite profesional para operar servicios Unikraft en Windows con backend WSL2. Control total vía Dashboard Node.js y Launcher WinForms en localhost. Arquitectura de alto rendimiento y orquestación unikernel.
+
+### 🍎 ChofyAI Studio · macOS Local AI Launcher
+**Repo:** https://github.com/vladimiracunadev-create/chofyai-studio
+**Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon que centraliza e instala herramientas de IA local (Qwen3-TTS, whisper.cpp, FaceFusion, AceForge). Construido con Tauri, Rust y React — IA local con privacidad total.
+
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
