@@ -1,6 +1,10 @@
 # Arquitecto de Soluciones | Legacy Modernization Architect | Senior Full-Stack · AI Automation Architect
 **PHP 8 · Python · Go · Node/TS · C# · Ruby · Rust · AWS · Terraform · K8s · n8n · LangGraph/MCP · CI/CD · FinOps · Observabilidad · IA aplicada**
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_en_vivo-vladimiracunadev--create.github.io-0366d6?style=for-the-badge)](https://vladimiracunadev-create.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-vladimiracunadev--create-24292f?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Acuña-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/)
+
 Arquitectura, modernización, automatización e IA aplicada a proyectos reales. Diseño, construyo y opero sistemas de producción con foco en **confiabilidad, performance, entrega continua** y **criterio técnico propio**.
 
 - 🧱 +16 años construyendo y operando software en entornos reales (incluye 14+ años en plataformas web educativas/psicométricas)
@@ -86,7 +90,7 @@ Este perfil está construido como un portafolio verificable:
 
 ### 🤖 LangGraph RealWorld (25 casos: agentes con estado tipado + resiliencia)
 **Repo:** https://github.com/vladimiracunadev-create/langgraph-realworld
-**Qué demuestra:** Portal unificado con 4 casos operativos (soporte omnicanal, HR screening, onboarding, BI SQL/charting), contratos de estado tipado (TypedDict), modo dual offline/live, health/readiness endpoints, CI por casos.
+**Qué demuestra:** 25 casos empresariales con 8 backends operativos: soporte omnicanal, HR screening + calendario (Case 09), onboarding, BI SQL/charting. Estado tipado (TypedDict), modo dual offline/live, OAuth, health/readiness endpoints, CI por caso.
 
 ### 🧠 MCP + Ollama Local (IA local: FastAPI + tools MCP seguras + SQLite + K8s)
 **Repo:** https://github.com/vladimiracunadev-create/mcp-ollama-local
@@ -106,13 +110,14 @@ Este perfil está construido como un portafolio verificable:
 **Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon que centraliza e instala herramientas de IA local (Qwen3-TTS, whisper.cpp, FaceFusion, AceForge). Construido con Tauri, Rust y React — IA local con privacidad total.
 
 
-### Problem Driven Systems Lab
+### 🐳 Problem Driven Systems Lab (Docker-first · 12 casos · Sistemas Distribuidos)
 **Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
-**Que demuestra:** Laboratorio de sistemas distribuidos con 12 casos reales Docker-first para diagnosticar y resolver problemas de rendimiento, observabilidad, resiliencia y arquitectura.
+**Qué demuestra:** 12 casos reales de sistemas distribuidos Docker-first: diagnóstico de rendimiento, observabilidad (Prometheus/Grafana), resiliencia y arquitectura. Cada caso es autocontenido, reproducible y con quickstart documentado.
 
-### Python Data Science Bootcamp
+### 📊 Python Data Science Bootcamp (Docencia · Notebooks · Data Science)
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
-**Que demuestra:** Bootcamp de Python para Data Science: clases, notebooks, datasets y entorno interactivo local. Material docente para principiantes y transicion profesional.
+**Qué demuestra:** Material docente para bootcamp de Python y Data Science: notebooks interactivos, datasets reales y entorno local configurable. Diseñado para principiantes y transición profesional hacia análisis de datos.
+
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
