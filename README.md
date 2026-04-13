@@ -105,6 +105,14 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/chofyai-studio
 **Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon que centraliza e instala herramientas de IA local (Qwen3-TTS, whisper.cpp, FaceFusion, AceForge). Construido con Tauri, Rust y React — IA local con privacidad total.
 
+
+### Problem Driven Systems Lab
+**Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
+**Que demuestra:** Laboratorio de sistemas distribuidos con 12 casos reales Docker-first para diagnosticar y resolver problemas de rendimiento, observabilidad, resiliencia y arquitectura.
+
+### Python Data Science Bootcamp
+**Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
+**Que demuestra:** Bootcamp de Python para Data Science: clases, notebooks, datasets y entorno interactivo local. Material docente para principiantes y transicion profesional.
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
