@@ -49,8 +49,8 @@ Este perfil está construido como un portafolio verificable:
 
 ### 4) Cloud delivery profesional (no tutorial)
 - Flujo `dev → PR → main` y despliegues reales con GitHub Actions / Amplify.
-- **15 casos AWS — 14 completados, 1 pendiente (Caso M · Resiliencia/Failover)** documentados en [GitLab monorepo](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab).
-- Cobertura ~68% SAA-C03 · ~68% DVA-C02 · ~50% SOA-C02 (incluye Caso I · Bedrock + Claude Haiku 4.5 + Lambda + xray-sdk y Caso O · X-Ray distribuido).
+- Casos AWS reales con despliegue, IaC y CI/CD — incluyen Bedrock + Claude Haiku 4.5 + Lambda + xray-sdk y trazas distribuidas con X-Ray.
+- Cobertura activa de objetivos SAA-C03 · DVA-C02 · SOA-C02 a partir del laboratorio público.
 - Tooling cloud: AWS CLI + Terraform + SAM + validaciones y checklist.
 - Seguridad y gobernanza como parte del pipeline (no post-it).
 
@@ -82,8 +82,7 @@ Este perfil está construido como un portafolio verificable:
 
 ### 🔥 Cloud Portfolio (AWS + CI/CD + seguridad + flujo profesional)
 **Repo:** https://github.com/vladimiracunadev-create/proyectos-aws
-**Mirror público (monorepo):** https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab
-**Qué demuestra:** 14 casos AWS cerrados (de 15) con deploy real + estándar profesional + security mindset + docs por perfil (reclutador/devops/seguridad). Cobertura activa SAA-C03 · DVA-C02 · SOA-C02.
+**Qué demuestra:** Casos AWS con deploy real + estándar profesional + security mindset + docs por perfil (reclutador/devops/seguridad). Cobertura activa SAA-C03 · DVA-C02 · SOA-C02. Incluye Bedrock + Claude Haiku 4.5 + Lambda y trazas distribuidas con X-Ray.
 
 ### 📆 Social Bot Scheduler v4.x (n8n + Polyglot Persistence + Observabilidad + Guardrails)
 **Repo:** https://github.com/vladimiracunadev-create/social-bot-scheduler
@@ -245,7 +244,6 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/
 - Web: https://vladimiracunadev-create.github.io/
-- GitLab: https://gitlab.com/vladimir.acuna.dev-group/vladimir.acuna.dev-group
 - Email: vladimir.acuna.dev@gmail.com
 
 ---
