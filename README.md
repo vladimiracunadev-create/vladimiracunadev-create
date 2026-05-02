@@ -31,11 +31,13 @@ Este perfil está construido como un portafolio verificable:
 ### 1) Observabilidad que se siente "de producción"
 - Stack Prometheus/Grafana + métricas accionables (salud del flujo, fallos, estrés interno).
 - Dashboards pensados para eliminar la "caja negra" típica de integraciones.
+- Endpoints estándar `/health`, `/ready`, `/metrics` por servicio + logging JSON estructurado.
 - Ruta completa: *desde el workflow* → *métrica* → *dashboard* → *decisión*.
 
 ### 2) Resiliencia (guardrails) implementada, no solo hablada
 - **Idempotencia** para evitar duplicados y spam.
 - **Circuit breaker** + desvío controlado a DLQ cuando un proveedor se degrada.
+- Patrones `Adapter`, `Strangler` y `Circuit Breaker` aplicados a cuellos de botella reales.
 - Troubleshooting orientado a "qué revisar primero" (n8n executions, logs, tablas de control).
 
 ### 3) Reproducibilidad y DX (Developer Experience) como diseño
@@ -47,7 +49,8 @@ Este perfil está construido como un portafolio verificable:
 
 ### 4) Cloud delivery profesional (no tutorial)
 - Flujo `dev → PR → main` y despliegues reales con GitHub Actions / Amplify.
-- **15 casos AWS** documentados en [GitLab monorepo](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab) (11 completados, 4 proyectados).
+- **15 casos AWS — 14 completados, 1 pendiente (Caso M · Resiliencia/Failover)** documentados en [GitLab monorepo](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab).
+- Cobertura ~68% SAA-C03 · ~68% DVA-C02 · ~50% SOA-C02 (incluye Caso I · Bedrock + Claude Haiku 4.5 + Lambda + xray-sdk y Caso O · X-Ray distribuido).
 - Tooling cloud: AWS CLI + Terraform + SAM + validaciones y checklist.
 - Seguridad y gobernanza como parte del pipeline (no post-it).
 
@@ -57,14 +60,20 @@ Este perfil está construido como un portafolio verificable:
 - Guías profundas para build móvil (APK/IPA), troubleshooting y arquitectura.
 
 ### 6) IA aplicada con mentalidad de ingeniería
-- Portal unificado con **4 casos operativos**: soporte omnicanal, screening RR.HH., onboarding, BI con SQL/charting.
-- Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, y modo dual (offline demo + live).
+- Portal unificado con **10 backends operativos** sobre LangGraph + FastAPI: soporte omnicanal, screening RR.HH., onboarding, BI con SQL/charting y más (casos 01, 02, 03, 04, 05, 09, 10, 13, 19, 25).
+- Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, OAuth2/OIDC opt-in y modo dual (offline demo + live).
 - IA local para privacidad: chat local + tools MCP seguras + persistencia en SQLite + K8s ready.
+- Workspace local-first (Trihorn Chat) para orquestación modular de LLMs sin nube obligatoria.
 
 ### 7) Polyglot persistence y multi-lenguaje
 - Matriz de **9 ejes de integración**: Python, Go, Node.js, PHP, Ruby, Rust, C#, Flask, Symfony.
 - **12+ motores de datos**: MySQL, MariaDB, PostgreSQL, SQL Server, MongoDB, Cassandra, Redis, SQLite, DuckDB + más.
 - Interoperabilidad real demostrada con métricas de cada combinación lenguaje×DB.
+
+### 8) Seguridad como pipeline (defense-in-depth, no checklist)
+- Auditoría estándar de 8 capas: non-root containers, binding `127.0.0.1`, HTTP security headers, `grype --fail-build`, Trojan Source, nginx + TLS, `detect-secrets`, `pip-compile` + Dependabot.
+- Hardening transversal: TruffleHog + Trivy + Bandit + pip-audit + Gitleaks + markdownlint según stack.
+- SBOM generado en cada release · K8s NetworkPolicy + runtime isolation donde aplica.
 
 ---
 
@@ -73,50 +82,73 @@ Este perfil está construido como un portafolio verificable:
 
 ### 🔥 Cloud Portfolio (AWS + CI/CD + seguridad + flujo profesional)
 **Repo:** https://github.com/vladimiracunadev-create/proyectos-aws
-**Qué demuestra:** Deploy real + estándar profesional + security mindset + docs por perfil (reclutador/devops/seguridad).
-**Demos públicas:** (ver README del repo)
+**Mirror público (monorepo):** https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab
+**Qué demuestra:** 14 casos AWS cerrados (de 15) con deploy real + estándar profesional + security mindset + docs por perfil (reclutador/devops/seguridad). Cobertura activa SAA-C03 · DVA-C02 · SOA-C02.
 
 ### 📆 Social Bot Scheduler v4.x (n8n + Polyglot Persistence + Observabilidad + Guardrails)
 **Repo:** https://github.com/vladimiracunadev-create/social-bot-scheduler
-**Qué demuestra:** Orquestación real con 9 ejes de integración (Python/Go/Node/PHP/Ruby/Rust/C#/Flask/Symfony), polyglot persistence (12+ DBs), observabilidad industrial (Prometheus/Grafana), idempotencia/circuit breaker, seguridad (Trivy/Gitleaks/K8s NetworkPolicy).
+**Qué demuestra:** Orquestación real con 9 ejes de integración (Python/Go/Node/PHP/Ruby/Rust/C#/Flask/Symfony), polyglot persistence (12+ DBs), observabilidad industrial (Prometheus/Grafana), idempotencia/circuit breaker, seguridad (Trivy/Gitleaks/K8s NetworkPolicy + runtime isolation).
 
-### 🧪 Docker Labs v1.4 (infra y stacks "levanta en 60s" + K8s ready)
+### 🧪 Docker Labs v1.5.0 (infra y stacks "levanta en 60s" + K8s ready)
 **Repo:** https://github.com/vladimiracunadev-create/docker-labs
 **Qué demuestra:** 12 labs integrados con centro de control unificado (port 9090), Inventory Core API, Operations Portal, Platform Gateway. Launcher nativo en Go, instalador Windows automatizado, ruta de observabilidad (Prometheus/Grafana), manifiestos K8s.
 
 ### 🧰 Microsistemas (Developer Productivity Suite: 11 herramientas + MCP server)
 **Repo:** https://github.com/vladimiracunadev-create/microsistemas
-**Qué demuestra:** 11 herramientas modulares incluyendo KatasMultiLang (195 comparaciones / 67 tecnologías), CicdLibrary (192 patrones CI/CD), AWS Assistant Pro, servidor MCP Python para integración con IA. Hub CLI con diagnóstico y smoke testing.
+**Qué demuestra:** 11 herramientas modulares incluyendo KatasMultiLang (195 comparaciones / 67 tecnologías), CicdLibrary (192 patrones CI/CD), AWS Assistant Pro, servidor MCP Python para integración con IA. Hardening en 3 fases (TruffleHog + Trivy + Dependabot + markdownlint) y SBOM en cada release. Hub CLI con diagnóstico y smoke testing.
 
-### 🤖 LangGraph RealWorld (25 casos: agentes con estado tipado + resiliencia)
+### 🤖 LangGraph RealWorld v4.2.0 (25 casos · 10 backends operativos)
 **Repo:** https://github.com/vladimiracunadev-create/langgraph-realworld
-**Qué demuestra:** 25 casos empresariales con 8 backends operativos: soporte omnicanal, HR screening + calendario (Case 09), onboarding, BI SQL/charting. Estado tipado (TypedDict), modo dual offline/live, OAuth, health/readiness endpoints, CI por caso.
+**Qué demuestra:** 25 casos empresariales con **10 backends operativos** (01, 02, 03, 04, 05, 09, 10, 13, 19, 25): soporte omnicanal, HR screening + calendario, onboarding, BI SQL/charting. Estado tipado (TypedDict), modo dual offline/live, OAuth2/OIDC opt-in, LangSmith opt-in, `/health`/`/ready`/`/metrics`, reverse proxy nginx + TLS, CI por caso. Auditoría de 8 capas de seguridad.
 
 ### 🧠 MCP + Ollama Local (IA local: FastAPI + tools MCP seguras + SQLite + K8s)
 **Repo:** https://github.com/vladimiracunadev-create/mcp-ollama-local
-**Qué demuestra:** IA aplicada con privacidad y arquitectura clara: persistencia, tools sandbox, tests, k8s.
+**Qué demuestra:** IA aplicada con privacidad y arquitectura clara: persistencia SQLite, tools sandbox, tests, manifiestos k8s. Security & Trust Profile activo (Bandit + pip-audit + secret scanning).
+
+### 🤖 Trihorn Chat v0.10.1 (Industrial AI Orchestrator · local-first)
+**Repo:** https://github.com/vladimiracunadev-create/trihorn-chat
+**Qué demuestra:** Workspace técnico modular para orquestación de LLMs, gestión de conocimiento y automatización de tareas de ingeniería. Corre 100% en `localhost`, sin nube obligatoria. CI backend + frontend, Security Scan, Dependabot, manuales separados (usuario / técnico), auto-compactación y UI minimalista.
+
+### 🔩 FerreMarket (POS Cloud + Marketplace · Node 20 · PostgreSQL · Redis · BullMQ)
+**Repo:** https://github.com/vladimiracunadev-create/ferremarket
+**Qué demuestra:** Sistema POS cloud + marketplace para ferreterías con punto de venta físico, inventario unificado y e-commerce integrado. Node 20 · Express 4.22 · PostgreSQL 16 · Redis 7.2 · BullMQ · JWT · Docker Compose · OpenTelemetry. CI + Security Scan + Health Check como workflows separados.
+
+### 🤖 Flujo Autónomo (Orquestador local Windows · JSON declarativo · Playwright · SQLite)
+**Repo:** https://github.com/vladimiracunadev-create/flujo-autonomo-repo
+**Qué demuestra:** Control local de tareas y acciones efectivas sobre Windows: abre ventanas reales, llena formularios, captura escritorio y DOM, audita el equipo. Flujos declarativos en JSON · scheduler · OCR/visión · UI dry-run · Python 3.10+ con `uv` · 79 tests pytest · CI + Security + Workflow security.
+
+### 🗄️ GabySQL (Base de datos embebida en Rust · multiplataforma · single-file `.db` + WAL)
+**Repo:** https://github.com/vladimiracunadev-create/gabysql
+**Qué demuestra:** Motor de base de datos embebido escrito en Rust pensado como producto base serio: storage claro, formato en disco entendible, durabilidad por WAL y CI multi-OS (Windows/Linux/macOS). Superficie SQL `CREATE`/`INSERT`/`SELECT`/`WHERE PK`/`LIMIT/OFFSET`, API HTTP/JSON y admin web liviano.
 
 ### 🌐 Web/Portafolio (PWA + 6 idiomas + Capacitor + documentación profunda)
 **Repo:** https://github.com/vladimiracunadev-create/vladimiracunadev-create.github.io
 **Web:** https://vladimiracunadev-create.github.io/
-**Qué demuestra:** Portafolio profesional en 6 idiomas (ES/EN/PT/IT/FR/ZH), 30+ PDFs generados por pipeline Python, PWA instalable, guías de build móvil/desktop.
+**Qué demuestra:** Portafolio profesional en 6 idiomas (ES/EN/PT/IT/FR/ZH), 30+ PDFs generados por pipeline Python, PWA instalable, CV Data API JSON estática, guías de build móvil/desktop.
 
 ### ⚡ Unikernel Labs · Control Center
 **Repo:** https://github.com/vladimiracunadev-create/unikernel-labs
 **Qué demuestra:** Suite profesional para operar servicios Unikraft en Windows con backend WSL2. Control total vía Dashboard Node.js y Launcher WinForms en localhost. Arquitectura de alto rendimiento y orquestación unikernel.
 
-### 🍎 ChofyAI Studio · macOS Local AI Launcher
+### 🍎 ChofyAI Studio · macOS Local AI Launcher (Fase 4)
 **Repo:** https://github.com/vladimiracunadev-create/chofyai-studio
-**Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon que centraliza e instala herramientas de IA local (Qwen3-TTS, whisper.cpp, FaceFusion, AceForge). Construido con Tauri, Rust y React — IA local con privacidad total.
+**Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon que centraliza e instala herramientas de IA local (Qwen3-TTS, whisper.cpp, FaceFusion, AceForge). Tauri + Rust + React. Fase 4: disco dual, zona de módulos, stats, empaquetado ad-hoc, soporte `uv`.
 
-
-### 🐳 Problem Driven Systems Lab (Docker-first · 12 casos · Sistemas Distribuidos)
+### 🐳 Problem-Driven Systems Lab (Docker-first · 12 casos · UI integrada)
 **Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
-**Qué demuestra:** 12 casos reales de sistemas distribuidos Docker-first: diagnóstico de rendimiento, observabilidad (Prometheus/Grafana), resiliencia y arquitectura. Cada caso es autocontenido, reproducible y con quickstart documentado.
+**Qué demuestra:** 12 casos reales de sistemas distribuidos Docker-first con **UI nativa integrada** (no solo "API JSON ciega"). Patrones profesionales (Adapter, Strangler, Circuit Breaker) sobre cuellos de botella reales en runtime PHP, con scaffolds en Node.js, Python, Java y .NET. Observabilidad Prometheus :9091 + Grafana :3001. Catálogo en `shared/catalog/cases.json`.
 
-### 📊 Python Data Science Bootcamp (Docencia · Notebooks · Data Science)
+### 📊 Python Data Science Bootcamp (Docencia · Notebooks · App Desktop · Android Expo)
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
-**Qué demuestra:** Material docente para bootcamp de Python y Data Science: notebooks interactivos, datasets reales y entorno local configurable. Diseñado para principiantes y transición profesional hacia análisis de datos.
+**Qué demuestra:** Bootcamp con 31 clases · notebooks interactivos · datasets reales · App Desktop Windows (Edge WebView2) · App Android (Expo) · PDFs generados. Diseñado para principiantes y transición profesional hacia análisis de datos.
+
+### 🏛️ Portales operativos (PHP modular · Docker · GitHub Actions)
+Cuatro portales verticales construidos como referencia de modernización legacy y verticalización de dominio:
+
+- **[portal-empresarial](https://github.com/vladimiracunadev-create/portal-empresarial)** — Gestión completa para crear una empresa: plan de negocio, constitución legal, finanzas, equipo, pipeline de clientes e hitos.
+- **[portal-bienestar](https://github.com/vladimiracunadev-create/portal-bienestar)** — Portal de empleabilidad para CV, documentos laborales, redes profesionales y bolsas de trabajo. PHP · MariaDB · Docker · GitHub Actions.
+- **[portal-educativo](https://github.com/vladimiracunadev-create/portal-educativo)** — Software educativo para el aula chilena: evaluaciones, libro de notas, planificaciones MINEDUC y módulo psicoeducativo.
+- **[portal-tecnologia](https://github.com/vladimiracunadev-create/portal-tecnologia)** — Plataforma vertical de tecnología.
 
 ---
 
@@ -144,6 +176,13 @@ cd mcp-ollama-local
 # Sigue README (FastAPI + Ollama + SQLite + tools MCP)
 ```
 
+### Ruta D — Agentes industriales con estado tipado
+```bash
+git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
+cd langgraph-realworld
+# Cualquiera de los 10 backends operativos: 01, 02, 03, 04, 05, 09, 10, 13, 19, 25
+```
+
 ---
 
 ## 🧠 Aprendizajes convertidos en "estándar de repos"
@@ -151,7 +190,7 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 
 - **DX primero**: si no se ejecuta fácil, no sirve como demo ni como base de equipo.
 - **Observabilidad no es opcional**: métricas y trazabilidad desde el día 1.
-- **Seguridad como pipeline**: secret scanning, checklist, prácticas prohibidas (killed).
+- **Seguridad como pipeline**: secret scanning, checklist, prácticas prohibidas (killed), SBOM por release.
 - **Resiliencia**: idempotencia + circuit breaker + "degradación controlada".
 - **Polyglot por diseño**: lenguajes y bases de datos elegidos por caso de uso, no por moda.
 - **Docs por audiencia**: reclutador / devops / seguridad / estudiante (cuando aplica).
@@ -209,8 +248,7 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - GitLab: https://gitlab.com/vladimir.acuna.dev-group/vladimir.acuna.dev-group
 - Email: vladimir.acuna.dev@gmail.com
 
-
-
+---
 
 ## 📚 Documentación del Proyecto
 
@@ -220,3 +258,7 @@ Como parte de los estándares de este ecosistema, la documentación detallada se
 - [🤝 Guía de Contribución (CONTRIBUTING.md)](CONTRIBUTING.md)
 - [🛡️ Política de Seguridad (SECURITY.md)](SECURITY.md)
 - [⚖️ Código de Conducta (CODE_OF_CONDUCT.md)](CODE_OF_CONDUCT.md)
+
+---
+
+<sub>Última actualización: 2026-05-02</sub>
