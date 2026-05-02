@@ -9,7 +9,7 @@ Arquitectura, modernización, automatización e IA aplicada a proyectos reales. 
 
 - 🧱 +16 años construyendo y operando software en entornos reales (incluye 14+ años en plataformas web educativas/psicométricas)
 - ⚙️ Especialidad: performance, mantenibilidad, estabilidad, deuda técnica y continuidad operacional
-- 🚀 Enfoque 2026: **Cloud + DevOps + polyglot persistence + repos reproducibles (docker-first) + observabilidad + multiplataforma (PWA/Capacitor) + agentes/IA local**
+- 🚀 Enfoque 2026: **Cloud + DevOps + polyglot persistence + repos reproducibles (docker-first) + observabilidad + multiplataforma (PWA/Capacitor) + agentes/IA local + auditoría 8 capas como estándar + trust profile multi-capa (CodeQL · Semgrep · SBOM CycloneDX · Scorecard) + distribución como producto (instaladores `.exe` automatizados)**
 - ✅ Busco: roles donde el perfil **Arquitecto + Full-Stack + AI Automation** sea una ventaja real — no un genérico
 
 ---
@@ -24,6 +24,9 @@ Este perfil está construido como un portafolio verificable:
 - **Documentación profunda** (reclutador / novato / devops / seguridad, según repo)
 - **Multiplataforma** (web → PWA → móvil/desktop via Capacitor, cuando aplica)
 - **Internacionalización** (portafolio disponible en 6 idiomas: ES, EN, PT, IT, FR, ZH)
+- **Honestidad técnica explícita** — distinción visible entre `OPERATIVO`, `DOCUMENTADO/SCAFFOLD` y `PLANIFICADO` (problem-driven-systems-lab y langgraph-realworld lo declaran tabularmente)
+- **MCP local read-only** — bridge para Claude Desktop integrado tanto en `microsistemas` como en `mcp-ollama-local` (IA con contexto de repo, sin enviar datos a la nube)
+- **Distribución como producto** — instaladores `.exe` para Windows con build y firma automatizados (docker-labs, unikernel-labs)
 
 ---
 
@@ -170,6 +173,9 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - **Resiliencia**: idempotencia + circuit breaker + "degradación controlada".
 - **Polyglot por diseño**: lenguajes y bases de datos elegidos por caso de uso, no por moda.
 - **Docs por audiencia**: reclutador / devops / seguridad / estudiante (cuando aplica).
+- **Honestidad sobre el estado del producto**: cada caso se etiqueta `OPERATIVO`, `DOCUMENTADO/SCAFFOLD` o `PLANIFICADO`. No hay maquillaje — el lector sabe qué levanta y qué todavía no.
+- **Trust profile, no "security marketing"**: los badges son señales, no la evidencia. Cada repo declara explícitamente sus *límites* (lo que NO hace) además de sus controles. Modelo aplicado en mcp-ollama-local con doc dedicado.
+- **Producto > repo**: cuando aplica, el repo entrega un instalador, un launcher con browser auto-open y un workflow de build automatizado — no un README con `docker compose up` y nada más (docker-labs, unikernel-labs).
 
 ---
 
@@ -182,16 +188,17 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - **AI Automation Architect** — sistemas agénticos con LangGraph/MCP, flujos n8n con guardrails, IA aplicada con validación humana
 
 ### ↗ Expansión natural — cargos asumibles con fuerza
-- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph, FastAPI, MCP)
-- **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia
+- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph v4.2.0 · **10 backends operativos** · 8 capas de seguridad · OAuth2/OIDC + LangSmith opt-in)
+- **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia (social-bot-scheduler v4.2 · 9 casos de integración · Caddy edge proxy + TLS)
 - **Solutions Engineer** — demos y PoCs verificables, comunicación técnico-negocio, requisitos y arquitectura orientada a cliente
-- **Technical Product Builder** — construcción end-to-end: arquitectura, desarrollo, operación y entrega con criterio de producto
+- **Technical Product Builder** — construcción end-to-end: arquitectura, desarrollo, operación y entrega con criterio de producto (incluye instaladores Windows `.exe` automatizados — docker-labs, unikernel-labs)
+- **Technical Trainer / Educador técnico** — **python-data-science-bootcamp v1.1.0** con 31 clases · App Desktop Windows (Edge WebView2) · App Android (Expo) · PDFs generados desde el material docente
 - **Consultor de Transformación Digital** — diagnóstico, plan evolutivo y ejecución de modernización en organizaciones con legacy real
 - **Product Operations Técnico** — continuidad y evolución de plataformas con observabilidad, reducción de fricción y mejora continua
 
 ### ⚙️ Alcance complementario (respaldado por experiencia directa)
 - Platform Engineer / IDP · DevOps / CI-CD Engineer · Cloud / AWS Engineer
-- SRE orientado a aplicaciones · Automation Engineer · Relator Técnico / Technical Trainer
+- SRE orientado a aplicaciones · Automation Engineer
 - Consultor Técnico-Comercial (puente TI–negocio)
 
 > *Perfil híbrido verificable: Arquitectura + Delivery + Operación + IA aplicada. No es un listado de aspiraciones — cada punto tiene evidencia en este GitHub.*
