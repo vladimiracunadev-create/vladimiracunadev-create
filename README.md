@@ -48,11 +48,11 @@ Este perfil está construido como un portafolio verificable:
 - Estructuras repetibles: docs, roadmap, security, changelog, contribución.
 
 ### 4) Cloud delivery profesional (no tutorial)
-- Flujo `dev → PR → main` y despliegues reales con GitHub Actions / Amplify.
-- Casos AWS reales con despliegue, IaC y CI/CD — incluyen Bedrock + Claude Haiku 4.5 + Lambda + xray-sdk y trazas distribuidas con X-Ray.
-- Cobertura activa de objetivos SAA-C03 · DVA-C02 · SOA-C02 a partir del laboratorio público.
-- Tooling cloud: AWS CLI + Terraform + SAM + validaciones y checklist.
-- Seguridad y gobernanza como parte del pipeline (no post-it).
+- Flujo `dev → PR → main` con despliegues reales: AWS Amplify (multi-branch) y GitHub Actions deploy a S3 con OIDC.
+- **Journey GitHub Actions × AWS**: cada caso introduce un servicio AWS nuevo y una capacidad de Actions que no existía antes (paths filter, OIDC federation, environments + approvals, matrix strategy, reusable workflows, GHCR, cron, multi-region, GitOps).
+- Cobertura activa de objetivos **SAA-C03 · DVA-C02 · SOA-C02** mapeada caso a caso.
+- Tooling: AWS CLI · Terraform · SAM · TruffleHog · detect-secrets · wiki sync.
+- Seguridad y gobernanza como parte del pipeline (no post-it): OIDC sin credenciales largas, secret scanning, environments con aprobaciones.
 
 ### 5) Multiplataforma real (web + PWA + móvil/desktop)
 - El portafolio está diseñado como **PWA instalable** y **Android/iOS ready** vía Capacitor.
@@ -60,15 +60,15 @@ Este perfil está construido como un portafolio verificable:
 - Guías profundas para build móvil (APK/IPA), troubleshooting y arquitectura.
 
 ### 6) IA aplicada con mentalidad de ingeniería
-- Portal unificado con **10 backends operativos** sobre LangGraph + FastAPI: soporte omnicanal, screening RR.HH., onboarding, BI con SQL/charting y más (casos 01, 02, 03, 04, 05, 09, 10, 13, 19, 25).
-- Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, OAuth2/OIDC opt-in y modo dual (offline demo + live).
-- IA local para privacidad: chat local + tools MCP seguras + persistencia en SQLite + K8s ready.
-- IA local con privacidad completa: chat local + tools MCP seguras corriendo 100% en `localhost`, sin nube obligatoria.
+- **10 backends operativos** sobre LangGraph + FastAPI (casos 01, 02, 03, 04, 05, 09, 10, 13, 19, 25): soporte omnicanal, screening RR.HH. + calendario, onboarding, BI con SQL/charting, analista de documentos.
+- Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, OAuth2/OIDC opt-in, LangSmith opt-in y modo dual (DEMO offline / LIVE).
+- IA local con privacidad completa: chat web local (FastAPI + Ollama) + tools MCP en sandbox `data/sandbox` + persistencia SQLite, bind `127.0.0.1`, sin nube obligatoria.
+- Servidor MCP de solo lectura para Claude Desktop integrado en la suite de microsistemas (read-only knowledge bridge).
 
 ### 7) Polyglot persistence y multi-lenguaje
-- Matriz de **9 ejes de integración**: Python, Go, Node.js, PHP, Ruby, Rust, C#, Flask, Symfony.
-- **12+ motores de datos**: MySQL, MariaDB, PostgreSQL, SQL Server, MongoDB, Cassandra, Redis, SQLite, DuckDB + más.
-- Interoperabilidad real demostrada con métricas de cada combinación lenguaje×DB.
+- **9 casos de integración real** con stacks completos emisor → puente n8n → receptor → DB: Python↔PHP/MySQL, Python↔Go/MariaDB, Go↔Node/PostgreSQL, Node↔FastAPI/SQLite, Laravel↔React/MongoDB, Go↔Symfony/Redis, Rust↔Ruby/Cassandra, .NET↔Flask/SQL Server, Python↔FastAPI/DuckDB.
+- **20+ contenedores** orquestados con **11 patrones arquitectónicos**: microservicios, event-driven, mediador, idempotencia, circuit breaker, DLQ, persistencia políglota, observabilidad opt-in, supply-chain hardening, edge proxy con TLS, runtime isolation.
+- Interoperabilidad real demostrada con métricas de cada combinación lenguaje × DB.
 
 ### 8) Seguridad como pipeline (defense-in-depth, no checklist)
 - Auditoría estándar de 8 capas: non-root containers, binding `127.0.0.1`, HTTP security headers, `grype --fail-build`, Trojan Source, nginx + TLS, `detect-secrets`, `pip-compile` + Dependabot.
@@ -80,50 +80,51 @@ Este perfil está construido como un portafolio verificable:
 ## ⭐ Evidencia rápida (repos clave del ecosistema)
 > La idea no es "mirar código": es **ver cómo pienso**, cómo documento y cómo hago que todo sea ejecutable.
 
-### 🔥 Cloud Portfolio (AWS + CI/CD + seguridad + flujo profesional)
+### 🔥 Cloud Portfolio · GitHub Actions Journey × AWS
 **Repo:** https://github.com/vladimiracunadev-create/proyectos-aws
-**Qué demuestra:** Casos AWS con deploy real + estándar profesional + security mindset + docs por perfil (reclutador/devops/seguridad). Cobertura activa SAA-C03 · DVA-C02 · SOA-C02. Incluye Bedrock + Claude Haiku 4.5 + Lambda y trazas distribuidas con X-Ray.
+**Qué demuestra:** **11 casos progresivos** donde cada uno introduce un servicio AWS nuevo *y* una capacidad de GitHub Actions que no existía antes. Fase 1 operativa con demos vivas — caso 01 (Amplify multi-branch: [main](https://main.d3r1wuymolxagh.amplifyapp.com/) · [dev](https://dev.d20m8tc0banvg.amplifyapp.com/)) y caso 02 (S3 + paths filter). Fases 2-5 mapeadas: CloudFront + OIDC, Environments + Approvals, Lambda + API Gateway, DynamoDB + Matrix, Reusable Workflows, Containers + GHCR, FinOps + Cron, Multi-región + DR, EKS + GitOps. Cobertura **DVA-C02 · SAA-C03 · SOA-C02** mapeada caso a caso. Pipeline con TruffleHog + detect-secrets + wiki sync.
 
-### 📆 Social Bot Scheduler v4.x (n8n + Polyglot Persistence + Observabilidad + Guardrails)
+### 📆 Social Bot Scheduler v4.2.0 · Security Hardened
 **Repo:** https://github.com/vladimiracunadev-create/social-bot-scheduler
-**Qué demuestra:** Orquestación real con 9 ejes de integración (Python/Go/Node/PHP/Ruby/Rust/C#/Flask/Symfony), polyglot persistence (12+ DBs), observabilidad industrial (Prometheus/Grafana), idempotencia/circuit breaker, seguridad (Trivy/Gitleaks/K8s NetworkPolicy + runtime isolation).
+**Qué demuestra:** Matriz tecnológica con **9 casos de integración** (Python↔PHP, Python↔Go, Go↔Node, Node↔FastAPI, Laravel↔React, Go↔Symfony, Rust↔Ruby, .NET↔Flask, Python↔FastAPI) puenteados por n8n, **20+ contenedores**, **11 patrones arquitectónicos** y **9 motores de DB** (MySQL · MariaDB · PostgreSQL · SQLite · MongoDB · Redis · Cassandra · SQL Server · DuckDB). Auditoría de **8 capas** (contenedor, red, credenciales, servidor web, herramientas, autenticación, CI/CD, supply chain): bind `127.0.0.1`, non-root, HTTP security headers (CSP, HSTS, Permissions-Policy), Caddy edge proxy + TLS + Basic Auth, Trivy + pip-audit + Gitleaks + Trojan Source detection, Dependabot para 11 ecosistemas. Observabilidad opt-in (Prometheus + Grafana en `--profile observability`).
 
-### 🧪 Docker Labs v1.5.0 (infra y stacks "levanta en 60s" + K8s ready)
+### 🧪 Docker Labs v1.5.0 · Plataforma Docker Modular
 **Repo:** https://github.com/vladimiracunadev-create/docker-labs
-**Qué demuestra:** 12 labs integrados con centro de control unificado (port 9090), Inventory Core API, Operations Portal, Platform Gateway. Launcher nativo en Go, instalador Windows automatizado, ruta de observabilidad (Prometheus/Grafana), manifiestos K8s.
+**Qué demuestra:** **13 labs operativos** organizados en plataforma de 4 servicios (Control Center `:9090` Node.js, Inventory Core API `:8000` Python+PostgreSQL, Operations Portal `:8083` Node+MongoDB+Nginx, Platform Gateway `:8085` Nginx) + 9 labs independientes (Node, PHP/LAMP, Python Flask, Redis, RabbitMQ, Prometheus+Grafana, Go, Elasticsearch, Jenkins LTS). **Instalador `.exe` automatizado para Windows** (workflow `build-windows-installer`), launcher con browser auto-open. CI con smoke tests por lab, docs separadas por audiencia (Beginner Guide, User Manual, Technical Specs, Recruiter Guide).
 
-### 🧰 Microsistemas (Developer Productivity Suite: 11 herramientas + MCP server)
+### 🧰 Microsistemas v3.x · Developer Productivity Suite
 **Repo:** https://github.com/vladimiracunadev-create/microsistemas
-**Qué demuestra:** 11 herramientas modulares incluyendo KatasMultiLang (195 comparaciones / 67 tecnologías), CicdLibrary (192 patrones CI/CD), AWS Assistant Pro, servidor MCP Python para integración con IA. Hardening en 3 fases (TruffleHog + Trivy + Dependabot + markdownlint) y SBOM en cada release. Hub CLI con diagnóstico y smoke testing.
+**Landing:** https://vladimiracunadev-create.github.io/microsistemas/
+**Qué demuestra:** **12 microapps web** para diagnóstico, soporte, DevOps, aprendizaje y modernización PHP. Doble modo de uso: stack Docker (`make up` listo en 30 s) o XAMPP local. Incluye KatasMultiLang (195 comparaciones / 67 tecnologías), CicdLibrary (192 patrones CI/CD), AWS Assistant Pro, **servidor MCP local de solo lectura** para Claude Desktop. Hardening en **3 fases** (infraestructura + aplicación + supply-chain): CSRF, rate limiting, TruffleHog, Trivy, Dependabot, markdownlint, SBOM por release. Hub CLI unificado con diagnóstico y smoke testing.
 
-### 🤖 LangGraph RealWorld v4.2.0 (25 casos · 10 backends operativos)
+### 🤖 LangGraph RealWorld v4.2.0 · 25 casos · 10 backends operativos
 **Repo:** https://github.com/vladimiracunadev-create/langgraph-realworld
-**Qué demuestra:** 25 casos empresariales con **10 backends operativos** (01, 02, 03, 04, 05, 09, 10, 13, 19, 25): soporte omnicanal, HR screening + calendario, onboarding, BI SQL/charting. Estado tipado (TypedDict), modo dual offline/live, OAuth2/OIDC opt-in, LangSmith opt-in, `/health`/`/ready`/`/metrics`, reverse proxy nginx + TLS, CI por caso. Auditoría de 8 capas de seguridad.
+**Qué demuestra:** Portafolio de **25 casos empresariales** con **10 backends 100% operativos** (01, 02, 03, 04, 05, 09, 10, 13, 19, 25) — incluye Caso 05 (Analista de Documentos) elevado a OPERATIVO en v4.2.0, soporte omnicanal, HR screening + calendario, onboarding, BI SQL/charting. Estado tipado (TypedDict), modo dual DEMO/LIVE, OAuth2/OIDC opt-in, LangSmith opt-in, endpoints `/health` `/ready` `/metrics` con latencia y errores por servicio, reverse proxy nginx + TLS, logging JSON estructurado, CI por caso. Auditoría de **8 capas** de seguridad: non-root, `127.0.0.1`, HTTP headers, `grype --fail-build`, Trojan Source, nginx TLS, detect-secrets, pip-compile + Dependabot. 15 casos restantes son scaffolds documentados.
 
-### 🧠 MCP + Ollama Local (IA local: FastAPI + tools MCP seguras + SQLite + K8s)
+### 🧠 MCP + Ollama Local · IA local-first con sandbox MCP
 **Repo:** https://github.com/vladimiracunadev-create/mcp-ollama-local
-**Qué demuestra:** IA aplicada con privacidad y arquitectura clara: persistencia SQLite, tools sandbox, tests, manifiestos k8s. Security & Trust Profile activo (Bandit + pip-audit + secret scanning).
+**Qué demuestra:** Web local (FastAPI + Uvicorn, Python 3.13) + chat con Ollama vía `httpx` + bridge MCP por `stdio` con tools acotadas a `data/sandbox`. Persistencia en SQLite, despliegue en local, Docker o K8s. Bind `127.0.0.1:8000`, CORS configurable, API key opcional (`X-API-Key`), rate limiting en memoria, contenedor non-root. **Security & Trust Profile multi-capa**: `ci.yml` (Ruff + Pytest), `security.yml` (Bandit + pip-audit), `codeql.yml` (code scanning semántico), `semgrep.yml` (reglas locales), `supply-chain.yml` (SBOM CycloneDX + firma de release), `scorecard.yml` (señal pública), Dependabot. Honesto sobre límites (no es multi-usuario, no RBAC).
 
-### 🌐 Web/Portafolio (PWA + 6 idiomas + Capacitor + documentación profunda)
+### 🌐 Web/Portafolio v2.2.0 · PWA · 6 idiomas · Lighthouse 100
 **Repo:** https://github.com/vladimiracunadev-create/vladimiracunadev-create.github.io
 **Web:** https://vladimiracunadev-create.github.io/
-**Qué demuestra:** Portafolio profesional en 6 idiomas (ES/EN/PT/IT/FR/ZH), 30+ PDFs generados por pipeline Python, PWA instalable, CV Data API JSON estática, guías de build móvil/desktop.
+**Qué demuestra:** SPA estática profesional en **6 idiomas** (ES/EN/PT/IT/FR/ZH) con sistema de 3 vistas (Reclutador / Normal / Profundo), **30+ PDFs** generados por pipeline Python (CV ATS + CV Reclutador + Portafolio + Carta de Recomendación + Declaración de Logros, todos × 6 idiomas), **PWA instalable** con manifest + service worker, **CV Data API JSON estática** en `api/v1/` (6 endpoints sin servidor), wrapper Capacitor para Android/iOS, **Lighthouse 100**.
 
-### ⚡ Unikernel Labs · Control Center
+### ⚡ Unikernel Labs · Control Center v1.0.0
 **Repo:** https://github.com/vladimiracunadev-create/unikernel-labs
-**Qué demuestra:** Suite profesional para operar servicios Unikraft en Windows con backend WSL2. Control total vía Dashboard Node.js y Launcher WinForms en localhost. Arquitectura de alto rendimiento y orquestación unikernel.
+**Qué demuestra:** Capa de control Windows sobre runtime Linux real para operar servicios **Unikraft**: Dashboard Node.js (REST API en `localhost:9091`), Launcher WinForms .NET y backend WSL2 con `kraft` + QEMU/KVM. Catálogo único en `labs.config.json` (sincronizado al launcher), 8 labs (de `01-hello-world` a `08-kraft-cloud-track`), arranque real validado de `nginx-runtime` en `localhost:8080`. Workflow de build automatizado para instalador `.exe` de Windows + instalación silenciosa.
 
-### 🍎 ChofyAI Studio · macOS Local AI Launcher (Fase 4)
+### 🍎 ChofyAI Studio · macOS Local AI Launcher · Fase 4
 **Repo:** https://github.com/vladimiracunadev-create/chofyai-studio
-**Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon que centraliza e instala herramientas de IA local (Qwen3-TTS, whisper.cpp, FaceFusion, AceForge). Tauri + Rust + React. Fase 4: disco dual, zona de módulos, stats, empaquetado ad-hoc, soporte `uv`.
+**Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon (**Tauri + Rust + React**) que centraliza e instala herramientas de IA local: **Qwen3-TTS**, **whisper.cpp**, **FaceFusion**, **AceForge**. Fase 4 entregada: disco dual, zona de módulos con instalación/actualización individual, panel de stats, empaquetado ad-hoc para distribución, soporte `uv` como acelerador opcional para tools Python.
 
-### 🐳 Problem-Driven Systems Lab (Docker-first · 12 casos · UI integrada)
+### 🐳 Problem-Driven Systems Lab · 12 casos · multi-stack OPERATIVO
 **Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
-**Qué demuestra:** 12 casos reales de sistemas distribuidos Docker-first con **UI nativa integrada** (no solo "API JSON ciega"). Patrones profesionales (Adapter, Strangler, Circuit Breaker) sobre cuellos de botella reales en runtime PHP, con scaffolds en Node.js, Python, Java y .NET. Observabilidad Prometheus :9091 + Grafana :3001. Catálogo en `shared/catalog/cases.json`.
+**Qué demuestra:** **12 problemas reales de ingeniería** (latencia bajo carga, N+1, observabilidad pobre, retry storms, fugas de memoria, pipelines frágiles, modernización del monolito, extracción crítica, integraciones inestables, sobre-arquitectura, reportes bloqueantes, single point of knowledge) con fallos de alta fidelidad inyectados — no simulaciones abstractas. **Stack PHP 100% OPERATIVO** con UI nativa interactiva (los 12 casos detectan `Accept` de browser y devuelven dashboards), **stack Python 100% OPERATIVO** (12 casos en stdlib pura, autocontenidos), **caso 03 también OPERATIVO en Node.js**. Scaffolds documentados para Java, .NET y Node.js (casos 01-02, 04-12). Patrones profesionales: **Adapter, Strangler, Circuit Breaker**. Compose por lenguaje (`compose.root.yml` PHP · `compose.python.yml` · `compose.portal.yml`), Prometheus `:9091` + Grafana `:3001` + portal `:8080`. Catálogo único en [`shared/catalog/cases.json`](https://github.com/vladimiracunadev-create/problem-driven-systems-lab/blob/main/shared/catalog/cases.json).
 
-### 📊 Python Data Science Bootcamp (Docencia · Notebooks · App Desktop · Android Expo)
+### 📊 Python Data Science Bootcamp v1.1.0 · Material docente multiplataforma
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
-**Qué demuestra:** Bootcamp con 31 clases · notebooks interactivos · datasets reales · App Desktop Windows (Edge WebView2) · App Android (Expo) · PDFs generados. Diseñado para principiantes y transición profesional hacia análisis de datos.
+**Qué demuestra:** Bootcamp con **31 clases** (expansión v1.1.0 · 2026-04-29), notebooks Jupyter interactivos, datasets reales y entorno local configurable. Distribución multiplataforma: **App Desktop Windows** con Edge WebView2, **App Android** con Expo, **PDFs generados** desde el material docente. Diseñado para principiantes y transición profesional hacia análisis de datos.
 
 ---
 
@@ -236,4 +237,4 @@ Como parte de los estándares de este ecosistema, la documentación detallada se
 
 ---
 
-<sub>Última actualización: 2026-05-02</sub>
+<sub>Última actualización: 2026-05-02 · README sincronizado con el estado real verificado de cada repositorio público.</sub>
