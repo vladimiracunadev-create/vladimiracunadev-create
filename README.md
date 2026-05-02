@@ -244,6 +244,7 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/
 - Web: https://vladimiracunadev-create.github.io/
+- GitLab: https://gitlab.com/vladimir.acuna.dev-group/vladimir.acuna.dev-group
 - Email: vladimir.acuna.dev@gmail.com
 
 ---
