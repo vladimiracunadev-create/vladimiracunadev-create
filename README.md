@@ -63,7 +63,7 @@ Este perfil está construido como un portafolio verificable:
 - Portal unificado con **10 backends operativos** sobre LangGraph + FastAPI: soporte omnicanal, screening RR.HH., onboarding, BI con SQL/charting y más (casos 01, 02, 03, 04, 05, 09, 10, 13, 19, 25).
 - Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, OAuth2/OIDC opt-in y modo dual (offline demo + live).
 - IA local para privacidad: chat local + tools MCP seguras + persistencia en SQLite + K8s ready.
-- Workspace local-first (Trihorn Chat) para orquestación modular de LLMs sin nube obligatoria.
+- IA local con privacidad completa: chat local + tools MCP seguras corriendo 100% en `localhost`, sin nube obligatoria.
 
 ### 7) Polyglot persistence y multi-lenguaje
 - Matriz de **9 ejes de integración**: Python, Go, Node.js, PHP, Ruby, Rust, C#, Flask, Symfony.
@@ -104,22 +104,6 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/mcp-ollama-local
 **Qué demuestra:** IA aplicada con privacidad y arquitectura clara: persistencia SQLite, tools sandbox, tests, manifiestos k8s. Security & Trust Profile activo (Bandit + pip-audit + secret scanning).
 
-### 🤖 Trihorn Chat v0.10.1 (Industrial AI Orchestrator · local-first)
-**Repo:** https://github.com/vladimiracunadev-create/trihorn-chat
-**Qué demuestra:** Workspace técnico modular para orquestación de LLMs, gestión de conocimiento y automatización de tareas de ingeniería. Corre 100% en `localhost`, sin nube obligatoria. CI backend + frontend, Security Scan, Dependabot, manuales separados (usuario / técnico), auto-compactación y UI minimalista.
-
-### 🔩 FerreMarket (POS Cloud + Marketplace · Node 20 · PostgreSQL · Redis · BullMQ)
-**Repo:** https://github.com/vladimiracunadev-create/ferremarket
-**Qué demuestra:** Sistema POS cloud + marketplace para ferreterías con punto de venta físico, inventario unificado y e-commerce integrado. Node 20 · Express 4.22 · PostgreSQL 16 · Redis 7.2 · BullMQ · JWT · Docker Compose · OpenTelemetry. CI + Security Scan + Health Check como workflows separados.
-
-### 🤖 Flujo Autónomo (Orquestador local Windows · JSON declarativo · Playwright · SQLite)
-**Repo:** https://github.com/vladimiracunadev-create/flujo-autonomo-repo
-**Qué demuestra:** Control local de tareas y acciones efectivas sobre Windows: abre ventanas reales, llena formularios, captura escritorio y DOM, audita el equipo. Flujos declarativos en JSON · scheduler · OCR/visión · UI dry-run · Python 3.10+ con `uv` · 79 tests pytest · CI + Security + Workflow security.
-
-### 🗄️ GabySQL (Base de datos embebida en Rust · multiplataforma · single-file `.db` + WAL)
-**Repo:** https://github.com/vladimiracunadev-create/gabysql
-**Qué demuestra:** Motor de base de datos embebido escrito en Rust pensado como producto base serio: storage claro, formato en disco entendible, durabilidad por WAL y CI multi-OS (Windows/Linux/macOS). Superficie SQL `CREATE`/`INSERT`/`SELECT`/`WHERE PK`/`LIMIT/OFFSET`, API HTTP/JSON y admin web liviano.
-
 ### 🌐 Web/Portafolio (PWA + 6 idiomas + Capacitor + documentación profunda)
 **Repo:** https://github.com/vladimiracunadev-create/vladimiracunadev-create.github.io
 **Web:** https://vladimiracunadev-create.github.io/
@@ -140,14 +124,6 @@ Este perfil está construido como un portafolio verificable:
 ### 📊 Python Data Science Bootcamp (Docencia · Notebooks · App Desktop · Android Expo)
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
 **Qué demuestra:** Bootcamp con 31 clases · notebooks interactivos · datasets reales · App Desktop Windows (Edge WebView2) · App Android (Expo) · PDFs generados. Diseñado para principiantes y transición profesional hacia análisis de datos.
-
-### 🏛️ Portales operativos (PHP modular · Docker · GitHub Actions)
-Cuatro portales verticales construidos como referencia de modernización legacy y verticalización de dominio:
-
-- **[portal-empresarial](https://github.com/vladimiracunadev-create/portal-empresarial)** — Gestión completa para crear una empresa: plan de negocio, constitución legal, finanzas, equipo, pipeline de clientes e hitos.
-- **[portal-bienestar](https://github.com/vladimiracunadev-create/portal-bienestar)** — Portal de empleabilidad para CV, documentos laborales, redes profesionales y bolsas de trabajo. PHP · MariaDB · Docker · GitHub Actions.
-- **[portal-educativo](https://github.com/vladimiracunadev-create/portal-educativo)** — Software educativo para el aula chilena: evaluaciones, libro de notas, planificaciones MINEDUC y módulo psicoeducativo.
-- **[portal-tecnologia](https://github.com/vladimiracunadev-create/portal-tecnologia)** — Plataforma vertical de tecnología.
 
 ---
 
