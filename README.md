@@ -129,6 +129,18 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
 **Qué demuestra:** Bootcamp con **31 clases** (expansión v1.1.0 · 2026-04-29), notebooks Jupyter interactivos, datasets reales y entorno local configurable. Distribución multiplataforma: **App Desktop Windows** con Edge WebView2, **App Android** con Expo, **PDFs generados** desde el material docente. Diseñado para principiantes y transición profesional hacia análisis de datos.
 
+
+### Claude Skills Toolkit
+**Repo:** https://github.com/vladimiracunadev-create/claude-skills-toolkit
+**Qué demuestra:** 🧰 claude-skills-toolkit · ⚡ Skills agentic para Claude Code · 🔒 security-audit (12 capas: OSV/KEV/EPSS/SAST/...) · 📋 yaml-control · 📝 md-lint-fix · 🐳 docker-cleanup · Zero-deps por defecto · Cross-platform 🐧🍎🪟
+
+### Gabysql
+**Repo:** https://github.com/vladimiracunadev-create/gabysql
+**Qué demuestra:** 🗄️ GabySQL · Base de datos embebida en Rust, multiplataforma, archivo único .db, WAL, API HTTP/JSON y admin web liviano. Diseñada para entornos embebidos y edge. 🦀
+
+### Python Data Science Program
+**Repo:** https://github.com/vladimiracunadev-create/python-data-science-program
+**Qué demuestra:** 📚 Python Data Science Program · 197 clases en 9 partes (Python aplicado, ML clásico, Deep Learning, estadística inferencial, MLOps, ingeniería de datos, recomendadores, ética, capstones). Laboratorio Flask interactivo + app de escritorio Windows + app Android. 🐍
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
