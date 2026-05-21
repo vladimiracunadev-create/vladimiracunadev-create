@@ -244,6 +244,7 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 ## 📚 Documentación del Proyecto
 
 Como parte de los estándares de este ecosistema, la documentación detallada se divide en:
+
 - [📘 Guía de Instalación y Despliegue (INSTALL.md)](INSTALL.md)
 - [📜 Historial de Cambios (CHANGELOG.md)](CHANGELOG.md)
 - [🤝 Guía de Contribución (CONTRIBUTING.md)](CONTRIBUTING.md)
