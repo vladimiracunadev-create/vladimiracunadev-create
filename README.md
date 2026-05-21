@@ -135,7 +135,7 @@ Este perfil está construido como un portafolio verificable:
 
 ### 📚 Python Data Science Program · 197 clases · 9 partes · Lab Flask + Windows + Android
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-program
-**Qué demuestra:** Programa avanzado de Data Science y Machine Learning estructurado en **9 partes y 197 clases**: Python aplicado, **ML clásico** (regresión, clasificación, clustering), **Deep Learning** (redes neuronales, CNN, transformers), **estadística inferencial**, **MLOps** (CI/CD para modelos, monitoring, drift detection), **ingeniería de datos** (pipelines, ETL), **sistemas de recomendación**, **ética en IA** y **capstones** integradores. Distribución multiplataforma: **Laboratorio Flask interactivo** (entorno web con notebooks ejecutables), **app de escritorio Windows** (Edge WebView2) y **app Android** (Expo). Sucesor expandido de python-data-science-bootcamp v1.1 (31 clases) — multiplica el alcance por 6×.
+**Qué demuestra:** Programa avanzado de Data Science y Machine Learning estructurado en **9 partes y 197 clases**: Python aplicado, **ML clásico** (regresión, clasificación, clustering), **Deep Learning** (redes neuronales, CNN, transformers), **estadística inferencial**, **MLOps** (CI/CD para modelos, monitoring, drift detection), **ingeniería de datos** (pipelines, ETL), **sistemas de recomendación**, **ética en IA** y **capstones** integradores. Distribución multiplataforma: **Laboratorio Flask interactivo** (entorno web con notebooks ejecutables), **app de escritorio Windows** (Edge WebView2) y **app Android** (Expo).
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
@@ -195,7 +195,7 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - **AI Automation Architect** — sistemas agénticos con LangGraph/MCP, flujos n8n con guardrails, IA aplicada con validación humana
 
 ### ↗ Expansión natural — cargos asumibles con fuerza
-- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph v4.14.0 · **25/25 backends operativos (cobertura 100%)** · 8 capas de seguridad · cadena de custodia SHA-256 · OAuth2/OIDC + LangSmith opt-in)
+- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph v4.15.0 · **25/25 backends operativos (cobertura 100%)** · 8 capas de seguridad · cadena de custodia SHA-256 · OAuth2/OIDC + LangSmith opt-in)
 - **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia (social-bot-scheduler v4.3 · 9 casos de integración · Caddy edge proxy + TLS)
 - **Solutions Engineer** — demos y PoCs verificables, comunicación técnico-negocio, requisitos y arquitectura orientada a cliente
 - **Technical Product Builder** — construcción end-to-end: arquitectura, desarrollo, operación y entrega con criterio de producto (incluye instaladores Windows `.exe` automatizados — docker-labs, unikernel-labs)
