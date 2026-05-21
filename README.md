@@ -1,5 +1,5 @@
 # Arquitecto de Soluciones | Legacy Modernization Architect | Senior Full-Stack · AI Automation Architect
-**PHP 8 · Python · Go · Node/TS · C# · Ruby · Rust · AWS · Terraform · K8s · n8n · LangGraph/MCP · CI/CD · FinOps · Observabilidad · IA aplicada**
+**PHP 8 · Python · Go · Node/TS · Java 21 · .NET 8 · C# · Ruby · Rust · AWS · Terraform · K8s · n8n · LangGraph/MCP · CI/CD · FinOps · Observabilidad · IA aplicada**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_en_vivo-vladimiracunadev--create.github.io-0366d6?style=for-the-badge)](https://vladimiracunadev-create.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-vladimiracunadev--create-24292f?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create)
@@ -63,7 +63,7 @@ Este perfil está construido como un portafolio verificable:
 - Guías profundas para build móvil (APK/IPA), troubleshooting y arquitectura.
 
 ### 6) IA aplicada con mentalidad de ingeniería
-- **10 backends operativos** sobre LangGraph + FastAPI (casos 01, 02, 03, 04, 05, 09, 10, 13, 19, 25): soporte omnicanal, screening RR.HH. + calendario, onboarding, BI con SQL/charting, analista de documentos.
+- **25/25 backends operativos (cobertura 100%, v4.15.0)** sobre LangGraph + FastAPI (casos 01–25): soporte omnicanal, screening RR.HH. + calendario, onboarding, BI con SQL/charting, analista de documentos, RAG, agentes multi-step, planificadores y más.
 - Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, OAuth2/OIDC opt-in, LangSmith opt-in y modo dual (DEMO offline / LIVE).
 - IA local con privacidad completa: chat web local (FastAPI + Ollama) + tools MCP en sandbox `data/sandbox` + persistencia SQLite, bind `127.0.0.1`, sin nube obligatoria.
 - Servidor MCP de solo lectura para Claude Desktop integrado en la suite de microsistemas (read-only knowledge bridge).
@@ -87,7 +87,7 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/proyectos-aws
 **Qué demuestra:** **11 casos progresivos** donde cada uno introduce un servicio AWS nuevo *y* una capacidad de GitHub Actions que no existía antes. Fase 1 operativa con demos vivas — caso 01 (Amplify multi-branch: [main](https://main.d3r1wuymolxagh.amplifyapp.com/) · [dev](https://dev.d20m8tc0banvg.amplifyapp.com/)) y caso 02 (S3 + paths filter). Fases 2-5 mapeadas: CloudFront + OIDC, Environments + Approvals, Lambda + API Gateway, DynamoDB + Matrix, Reusable Workflows, Containers + GHCR, FinOps + Cron, Multi-región + DR, EKS + GitOps. Cobertura **DVA-C02 · SAA-C03 · SOA-C02** mapeada caso a caso. Pipeline con TruffleHog + detect-secrets + wiki sync.
 
-### 📆 Social Bot Scheduler v4.2.0 · Security Hardened
+### 📆 Social Bot Scheduler v4.3.0 · Security Hardened
 **Repo:** https://github.com/vladimiracunadev-create/social-bot-scheduler
 **Qué demuestra:** Matriz tecnológica con **9 casos de integración** (Python↔PHP, Python↔Go, Go↔Node, Node↔FastAPI, Laravel↔React, Go↔Symfony, Rust↔Ruby, .NET↔Flask, Python↔FastAPI) puenteados por n8n, **20+ contenedores**, **11 patrones arquitectónicos** y **9 motores de DB** (MySQL · MariaDB · PostgreSQL · SQLite · MongoDB · Redis · Cassandra · SQL Server · DuckDB). Auditoría de **8 capas** (contenedor, red, credenciales, servidor web, herramientas, autenticación, CI/CD, supply chain): bind `127.0.0.1`, non-root, HTTP security headers (CSP, HSTS, Permissions-Policy), Caddy edge proxy + TLS + Basic Auth, Trivy + pip-audit + Gitleaks + Trojan Source detection, Dependabot para 11 ecosistemas. Observabilidad opt-in (Prometheus + Grafana en `--profile observability`).
 
@@ -100,9 +100,9 @@ Este perfil está construido como un portafolio verificable:
 **Landing:** https://vladimiracunadev-create.github.io/microsistemas/
 **Qué demuestra:** **12 microapps web** para diagnóstico, soporte, DevOps, aprendizaje y modernización PHP. Doble modo de uso: stack Docker (`make up` listo en 30 s) o XAMPP local. Incluye KatasMultiLang (195 comparaciones / 67 tecnologías), CicdLibrary (192 patrones CI/CD), AWS Assistant Pro, **servidor MCP local de solo lectura** para Claude Desktop. Hardening en **3 fases** (infraestructura + aplicación + supply-chain): CSRF, rate limiting, TruffleHog, Trivy, Dependabot, markdownlint, SBOM por release. Hub CLI unificado con diagnóstico y smoke testing.
 
-### 🤖 LangGraph RealWorld v4.2.0 · 25 casos · 10 backends operativos
+### 🤖 LangGraph RealWorld v4.15.0 · 25/25 backends operativos · cobertura 100%
 **Repo:** https://github.com/vladimiracunadev-create/langgraph-realworld
-**Qué demuestra:** Portafolio de **25 casos empresariales** con **10 backends 100% operativos** (01, 02, 03, 04, 05, 09, 10, 13, 19, 25) — incluye Caso 05 (Analista de Documentos) elevado a OPERATIVO en v4.2.0, soporte omnicanal, HR screening + calendario, onboarding, BI SQL/charting. Estado tipado (TypedDict), modo dual DEMO/LIVE, OAuth2/OIDC opt-in, LangSmith opt-in, endpoints `/health` `/ready` `/metrics` con latencia y errores por servicio, reverse proxy nginx + TLS, logging JSON estructurado, CI por caso. Auditoría de **8 capas** de seguridad: non-root, `127.0.0.1`, HTTP headers, `grype --fail-build`, Trojan Source, nginx TLS, detect-secrets, pip-compile + Dependabot. 15 casos restantes son scaffolds documentados.
+**Qué demuestra:** Portafolio de **25 casos empresariales** con **25/25 backends 100% operativos** (casos 01–25, sin omisiones) — soporte omnicanal, HR screening + calendario, onboarding, BI SQL/charting, RAG, agentes multi-step, analista de documentos, planificadores y más. Estado tipado (TypedDict), modo dual DEMO/LIVE, **streaming NDJSON**, OAuth2/OIDC opt-in, LangSmith opt-in, endpoints `/health` `/ready` `/metrics` con latencia y errores por servicio, reverse proxy nginx + TLS, logging JSON estructurado, CI extendido a los 25 casos. Auditoría de **8 capas** de seguridad + **cadena de custodia SHA-256** + release v4.15 de hardening adversarial (4 critical fixes inline, `shared/lgrw_common/` como fuente canónica, `python-jose` → `joserfc`). Python 3.11 · FastAPI · Docker · pytest · uv opcional.
 
 ### 🧠 MCP + Ollama Local · IA local-first con sandbox MCP
 **Repo:** https://github.com/vladimiracunadev-create/mcp-ollama-local
@@ -121,9 +121,9 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/chofyai-studio
 **Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon (**Tauri + Rust + React**) que centraliza e instala herramientas de IA local: **Qwen3-TTS**, **whisper.cpp**, **FaceFusion**, **AceForge**. Fase 4 entregada: disco dual, zona de módulos con instalación/actualización individual, panel de stats, empaquetado ad-hoc para distribución, soporte `uv` como acelerador opcional para tools Python.
 
-### 🐳 Problem-Driven Systems Lab · 12 casos · multi-stack OPERATIVO
+### 🐳 Problem-Driven Systems Lab · 12 casos · 5 stacks (PHP 8 · Python · Node · Java 21 · .NET 8)
 **Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
-**Qué demuestra:** **12 problemas reales de ingeniería** (latencia bajo carga, N+1, observabilidad pobre, retry storms, fugas de memoria, pipelines frágiles, modernización del monolito, extracción crítica, integraciones inestables, sobre-arquitectura, reportes bloqueantes, single point of knowledge) con fallos de alta fidelidad inyectados — no simulaciones abstractas. **Stack PHP 100% OPERATIVO** con UI nativa interactiva (los 12 casos detectan `Accept` de browser y devuelven dashboards), **stack Python 100% OPERATIVO** (12 casos en stdlib pura, autocontenidos), **caso 03 también OPERATIVO en Node.js**. Scaffolds documentados para Java, .NET y Node.js (casos 01-02, 04-12). Patrones profesionales: **Adapter, Strangler, Circuit Breaker**. Compose por lenguaje (`compose.root.yml` PHP · `compose.python.yml` · `compose.portal.yml`), Prometheus `:9091` + Grafana `:3001` + portal `:8080`. Catálogo único en [`shared/catalog/cases.json`](https://github.com/vladimiracunadev-create/problem-driven-systems-lab/blob/main/shared/catalog/cases.json).
+**Qué demuestra:** **12 problemas reales de ingeniería** (latencia bajo carga, N+1, observabilidad pobre, retry storms, fugas de memoria, pipelines frágiles, modernización del monolito, extracción crítica, integraciones inestables, sobre-arquitectura, reportes bloqueantes, single point of knowledge) con fallos de alta fidelidad inyectados — no simulaciones abstractas. Resuelto en **5 stacks**: PHP 8, Python, Node.js, **Java 21** (`ConcurrentHashMap`, `CompletableFuture.orTimeout`, `Semaphore`, record types) y **.NET 8** (`ConcurrentDictionary`, `CancellationTokenSource`, `SemaphoreSlim`, `?.`+`??`). **Stack PHP 100% OPERATIVO** con UI nativa interactiva (los 12 casos detectan `Accept` de browser y devuelven **Dashboards Interactivos**), **stack Python 100% OPERATIVO** (12 casos en stdlib pura). Patrones profesionales: **Adapter, Strangler, Circuit Breaker, LRU, Cancellation**. Compose por lenguaje, Prometheus `:9091` + Grafana `:3001` + portal `:8080`. Plan **AWS_MIGRATION.md** documentado con 3 rutas (ECS Fargate · Lambda · EKS), costos reales estimados y mapping explícito de cómo AWS mitiga cada hallazgo de `SECURITY.md` (Cognito, WAF, DynamoDB, etc.) sin tocar código del lab.
 
 ### 🧰 Claude Skills Toolkit · Skills agentic para Claude Code (Python · Cross-platform · Zero-deps)
 **Repo:** https://github.com/vladimiracunadev-create/claude-skills-toolkit
@@ -166,7 +166,7 @@ cd mcp-ollama-local
 ```bash
 git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 cd langgraph-realworld
-# Cualquiera de los 10 backends operativos: 01, 02, 03, 04, 05, 09, 10, 13, 19, 25
+# Cualquiera de los 25 backends operativos (cobertura 100%): casos 01-25
 ```
 
 ---
@@ -251,4 +251,4 @@ Como parte de los estándares de este ecosistema, la documentación detallada se
 
 ---
 
-<sub>Última actualización: 2026-05-02 · README sincronizado con el estado real verificado de cada repositorio público.</sub>
+<sub>Última actualización: 2026-05-21 · README sincronizado con el estado real verificado de cada repositorio público.</sub>
