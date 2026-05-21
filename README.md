@@ -125,22 +125,17 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
 **Qué demuestra:** **12 problemas reales de ingeniería** (latencia bajo carga, N+1, observabilidad pobre, retry storms, fugas de memoria, pipelines frágiles, modernización del monolito, extracción crítica, integraciones inestables, sobre-arquitectura, reportes bloqueantes, single point of knowledge) con fallos de alta fidelidad inyectados — no simulaciones abstractas. **Stack PHP 100% OPERATIVO** con UI nativa interactiva (los 12 casos detectan `Accept` de browser y devuelven dashboards), **stack Python 100% OPERATIVO** (12 casos en stdlib pura, autocontenidos), **caso 03 también OPERATIVO en Node.js**. Scaffolds documentados para Java, .NET y Node.js (casos 01-02, 04-12). Patrones profesionales: **Adapter, Strangler, Circuit Breaker**. Compose por lenguaje (`compose.root.yml` PHP · `compose.python.yml` · `compose.portal.yml`), Prometheus `:9091` + Grafana `:3001` + portal `:8080`. Catálogo único en [`shared/catalog/cases.json`](https://github.com/vladimiracunadev-create/problem-driven-systems-lab/blob/main/shared/catalog/cases.json).
 
-### 📊 Python Data Science Bootcamp v1.1.0 · Material docente multiplataforma
-**Repo:** https://github.com/vladimiracunadev-create/python-data-science-bootcamp
-**Qué demuestra:** Bootcamp con **31 clases** (expansión v1.1.0 · 2026-04-29), notebooks Jupyter interactivos, datasets reales y entorno local configurable. Distribución multiplataforma: **App Desktop Windows** con Edge WebView2, **App Android** con Expo, **PDFs generados** desde el material docente. Diseñado para principiantes y transición profesional hacia análisis de datos.
-
-
-### Claude Skills Toolkit
+### 🧰 Claude Skills Toolkit · Skills agentic para Claude Code (Python · Cross-platform · Zero-deps)
 **Repo:** https://github.com/vladimiracunadev-create/claude-skills-toolkit
-**Qué demuestra:** 🧰 claude-skills-toolkit · ⚡ Skills agentic para Claude Code · 🔒 security-audit (12 capas: OSV/KEV/EPSS/SAST/...) · 📋 yaml-control · 📝 md-lint-fix · 🐳 docker-cleanup · Zero-deps por defecto · Cross-platform 🐧🍎🪟
+**Qué demuestra:** Conjunto de skills agentic productivos para Claude Code. **security-audit** corre 12 capas — OSV / CISA KEV / EPSS / GHSA / PyPA / RustSec / Bandit SAST / trivy + grype container scan / gitleaks + detect-secrets / zizmor (GitHub Actions) / hadolint (Dockerfile) / typosquat heurístico — genera reporte Markdown y opcionalmente PR de bump con auto-merge. **yaml-control** valida YAML + actionlint sobre workflows. **md-lint-fix** detecta y auto-corrige MD024/040/031/etc. con contexto. **docker-cleanup** wipea contenedores, imágenes, volúmenes, redes y build cache. Zero-deps por defecto y cross-platform (Linux 🐧 · macOS 🍎 · Windows 🪟).
 
-### Gabysql
+### 🗄️ GabySQL · Base de datos embebida en Rust (single-file · WAL · HTTP/JSON · edge)
 **Repo:** https://github.com/vladimiracunadev-create/gabysql
-**Qué demuestra:** 🗄️ GabySQL · Base de datos embebida en Rust, multiplataforma, archivo único .db, WAL, API HTTP/JSON y admin web liviano. Diseñada para entornos embebidos y edge. 🦀
+**Qué demuestra:** Motor de base de datos embebido escrito en **Rust 🦀**, diseñado para entornos embebidos, edge computing y aplicaciones que necesitan persistencia sin servidor externo. **Archivo único `.db`** (formato propietario con WAL para integridad), **API HTTP/JSON** para integración con cualquier lenguaje, **admin web liviano** servido por el mismo proceso. Cross-platform (Linux · macOS · Windows), distribuido como binario único sin runtime. Demuestra dominio de Rust para systems programming, diseño de storage engines y trade-offs de DBs single-file (SQLite-style) vs cliente-servidor.
 
-### Python Data Science Program
+### 📚 Python Data Science Program · 197 clases · 9 partes · Lab Flask + Windows + Android
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-program
-**Qué demuestra:** 📚 Python Data Science Program · 197 clases en 9 partes (Python aplicado, ML clásico, Deep Learning, estadística inferencial, MLOps, ingeniería de datos, recomendadores, ética, capstones). Laboratorio Flask interactivo + app de escritorio Windows + app Android. 🐍
+**Qué demuestra:** Programa avanzado de Data Science y Machine Learning estructurado en **9 partes y 197 clases**: Python aplicado, **ML clásico** (regresión, clasificación, clustering), **Deep Learning** (redes neuronales, CNN, transformers), **estadística inferencial**, **MLOps** (CI/CD para modelos, monitoring, drift detection), **ingeniería de datos** (pipelines, ETL), **sistemas de recomendación**, **ética en IA** y **capstones** integradores. Distribución multiplataforma: **Laboratorio Flask interactivo** (entorno web con notebooks ejecutables), **app de escritorio Windows** (Edge WebView2) y **app Android** (Expo). Sucesor expandido de python-data-science-bootcamp v1.1 (31 clases) — multiplica el alcance por 6×.
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
@@ -200,11 +195,11 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - **AI Automation Architect** — sistemas agénticos con LangGraph/MCP, flujos n8n con guardrails, IA aplicada con validación humana
 
 ### ↗ Expansión natural — cargos asumibles con fuerza
-- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph v4.2.0 · **10 backends operativos** · 8 capas de seguridad · OAuth2/OIDC + LangSmith opt-in)
-- **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia (social-bot-scheduler v4.2 · 9 casos de integración · Caddy edge proxy + TLS)
+- **AI Orchestration Engineer** — agentes con estado tipado, rutas condicionales, resiliencia (LangGraph v4.14.0 · **25/25 backends operativos (cobertura 100%)** · 8 capas de seguridad · cadena de custodia SHA-256 · OAuth2/OIDC + LangSmith opt-in)
+- **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia (social-bot-scheduler v4.3 · 9 casos de integración · Caddy edge proxy + TLS)
 - **Solutions Engineer** — demos y PoCs verificables, comunicación técnico-negocio, requisitos y arquitectura orientada a cliente
 - **Technical Product Builder** — construcción end-to-end: arquitectura, desarrollo, operación y entrega con criterio de producto (incluye instaladores Windows `.exe` automatizados — docker-labs, unikernel-labs)
-- **Technical Trainer / Educador técnico** — **python-data-science-bootcamp v1.1.0** con 31 clases · App Desktop Windows (Edge WebView2) · App Android (Expo) · PDFs generados desde el material docente
+- **Technical Trainer / Educador técnico** — **python-data-science-program** con **197 clases en 9 partes** (Python aplicado, ML clásico, Deep Learning, estadística inferencial, MLOps, ingeniería de datos, recomendadores, ética, capstones) · Laboratorio Flask interactivo · App Desktop Windows (Edge WebView2) · App Android (Expo)
 - **Consultor de Transformación Digital** — diagnóstico, plan evolutivo y ejecución de modernización en organizaciones con legacy real
 - **Product Operations Técnico** — continuidad y evolución de plataformas con observabilidad, reducción de fricción y mejora continua
 
