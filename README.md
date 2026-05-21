@@ -136,6 +136,7 @@ Este perfil está construido como un portafolio verificable:
 ### 📚 Python Data Science Program · 197 clases · 9 partes · Lab Flask + Windows + Android
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-program
 **Qué demuestra:** Programa avanzado de Data Science y Machine Learning estructurado en **9 partes y 197 clases**: Python aplicado, **ML clásico** (regresión, clasificación, clustering), **Deep Learning** (redes neuronales, CNN, transformers), **estadística inferencial**, **MLOps** (CI/CD para modelos, monitoring, drift detection), **ingeniería de datos** (pipelines, ETL), **sistemas de recomendación**, **ética en IA** y **capstones** integradores. Distribución multiplataforma: **Laboratorio Flask interactivo** (entorno web con notebooks ejecutables), **app de escritorio Windows** (Edge WebView2) y **app Android** (Expo).
+
 ---
 
 ## ⚡ "Si tengo 10 minutos para evaluarte" (rutas de prueba)
