@@ -58,12 +58,14 @@ Este perfil está construido como un portafolio verificable:
 - Seguridad y gobernanza como parte del pipeline (no post-it): OIDC sin credenciales largas, secret scanning, environments con aprobaciones.
 
 ### 5) Multiplataforma real (web + PWA + móvil/desktop)
-- El portafolio está diseñado como **PWA instalable** y **Android/iOS ready** vía Capacitor.
+- El portafolio está diseñado como **PWA instalable** y **Android/iOS ready** vía Capacitor (APK release v2.3.0 publicado).
 - **6 idiomas** (ES, EN, PT, IT, FR, ZH) con 30+ PDFs generados por pipeline (CVs, portafolio, logros, recomendaciones).
+- **4 vistas paralelas** (Reclutador por defecto · Normal · Profundo · Freelance) con `VIEW_SCHEMA` migration para resetear `localStorage` viejo al introducir nuevas vistas.
 - Guías profundas para build móvil (APK/IPA), troubleshooting y arquitectura.
 
 ### 6) IA aplicada con mentalidad de ingeniería
 - **25/25 backends operativos (cobertura 100%, v4.15.0)** sobre LangGraph + FastAPI (casos 01–25): soporte omnicanal, screening RR.HH. + calendario, onboarding, BI con SQL/charting, analista de documentos, RAG, agentes multi-step, planificadores y más.
+- **AI-orchestrated local automation** con **Automa PC Orchestrator v0.2.1** (115 pytest tests, Playwright + pywebview, instalador firmado) y **RootCause Windows Inspector v0.11.0** (Rust + ETW/WPR, 5 ediciones: GUI · Portable · CLI · PowerShell · VS Code).
 - Agentes con **estado tipado** (TypedDict), **rutas condicionales**, **resiliencia**, OAuth2/OIDC opt-in, LangSmith opt-in y modo dual (DEMO offline / LIVE).
 - IA local con privacidad completa: chat web local (FastAPI + Ollama) + tools MCP en sandbox `data/sandbox` + persistencia SQLite, bind `127.0.0.1`, sin nube obligatoria.
 - Servidor MCP de solo lectura para Claude Desktop integrado en la suite de microsistemas (read-only knowledge bridge).
@@ -87,9 +89,9 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/proyectos-aws
 **Qué demuestra:** **11 casos progresivos** donde cada uno introduce un servicio AWS nuevo *y* una capacidad de GitHub Actions que no existía antes. Fase 1 operativa con demos vivas — caso 01 (Amplify multi-branch: [main](https://main.d3r1wuymolxagh.amplifyapp.com/) · [dev](https://dev.d20m8tc0banvg.amplifyapp.com/)) y caso 02 (S3 + paths filter). Fases 2-5 mapeadas: CloudFront + OIDC, Environments + Approvals, Lambda + API Gateway, DynamoDB + Matrix, Reusable Workflows, Containers + GHCR, FinOps + Cron, Multi-región + DR, EKS + GitOps. Cobertura **DVA-C02 · SAA-C03 · SOA-C02** mapeada caso a caso. Pipeline con TruffleHog + detect-secrets + wiki sync.
 
-### 📆 Social Bot Scheduler v4.3.0 · Security Hardened
+### 📆 Social Bot Scheduler v4.3.1 · Supply-chain hardened (pnpm)
 **Repo:** https://github.com/vladimiracunadev-create/social-bot-scheduler
-**Qué demuestra:** Matriz tecnológica con **9 casos de integración** (Python↔PHP, Python↔Go, Go↔Node, Node↔FastAPI, Laravel↔React, Go↔Symfony, Rust↔Ruby, .NET↔Flask, Python↔FastAPI) puenteados por n8n, **20+ contenedores**, **11 patrones arquitectónicos** y **9 motores de DB** (MySQL · MariaDB · PostgreSQL · SQLite · MongoDB · Redis · Cassandra · SQL Server · DuckDB). Auditoría de **8 capas** (contenedor, red, credenciales, servidor web, herramientas, autenticación, CI/CD, supply chain): bind `127.0.0.1`, non-root, HTTP security headers (CSP, HSTS, Permissions-Policy), Caddy edge proxy + TLS + Basic Auth, Trivy + pip-audit + Gitleaks + Trojan Source detection, Dependabot para 11 ecosistemas. Observabilidad opt-in (Prometheus + Grafana en `--profile observability`).
+**Qué demuestra:** Matriz tecnológica con **9 casos de integración** (Python↔PHP, Python↔Go, Go↔Node, Node↔FastAPI, Laravel↔React, Go↔Symfony, Rust↔Ruby, .NET↔Flask, Python↔FastAPI) puenteados por n8n, **20+ contenedores**, **11 patrones arquitectónicos** y **9 motores de DB** (MySQL · MariaDB · PostgreSQL · SQLite · MongoDB · Redis · Cassandra · SQL Server · DuckDB). Auditoría de **8 capas** (contenedor, red, credenciales, servidor web, herramientas, autenticación, CI/CD, supply chain): bind `127.0.0.1`, non-root, HTTP security headers (CSP, HSTS, Permissions-Policy), Caddy edge proxy + TLS + Basic Auth, Trivy + pip-audit + Gitleaks + Trojan Source detection, Dependabot para 11 ecosistemas. Observabilidad opt-in (Prometheus + Grafana en `--profile observability`). **v4.3.1** agrega supply-chain hardening con migración npm → **pnpm v11** y verificación SHA-512 lockfile.
 
 ### 🧪 Docker Labs v1.5.0 · Plataforma Docker Modular
 **Repo:** https://github.com/vladimiracunadev-create/docker-labs
@@ -108,34 +110,45 @@ Este perfil está construido como un portafolio verificable:
 **Repo:** https://github.com/vladimiracunadev-create/mcp-ollama-local
 **Qué demuestra:** Web local (FastAPI + Uvicorn, Python 3.13) + chat con Ollama vía `httpx` + bridge MCP por `stdio` con tools acotadas a `data/sandbox`. Persistencia en SQLite, despliegue en local, Docker o K8s. Bind `127.0.0.1:8000`, CORS configurable, API key opcional (`X-API-Key`), rate limiting en memoria, contenedor non-root. **Security & Trust Profile multi-capa**: `ci.yml` (Ruff + Pytest), `security.yml` (Bandit + pip-audit), `codeql.yml` (code scanning semántico), `semgrep.yml` (reglas locales), `supply-chain.yml` (SBOM CycloneDX + firma de release), `scorecard.yml` (señal pública), Dependabot. Honesto sobre límites (no es multi-usuario, no RBAC).
 
-### 🌐 Web/Portafolio v2.2.0 · PWA · 6 idiomas · Lighthouse 100
+### 🌐 Web/Portafolio v2.3.0 · PWA · 6 idiomas · 4 vistas (Reclutador / Normal / Profundo / Freelance)
 **Repo:** https://github.com/vladimiracunadev-create/vladimiracunadev-create.github.io
 **Web:** https://vladimiracunadev-create.github.io/
-**Qué demuestra:** SPA estática profesional en **6 idiomas** (ES/EN/PT/IT/FR/ZH) con sistema de 3 vistas (Reclutador / Normal / Profundo), **30+ PDFs** generados por pipeline Python (CV ATS + CV Reclutador + Portafolio + Carta de Recomendación + Declaración de Logros, todos × 6 idiomas), **PWA instalable** con manifest + service worker, **CV Data API JSON estática** en `api/v1/` (6 endpoints sin servidor), wrapper Capacitor para Android/iOS, **Lighthouse 100**.
+**Qué demuestra:** SPA estática profesional en **6 idiomas** (ES/EN/PT/IT/FR/ZH) con **4 vistas** (Reclutador por defecto · Normal · Profundo · Freelance — curaduría para clientes que evalúan contratación por proyecto), **30+ PDFs** generados por pipeline Python (CV ATS + CV Reclutador + Portafolio + Carta de Recomendación + Declaración de Logros, todos × 6 idiomas), **sección #productos** con 8 cards descargables (landing + .exe/.zip/.apk), **PWA instalable** con service worker v7 (network-first `cache: no-cache`), **CV Data API JSON estática** en `api/v1/` (6 endpoints sin servidor), wrapper Capacitor para Android/iOS, **APK v2.3.0** firmado y publicado, **Lighthouse 100**.
 
 ### ⚡ Unikernel Labs · Control Center v1.0.0
 **Repo:** https://github.com/vladimiracunadev-create/unikernel-labs
 **Qué demuestra:** Capa de control Windows sobre runtime Linux real para operar servicios **Unikraft**: Dashboard Node.js (REST API en `localhost:9091`), Launcher WinForms .NET y backend WSL2 con `kraft` + QEMU/KVM. Catálogo único en `labs.config.json` (sincronizado al launcher), 8 labs (de `01-hello-world` a `08-kraft-cloud-track`), arranque real validado de `nginx-runtime` en `localhost:8080`. Workflow de build automatizado para instalador `.exe` de Windows + instalación silenciosa.
 
-### 🍎 ChofyAI Studio · macOS Local AI Launcher · Fase 4
+### 🍎 ChofyAI Studio v0.5.1 · macOS Apple Silicon + Windows experimental + NVIDIA GPU
 **Repo:** https://github.com/vladimiracunadev-create/chofyai-studio
-**Qué demuestra:** Lanzador de escritorio para macOS Apple Silicon (**Tauri + Rust + React**) que centraliza e instala herramientas de IA local: **Qwen3-TTS**, **whisper.cpp**, **FaceFusion**, **AceForge**. Fase 4 entregada: disco dual, zona de módulos con instalación/actualización individual, panel de stats, empaquetado ad-hoc para distribución, soporte `uv` como acelerador opcional para tools Python.
+**Qué demuestra:** Lanzador de escritorio para **IA local creativa** validado en **macOS Apple Silicon** con soporte experimental **Windows + NVIDIA GPU** (**Tauri 2 + Rust + React**). Orquesta 5 herramientas: **Qwen3-TTS**, **whisper.cpp**, **FaceFusion**, **AceForge** y **ComfyUI** (5/5 inferencia real). Descargas guiadas de modelos con progreso, settings UI (model/output/cache dirs), automated .dmg releases, **pnpm migration + SHA-512 lockfile verification**, soporte `uv` como acelerador opcional para tools Python.
 
 ### 🐳 Problem-Driven Systems Lab · 12 casos · 5 stacks (PHP 8 · Python · Node · Java 21 · .NET 8)
 **Repo:** https://github.com/vladimiracunadev-create/problem-driven-systems-lab
 **Qué demuestra:** **12 problemas reales de ingeniería** (latencia bajo carga, N+1, observabilidad pobre, retry storms, fugas de memoria, pipelines frágiles, modernización del monolito, extracción crítica, integraciones inestables, sobre-arquitectura, reportes bloqueantes, single point of knowledge) con fallos de alta fidelidad inyectados — no simulaciones abstractas. Resuelto en **5 stacks**: PHP 8, Python, Node.js, **Java 21** (`ConcurrentHashMap`, `CompletableFuture.orTimeout`, `Semaphore`, record types) y **.NET 8** (`ConcurrentDictionary`, `CancellationTokenSource`, `SemaphoreSlim`, `?.`+`??`). **Stack PHP 100% OPERATIVO** con UI nativa interactiva (los 12 casos detectan `Accept` de browser y devuelven **Dashboards Interactivos**), **stack Python 100% OPERATIVO** (12 casos en stdlib pura). Patrones profesionales: **Adapter, Strangler, Circuit Breaker, LRU, Cancellation**. Compose por lenguaje, Prometheus `:9091` + Grafana `:3001` + portal `:8080`. Plan **AWS_MIGRATION.md** documentado con 3 rutas (ECS Fargate · Lambda · EKS), costos reales estimados y mapping explícito de cómo AWS mitiga cada hallazgo de `SECURITY.md` (Cognito, WAF, DynamoDB, etc.) sin tocar código del lab.
 
-### 🧰 Claude Skills Toolkit · Skills agentic para Claude Code (Python · Cross-platform · Zero-deps)
+### 🧰 Claude Skills Toolkit · 7 skills agentic para Claude Code (Python · Cross-platform · Zero-deps)
 **Repo:** https://github.com/vladimiracunadev-create/claude-skills-toolkit
-**Qué demuestra:** Conjunto de skills agentic productivos para Claude Code. **security-audit** corre 12 capas — OSV / CISA KEV / EPSS / GHSA / PyPA / RustSec / Bandit SAST / trivy + grype container scan / gitleaks + detect-secrets / zizmor (GitHub Actions) / hadolint (Dockerfile) / typosquat heurístico — genera reporte Markdown y opcionalmente PR de bump con auto-merge. **yaml-control** valida YAML + actionlint sobre workflows. **md-lint-fix** detecta y auto-corrige MD024/040/031/etc. con contexto. **docker-cleanup** wipea contenedores, imágenes, volúmenes, redes y build cache. Zero-deps por defecto y cross-platform (Linux 🐧 · macOS 🍎 · Windows 🪟).
+**Qué demuestra:** **7 skills agentic** productivos para Claude Code. **security-audit** corre 12 capas — OSV / CISA KEV / EPSS / GHSA / PyPA / RustSec / Bandit SAST / trivy + grype container scan / gitleaks + detect-secrets / zizmor (GitHub Actions) / hadolint (Dockerfile) / typosquat heurístico — genera reporte Markdown y opcionalmente PR de bump con auto-merge. **yaml-control** valida YAML + actionlint sobre workflows. **md-lint-fix** detecta y auto-corrige MD024/040/031/etc. con contexto. **docker-cleanup** wipea contenedores, imágenes, volúmenes, redes y build cache. **docker-compose-doctor** diagnostica problemas en `compose*.yml` antes de levantar el stack. **pre-push-guard** orquesta validadores antes de `git push` (yaml-control + md-lint-fix + pytest según diff). **web-snap** captura screenshots de URLs en Windows. Zero-deps por defecto y cross-platform (Linux 🐧 · macOS 🍎 · Windows 🪟).
 
-### 🗄️ GabySQL · Base de datos embebida en Rust (single-file · WAL · HTTP/JSON · edge)
+### 🗄️ GabySQL v0.2.0 + Modeler v0.1.0 · Base de datos embebida en Rust (single-file · WAL · HTTP/JSON · edge)
 **Repo:** https://github.com/vladimiracunadev-create/gabysql
-**Qué demuestra:** Motor de base de datos embebido escrito en **Rust 🦀**, diseñado para entornos embebidos, edge computing y aplicaciones que necesitan persistencia sin servidor externo. **Archivo único `.db`** (formato propietario con WAL para integridad), **API HTTP/JSON** para integración con cualquier lenguaje, **admin web liviano** servido por el mismo proceso. Cross-platform (Linux · macOS · Windows), distribuido como binario único sin runtime. Demuestra dominio de Rust para systems programming, diseño de storage engines y trade-offs de DBs single-file (SQLite-style) vs cliente-servidor.
+**Qué demuestra:** Motor de base de datos embebido escrito en **Rust 🦀** (Fase 3 completada 2026-06-11). **Archivo único `.db`** (formato propietario con WAL para integridad), **API HTTP/JSON** + **admin web liviano** + **GabyModeler desktop GUI v0.1.0** (Windows .exe/.msi). **Cost-based query optimizer**, estadísticas persistentes de columnas, lookups por índice compuesto, **SAVEPOINT/ROLLBACK TO**, sesiones HTTP cross-request. **828 tests passing**, **parser fuzzing con 503.8M queries (zero panics)**. Builds cross-platform: Windows x86_64 (.exe + .msi + .zip), macOS arm64 (.tar.gz), Linux x86_64 (.tar.gz). Demuestra dominio de Rust para systems programming, diseño de storage engines y trade-offs de DBs single-file (SQLite-style) vs cliente-servidor.
 
-### 📚 Python Data Science Program · 197 clases · 9 partes · Lab Flask + Windows + Android
+
+### 🤖 Automa · PC Orchestrator v0.2.1 · Orquestador local Windows (Playwright + pywebview + PyInstaller)
+**Repo:** https://github.com/vladimiracunadev-create/automa-pc
+**Landing:** https://vladimiracunadev-create.github.io/automa-pc/
+**Qué demuestra:** Orquestador local de **acciones efectivas sobre Windows**. **20 flows operativos** declarativos en JSON que **abren ventanas reales**, **interactúan con DOM**, **capturan evidencia** y **dejan trazabilidad**. Panel local en `127.0.0.1` (**pywebview + PyInstaller**), stack **Python 3.10+ + Playwright** (headless y visible), **SQLite** para historial, OCR/visión, **uv** packaging, **115 pytest tests**, **instalador Windows firmado** (`Automa-Setup-v0.2.1.exe`). Local-first, sin servicios en la nube. Cubre el espacio "más allá de un scheduler" — pasa de reporte pasivo a operación activa sobre el equipo.
+
+### 🔍 RootCause · Windows Inspector v0.11.0 · Diagnóstico forense en Rust (5 ediciones)
+**Repo:** https://github.com/vladimiracunadev-create/rootcause-windows-inspector
+**Landing:** https://vladimiracunadev-create.github.io/rootcause-windows-inspector/
+**Qué demuestra:** Software de escritorio **Windows 10/11** escrito en **Rust 🦀 (edition 2024)** que descubre **qué proceso, servicio, carpeta, conexión o traza ETL** está degradando el equipo (disco 100%, crecimiento anormal de `%TEMP%`, lentitud, alto consumo de RAM, red sin explicación). **5 ediciones publicadas** por release: GUI Desktop (`RootCause-Setup.exe`), Portable .zip, **CLI single-binary** (`rootcause.exe`), módulo PowerShell (`.psm1`), extensión VS Code (`.vsix`). Stack ETW + WPR, alto rendimiento, **SHA256SUMS** por release, **11+ releases tagueadas** (v0.5.0 → v0.11.0). Filosofía: *diagnóstico primero, intervención después* — no es un "limpiador mágico". CI Windows con badge.
+
+### 📚 Python Data Science Program v3.8.0 · 232 clases · 9 partes · Windows nativo (PySide6+Qt) + Android (Expo)
 **Repo:** https://github.com/vladimiracunadev-create/python-data-science-program
-**Qué demuestra:** Programa avanzado de Data Science y Machine Learning estructurado en **9 partes y 197 clases**: Python aplicado, **ML clásico** (regresión, clasificación, clustering), **Deep Learning** (redes neuronales, CNN, transformers), **estadística inferencial**, **MLOps** (CI/CD para modelos, monitoring, drift detection), **ingeniería de datos** (pipelines, ETL), **sistemas de recomendación**, **ética en IA** y **capstones** integradores. Distribución multiplataforma: **Laboratorio Flask interactivo** (entorno web con notebooks ejecutables), **app de escritorio Windows** (Edge WebView2) y **app Android** (Expo).
+**Qué demuestra:** Programa avanzado de Data Science y Machine Learning estructurado en **9 partes y 232 clases**: Python aplicado + Polars, **ML clásico** + Optuna/SHAP, **Deep Learning** (PyTorch, LLMs, LoRA/DPO/vLLM, MCP, agentes, multimodal, SDXL, JAX), **estadística inferencial + causalidad**, **MLOps**, **ingeniería de datos**, **recomendadores**, **ética/fairness** y **capstones** integradores. Distribución multiplataforma: **Laboratorio Flask interactivo** + **kernel Jupyter real**, **app de escritorio Windows nativa** (**PySide6 + Qt + kernel Jupyter** integrado) y **app Android** (**Expo SDK 51**). 232 PDFs + 232 PPTX generados.
 
 ---
 
@@ -200,7 +213,7 @@ Lo que repetí y reforcé al crecer los commits del portafolio:
 - **AI Automation Engineer** — orquestación de workflows reales con n8n, Python, circuit breaker e idempotencia (social-bot-scheduler v4.3 · 9 casos de integración · Caddy edge proxy + TLS)
 - **Solutions Engineer** — demos y PoCs verificables, comunicación técnico-negocio, requisitos y arquitectura orientada a cliente
 - **Technical Product Builder** — construcción end-to-end: arquitectura, desarrollo, operación y entrega con criterio de producto (incluye instaladores Windows `.exe` automatizados — docker-labs, unikernel-labs)
-- **Technical Trainer / Educador técnico** — **python-data-science-program** con **197 clases en 9 partes** (Python aplicado, ML clásico, Deep Learning, estadística inferencial, MLOps, ingeniería de datos, recomendadores, ética, capstones) · Laboratorio Flask interactivo · App Desktop Windows (Edge WebView2) · App Android (Expo)
+- **Technical Trainer / Educador técnico** — **python-data-science-program v3.8.0** con **232 clases en 9 partes** (Python aplicado, ML clásico, Deep Learning, estadística inferencial, MLOps, ingeniería de datos, recomendadores, ética, capstones) · Laboratorio Flask interactivo · **App Desktop Windows nativa** (PySide6 + Qt + kernel Jupyter) · **App Android** (Expo SDK 51) · 232 PDFs + 232 PPTX generados
 - **Consultor de Transformación Digital** — diagnóstico, plan evolutivo y ejecución de modernización en organizaciones con legacy real
 - **Product Operations Técnico** — continuidad y evolución de plataformas con observabilidad, reducción de fricción y mejora continua
 
@@ -253,4 +266,4 @@ Como parte de los estándares de este ecosistema, la documentación detallada se
 
 ---
 
-<sub>Última actualización: 2026-05-21 · README sincronizado con el estado real verificado de cada repositorio público.</sub>
+<sub>Última actualización: 2026-06-20 · README sincronizado con el estado real verificado de cada repositorio público.</sub>
