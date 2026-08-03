@@ -1,9 +1,13 @@
 name: Estadísticas del perfil
 
-# Mantiene al día las cifras del README que GitHub no expone como endpoint.
-# «Repos públicos» se lee en vivo desde Shields.io y no necesita este flujo;
-# «releases publicadas» y «lenguajes» hay que contarlos recorriendo los repos,
-# así que se recalculan aquí y se reescriben entre los marcadores STATS.
+# Mantiene al día las cifras del README y las escribe como insignias estáticas
+# entre los marcadores STATS.
+#
+# Se evitan a propósito las insignias `dynamic/json` de Shields.io apuntando a
+# api.github.com: obligan a Shields a consultar esa API en cada petición, y su
+# límite sin autenticar (60/hora por IP, compartido entre todos sus usuarios) se
+# agota. Cuando eso pasa, la insignia renderiza «invalid» en el perfil. Aquí la
+# consulta la hace el runner con su propio token y el resultado queda escrito.
 
 on:
   schedule:
@@ -56,6 +60,7 @@ jobs:
       - name: Reescribir el bloque del README
         env:
           USUARIO: ${{ github.repository_owner }}
+          REPOS: ${{ steps.contar.outputs.repos }}
           RELEASES: ${{ steps.contar.outputs.releases }}
           LENGUAJES: ${{ steps.contar.outputs.lenguajes }}
         run: |
@@ -63,6 +68,7 @@ jobs:
           import os, re
 
           usuario = os.environ["USUARIO"]
+          repos = os.environ["REPOS"]
           releases = os.environ["RELEASES"]
           lenguajes = os.environ["LENGUAJES"]
 
@@ -71,7 +77,7 @@ jobs:
           # esa indentación acabaría dentro del README.
           bloque = "\n".join([
               "<!-- STATS:START -->",
-              f"[![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F{usuario}&query=%24.public_repos&label=repos%20p%C3%BAblicos&color=7c5cff&style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
+              f"[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-{repos}-7c5cff?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
               f"[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-{releases}-f39c12?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
               f"[![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-{lenguajes}-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)",
               "<!-- STATS:END -->",
