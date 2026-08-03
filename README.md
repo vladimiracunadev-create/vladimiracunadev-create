@@ -11,9 +11,14 @@
 [![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
 [![Experiencia](https://img.shields.io/badge/experiencia-%2B16%20años-e67e22?style=for-the-badge)](#-alcance-profesional)
-[![Repos](https://img.shields.io/badge/repos%20públicos-29-7c5cff?style=for-the-badge)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Productos](https://img.shields.io/badge/productos-instaladores%20firmados-007c83?style=for-the-badge)](#-productos-con-distribución-real)
 [![Currículos](https://img.shields.io/badge/currículos-9%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+
+<!-- STATS:START -->
+[![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvladimiracunadev-create&query=%24.public_repos&label=repos%20p%C3%BAblicos&color=7c5cff&style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-85-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
+<!-- STATS:END -->
 
 [🌐 Portafolio (6 idiomas)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosistema](#-el-ecosistema-de-un-vistazo) ·

@@ -1,0 +1,104 @@
+name: Estadísticas del perfil
+
+# Mantiene al día las cifras del README que GitHub no expone como endpoint.
+# «Repos públicos» se lee en vivo desde Shields.io y no necesita este flujo;
+# «releases publicadas» y «lenguajes» hay que contarlos recorriendo los repos,
+# así que se recalculan aquí y se reescriben entre los marcadores STATS.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: perfil-stats
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Contar releases y lenguajes
+        id: contar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USUARIO: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          # Solo repositorios públicos y propios: los forks no son obra propia.
+          gh api "users/$USUARIO/repos?type=owner&per_page=100" --paginate \
+            --jq '.[] | select(.private == false and .fork == false) | "\(.name)\t\(.language // "")"' > repos.tsv
+
+          repos=$(wc -l < repos.tsv)
+          lenguajes=$(cut -f2 repos.tsv | grep -v '^$' | sort -u | wc -l)
+
+          # `--paginate` emite un `length` por página: se suman con awk para no
+          # depender de `bc`, que no está garantizado en el runner.
+          releases=0
+          while IFS=$'\t' read -r nombre _; do
+            n=$(gh api "repos/$USUARIO/$nombre/releases?per_page=100" --paginate --jq 'length' 2>/dev/null \
+                | awk '{s += $1} END {print s + 0}')
+            releases=$((releases + ${n:-0}))
+          done < repos.tsv
+
+          echo "repos=$repos"         >> "$GITHUB_OUTPUT"
+          echo "lenguajes=$lenguajes" >> "$GITHUB_OUTPUT"
+          echo "releases=$releases"   >> "$GITHUB_OUTPUT"
+          echo "Repos: $repos · Releases: $releases · Lenguajes: $lenguajes"
+
+      - name: Reescribir el bloque del README
+        env:
+          USUARIO: ${{ github.repository_owner }}
+          RELEASES: ${{ steps.contar.outputs.releases }}
+          LENGUAJES: ${{ steps.contar.outputs.lenguajes }}
+        run: |
+          python - <<'PY'
+          import os, re
+
+          usuario = os.environ["USUARIO"]
+          releases = os.environ["RELEASES"]
+          lenguajes = os.environ["LENGUAJES"]
+
+          # Las líneas se unen en Python en vez de escribirse en un literal
+          # multilínea: dentro del bloque `run:` tendrían que ir indentadas, y
+          # esa indentación acabaría dentro del README.
+          bloque = "\n".join([
+              "<!-- STATS:START -->",
+              f"[![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F{usuario}&query=%24.public_repos&label=repos%20p%C3%BAblicos&color=7c5cff&style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
+              f"[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-{releases}-f39c12?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
+              f"[![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-{lenguajes}-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)",
+              "<!-- STATS:END -->",
+          ])
+
+          readme = open("README.md", encoding="utf-8").read()
+          nuevo = re.sub(
+              r"<!-- STATS:START -->.*?<!-- STATS:END -->",
+              lambda _: bloque,
+              readme,
+              flags=re.S,
+          )
+          if nuevo == readme:
+              print("Sin cambios en las cifras.")
+          else:
+              open("README.md", "w", encoding="utf-8").write(nuevo)
+              print("README actualizado.")
+          PY
+
+      - name: Publicar si cambió
+        run: |
+          if git diff --quiet README.md; then
+            echo "Las cifras no variaron; no hay nada que publicar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: actualiza las estadísticas del perfil"
+          git push
