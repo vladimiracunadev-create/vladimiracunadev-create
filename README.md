@@ -59,7 +59,7 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🔗 **Integración políglota** | **19 casos** emisor→n8n→receptor · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
 | 📦 **Distribución** | Instaladores `.exe` · `.msi` · `.dmg` · `.apk` firmados y automatizados, con `SHA256SUMS` por release |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **9 programas** secuenciales, cada clase con laboratorio y reto con criterio de aceptación · conteo declarado repo a repo, distinguiendo lo listo de lo planificado |
+| 📚 **Currículos** | **1.508 clases** numeradas en 6 programas —contadas sobre las carpetas del repositorio, no declaradas— más 3 programas con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **30+ PDFs** por pipeline · CV Data API · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses — verificada en cada build (sin permiso `INTERNET` en Android) |
 
@@ -116,12 +116,12 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**.
+Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Los seis primeros suman **1.508 clases numeradas**, contadas sobre las carpetas reales del repositorio y actualizadas cada semana por [un workflow](.github/workflows/stats.yml), no escritas a mano.
 
 | Programa | Clases | Alcance |
 |---|---:|---|
 | [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 340 | Fundamentos → Red Team, DFIR, cloud security, exploit dev · mapeo a **7 certificaciones** |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 45 de ~292 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **6 labs Godot verificados en CI** |
+| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 292 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **6 labs Godot verificados en CI** |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · manual PDF de 1.537 páginas |
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android |
 | [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 180 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, robótica, MLOps |
