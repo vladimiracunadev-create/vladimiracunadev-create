@@ -18,6 +18,7 @@
 [![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-29-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-82-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-1508-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 <!-- STATS:END -->
 
 [🌐 Portafolio (6 idiomas)](https://vladimiracunadev-create.github.io/) ·
