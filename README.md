@@ -63,6 +63,7 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 📚 **Currículos** | **1.508 clases** numeradas en 6 programas —contadas sobre las carpetas del repositorio, no declaradas— más 3 programas con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **30+ PDFs** por pipeline · CV Data API · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses — verificada en cada build (sin permiso `INTERNET` en Android) |
+| 🌐 **Sitios publicados** | **18 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio |
 
 ## 🗺️ El ecosistema de un vistazo
 
@@ -74,7 +75,7 @@ flowchart TD
     A --> E["📚 Currículos<br/>técnicos completos"]
     A --> F["🔬 Computación<br/>científica y educativa"]
 
-    B --> B1["RootCause · GabySQL<br/>Automa · ChofyAI · Rhino Suite"]
+    B --> B1["RootCause ×3 · GabySQL · Automa<br/>Code Scanner · ChofyAI · Rhino Suite"]
     C --> C1["Docker · WSL · Unikernel<br/>Microsistemas · Problem-Driven"]
     D --> D1["LangGraph · MCP+Ollama<br/>Claude Skills · Social Bot"]
     E --> E1["Ciberseguridad · GameDev · Data Science<br/>Multi-Cloud · IA · Blockchain"]
@@ -88,23 +89,25 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | Producto | Qué es | Stack | Entrega |
 |---|---|---|---|
 | [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Forense de ciberseguridad: toda distorsión anómala de recursos puede ser el primer indicio de una amenaza. Diagnóstico primero, intervención después | Rust 🦀 · ETW/WPR | **5 ediciones**: GUI · Portable · CLI · PowerShell · VS Code · [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | El hermano móvil: sensor forense que compara cada app consigo misma, señala stalkerware y distingue permisos concedidos de solo pedidos | Flutter · Kotlin · Swift | APK firmado · 5 idiomas · **telemetría cero** |
+| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | El hermano móvil: sensor forense que compara cada app consigo misma, señala stalkerware y distingue permisos concedidos de solo pedidos | Flutter · Kotlin · Swift | APK firmado · 5 idiomas · **telemetría cero** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
+| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | La tercera edición: sensor de la superficie del navegador — cookies, sesiones de correo, extensiones, descargas y permisos de sitio | JavaScript · extensión MV3 | v0.1.0, **aún sin release publicada** · panel en `127.0.0.1` · cero dependencias · telemetría cero verificada en CI · [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
+| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | Lector de QR y códigos de barras que **interpreta antes de actuar**: 16 señales de riesgo locales por URL y confirmación explícita | Flutter · Dart | Android · iOS · macOS · PWA · historial cifrado **AES-256-GCM** |
 | [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Base de datos embebida: archivo único `.db`, WAL, optimizador por costos, API HTTP/JSON | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
 | [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Orquestador local: flows JSON que abren ventanas reales, interactúan con DOM y dejan evidencia | Python · Playwright · pywebview | **27 flows** · instalador firmado · [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
-| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Launcher de IA creativa local: orquesta Qwen3-TTS, whisper.cpp, FaceFusion, AceForge y ComfyUI | Tauri 2 · Rust · React | macOS Apple Silicon · Windows experimental |
+| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Launcher de IA creativa local: orquesta Qwen3-TTS, whisper.cpp, FaceFusion, AceForge y ComfyUI | Tauri 2 · Rust · React | macOS Apple Silicon · Windows experimental · [sitio](https://vladimiracunadev-create.github.io/chofyai-studio/) |
 | [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Suite ofimática desde cero: las reglas del documento no dependen del DOM — el HTML es solo una proyección | Rust/WASM · Go · React 19 | Monorepo evolutivo por fases |
-| [🎻 **Mi Aventura con el Violín**](https://github.com/vladimiracunadev-create/violin-adventure) | App educativa infantil: afinador cromático, metrónomo exacto sobre el reloj de audio, canciones con violín real | Tauri 2 · React · TS | Windows · Android · Linux · macOS · PWA |
+| [🎻 **Mi Aventura con el Violín**](https://github.com/vladimiracunadev-create/violin-adventure) | App educativa infantil: afinador cromático, metrónomo exacto sobre el reloj de audio, canciones con violín real | Tauri 2 · React · TS | Windows · Android · Linux · macOS · PWA · [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
 
 ## 🧪 Laboratorios de ingeniería
 
 | Repo | Qué demuestra |
 |---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **12 problemas reales** (latencia bajo carga, N+1, retry storms, fugas, monolito) con fallos de alta fidelidad inyectados, resueltos en **5 stacks**: PHP 8 · Python · Node · Java 21 · .NET 8 |
+| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **12 problemas reales** (latencia bajo carga, N+1, retry storms, fugas, monolito) con fallos de alta fidelidad inyectados, resueltos en **7 stacks**: PHP 8 · Python · Node.js · Java 21 · .NET 8 · **Go** · **Rust** |
 | [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **19 casos** origen→n8n→receptor sobre **18+ motores de BD**, auditoría de **8 capas**, guardrails de idempotencia, circuit breaker y DLQ |
-| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 microapps** de diagnóstico y modernización PHP · servidor MCP local de solo lectura · hardening en 3 fases |
+| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 microapps** de diagnóstico y modernización PHP · servidor MCP local de solo lectura · hardening en 3 fases · [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 labs** en plataforma de 4 servicios + instalador `.exe` automatizado con launcher |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 casos** sobre `wslc`, el motor de contenedores nativo de WSL — **sin Docker Desktop** |
-| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | «Docker Desktop para unikernels»: control Windows sobre Unikraft con backend WSL2, `kraft` + QEMU/KVM |
+| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | «Docker Desktop para unikernels»: control Windows sobre Unikraft con backend WSL2, `kraft` + QEMU/KVM · [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
 | [☁️ **Proyectos AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casos progresivos donde cada uno añade un servicio AWS **y** una capacidad de GitHub Actions nueva · cobertura SAA-C03 · DVA-C02 · SOA-C02 |
 
 ## 🤖 IA aplicada
@@ -113,7 +116,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 |---|---|
 | [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 backends operativos** — estado tipado, rutas condicionales, streaming NDJSON, modo DEMO/LIVE, 8 capas de seguridad, cadena de custodia SHA-256 |
 | [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | IA local-first con tools MCP en sandbox · bind `127.0.0.1` · trust profile multi-capa · honesto sobre sus límites |
-| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **10 skills agentic** para Claude Code · `security-audit` de **12 capas** (OSV · KEV · EPSS · SAST · contenedor · secretos) · zero-deps · multiplataforma |
+| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **14 skills agentic** para Claude Code · **seguridad**: `security-audit` de 12 capas (OSV · KEV · EPSS · SAST · contenedor · secretos) · **gates de repositorio**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **coherencia**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **Docker**: `docker-cleanup`, `docker-compose-doctor` · **documentación**: `md-to-doc`, `web-snap` · zero-deps · multiplataforma |
 
 ## 📚 Currículos técnicos completos
 
@@ -121,21 +124,21 @@ Programas secuenciales en español, cada clase con laboratorio guiado y **reto c
 
 | Programa | Clases | Alcance |
 |---|---:|---|
-| [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 340 | Fundamentos → Red Team, DFIR, cloud security, exploit dev · mapeo a **7 certificaciones** |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 292 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **6 labs Godot verificados en CI** |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · manual PDF de 1.537 páginas |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android |
-| [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 180 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, robótica, MLOps |
-| [🌐 **Programación comparada**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Un concepto, **10 lenguajes** verificados en CI + atlas de ~40 familias |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 19 módulos | De cero a producción · 50 prácticas, 21 autoverificadas con tests |
-| [🧠 **Neural Network Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 93 notebooks | Ciclo completo: sellado de test, champion/challenger, ONNX/INT8, DDP/FSDP2, SBOM |
+| [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 340 | Fundamentos → Red Team, DFIR, cloud security, exploit dev · mapeo a **7 certificaciones** · [sitio](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
+| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 292 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **6 labs Godot verificados en CI** · [sitio](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
+| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · manual PDF de 1.537 páginas · [sitio](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
+| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android · [sitio](https://vladimiracunadev-create.github.io/python-data-science-program/) |
+| [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 180 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, robótica, MLOps · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🌐 **Programación comparada**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Un concepto, **10 lenguajes** verificados en CI + atlas de ~40 familias · [sitio](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 19 módulos | De cero a producción · 50 prácticas, **31 autoverificadas** con tests · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [🧠 **Neural Network Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 93 notebooks | Ciclo completo: sellado de test, champion/challenger, ONNX/INT8, DDP/FSDP2, SBOM · [sitio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | — | Base documental de simulación · *sin simulador ejecutable todavía, y así se declara* |
 
 ## 🔬 Computación científica
 
 | Repo | Qué demuestra |
 |---|---|
-| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Plataforma reproducible de genómica: contratos tipados `ScientificResult<T>`, FASTA/GFF3/VCF, módulos con **madurez y evidencia explícitas**. Honestidad radical: *no realiza diagnóstico clínico* |
+| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Plataforma reproducible de genómica: contratos tipados `ScientificResult<T>`, FASTA/GFF3/VCF, módulos con **madurez y evidencia explícitas**. Honestidad radical: *no realiza diagnóstico clínico* · [sitio](https://vladimiracunadev-create.github.io/human-genome-labs/) |
 
 ## ⚡ Si tienes 10 minutos para evaluarme
 
