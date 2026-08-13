@@ -12,7 +12,7 @@
 
 [![Experiencia](https://img.shields.io/badge/experiencia-%2B16%20años-e67e22?style=for-the-badge)](#-alcance-profesional)
 [![Productos](https://img.shields.io/badge/productos-instaladores%20firmados-007c83?style=for-the-badge)](#-productos-con-distribución-real)
-[![Currículos](https://img.shields.io/badge/currículos-9%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Currículos](https://img.shields.io/badge/currículos-13%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
 [![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-33-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -60,10 +60,10 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🔗 **Integración políglota** | **19 casos** emisor→n8n→receptor · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
 | 📦 **Distribución** | Instaladores `.exe` · `.msi` · `.dmg` · `.apk` firmados y automatizados, con `SHA256SUMS` por release |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **1.508 clases** numeradas en 6 programas —contadas sobre las carpetas del repositorio, no declaradas— más 3 programas con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
+| 📚 **Currículos** | **1.928 clases** numeradas en 7 programas —contadas sobre las carpetas del repositorio, no declaradas— más 4 programas que declaran las suyas con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **30+ PDFs** por pipeline · CV Data API · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses — verificada en cada build (sin permiso `INTERNET` en Android) |
-| 🌐 **Sitios publicados** | **18 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio |
+| 🌐 **Sitios publicados** | **24 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio |
 
 ## 🗺️ El ecosistema de un vistazo
 
@@ -76,9 +76,9 @@ flowchart TD
     A --> F["🔬 Computación<br/>científica y educativa"]
 
     B --> B1["RootCause ×3 · GabySQL · Automa<br/>Code Scanner · ChofyAI · Rhino Suite"]
-    C --> C1["Docker · WSL · Unikernel<br/>Microsistemas · Problem-Driven"]
+    C --> C1["Docker · WSL · Unikernel · Sandbox<br/>Microsistemas · Problem-Driven"]
     D --> D1["LangGraph · MCP+Ollama<br/>Claude Skills · Social Bot"]
-    E --> E1["Ciberseguridad · GameDev · Data Science<br/>Multi-Cloud · IA · Blockchain"]
+    E --> E1["Ciberseguridad · GameDev · Data Science · Multi-Cloud<br/>IA · Blockchain · Matemática · Negocios · Finanzas · Liderazgo"]
     F --> F1["Human Genome Labs<br/>Mi Aventura con el Violín"]
 ```
 
@@ -89,7 +89,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | Producto | Qué es | Stack | Entrega |
 |---|---|---|---|
 | [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Forense de ciberseguridad: toda distorsión anómala de recursos puede ser el primer indicio de una amenaza. Diagnóstico primero, intervención después | Rust 🦀 · ETW/WPR | **5 ediciones**: GUI · Portable · CLI · PowerShell · VS Code · [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | El hermano móvil: sensor forense que compara cada app consigo misma, señala stalkerware y distingue permisos concedidos de solo pedidos | Flutter · Kotlin · Swift | APK firmado · 5 idiomas · **telemetría cero** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
+| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | El hermano móvil: sensor forense que compara cada app consigo misma, señala stalkerware y distingue permisos concedidos de solo pedidos | Flutter · Kotlin · Swift | **v0.8.0** · APK firmado · 5 idiomas · **telemetría cero** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
 | [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | La tercera edición: sensor de la superficie del navegador — cookies, sesiones de correo, extensiones, descargas y permisos de sitio | JavaScript · extensión MV3 | v0.1.0, **aún sin release publicada** · panel en `127.0.0.1` · cero dependencias · telemetría cero verificada en CI · [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
 | [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | Lector de QR y códigos de barras que **interpreta antes de actuar**: 16 señales de riesgo locales por URL y confirmación explícita | Flutter · Dart | Android · iOS · macOS · PWA · historial cifrado **AES-256-GCM** |
 | [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Base de datos embebida: archivo único `.db`, WAL, optimizador por costos, API HTTP/JSON | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
@@ -108,6 +108,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 labs** en plataforma de 4 servicios + instalador `.exe` automatizado con launcher |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 casos** sobre `wslc`, el motor de contenedores nativo de WSL — **sin Docker Desktop** |
 | [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | «Docker Desktop para unikernels»: control Windows sobre Unikraft con backend WSL2, `kraft` + QEMU/KVM · [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
+| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Aislamiento en Linux: ejecuta código, archivos y modelos de negocio ajenos bajo políticas declaradas y **emite evidencia firmada de qué controles se aplicaron de verdad** · **36 casos** en dos familias · declarado experimental y educativo, *no un producto de seguridad* · [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [☁️ **Proyectos AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casos progresivos donde cada uno añade un servicio AWS **y** una capacidad de GitHub Actions nueva · cobertura SAA-C03 · DVA-C02 · SOA-C02 |
 
 ## 🤖 IA aplicada
@@ -120,17 +121,21 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Los seis primeros suman **1.508 clases numeradas**, contadas sobre las carpetas reales del repositorio y actualizadas cada semana por [un workflow](.github/workflows/stats.yml), no escritas a mano.
+Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Siete de ellos —los que numeran cada clase en su propia carpeta— suman **1.928 clases**, contadas sobre el repositorio real por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano. Los demás organizan el temario con otra estructura y declaran sus propias cifras, marcadas abajo con *(declarado)*.
 
 | Programa | Clases | Alcance |
 |---|---:|---|
+| [🔢 **Matemática computacional**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | De contar con los dedos a reproducir un paper · **360 demostraciones deterministas verificadas en CI** · 1.080 notebooks · glosario de 489 términos · [sitio](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
+| [🏦 **Finanzas y Banca**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 *(declarado)* | Matemática financiera y NIIF → crédito, riesgos, Basilea III, finanzas abiertas, DLT, stablecoins y MiCA · 26 casos con **fuentes oficiales verificables en cada clase** · [sitio](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
+| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **10 labs Godot verificados en CI** (301 comprobaciones) · [sitio](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
 | [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 340 | Fundamentos → Red Team, DFIR, cloud security, exploit dev · mapeo a **7 certificaciones** · [sitio](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 292 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **6 labs Godot verificados en CI** · [sitio](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · manual PDF de 1.537 páginas · [sitio](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
+| [🏢 **Creación de empresas**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 *(declarado)* | Crear y operar una empresa real en Chile: de la idea a la constitución, el SII, la operación, la crisis y la salida · 360 diagramas · manual de 1.541 páginas · [sitio](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
+| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · manual PDF de 1.220 páginas · [sitio](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
+| [🎖️ **Liderazgo ejecutivo**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 *(declarado)* | De asumir tu primer resultado a dirigir una empresa y fundar la propia: equipos, KPI/OKR, finanzas, producto, riesgo, directorio y M&A · 24 casos, 96 labs y 39 plantillas · [sitio](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android · [sitio](https://vladimiracunadev-create.github.io/python-data-science-program/) |
 | [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 180 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, robótica, MLOps · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
 | [🌐 **Programación comparada**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Un concepto, **10 lenguajes** verificados en CI + atlas de ~40 familias · [sitio](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 19 módulos | De cero a producción · 50 prácticas, **31 autoverificadas** con tests · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 28 módulos | De cero a la infraestructura financiera programable · **70 prácticas · 186 pruebas** · apps offline · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 93 notebooks | Ciclo completo: sellado de test, champion/challenger, ONNX/INT8, DDP/FSDP2, SBOM · [sitio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | — | Base documental de simulación · *sin simulador ejecutable todavía, y así se declara* |
 
