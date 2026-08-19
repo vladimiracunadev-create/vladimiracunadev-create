@@ -57,11 +57,11 @@ No es «un repo»: es un ecosistema con estándares comunes.
 |---|---|
 | 🧪 **Cobertura de pruebas** | GabySQL **828 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **153 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** con **39 evals deterministas** |
-| 🔗 **Integración políglota** | **19 casos** emisor→n8n→receptor · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
+| 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
 | 📦 **Distribución** | **115 releases** publicadas en **39 repos públicos** · instaladores `.exe` · `.msi` · `.dmg` · `.apk` firmados y automatizados, con `SHA256SUMS` por release |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
 | 📚 **Currículos** | **1.931 clases** numeradas en 7 programas —contadas sobre las carpetas del repositorio, no declaradas— más seis programas que declaran las suyas con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
-| 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **30+ PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
+| 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **31 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
 | 🌐 **Sitios publicados** | **28 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio · todas comprobadas con respuesta `200` |
 
@@ -104,13 +104,13 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 | Repo | Qué demuestra |
 |---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **12 problemas reales** (latencia bajo carga, N+1, retry storms, fugas, monolito) con fallos de alta fidelidad inyectados, resueltos en **7 stacks**: PHP 8 · Python · Node.js · Java 21 · .NET 8 · **Go** · **Rust** |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **19 casos** origen→n8n→receptor sobre **18+ motores de BD**, auditoría de **8 capas**, guardrails de idempotencia, circuit breaker y DLQ |
+| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 problemas reales** (latencia bajo carga, N+1, retry storms, fugas, monolito, cache stampede, backpressure, migración sin downtime, DLQ olvidada) con fallos de alta fidelidad inyectados, resueltos en **7 stacks**: PHP 8 · Python · Node.js · Java 21 · .NET 8 · **Go 1.23** · **Rust 1.83** |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **20 casos** origen→n8n→receptor sobre **18+ motores de BD** —**19 operativos**— auditoría de **8 capas**, guardrails de idempotencia, circuit breaker y DLQ |
 | [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 microapps** de diagnóstico y modernización PHP · servidor MCP local de solo lectura · hardening en 3 fases · [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 labs** en plataforma de 4 servicios + instalador `.exe` automatizado con launcher |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 casos** sobre `wslc`, el motor de contenedores nativo de WSL — **sin Docker Desktop** |
 | [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | «Docker Desktop para unikernels»: control Windows sobre Unikraft con backend WSL2, `kraft` + QEMU/KVM · [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
-| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Aislamiento en Linux: ejecuta código, archivos y modelos de negocio ajenos bajo políticas declaradas y **emite evidencia firmada de qué controles se aplicaron de verdad** · **36 casos** en dos familias · declarado experimental y educativo, *no un producto de seguridad* · [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
+| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Aislamiento en Linux: ejecuta código, archivos y modelos de negocio ajenos bajo políticas declaradas y **emite evidencia firmada de qué controles se aplicaron de verdad** · **36 casos** en dos familias —15 técnicos y 21 de mercado de capitales— · declarado experimental y educativo, *no un producto de seguridad* · [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [☁️ **Proyectos AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casos progresivos donde cada uno añade un servicio AWS **y** una capacidad de GitHub Actions nueva · cobertura SAA-C03 · DVA-C02 · SOA-C02 |
 
 ## 🤖 IA aplicada
