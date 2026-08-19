@@ -43,14 +43,30 @@ jobs:
           repos=$(wc -l < repos.tsv)
           lenguajes=$(cut -f2 repos.tsv | grep -v '^$' | sort -u | wc -l)
 
-          # Clases de los currículos: carpetas `classes/<parte>/<NNN>-<slug>`.
-          # Se exige la ruta completa; anclar solo al inicio contaría además
-          # cada subcarpeta interna de la clase.
+          # Clases de los currículos. Los programas no comparten una única
+          # convención de carpetas, así que contar un solo patrón deja fuera
+          # programas enteros: hasta el 19-08-2026 se contaban 1931 clases de
+          # las 3463 reales porque solo se reconocía el patrón 1.
+          #
+          # Patrones que existen hoy en los repositorios:
+          #   1. classes|clases/<parte>/<NNN>-<slug>        (carpeta)
+          #   2. modules/<NN>-<slug>/classes/<NNN>-<slug>   (carpeta)
+          #   3. curriculum/part-<NN>.../class-<NN>...      (carpeta)
+          #   4. los patrones 2 y 3 cuando la clase es un .md, no una carpeta
+          #
+          # Se exige la ruta completa: anclar solo al inicio contaría además
+          # cada subcarpeta interna de la clase. Cada entrada del árbol se
+          # evalúa una sola vez, así que ningún patrón la cuenta dos veces.
           clases=0
           while IFS=$'\t' read -r nombre _; do
             n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
-                  --jq '[.tree[] | select(.type == "tree") | .path
-                         | select(test("^(classes|clases)/[^/]+/[0-9]{3}-[^/]+$"))] | length' \
+                  --jq '[.tree[] | select(
+                           (.type == "tree" and (.path | test("^(classes|clases)/[^/]+/[0-9]{3}-[^/]+$")))
+                           or (.type == "tree" and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]{3}-[^/]+$")))
+                           or (.type == "tree" and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
+                           or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]+-[^/]+$")))
+                           or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
+                         )] | length' \
                 2>/dev/null || echo 0)
             clases=$((clases + ${n:-0}))
           done < repos.tsv
