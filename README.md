@@ -12,14 +12,18 @@
 
 [![Experiencia](https://img.shields.io/badge/experiencia-%2B16%20años-e67e22?style=for-the-badge)](#-alcance-profesional)
 [![Productos](https://img.shields.io/badge/productos-instaladores%20firmados-007c83?style=for-the-badge)](#-productos-con-distribución-real)
-[![Currículos](https://img.shields.io/badge/currículos-15%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Currículos](https://img.shields.io/badge/currículos-18%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-43-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-46-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-118-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-3463-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-3651-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Forks](https://img.shields.io/badge/forks-2-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
+
+[![Estrellas](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=estrellas&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=seguidores&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
 [🌐 Portafolio (6 idiomas)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosistema](#-el-ecosistema-de-un-vistazo) ·
@@ -60,10 +64,10 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
 | 📦 **Distribución** | **118 releases** publicadas en **43 repos públicos** · instaladores `.exe` · `.msi` · `.dmg` · `.apk` firmados y automatizados, con `SHA256SUMS` por release |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **3.547 clases** numeradas en 12 programas —contadas una a una sobre las carpetas de cada repositorio, no declaradas— más 3 programas que organizan el temario con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
+| 📚 **Currículos** | **3.651 clases** numeradas en 14 programas —contadas una a una sobre las carpetas de cada repositorio, no declaradas— más 4 programas que organizan el temario con otra estructura · cada clase con laboratorio y reto con criterio de aceptación |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **31 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
-| 🌐 **Sitios publicados** | **32 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio · todas comprobadas con respuesta `200` |
+| 🌐 **Sitios publicados** | **34 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio · todas comprobadas con respuesta `200` |
 
 ## 🗺️ El ecosistema de un vistazo
 
@@ -126,7 +130,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Doce de ellos —los que numeran cada clase en su propia carpeta— suman **3.547 clases**, contadas sobre el repositorio real por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano. Los tres restantes organizan el temario con otra estructura —módulos, rutas o material documental— y así se indica en su fila.
+Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Catorce de ellos —los que numeran cada clase en su propia carpeta— suman **3.651 clases**, contadas sobre el repositorio real por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano. Los cuatro restantes organizan el temario con otra estructura —módulos, rutas o material documental— y así se indica en su fila.
 
 | Programa | Clases | Alcance |
 |---|---:|---|
@@ -142,6 +146,9 @@ Programas secuenciales en español, cada clase con laboratorio guiado y **reto c
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android · [sitio](https://vladimiracunadev-create.github.io/python-data-science-program/) |
 | [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 183 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, robótica, MLOps · **705 notebooks** · eje de **52 papers fundacionales** enlazados desde 86 clases · apps de Windows y Android · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
 | [🌐 **Programación comparada**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Un concepto, **10 lenguajes** verificados en CI — **1.360 implementaciones** — más **1.632 programas** en los lenguajes que siguen vivos (COBOL, Fortran, Ada, RPG, MUMPS…) y atlas de ~40 familias · [sitio](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
+| [🗄️ **Bases de datos**](https://github.com/vladimiracunadev-create/database-systems-labs) | 64 | Ingeniería de bases de datos en 14 partes · 210 horas · **la fuente verificable de cada afirmación** · [sitio](https://vladimiracunadev-create.github.io/database-systems-labs/) |
+| [📐 **Psicometría y medición**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Cómo se construye, puntúa, valida y audita un instrumento de medición · 8 partes · motor ejecutable con **5 instrumentos y 344 ítems, 276 de dominio público** |
+| [🧩 **Frameworks comparados**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 14 módulos | Un contrato, muchos ecosistemas, la misma prueba · **97 fuentes verificadas** (ISBN, DOI y normas) con **trazabilidad comprobada en CI** · [sitio](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 28 módulos | De cero a la infraestructura financiera programable · **70 prácticas · 186 pruebas** · apps offline · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 rutas · 155 notebooks | 25 labs + 6 especializaciones · ciclo completo: sellado de test, champion/challenger, ONNX/INT8, DDP/FSDP2, SBOM · [sitio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | — | Base documental de simulación · *sin simulador ejecutable todavía, y así se declara* |

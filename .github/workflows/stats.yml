@@ -8,6 +8,16 @@ name: Estadísticas del perfil
 # límite sin autenticar (60/hora por IP, compartido entre todos sus usuarios) se
 # agota. Cuando eso pasa, la insignia renderiza «invalid» en el perfil. Aquí la
 # consulta la hace el runner con su propio token y el resultado queda escrito.
+#
+# Excepción: las insignias NATIVAS de Shields —`github/stars/:usuario` y
+# `github/followers/:usuario`— sí se usan, y viven en el README FUERA de los
+# marcadores STATS. No son `dynamic/json`: Shields las resuelve con su propio
+# pool de tokens autenticados, así que no dependen del límite anónimo y se
+# actualizan solas en cada visita. Este workflow no las toca.
+#
+# Los forks no tienen insignia nativa a nivel de usuario (Shields solo ofrece
+# `github/forks/:usuario/:repo`, por repositorio), así que el total se cuenta
+# aquí y se escribe como insignia estática, igual que el resto del bloque.
 
 on:
   schedule:
@@ -80,11 +90,18 @@ jobs:
             releases=$((releases + ${n:-0}))
           done < repos.tsv
 
+          # Forks recibidos sobre obra propia. Se suman con awk por lo mismo que
+          # los releases: `bc` no está garantizado en el runner.
+          forks=$(gh api "users/$USUARIO/repos?type=owner&per_page=100" --paginate \
+                    --jq '.[] | select(.private == false and .fork == false) | .forks_count' \
+                  | awk '{s += $1} END {print s + 0}')
+
           echo "repos=$repos"         >> "$GITHUB_OUTPUT"
           echo "lenguajes=$lenguajes" >> "$GITHUB_OUTPUT"
           echo "releases=$releases"   >> "$GITHUB_OUTPUT"
           echo "clases=$clases"       >> "$GITHUB_OUTPUT"
-          echo "Repos: $repos · Releases: $releases · Lenguajes: $lenguajes · Clases: $clases"
+          echo "forks=$forks"         >> "$GITHUB_OUTPUT"
+          echo "Repos: $repos · Releases: $releases · Lenguajes: $lenguajes · Clases: $clases · Forks: $forks"
 
       - name: Reescribir el bloque del README
         env:
@@ -93,6 +110,7 @@ jobs:
           RELEASES: ${{ steps.contar.outputs.releases }}
           LENGUAJES: ${{ steps.contar.outputs.lenguajes }}
           CLASES: ${{ steps.contar.outputs.clases }}
+          FORKS: ${{ steps.contar.outputs.forks }}
         run: |
           python - <<'PY'
           import os, re
@@ -102,6 +120,7 @@ jobs:
           releases = os.environ["RELEASES"]
           lenguajes = os.environ["LENGUAJES"]
           clases = os.environ["CLASES"]
+          forks = os.environ["FORKS"]
 
           # Las líneas se unen en Python en vez de escribirse en un literal
           # multilínea: dentro del bloque `run:` tendrían que ir indentadas, y
@@ -112,6 +131,7 @@ jobs:
               f"[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-{releases}-f39c12?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
               f"[![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-{lenguajes}-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)",
               f"[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-{clases}-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)",
+              f"[![Forks](https://img.shields.io/badge/forks-{forks}-8957e5?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
               "<!-- STATS:END -->",
           ])
 
