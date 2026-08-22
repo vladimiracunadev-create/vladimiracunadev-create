@@ -15,8 +15,8 @@
 [![Currículos](https://img.shields.io/badge/currículos-18%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-48-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-118-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-49-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-119-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
 [![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-3800-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-2-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -62,12 +62,12 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **828 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **153 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** con **39 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **118 releases** publicadas en un ecosistema de **48 repos públicos** · instaladores `.exe` · `.msi` · `.dmg` · `.apk` firmados y automatizados, con `SHA256SUMS` por release |
+| 📦 **Distribución** | **119 releases** publicadas en un ecosistema de **49 repos públicos** · instaladores `.exe` · `.msi` · `.dmg` · `.apk` firmados y automatizados, con `SHA256SUMS` por release |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
 | 📚 **Currículos** | **3.800 clases** definidas en 15 programas —3.651 ya numeradas carpeta a carpeta y Frameworks con 149 clases, 70 construidas— más 3 programas que organizan el temario con otra estructura · cada clase con laboratorio y reto con criterio de aceptación cuando aplica |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **31 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
-| 🌐 **Sitios publicados** | **34 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio · todas comprobadas con respuesta `200` |
+| 🌐 **Sitios publicados** | **35 landings** en GitHub Pages, una por producto o programa, desplegadas desde su propio repositorio · todas comprobadas con respuesta `200` |
 
 ## 🗺️ El ecosistema de un vistazo
 
@@ -79,7 +79,7 @@ flowchart TD
     A --> E["📚 Currículos<br/>técnicos completos"]
     A --> F["🔬 Computación<br/>científica y educativa"]
 
-    B --> B1["RootCause ×6 · GabySQL · Automa · Code Scanner<br/>ChofyAI · Rhino Suite · Empresa Operativa Chile"]
+    B --> B1["RootCause ×7 · GabySQL · Automa · Code Scanner<br/>ChofyAI · Rhino Suite · Empresa Operativa Chile"]
     C --> C1["Docker · WSL · Unikernel · Sandbox<br/>Microsistemas · Problem-Driven"]
     D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Agentic Plugins · Social Bot"]
     E --> E1["Ciberseguridad · GameDev · Data Science · Multi-Cloud · IA · Blockchain<br/>Frameworks · Matemática · Negocios · Finanzas · Liderazgo · Marketing · Pedagogía"]
@@ -98,6 +98,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | Sensor forense del navegador: cookies, sesiones de correo, extensiones, descargas, permisos y páginas que simulan una ventana real | JavaScript · extensión MV3 | **v0.2.0** · aún sin release publicada · panel en `127.0.0.1` · cero dependencias · telemetría cero verificada en CI · [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
 | [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Defensa watch-only para custodia Bitcoin: inventaría la procedencia de cada clave, la cruza con avisos publicados y explica la causa raíz con evidencia | JavaScript · app Windows · panel local | **v0.2.0** · **2 releases** · cero dependencias · nunca pide semillas · verificado en CI · [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
 | [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | Consola watch-only multi-chain: inventaría contratos, proxies, oráculos, puentes, gobernanza y dependencias, y genera runbooks de causa raíz | JavaScript · app Windows · panel local | **v0.1.0** · primera release publicada · cero dependencias · nunca pide claves privadas · verificado en CI · [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
+| [🔳 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | Sensor local para QR: interpreta antes de actuar, explica 26 señales, separa hechos de hipótesis y exporta evidencia redactada | Flutter · Dart | **v0.1.0** · primera release publicada · Android · iOS · macOS · PWA · historial cifrado **AES-256-GCM** · telemetría cero · [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
 | [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | Acompaña a una SpA desde antes de existir hasta el cierre de cada mes: constitución con evidencia, IVA con remanente arrastrado, borrador de F29, cierre inmutable y bitácora de auditoría. Cada regla con su fuente oficial | JavaScript · Rust · PWA | **v1.4.0** · Android · Windows · navegador · **153 pruebas** · **0 dependencias de producción** · telemetría cero · [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
 | [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | Lector de QR y códigos de barras que **interpreta antes de actuar**: 16 señales de riesgo locales por URL y confirmación explícita | Flutter · Dart | **v1.1.0** · Android · iOS · macOS · PWA · historial cifrado **AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
 | [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Base de datos embebida: archivo único `.db`, WAL, optimizador por costos, API HTTP/JSON | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
@@ -252,6 +253,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · SRE de apli
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificado de cada repositorio público · última verificación: 21 de agosto de 2026.</sub>
+<sub>README sincronizado con el estado real verificado de cada repositorio público · última verificación: 22 de agosto de 2026.</sub>
 
 </div>
