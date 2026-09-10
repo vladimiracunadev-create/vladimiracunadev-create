@@ -63,6 +63,7 @@ jobs:
           #   2. modules/<NN>-<slug>/classes/<NNN>-<slug>   (carpeta)
           #   3. curriculum/part-<NN>.../class-<NN>...      (carpeta)
           #   4. los patrones 2 y 3 cuando la clase es un .md, no una carpeta
+          #   5. curriculum/<NN>-<slug>/clase-<NN>-<slug>.md
           #
           # Se exige la ruta completa: anclar solo al inicio contaría además
           # cada subcarpeta interna de la clase. Cada entrada del árbol se
@@ -76,6 +77,7 @@ jobs:
                            or (.type == "tree" and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
                            or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]+-[^/]+$")))
                            or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
+                           or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/[0-9]+-[^/]+/clase-[0-9]+-[^/]+$")))
                          )] | length' \
                 2>/dev/null || echo 0)
             clases=$((clases + ${n:-0}))
