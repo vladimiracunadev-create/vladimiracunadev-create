@@ -18,7 +18,7 @@
 [![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-60-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-139-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-3876-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-4358-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-2-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -64,7 +64,7 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
 | 📦 **Distribución** | **139 releases** publicadas en un ecosistema de **60 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **3.876 clases** numeradas archivo o carpeta a carpeta en 16 programas, contadas sobre el repositorio real por [un workflow](.github/workflows/stats.yml) —no escritas a mano— más 2 programas que organizan el temario con otra estructura · cada clase con laboratorio y reto con criterio de aceptación cuando aplica |
+| 📚 **Currículos** | **4.358 clases** verificables en 18 programas, contadas sobre la estructura real de cada repositorio por [un workflow](.github/workflows/stats.yml) —no escritas a mano— · cada clase con laboratorio y reto con criterio de aceptación cuando aplica |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **36 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
 | 🌐 **Sitios publicados** | **52 sitios** en GitHub Pages —51 landings, una por producto o programa, más el portafolio— cada uno desplegado desde su propio repositorio · los 52 comprobados con respuesta `200` |
@@ -82,7 +82,7 @@ flowchart TD
     B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
     C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsistemas · Problem-Driven · Payments · Decentraland"]
     D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Ciberseguridad · GameDev · Data Science · Multi-Cloud · IA · Blockchain<br/>Frameworks · Matemática · Negocios · Finanzas · Liderazgo · Marketing · Pedagogía"]
+    E --> E1["Ciberseguridad · GameDev · Data Science · Multi-Cloud · IA · Blockchain<br/>Frameworks · Matemática · Negocios · Finanzas · Liderazgo · Marketing · Pedagogía<br/>Redes neuronales · Operación de máquinas"]
     F --> F1["Human Genome Labs<br/>Mi Aventura con el Violín · Mi Aventura con la Guitarra<br/>Pañuelo al Viento"]
 ```
 
@@ -144,7 +144,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Dieciséis de ellos —los que numeran cada clase en su propio archivo o carpeta— suman **3.876 clases**, contadas sobre el repositorio real por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano. Los dos restantes organizan el temario con otra estructura —rutas o material documental— y así se indica en su fila.
+Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Los 18 programas suman **4.358 clases**, contadas sobre la estructura real de cada repositorio por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano.
 
 | Programa | Clases | Alcance |
 |---|---:|---|
@@ -164,8 +164,8 @@ Programas secuenciales en español, cada clase con laboratorio guiado y **reto c
 | [🗄️ **Bases de datos**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** · ingeniería de bases de datos en 15 partes · 230 horas · **la fuente verificable de cada afirmación**: 120 fuentes con ISBN, DOI o norma · el mismo caso resuelto en 27 motores · glosario de 306 términos · 150 pytest · [sitio](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psicometría y medición**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Cómo se construye, puntúa, valida y audita un instrumento de medición · 8 partes · motor ejecutable con **5 instrumentos y 344 ítems, 276 de dominio público** |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.13.0** · de cero a la infraestructura financiera programable y la analítica on-chain · **91 prácticas** y **345 pruebas** · contratos con Foundry (fuzzing e invariantes) y análisis estático Slither en CI · apps offline verificadas abriendo el binario y contando lo que lleva dentro · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 rutas · 93 notebooks | 25 labs + 6 especializaciones · ciclo completo con datasets públicos reales: sellado de test, champion/challenger, API de inferencia, ONNX/INT8/edge, DDP/FSDP2, SBOM/SHA-256 · [sitio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | — | Base documental de simulación · *sin simulador ejecutable todavía, y así se declara* |
+| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 módulos · ≈214 horas · **93 notebooks** —31 clases, 31 versiones para estudiante y 31 soluciones— · preguntas, mapas visuales, prácticas y evaluación con datos públicos reales · PyTorch · [sitio de estudio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
+| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 módulos formativos**, uno por máquina · **502 h 15 min** · sistemas, mandos, física, seguridad y diseño de simulación con fuentes por clase · *sin simulador ejecutable todavía, y así se declara* |
 
 ## 🔬 Computación científica
 

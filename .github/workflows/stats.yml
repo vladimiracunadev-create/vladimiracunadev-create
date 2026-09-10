@@ -64,22 +64,41 @@ jobs:
           #   3. curriculum/part-<NN>.../class-<NN>...      (carpeta)
           #   4. los patrones 2 y 3 cuando la clase es un .md, no una carpeta
           #   5. curriculum/<NN>-<slug>/clase-<NN>-<slug>.md
+          #   6. Machine Operator: 11 documentos-clase por cada uno de 41 cursos
+          #   7. Neural Network Labs: labs 00-24 + advanced_labs 25-30
           #
           # Se exige la ruta completa: anclar solo al inicio contaría además
           # cada subcarpeta interna de la clase. Cada entrada del árbol se
           # evalúa una sola vez, así que ningún patrón la cuenta dos veces.
           clases=0
           while IFS=$'\t' read -r nombre _; do
-            n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
-                  --jq '[.tree[] | select(
-                           (.type == "tree" and (.path | test("^(classes|clases)/[^/]+/[0-9]{3}-[^/]+$")))
-                           or (.type == "tree" and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]{3}-[^/]+$")))
-                           or (.type == "tree" and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
-                           or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]+-[^/]+$")))
-                           or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
-                           or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/[0-9]+-[^/]+/clase-[0-9]+-[^/]+$")))
-                         )] | length' \
-                2>/dev/null || echo 0)
+            if [[ "$nombre" == "machine-operator-program" ]]; then
+              n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
+                    --jq '[.tree[] | select(
+                             .type == "blob"
+                             and (.path | endswith(".md"))
+                             and (.path | test("^(vehiculos|vehiculos-fantasticos)/[^/]+/(historia/[^/]+|operacion/(caracteristicas|sistemas-mecanicos|principios|entornos)-[^/]+|modelos/[^/]+|mandos/[^/]+|reglamentos/[^/]+|simulacion/[^/]+|recursos/[^/]+|ejercicios/[^/]+)$"))
+                           )] | length' \
+                  2>/dev/null || echo 0)
+            elif [[ "$nombre" == "neural-network-training-labs" ]]; then
+              n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
+                    --jq '[.tree[] | select(
+                             .type == "tree"
+                             and (.path | test("^(labs|advanced_labs)/[0-9]{2}_[^/]+$"))
+                           )] | length' \
+                  2>/dev/null || echo 0)
+            else
+              n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
+                    --jq '[.tree[] | select(
+                             (.type == "tree" and (.path | test("^(classes|clases)/[^/]+/[0-9]{3}-[^/]+$")))
+                             or (.type == "tree" and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]{3}-[^/]+$")))
+                             or (.type == "tree" and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
+                             or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^modules/[0-9]+-[^/]+/classes/[0-9]+-[^/]+$")))
+                             or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/part-[0-9]+[^/]*/class-[0-9]+[^/]*$")))
+                             or (.type == "blob" and (.path | endswith(".md")) and (.path | test("^curriculum/[0-9]+-[^/]+/clase-[0-9]+-[^/]+$")))
+                           )] | length' \
+                  2>/dev/null || echo 0)
+            fi
             clases=$((clases + ${n:-0}))
           done < repos.tsv
 
