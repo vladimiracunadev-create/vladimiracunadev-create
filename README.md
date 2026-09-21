@@ -19,7 +19,7 @@
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-141-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
 [![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-4358-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
-[![Forks](https://img.shields.io/badge/forks-2-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
 [![Estrellas](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=estrellas&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
