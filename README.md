@@ -16,9 +16,9 @@
 
 <!-- STATS:START -->
 [![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-60-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-141-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-145-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-4358-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-4378-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -30,6 +30,8 @@
 [⚡ Evalúame en 10 minutos](#-si-tienes-10-minutos-para-evaluarme) ·
 [✅ Alcance profesional](#-alcance-profesional) ·
 [📬 Contacto](#-contacto)
+
+**Idiomas:** [ES](README.md) · [EN](README.en.md) · [PT](README.pt.md) · [IT](README.it.md) · [FR](README.fr.md) · [ZH](README.zh.md)
 
 **Núcleo técnico:**
 PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
@@ -62,9 +64,9 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **828 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **158 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** con **39 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **139 releases** publicadas en un ecosistema de **60 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
+| 📦 **Distribución** | **145 releases** publicadas en un ecosistema de **60 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **4.358 clases** verificables en 18 programas, contadas sobre la estructura real de cada repositorio por [un workflow](.github/workflows/stats.yml) —no escritas a mano— · cada clase con laboratorio y reto con criterio de aceptación cuando aplica |
+| 📚 **Currículos** | **4.378 clases** verificables en 18 programas, contadas sobre la estructura real de cada repositorio por [un workflow](.github/workflows/stats.yml) —no escritas a mano— · cada clase con laboratorio y reto con criterio de aceptación cuando aplica |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **36 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
 | 🌐 **Sitios publicados** | **52 sitios** en GitHub Pages —51 landings, una por producto o programa, más el portafolio— cada uno desplegado desde su propio repositorio · los 52 comprobados con respuesta `200` |
@@ -144,26 +146,26 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Los 18 programas suman **4.358 clases**, contadas sobre la estructura real de cada repositorio por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano.
+Programas secuenciales en español, cada clase con laboratorio guiado y **reto con criterio de aceptación**. Los 18 programas suman **4.378 clases**, contadas sobre la estructura real de cada repositorio por [un workflow](.github/workflows/stats.yml) que refresca la insignia cada semana, no escritas a mano.
 
 | Programa | Clases | Alcance |
 |---|---:|---|
 | [🔢 **Matemática computacional**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | De contar con los dedos a reproducir un paper · **360 demostraciones deterministas verificadas en CI** · 1.080 notebooks · glosario de 489 términos · [sitio](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
 | [🏦 **Finanzas y Banca**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · matemática financiera y NIIF → crédito, riesgos, Basilea III, finanzas abiertas, DLT, stablecoins y MiCA · 26 casos con **fuentes oficiales verificables en cada clase** · [sitio](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
 | [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Matemáticas y C#/C++/GDScript → shaders, IA, multijugador, VR/AR · Godot · Unity · Unreal · **10 labs Godot verificados en CI** (301 comprobaciones) · [sitio](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 340 | 19 partes · fundamentos → Red Team, DFIR, cloud security, exploit dev · mapeo a **7 certificaciones** · manual PDF de **1.302 páginas** con 360 diagramas · laboratorios Docker y retos tipo CTF · **APK Android v1.1.0** con las 340 clases completas sin conexión · [sitio](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
+| [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 partes · fundamentos → Red Team, DFIR, cloud security, exploit dev, CTF y game security · mapeo a **7 certificaciones** · app Android/web offline · manual PDF · CI, Security y Pages verificados · [sitio](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, ventas y crecimiento**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 partes con definiciones operacionales, fichas de medición, bibliografía verificable y contexto normativo chileno · **v1.6.0** · 1,29 M palabras · 17 rutas por rol · [sitio](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Creación de empresas**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Crear y operar una empresa real en Chile: de la idea a la constitución, el SII, la operación, la crisis y la salida · 360 diagramas · glosario de 1.251 términos · manual de 1.548 páginas · [sitio](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🎓 **Pedagogía y ciencias del aprendizaje**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | De cómo aprende una persona a cómo se forma a quien enseña · 25 partes · **cada clase declara su estado de evidencia y sus límites** · alfabetización inicial, metodologías comparadas, necesidades educativas específicas, convivencia, diversidad cultural y evidencia internacional · glosario de 1.097 términos, 325 diagramas y banco de 60 actividades de aula · 14 rutas de carrera por rol · exportable a LMS · **v2.1.0** · [sitio](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1.288 horas** · 288 labs con evidencia JSON · 1.032 fuentes trazadas · manual PDF de 2.884 páginas · [sitio](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Liderazgo ejecutivo**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | De asumir tu primer resultado a dirigir una empresa y fundar la propia: equipos, KPI/OKR, finanzas, producto, riesgo, directorio y M&A · 24 casos, 96 labs y 39 plantillas · [sitio](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android · [sitio](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 183 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, robótica, MLOps · **v0.16.0** · **609 notebooks** · eje de **148 papers fundacionales** enlazados desde 171 clases, con puente a 5 anexos matemáticos · apps de Windows y Android · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 183 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, seguridad y frontera · **v0.17.0** · **705 notebooks** · eje de **148 papers fundacionales** enlazados desde 171 clases, con puente a 5 anexos matemáticos · apps de Windows, Android y PWA offline · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
 | [🌐 **Programación comparada**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Un concepto, **10 lenguajes** verificados en CI — **1.360 implementaciones** — más **1.632 programas** en los lenguajes que siguen vivos (COBOL, Fortran, Ada, RPG, MUMPS…) y atlas de **60 fichas en 15 familias** · v1.1.0 · [sitio](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
 | [🧩 **Frameworks comparados**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Un contrato ejecutable, sin adaptadores, contra Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte y más · 12 partes · 180 h · **113 clases construidas y 36 en esqueleto, declarado en el propio repositorio** · **205 fuentes** verificadas · atlas de **138 tecnologías** · [sitio](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Bases de datos**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** · ingeniería de bases de datos en 15 partes · 230 horas · **la fuente verificable de cada afirmación**: 120 fuentes con ISBN, DOI o norma · el mismo caso resuelto en 27 motores · glosario de 306 términos · 150 pytest · [sitio](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psicometría y medición**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Cómo se construye, puntúa, valida y audita un instrumento de medición · 8 partes · motor ejecutable con **5 instrumentos y 344 ítems, 276 de dominio público** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.13.0** · de cero a la infraestructura financiera programable y la analítica on-chain · **91 prácticas** y **345 pruebas** · contratos con Foundry (fuzzing e invariantes) y análisis estático Slither en CI · apps offline verificadas abriendo el binario y contando lo que lleva dentro · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · de cero a la infraestructura financiera programable y la analítica on-chain · **91 prácticas** y **356 pruebas** · contratos con Foundry (fuzzing e invariantes) y análisis estático Slither en CI · apps offline verificadas abriendo el binario y contando lo que lleva dentro · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 módulos · ≈214 horas · **93 notebooks** —31 clases, 31 versiones para estudiante y 31 soluciones— · preguntas, mapas visuales, prácticas y evaluación con datos públicos reales · PyTorch · [sitio de estudio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 módulos formativos**, uno por máquina · **502 h 15 min** · sistemas, mandos, física, seguridad y diseño de simulación con fuentes por clase · *sin simulador ejecutable todavía, y así se declara* |
 
@@ -211,7 +213,7 @@ Descarga el instalador o el binario CLI desde [las releases de RootCause](https:
 - **Honestidad sobre el estado** — un repo se renombró (`Multisimulador` → `machine-operator-program`) para no prometer software que aún no existe.
 - **Los badges son señales, no evidencia** — cada repo declara también **lo que NO hace**.
 - **Del modelo hacia afuera** — el dominio se diseña primero; la interfaz es una proyección.
-- **Lo ajeno se declara ajeno** — de los 62 repositorios públicos de la cuenta, 60 son obra propia. Los dos restantes, [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills) y [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), son forks de [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) y [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive), respectivamente; quedan fuera de todas las cifras de este perfil.
+- **Lo ajeno se declara ajeno** — de los 63 repositorios públicos de la cuenta, 60 son obra propia. Los tres restantes, [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext) y [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), son forks de [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills), [frappe/erpnext](https://github.com/frappe/erpnext) y [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive), respectivamente; quedan fuera de todas las cifras de este perfil.
 
 ## ✅ Alcance profesional
 
@@ -265,6 +267,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · SRE de apli
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificado de cada repositorio público —cifras leídas por API, landings comprobadas con respuesta HTTP— · última verificación: 10 de septiembre de 2026.</sub>
+<sub>README sincronizado con el estado real verificado de cada repositorio público —cifras leídas por API, landings comprobadas con respuesta HTTP— · última verificación: 23 de septiembre de 2026.</sub>
 
 </div>
