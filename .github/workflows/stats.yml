@@ -66,6 +66,10 @@ jobs:
           #   5. curriculum/<NN>-<slug>/clase-<NN>-<slug>.md
           #   6. Machine Operator: 11 documentos-clase por cada uno de 41 cursos
           #   7. Neural Network Labs: labs 00-24 + advanced_labs 25-30
+          #   8. Arquitectura: classes/parte-<NN>/ARQ-<NNN>.md
+          #   9. Programa escolar chileno: cifra de clases declarada en la
+          #      descripción pública del repo, porque el árbol mezcla OA,
+          #      páginas HTML y clases desarrolladas.
           #
           # Se exige la ruta completa: anclar solo al inicio contaría además
           # cada subcarpeta interna de la clase. Cada entrada del árbol se
@@ -86,6 +90,17 @@ jobs:
                              .type == "tree"
                              and (.path | test("^(labs|advanced_labs)/[0-9]{2}_[^/]+$"))
                            )] | length' \
+                  2>/dev/null || echo 0)
+            elif [[ "$nombre" == "architecture-built-environment-learning-program" ]]; then
+              n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
+                    --jq '[.tree[] | select(
+                             .type == "blob"
+                             and (.path | test("^classes/parte-[0-9]+/ARQ-[0-9]{3}\\.md$"))
+                           )] | length' \
+                  2>/dev/null || echo 0)
+            elif [[ "$nombre" == "chilean-school-learning-path" ]]; then
+              n=$(gh api "repos/$USUARIO/$nombre" \
+                    --jq 'try ((.description // "") | capture("(?<n>[0-9]+) clases").n) catch "0"' \
                   2>/dev/null || echo 0)
             else
               n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
@@ -143,41 +158,77 @@ jobs:
           clases = os.environ["CLASES"]
           forks = os.environ["FORKS"]
 
-          # Las líneas se unen en Python en vez de escribirse en un literal
-          # multilínea: dentro del bloque `run:` tendrían que ir indentadas, y
-          # esa indentación acabaría dentro del README.
-          bloque = "\n".join([
-              "<!-- STATS:START -->",
-              f"[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-{repos}-7c5cff?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
-              f"[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-{releases}-f39c12?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
-              f"[![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-{lenguajes}-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)",
-              f"[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-{clases}-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)",
-              f"[![Forks](https://img.shields.io/badge/forks-{forks}-8957e5?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)",
-              "<!-- STATS:END -->",
-          ])
+          perfiles = {
+              "README.md": [
+                  ("Repos públicos", "repos%20p%C3%BAblicos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Releases publicadas", "releases%20publicadas", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Lenguajes", "lenguajes%20principales", lenguajes, "0366d6", "", "#-el-ecosistema-de-un-vistazo"),
+                  ("Clases", "clases%20de%20curr%C3%ADculo", clases, "3fb950", "", "#-currículos-técnicos-completos"),
+              ],
+              "README.en.md": [
+                  ("Public repos", "public%20repos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Published releases", "published%20releases", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Languages", "main%20languages", lenguajes, "0366d6", "", "#-ecosystem-at-a-glance"),
+                  ("Classes", "curriculum%20classes", clases, "3fb950", "", "#-complete-technical-curricula"),
+              ],
+              "README.pt.md": [
+                  ("Repositórios públicos", "reposit%C3%B3rios%20p%C3%BAblicos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Releases publicadas", "releases%20publicadas", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Linguagens", "linguagens%20principais", lenguajes, "0366d6", "", "#-ecossistema-em-uma-visão"),
+                  ("Aulas", "aulas%20de%20curr%C3%ADculo", clases, "3fb950", "", "#-currículos-técnicos-completos"),
+              ],
+              "README.it.md": [
+                  ("Repository pubblici", "repository%20pubblici", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Release pubblicate", "release%20pubblicate", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Linguaggi", "linguaggi%20principali", lenguajes, "0366d6", "", "#-ecosistema-in-sintesi"),
+                  ("Classi", "classi%20curricolari", clases, "3fb950", "", "#-curricula-tecnici-completi"),
+              ],
+              "README.fr.md": [
+                  ("Dépôts publics", "d%C3%A9p%C3%B4ts%20publics", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Releases publiées", "releases%20publi%C3%A9es", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("Langages", "langages%20principaux", lenguajes, "0366d6", "", "#-lécosystème-en-un-coup-dœil"),
+                  ("Classes", "classes%20de%20cursus", clases, "3fb950", "", "#-cursus-techniques-complets"),
+              ],
+              "README.zh.md": [
+                  ("公共仓库", "public%20repos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("已发布版本", "published%20releases", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
+                  ("主要语言", "main%20languages", lenguajes, "0366d6", "", "#-生态系统概览"),
+                  ("课程数", "curriculum%20classes", clases, "3fb950", "", "#-完整技术课程"),
+              ],
+          }
 
-          readme = open("README.md", encoding="utf-8").read()
-          nuevo = re.sub(
-              r"<!-- STATS:START -->.*?<!-- STATS:END -->",
-              lambda _: bloque,
-              readme,
-              flags=re.S,
-          )
-          if nuevo == readme:
+          hubo_cambios = False
+          for ruta, filas in perfiles.items():
+              bloque = ["<!-- STATS:START -->"]
+              for alt, label, valor, color, logo, href in filas:
+                  logo_qs = f"&logo={logo}" if logo else ""
+                  bloque.append(
+                      f"[![{alt}](https://img.shields.io/badge/{label}-{valor}-{color}"
+                      f"?style=for-the-badge{logo_qs})]({href})"
+                  )
+              bloque.append(f"[![Forks](https://img.shields.io/badge/forks-{forks}-8957e5?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)")
+              bloque.append("<!-- STATS:END -->")
+              bloque = "\n".join(bloque)
+
+              readme = open(ruta, encoding="utf-8").read()
+              nuevo = re.sub(r"<!-- STATS:START -->.*?<!-- STATS:END -->", lambda _: bloque, readme, flags=re.S)
+              if nuevo != readme:
+                  open(ruta, "w", encoding="utf-8").write(nuevo)
+                  hubo_cambios = True
+                  print(f"{ruta} actualizado.")
+
+          if not hubo_cambios:
               print("Sin cambios en las cifras.")
-          else:
-              open("README.md", "w", encoding="utf-8").write(nuevo)
-              print("README actualizado.")
           PY
 
       - name: Publicar si cambió
         run: |
-          if git diff --quiet README.md; then
+          if git diff --quiet README.md README.en.md README.pt.md README.it.md README.fr.md README.zh.md; then
             echo "Las cifras no variaron; no hay nada que publicar."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md README.en.md README.pt.md README.it.md README.fr.md README.zh.md
           git commit -m "chore: actualiza las estadísticas del perfil"
           git push
