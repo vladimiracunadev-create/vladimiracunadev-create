@@ -16,7 +16,7 @@
 
 <!-- STATS:START -->
 [![Dépôts publics](https://img.shields.io/badge/d%C3%A9p%C3%B4ts%20publics-62-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publiées](https://img.shields.io/badge/releases%20publi%C3%A9es-148-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publiées](https://img.shields.io/badge/releases%20publi%C3%A9es-146-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Langages](https://img.shields.io/badge/langages%20principaux-10-0366d6?style=for-the-badge)](#-lécosystème-en-un-coup-dœil)
 [![Classes](https://img.shields.io/badge/classes%20de%20cursus-5272-3fb950?style=for-the-badge)](#-cursus-techniques-complets)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)

@@ -16,7 +16,7 @@
 
 <!-- STATS:START -->
 [![公共仓库](https://img.shields.io/badge/public%20repos-62-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![已发布版本](https://img.shields.io/badge/published%20releases-148-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![已发布版本](https://img.shields.io/badge/published%20releases-146-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
 [![课程数](https://img.shields.io/badge/curriculum%20classes-5272-3fb950?style=for-the-badge)](#-完整技术课程)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
