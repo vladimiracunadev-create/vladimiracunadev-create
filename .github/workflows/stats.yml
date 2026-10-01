@@ -70,6 +70,7 @@ jobs:
           #   9. Programa escolar chileno: cifra de clases declarada en la
           #      descripción pública del repo, porque el árbol mezcla OA,
           #      páginas HTML y clases desarrolladas.
+          #  10. Ingeniería de software: classes/part-<NN>-.../se-<NNN>-...
           #
           # Se exige la ruta completa: anclar solo al inicio contaría además
           # cada subcarpeta interna de la clase. Cada entrada del árbol se
@@ -100,7 +101,14 @@ jobs:
                   2>/dev/null || echo 0)
             elif [[ "$nombre" == "chilean-school-learning-path" ]]; then
               n=$(gh api "repos/$USUARIO/$nombre" \
-                    --jq 'try ((.description // "") | capture("(?<n>[0-9]+) clases").n) catch "0"' \
+                    --jq 'try ((.description // "") | capture("(?<n>[0-9][0-9.]*) clases").n | gsub("\\."; "")) catch "0"' \
+                  2>/dev/null || echo 0)
+            elif [[ "$nombre" == "software-engineering-learning-suite" ]]; then
+              n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
+                    --jq '[.tree[] | select(
+                             .type == "tree"
+                             and (.path | test("^classes/part-[^/]+/se-[0-9]{3}-[^/]+$"))
+                           )] | length' \
                   2>/dev/null || echo 0)
             else
               n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \

@@ -12,13 +12,13 @@
 
 [![经验](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#-专业范围)
 [![产品](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#-真实分发的产品)
-[![课程](https://img.shields.io/badge/curricula-20%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
 
 <!-- STATS:START -->
-[![公共仓库](https://img.shields.io/badge/public%20repos-62-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![已发布版本](https://img.shields.io/badge/published%20releases-146-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![公共仓库](https://img.shields.io/badge/public%20repos-63-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![已发布版本](https://img.shields.io/badge/published%20releases-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
-[![课程数](https://img.shields.io/badge/curriculum%20classes-5272-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程数](https://img.shields.io/badge/curriculum%20classes-14379-3fb950?style=for-the-badge)](#-完整技术课程)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -64,12 +64,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **测试覆盖** | GabySQL **828 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **158 tests** · Automa **150 pytest** · multi-OS CI |
 | 🤖 **生产级 Agent** | LangGraph RealWorld **25/25 operational backends**（cases 01–25，100% 覆盖）· Operational AI Agents **13 agents** 和 **39 deterministic evals** |
 | 🔗 **多语言集成** | **20 cases** sender→n8n→receiver —**19 operational**，逐一用 Docker 审计— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **分发** | 在 **62 个自有公共仓库**生态中发布 **148 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
+| 📦 **分发** | 在 **63 个自有公共仓库**生态中发布 **151 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
 | 🛡️ **供应链** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · CycloneDX SBOM · Scorecard |
-| 📚 **课程** | **5,272 classes**，覆盖 20 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每节课在适用时包含实验和验收标准挑战 |
+| 📚 **课程** | **14,379 classes**，覆盖 21 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
 | 🌐 **作品集** | 可安装 PWA · **6 种语言** · pipeline 生成 **36 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **遥测** | 取证产品和 Empresa Operativa Chile 中为零 — 每次 build 验证（Android 无 `INTERNET` 权限） |
-| 🌐 **已发布站点** | **54 个 GitHub Pages 站点** —53 个产品/项目 landing 加主作品集— 每个都从自己的仓库部署 · 全部验证 HTTP `200` |
+| 🌐 **已发布站点** | **55 个 GitHub Pages 站点** —54 个产品/项目 landing 加主作品集— 每个都从自己的仓库部署 · 全部验证 HTTP `200` |
 
 ## 🗺️ 生态系统概览
 
@@ -84,7 +84,7 @@ flowchart TD
     B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
     C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsistemas · Problem-Driven · Payments · Decentraland"]
     D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>Neural networks · Machine operation"]
+    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>软件工程 · 建筑与建成环境 · 智利学校课程<br/>Neural networks · Machine operation"]
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
@@ -109,7 +109,7 @@ flowchart TD
 | [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Local-first 数据集工厂：将 PDF、Word、web、Git、JSON、CSV 转成可审计数据集，用于 pretraining、fine-tuning、RAG 和 evaluation | Python | **v0.2.0** · Windows + offline Android · first published release · [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
 | [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Local-first app，用 CLI/SSO 探索 16 个 AWS 服务，默认只读，并对 EC2 提供显式控制 | JavaScript · Windows | **v0.1.1** · first published release · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
 | [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | 商业运营概念演示：catalog、stock、CRM、orders、mock payments 和 traceability | JavaScript · Web · Windows · Android | **v0.3.0** · **2 releases** · no real money or real SII · [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-first 本地只读阅读器：无裁剪缩放、可重开历史、分享到 WhatsApp、可设默认阅读器 | HTML · Web · Android · Windows | **v0.3.1** · signed APK · no accounts, sensitive permissions, or telemetry · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
+| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-first 本地只读阅读器：无裁剪缩放、可重开历史、分享到 WhatsApp、可设默认阅读器 | HTML · Web · Android · Windows | **v0.3.3** · signed APK · no accounts, sensitive permissions, or telemetry · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
 | [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | 一个视频、播放列表或**整个 YouTube 频道**转带时间戳文本。不依赖原字幕：Whisper 在**你的电脑**识别音频，无 API、账户或密钥 | Python · PySide6 · FastAPI · faster-whisper | **v0.2.0** · Windows desktop + local panel `127.0.0.1` + CLI, **same queue** · MD · PDF · TXT · SRT · VTT · JSON · MP3 · OGG · **89 tests** · FFmpeg included · zero telemetry · [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
 | [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | 本地创意 AI launcher：编排 Qwen3-TTS、whisper.cpp、FaceFusion、AceForge 和 ComfyUI | Tauri 2 · Rust · React | v0.5.1 · **5/5 tools with real inference** · macOS Apple Silicon · experimental Windows · **no published release yet** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
 | [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | 从零构建的办公套件：文档规则不依赖 DOM — HTML 只是投影 | Rust/WASM · Go · React 19 | Evolutionary monorepo by phases · [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
@@ -146,18 +146,19 @@ flowchart TD
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每节课包含 guided lab，并在适用时包含**带验收标准的挑战**。20 个项目共 **5,272 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。21 个项目共 **14,379 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
 
 | 项目 | 课程数 | 范围 |
 |---|---:|---|
 | [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | From counting on fingers to reproducing a paper · **360 deterministic demonstrations verified in CI** · 1,080 notebooks · 489-term glossary · [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · financial mathematics and IFRS → credit, risk, Basel III, open finance, DLT, stablecoins, MiCA · 26 cases with **official sources verified in every class** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
+| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · financial mathematics and IFRS → credit, risk, Basel III, open finance, DLT, stablecoins, MiCA · **27 个案例** · **298 项测试** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
 | [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Math and C#/C++/GDScript → shaders、AI、multiplayer、VR/AR · Godot · Unity · Unreal · **10 Godot labs verified in CI** · [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
 | [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 parts · foundations → Red Team、DFIR、cloud security、exploit dev、CTF、game security · mapped to **7 certifications** · offline Android/web app · [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Sales and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 parts with operational definitions、measurement sheets、verifiable bibliography and Chilean regulatory context · **v1.6.0** · 1.29M words · 17 role paths · [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Create and operate a real company in Chile：idea、incorporation、SII、operations、crisis、exit · 360 diagrams · 1,251-term glossary · 1,548-page manual · [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 680 | 68 parts in 2 phases · 12 paths · 622 traced sources · Markdown、offline reader、GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 214 | Complete 1st-grade Mathematics and Language · 46 OA · 12,997 proposals and 2,823 OA · MINEDUC sources、assessment、classroom difficulties · Python + HTML · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🇨🇱 **智利学校课程路径**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 覆盖小学一年级至高中四年级 · **4,156 项跨学科整合活动** · **2,823 个学习目标** · MINEDUC 来源 · 无待处理提案，仍需专业人工复核 · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/software-engineering-learning-suite) | 480 | 40 部分 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · **0 节课已获批准**：360 个结构化草稿与 120 个脚手架，仓库已明确声明 · [site](https://vladimiracunadev-create.github.io/software-engineering-learning-suite/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares evidence state and limits** · literacy、methods、special needs、coexistence、cultural diversity · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1,288 hours** · 288 labs with JSON evidence · 1,032 sources · 2,884-page PDF manual · [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | From owning first outcome to leading a company and founding one：teams、KPI/OKR、finance、product、risk、board、M&A · [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -215,7 +216,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **Honesty about status** — 一个 repo 从 `Multisimulador` 改名为 `machine-operator-program`，避免承诺尚不存在的软件。
 - **Badges are signals, not evidence** — 每个 repo 也声明**它不做什么**。
 - **Model outward** — 先设计 domain，interface 只是 projection。
-- **External work is declared** — 账号 66 个公共仓库中，62 个是自有作品。其余四个 [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills)、[`erpnext`](https://github.com/vladimiracunadev-create/erpnext)、[`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive)、[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill) 是 forks，不计入本 profile 指标。
+- **External work is declared** — 账号 67 个公共仓库中，63 个是自有作品。其余四个 [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills)、[`erpnext`](https://github.com/vladimiracunadev-create/erpnext)、[`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive)、[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill) 是 forks，不计入本 profile 指标。
 
 ## ✅ 专业范围
 
@@ -265,10 +266,10 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 
 <div align="center">
 
-[🤝 贡献](CONTRIBUTING.md) ·
-[🛡️ 安全](SECURITY.md) ·
-[⚖️ 行为准则](CODE_OF_CONDUCT.md)
+[🤝 贡献](CONTRIBUTING.zh.md) ·
+[🛡️ 安全](SECURITY.zh.md) ·
+[⚖️ 行为准则](CODE_OF_CONDUCT.zh.md)
 
-<sub>README 已与每个公共仓库的真实已验证状态同步 — 指标来自 API，landing 通过 HTTP 响应检查 — 最后验证：2026 年 9 月 25 日。</sub>
+<sub>README 已与每个公共仓库的真实已验证状态同步 — 指标来自 API，landing 通过 HTTP 响应检查 — 最后验证：2026 年 10 月 1 日。</sub>
 
 </div>

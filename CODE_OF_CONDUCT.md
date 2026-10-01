@@ -1,4 +1,6 @@
-# Código de Conducta Contributario
+# Código de Conducta para Contribuyentes
+
+**Idiomas:** [ES](CODE_OF_CONDUCT.md) · [EN](CODE_OF_CONDUCT.en.md) · [PT](CODE_OF_CONDUCT.pt.md) · [IT](CODE_OF_CONDUCT.it.md) · [FR](CODE_OF_CONDUCT.fr.md) · [ZH](CODE_OF_CONDUCT.zh.md)
 
 ## Nuestro Compromiso
 Como miembros, contribuyentes y líderes, nos comprometemos a hacer de la participación en este ecosistema de proyectos una experiencia libre de acoso para todos, independientemente de la edad, tamaño corporal, discapacidad visible o invisible, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.

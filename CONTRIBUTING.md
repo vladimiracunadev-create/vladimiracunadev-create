@@ -1,5 +1,7 @@
 # Guía de Contribución
 
+**Idiomas:** [ES](CONTRIBUTING.md) · [EN](CONTRIBUTING.en.md) · [PT](CONTRIBUTING.pt.md) · [IT](CONTRIBUTING.it.md) · [FR](CONTRIBUTING.fr.md) · [ZH](CONTRIBUTING.zh.md)
+
 ¡Gracias por considerar contribuir a este ecosistema! Al ser parte de un ecosistema diseñado bajo los estándares de **observabilidad**, **reproducibilidad**, **calidad local-first** e **idempotencia**, mantenemos expectativas altas sobre la integridad del código para mantener este portafolio como un reflejo de ingeniería moderna.
 
 ## Tipos de Contribuciones que Buscamos
@@ -21,9 +23,9 @@ Este proyecto usa un flujo estandarizado basado en ramas de características:
     git checkout -b fix/auth-bypass
     ```
 3.  **Desarrolla** tu funcionalidad.
-    - Asegúrate de seguir la filosofía del repositorio. Si estamos usando `uv` para Python de alto rendimiento, no uses otra cosa a menos que justifiques el cambio. 
-    - Comprueba los *guardsrails* existentes en el proyecto.
-4.  **Haz Commit** a tus cambios. 
+    - Asegúrate de seguir la filosofía del repositorio. Si estamos usando `uv` para Python de alto rendimiento, no uses otra cosa a menos que justifiques el cambio.
+    - Comprueba los *guardrails* existentes en el proyecto.
+4.  **Haz Commit** a tus cambios.
     Usamos **Conventional Commits** (`feat:`, `fix:`, `docs:`, `chore:`, etc.):
     ```bash
     git commit -m "feat: implementar circuit breaker global para llamadas fallidas"

@@ -12,13 +12,13 @@
 
 [![Experiência](https://img.shields.io/badge/experi%C3%AAncia-%2B16%20anos-e67e22?style=for-the-badge)](#-escopo-profissional)
 [![Produtos](https://img.shields.io/badge/produtos-artefatos%20verific%C3%A1veis-007c83?style=for-the-badge)](#-produtos-com-distribuição-real)
-[![Currículos](https://img.shields.io/badge/curr%C3%ADculos-20%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Currículos](https://img.shields.io/badge/curr%C3%ADculos-21%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-62-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-146-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-63-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Linguagens](https://img.shields.io/badge/linguagens%20principais-10-0366d6?style=for-the-badge)](#-ecossistema-em-uma-visão)
-[![Aulas](https://img.shields.io/badge/aulas%20de%20curr%C3%ADculo-5272-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Aulas](https://img.shields.io/badge/aulas%20de%20curr%C3%ADculo-14379-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -64,12 +64,12 @@ Não é “um repo”: é um ecossistema com padrões comuns.
 | 🧪 **Cobertura de testes** | GabySQL **828 testes** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **158 testes** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes em produção** | LangGraph RealWorld **25/25 backends operacionais** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** com **39 evals determinísticos** |
 | 🔗 **Integração políglota** | **20 casos** emissor→n8n→receptor —**19 operacionais**, auditados um a um com Docker— · **18+ motores de BD** · **20+ contêineres** · 11 padrões |
-| 📦 **Distribuição** | **148 releases** publicadas em um ecossistema de **62 repositórios públicos próprios** · instaladores e artefatos `.exe` · `.msi` · `.dmg` · `.apk` com checksums e evidência de build; assinaturas comerciais/de loja em andamento quando aplicável |
+| 📦 **Distribuição** | **151 releases** publicadas em um ecossistema de **63 repositórios públicos próprios** · instaladores e artefatos `.exe` · `.msi` · `.dmg` · `.apk` com checksums e evidência de build; assinaturas comerciais/de loja em andamento quando aplicável |
 | 🛡️ **Cadeia de suprimentos** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **5.272 aulas** verificáveis em 20 programas, contadas por [um workflow](.github/workflows/stats.yml) sobre estrutura real ou fonte verificável declarada no repositório —não escritas à mão— · cada aula com laboratório e desafio com critério de aceitação quando aplicável |
+| 📚 **Currículos** | **14.379 aulas** verificáveis em 21 programas, contadas por [um workflow](.github/workflows/stats.yml) sobre estrutura real ou fonte verificável declarada no repositório —não escritas à mão— · cada programa declara seu estado editorial e seus limites |
 | 🌐 **Portfólio** | PWA instalável · **6 idiomas** · **36 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetria** | Zero nos produtos forenses e em Empresa Operativa Chile — verificada em cada build (sem permissão `INTERNET` no Android) |
-| 🌐 **Sites publicados** | **54 sites** no GitHub Pages —53 landings, uma por produto ou programa, mais o portfólio— todos implantados a partir do próprio repositório · os 54 verificados com resposta `200` |
+| 🌐 **Sites publicados** | **55 sites** no GitHub Pages —54 landings, uma por produto ou programa, mais o portfólio— todos implantados a partir do próprio repositório · os 55 verificados com resposta `200` |
 
 ## 🗺️ Ecossistema Em Uma Visão
 
@@ -84,7 +84,7 @@ flowchart TD
     B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
     C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsistemas · Problem-Driven · Payments · Decentraland"]
     D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Cibersegurança · GameDev · Data Science · Multi-Cloud · IA · Blockchain<br/>Frameworks · Matemática · Negócios · Finanças · Liderança · Marketing · Pedagogia<br/>Redes neurais · Operação de máquinas"]
+    E --> E1["Cibersegurança · GameDev · Data Science · Multi-Cloud · IA · Blockchain<br/>Frameworks · Matemática · Negócios · Finanças · Liderança · Marketing · Pedagogia<br/>Engenharia de software · Arquitetura · Rota escolar chilena<br/>Redes neurais · Operação de máquinas"]
     F --> F1["Human Genome Labs<br/>Minha Aventura com o Violino · Minha Aventura com a Guitarra<br/>Pañuelo al Viento"]
 ```
 
@@ -109,7 +109,7 @@ Software que se baixa, instala e usa — não apenas se clona.
 | [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Fábrica local-first que converte PDF, Word, web, Git, JSON e CSV em datasets auditáveis para pretraining, fine-tuning, RAG e avaliação | Python | **v0.2.0** · Windows + Android offline · primeira release publicada · [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
 | [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | App local-first para explorar 16 serviços AWS com CLI/SSO, leitura por padrão e controles explícitos para EC2 | JavaScript · Windows | **v0.1.1** · primeira release publicada · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
 | [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Demo conceitual guiada de operação comercial: catálogo, estoque, CRM, pedidos, pagamentos mock e rastreabilidade | JavaScript · Web · Windows · Android | **v0.3.0** · **2 releases** · sem dinheiro nem SII real · [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Leitor Android-first local e somente leitura, com zoom sem cortes, histórico reabrível, compartilhamento para WhatsApp e escolha como leitor padrão | HTML · Web · Android · Windows | **v0.3.1** · APK assinado · zero contas, permissões sensíveis e telemetria · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
+| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Leitor Android-first local e somente leitura, com zoom sem cortes, histórico reabrível, compartilhamento para WhatsApp e escolha como leitor padrão | HTML · Web · Android · Windows | **v0.3.3** · APK assinado · zero contas, permissões sensíveis e telemetria · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
 | [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Um vídeo, uma lista ou um **canal completo** do YouTube para texto com timestamps. Não depende de legendas: Whisper reconhece o áudio **no seu computador**, sem API, conta ou chave | Python · PySide6 · FastAPI · faster-whisper | **v0.2.0** · desktop Windows + painel local em `127.0.0.1` + CLI, **com a mesma fila** · MD · PDF · TXT · SRT · VTT · JSON · MP3 · OGG · **89 testes** · FFmpeg incluído · telemetria zero · [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
 | [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Launcher de IA criativa local: orquestra Qwen3-TTS, whisper.cpp, FaceFusion, AceForge e ComfyUI | Tauri 2 · Rust · React | v0.5.1 · **5/5 ferramentas com inferência real** · macOS Apple Silicon · Windows experimental · **ainda sem release publicada** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
 | [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Suíte de escritório do zero: as regras do documento não dependem do DOM — o HTML é apenas uma projeção | Rust/WASM · Go · React 19 | Monorepo evolutivo por fases · [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
@@ -146,18 +146,19 @@ Software que se baixa, instala e usa — não apenas se clona.
 
 ## 📚 Currículos Técnicos Completos
 
-Programas sequenciais em espanhol, cada aula com laboratório guiado e **desafio com critério de aceitação**. Os 20 programas somam **5.272 aulas**, contadas por [um workflow](.github/workflows/stats.yml) sobre estrutura real ou fonte verificável declarada no repositório; a insígnia é atualizada semanalmente e não está escrita à mão.
+Programas sequenciais em espanhol, com estado e escopo declarados por cada repositório. Os 21 programas somam **14.379 aulas**, contadas por [um workflow](.github/workflows/stats.yml) sobre estrutura real ou fonte verificável declarada no repositório; a insígnia é atualizada semanalmente e não está escrita à mão.
 
 | Programa | Aulas | Alcance |
 |---|---:|---|
 | [🔢 **Matemática Computacional**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | De contar nos dedos a reproduzir um paper · **360 demonstrações determinísticas verificadas em CI** · 1.080 notebooks · glossário de 489 termos · [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finanças e Banca**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · matemática financeira e IFRS → crédito, riscos, Basileia III, finanças abertas, DLT, stablecoins e MiCA · 26 casos com **fontes oficiais verificáveis em cada aula** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
+| [🏦 **Finanças e Banca**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · matemática financeira e IFRS → crédito, riscos, Basileia III, finanças abertas, DLT, stablecoins e MiCA · **27 casos** · **298 testes** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
 | [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Matemática e C#/C++/GDScript → shaders, IA, multiplayer, VR/AR · Godot · Unity · Unreal · **10 labs Godot verificados em CI** (301 checagens) · [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
 | [🛡️ **Cibersegurança**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 partes · fundamentos → Red Team, DFIR, cloud security, exploit dev, CTF e game security · mapeado a **7 certificações** · app Android/web offline · manual PDF · CI, Security e Pages verificados · [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Vendas e Crescimento**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 partes com definições operacionais, fichas de medição, bibliografia verificável e contexto regulatório chileno · **v1.6.0** · 1,29 M palavras · 17 rotas por papel · [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Criação de Empresas**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Criar e operar uma empresa real no Chile: da ideia à constituição, SII, operação, crise e saída · 360 diagramas · glossário de 1.251 termos · manual de 1.548 páginas · [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Arquitetura e Ambiente Construído**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 680 | 68 partes em 2 fases · 12 rotas · 622 fontes rastreadas · Markdown, leitor offline e GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Rota Escolar Chilena**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 214 | Matemática e Linguagem do 1º ano básico completas · 46 OA · 12.997 propostas e 2.823 OA · fontes MINEDUC, avaliação e dificuldades de sala de aula · Python + HTML · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🇨🇱 **Rota Escolar Chilena**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8.841 | Do 1º ano básico ao 4º ano médio · **4.156 experiências transversais integradas** · **2.823 objetivos de aprendizagem** · fontes MINEDUC · nenhuma proposta pendente e revisão humana especializada ainda pendente · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Engenharia de software moderna**](https://github.com/vladimiracunadev-create/software-engineering-learning-suite) | 480 | 40 partes · fundamentos → produto, arquitetura, segurança, DevOps, SRE, SPEC, IA e sistemas multiagente · **0 aulas aprovadas**: 360 rascunhos estruturais e 120 scaffolds, conforme declarado pelo repositório · [site](https://vladimiracunadev-create.github.io/software-engineering-learning-suite/) |
 | [🎓 **Pedagogia e Ciências da Aprendizagem**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | De como uma pessoa aprende a como se forma quem ensina · 25 partes · **cada aula declara seu estado de evidência e limites** · alfabetização inicial, metodologias comparadas, necessidades educativas específicas, convivência, diversidade cultural e evidência internacional · glossário de 1.097 termos, 325 diagramas e banco de 60 atividades · 14 rotas de carreira · exportável a LMS · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1.288 horas** · 288 labs com evidência JSON · 1.032 fontes rastreadas · manual PDF de 2.884 páginas · [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Liderança Executiva**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | De assumir seu primeiro resultado a dirigir uma empresa e fundar a própria: equipes, KPI/OKR, finanças, produto, risco, conselho e M&A · 24 casos, 96 labs e 39 modelos · [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -215,7 +216,7 @@ Baixe o instalador ou binário CLI em [releases do RootCause](https://github.com
 - **Honestidade sobre o estado** — um repo foi renomeado (`Multisimulador` → `machine-operator-program`) para não prometer software que ainda não existe.
 - **Badges são sinais, não evidência** — cada repo também declara **o que NÃO faz**.
 - **Do modelo para fora** — o domínio é desenhado primeiro; a interface é uma projeção.
-- **O que é externo é declarado como externo** — dos 66 repositórios públicos da conta, 62 são obra própria. Os quatro restantes, [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive) e [`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill), são forks de [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills), [frappe/erpnext](https://github.com/frappe/erpnext), [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) e [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), respectivamente; ficam fora de todas as métricas deste perfil.
+- **O que é externo é declarado como externo** — dos 67 repositórios públicos da conta, 63 são obra própria. Os quatro restantes, [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive) e [`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill), são forks de [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills), [frappe/erpnext](https://github.com/frappe/erpnext), [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) e [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), respectivamente; ficam fora de todas as métricas deste perfil.
 
 ## ✅ Escopo Profissional
 
@@ -265,10 +266,10 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · SRE de apli
 
 <div align="center">
 
-[🤝 Contribuir](CONTRIBUTING.md) ·
-[🛡️ Segurança](SECURITY.md) ·
-[⚖️ Código de conduta](CODE_OF_CONDUCT.md)
+[🤝 Contribuir](CONTRIBUTING.pt.md) ·
+[🛡️ Segurança](SECURITY.pt.md) ·
+[⚖️ Código de conduta](CODE_OF_CONDUCT.pt.md)
 
-<sub>README sincronizado com o estado real verificado de cada repositório público —números lidos por API, landings comprovadas por resposta HTTP— · última verificação: 25 de setembro de 2026.</sub>
+<sub>README sincronizado com o estado real verificado de cada repositório público —números lidos por API, landings comprovadas por resposta HTTP— · última verificação: 1 de outubro de 2026.</sub>
 
 </div>
