@@ -2,9 +2,9 @@
 
 # 👋 Vladimir Acuña
 
-## **解决方案架构师 · Legacy Modernization · Senior Full-Stack · AI Automation**
+## **解决方案架构师 · Senior Full-Stack · 数字化转型 · 管理与运营**
 
-**16 年以上真实环境软件建设与运维经验。我设计、构建并运行生产系统，重点关注可靠性、性能、持续交付和独立技术判断 — 所有内容都可在这个 GitHub 中验证。**
+**拥有信息与计算机工程和企业管理双重教育背景，以及 16 年以上真实软件建设与运维经验。我连接业务、人员、流程与技术，以设计、评估、交付并持续运营解决方案 — 相关证据均可在此 GitHub 验证。**
 
 [![作品集](https://img.shields.io/badge/🌐_Live_portfolio-vladimiracunadev--create.github.io-0366d6?style=for-the-badge)](https://vladimiracunadev-create.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Acuña-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/)
@@ -15,10 +15,10 @@
 [![课程](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
 
 <!-- STATS:START -->
-[![公共仓库](https://img.shields.io/badge/public%20repos-63-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![公共仓库](https://img.shields.io/badge/public%20repos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![已发布版本](https://img.shields.io/badge/published%20releases-148-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
-[![课程数](https://img.shields.io/badge/curriculum%20classes-13900-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程数](https://img.shields.io/badge/curriculum%20classes-14500-3fb950?style=for-the-badge)](#-完整技术课程)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -29,6 +29,8 @@
 [🧩 生态系统](#-生态系统概览) ·
 [⚡ 10 分钟评估我](#-如果你有-10-分钟评估我) ·
 [✅ 专业范围](#-专业范围) ·
+[🧭 无需编程的管理机会](#-管理行政与无需编程的职业机会) ·
+[📋 职位矩阵](PROFESIONAL_ROLES.md) ·
 [📬 联系方式](#-联系方式)
 
 **语言：** [ES](README.md) · [EN](README.en.md) · [PT](README.pt.md) · [IT](README.it.md) · [FR](README.fr.md) · [ZH](README.zh.md)
@@ -37,12 +39,14 @@
 PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
 · AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
 
+**业务–技术桥梁：**流程与需求分析 · 解决方案评估 · 交付协调 · 运营与连续性 · 风险管理 · 产品与服务 · 技术培训
+
 </div>
 
 ---
 
 > [!NOTE]
-> 这个档案不是愿望清单。下面的每一项声明都有可运行仓库和证据支撑。凡是**尚未完成**的内容，都会明确说明。
+> 本档案不会把职业可能性写成已任职经验。经验证的技术经验、可迁移能力、可申请机会与未来发展目标均明确区分。
 
 ## 🎯 这里有什么
 
@@ -64,12 +68,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **测试覆盖** | GabySQL **828 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **158 tests** · Automa **150 pytest** · multi-OS CI |
 | 🤖 **生产级 Agent** | LangGraph RealWorld **25/25 operational backends**（cases 01–25，100% 覆盖）· Operational AI Agents **13 agents** 和 **39 deterministic evals** |
 | 🔗 **多语言集成** | **20 cases** sender→n8n→receiver —**19 operational**，逐一用 Docker 审计— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **分发** | 在 **63 个自有公共仓库**生态中发布 **151 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
+| 📦 **分发** | 在 **64 个自有公共仓库**生态中发布 **148 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
 | 🛡️ **供应链** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · CycloneDX SBOM · Scorecard |
-| 📚 **课程** | **14,379 classes**，覆盖 21 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
+| 📚 **课程** | **14,500 classes**，覆盖 21 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
 | 🌐 **作品集** | 可安装 PWA · **6 种语言** · pipeline 生成 **36 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **遥测** | 取证产品和 Empresa Operativa Chile 中为零 — 每次 build 验证（Android 无 `INTERNET` 权限） |
-| 🌐 **已发布站点** | **55 个 GitHub Pages 站点** —54 个产品/项目 landing 加主作品集— 每个都从自己的仓库部署 · 全部验证 HTTP `200` |
+| 🌐 **已发布站点** | **56 个 GitHub Pages 站点** —55 个产品、项目或生态导航 landing 加主作品集— 每个都从自己的仓库部署 · 56 个均验证 HTTP `200` |
 
 ## 🗺️ 生态系统概览
 
@@ -107,7 +111,7 @@ flowchart TD
 | [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | 嵌入式数据库：单个 `.db` 文件、WAL、cost-based optimizer、HTTP/JSON API | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
 | [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | 本地编排器：JSON flows 打开真实窗口、与 DOM 交互并留下证据 | Python · Playwright · pywebview | **v0.3.0** · **27 flows** · published and verifiable installer · [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
 | [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Local-first 数据集工厂：将 PDF、Word、web、Git、JSON、CSV 转成可审计数据集，用于 pretraining、fine-tuning、RAG 和 evaluation | Python | **v0.2.0** · Windows + offline Android · first published release · [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Local-first app，用 CLI/SSO 探索 16 个 AWS 服务，默认只读，并对 EC2 提供显式控制 | JavaScript · Windows | **v0.1.1** · first published release · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
+| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Local-first app，提供 15 个 AWS 资产集成、20 个教程、CLI/SSO 和默认只读；仍在开发中，并非通用访问 | JavaScript · Windows | **v0.1.1** · first published release · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
 | [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | 商业运营概念演示：catalog、stock、CRM、orders、mock payments 和 traceability | JavaScript · Web · Windows · Android | **v0.3.0** · **2 releases** · no real money or real SII · [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
 | [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-first 本地只读阅读器：无裁剪缩放、可重开历史、分享到 WhatsApp、可设默认阅读器 | HTML · Web · Android · Windows | **v0.3.3** · signed APK · no accounts, sensitive permissions, or telemetry · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
 | [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | 一个视频、播放列表或**整个 YouTube 频道**转带时间戳文本。不依赖原字幕：Whisper 在**你的电脑**识别音频，无 API、账户或密钥 | Python · PySide6 · FastAPI · faster-whisper | **v0.2.0** · Windows desktop + local panel `127.0.0.1` + CLI, **same queue** · MD · PDF · TXT · SRT · VTT · JSON · MP3 · OGG · **89 tests** · FFmpeg included · zero telemetry · [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
@@ -146,7 +150,9 @@ flowchart TD
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。21 个项目共 **14,379 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。21 个项目共 **14,500 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+
+🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) 是一个联邦式学习导航器，通过可视化地图和[可访问的离线门户](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)连接 6 个领域的 30 条真实路径；它不计为额外课程项目。
 
 | 项目 | 课程数 | 范围 |
 |---|---:|---|
@@ -156,16 +162,16 @@ flowchart TD
 | [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 parts · foundations → Red Team、DFIR、cloud security、exploit dev、CTF、game security · mapped to **7 certifications** · offline Android/web app · [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Sales and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 parts with operational definitions、measurement sheets、verifiable bibliography and Chilean regulatory context · **v1.6.0** · 1.29M words · 17 role paths · [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Create and operate a real company in Chile：idea、incorporation、SII、operations、crisis、exit · 360 diagrams · 1,251-term glossary · 1,548-page manual · [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 680 | 68 parts in 2 phases · 12 paths · 622 traced sources · Markdown、offline reader、GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
+| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 800 | 80 parts · 60 场综合课程 · 33 paths · 可追溯来源 · Markdown、offline reader、GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
 | [🇨🇱 **智利学校课程路径**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 覆盖小学一年级至高中四年级 · **4,156 项跨学科整合活动** · **2,823 个学习目标** · MINEDUC 来源 · 无待处理提案，仍需专业人工复核 · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/software-engineering-learning-suite) | 480 | 40 部分 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · **0 节课已获批准**：360 个结构化草稿与 120 个脚手架，仓库已明确声明 · [site](https://vladimiracunadev-create.github.io/software-engineering-learning-suite/) |
+| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 部分、8 个阶段 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · 编辑状态由仓库明确声明 · [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares evidence state and limits** · literacy、methods、special needs、coexistence、cultural diversity · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1,288 hours** · 288 labs with JSON evidence · 1,032 sources · 2,884-page PDF manual · [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | From owning first outcome to leading a company and founding one：teams、KPI/OKR、finance、product、risk、board、M&A · [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars、ML+Optuna/SHAP、PyTorch/LLMs/LoRA、MLOps · native Windows app + Android APK · [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 183 | Symbolic → probabilistic → deep learning → LLMs、RAG、agents、safety、frontier · **v0.17.0** · **705 notebooks** · 148 foundational papers · offline Windows、Android、PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolic → probabilistic → deep learning → LLMs、RAG、agents、safety、frontier · **v0.17.0** · **708 notebooks** · 148 foundational papers · offline Windows、Android、PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
 | [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | One concept, **10 languages** verified in CI — **1,360 implementations** — plus **1,632 programs** in living legacy languages and atlas of **60 cards in 15 families** · [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | One executable contract against Express、FastAPI、Spring Boot、ASP.NET、Django、Rails、Laravel、React、Vue、Svelte and more · **113 built classes and 36 scaffolded** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
+| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | One executable contract against Express、FastAPI、Spring Boot、ASP.NET、Django、Rails、Laravel、React、Vue、Svelte and more · **70 节已构建课程** · **397 个 CI 验证案例** · **210 个 ISBN/DOI 来源** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** · database engineering in 15 parts · 230 hours · 120 sources with ISBN/DOI/standard · same case solved in 27 engines · 150 pytest · [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | How measurement instruments are built, scored, validated and audited · 8 parts · executable engine with **5 instruments and 344 items, 276 public-domain** |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **356 tests** · Foundry and Slither in CI · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
@@ -216,9 +222,11 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **Honesty about status** — 一个 repo 从 `Multisimulador` 改名为 `machine-operator-program`，避免承诺尚不存在的软件。
 - **Badges are signals, not evidence** — 每个 repo 也声明**它不做什么**。
 - **Model outward** — 先设计 domain，interface 只是 projection。
-- **External work is declared** — 账号 67 个公共仓库中，63 个是自有作品。其余四个 [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills)、[`erpnext`](https://github.com/vladimiracunadev-create/erpnext)、[`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive)、[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill) 是 forks，不计入本 profile 指标。
+- **外部作品会明确标注** — 账号的 70 个公共仓库中，64 个是自有作品。其余六个 —[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe)、[`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills)、[`erpnext`](https://github.com/vladimiracunadev-create/erpnext)、[`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive)、[`raptor`](https://github.com/vladimiracunadev-create/raptor)、[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)— 均为 forks，不计入自有作品指标。
 
 ## ✅ 专业范围
+
+我的双重教育背景 —**信息与计算机工程 + 企业管理**— 使我能够把业务目标转化为技术决策，并把技术约束转化为面向运营、产品、客户和管理层的清晰选项。
 
 ### 🎯 核心身份
 
@@ -231,11 +239,34 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 ### ↗ 自然扩展
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Technical Product Operations**
+**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Business / Functional Analyst** · **Technical Product Operations**
 
 ### ⚙️ 补充范围
 
 Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application SRE · Automation Engineer · 技术-商业顾问
+
+## 🧭 管理、行政与无需编程的职业机会
+
+此扩展不声称我已担任所有这些职位。它优先展示能够结合信息技术、企业管理和公开证据创造价值，同时不以编程为核心工作的岗位。
+
+| 职业家族 | 常见职位名称 | 诚实分类 | 编程 | 证据与条件 |
+|---|---|---|---|---|
+| **技术管理** | Head of IT · IT Operations Manager · Digital Transformation Manager · CIO | **可申请 / 未来目标** | 无/偶尔 | 技术基础强；人员、预算、供应商和高管责任需另行证明 |
+| **项目管理** | IT Project Coordinator/Manager · PMO · Scrum Master · Agile Delivery | **可迁移 / 可申请** | 无/偶尔 | 有交付与 release 证据；正式团队、预算与 sponsor 责任仍是缺口 |
+| **企业行政** | Business Administrator · Administration/Operations Manager · Contract Administrator | **可申请** | 无 | 有学历与运营制品；真实资源、人员和供应商责任需证明 |
+| **战略与变革** | Strategy Consultant · Change Manager · Planning · Innovation/Transformation | **可迁移 / 可申请** | 无 | 有现代化和解决方案评估；组织采用成果需证明 |
+| **业务分析** | Business/Functional Analyst · Requirements · BPM · Continuous Improvement | **可迁移 / 可申请** | 无/偶尔 | 有领域建模和文档；外部 stakeholder 案例会加强可信度 |
+| **产品与服务** | Product Owner/Manager · Product Operations · Service Delivery · Customer Success | **可迁移 / 可申请** | 无/偶尔 | 有 roadmap 和生命周期；P&L、客户组合和 SLA 视职位而定 |
+| **GRC 与连续性** | GRC · IT Auditor · Technology Risk · Security/Continuity | **可申请** | 无/偶尔 | 有控制和 RootCause 证据；未声称组织审计与相关认证 |
+| **商业与销售** | Technology Presales · Solutions Consultant · Technical KAM · Business Development | **可迁移 / 可申请** | 无 | 能翻译解决方案价值；未声称 quota、客户组合和合同谈判 |
+| **财务与管理控制** | Budget/Cost · Project Evaluation · FP&A · Management Control | **可申请** | 无 | 有财务/FinOps 制品；需真实预算、财报和企业 KPI |
+| **质量** | Quality/Process Analyst · Auditor · Continuous Improvement | **可迁移 / 可申请** | 无/偶尔 | 有 gates、测试和指标；缺少正式质量体系责任 |
+| **教育** | Technical Trainer · Facilitator · Academic Coordinator · EdTech/Instructional Designer | **可迁移 / 可申请** | 无/偶尔 | 21 个项目、14,500 节课；正式教学与学习成果需单独证明 |
+| **物流与供应商** | Procurement · Supply/Operations Coordinator · Vendor/Contract Manager | **可申请** | 无 | 有流程基础；真实采购、库存和供应商绩效仍是缺口 |
+| **数据与 AI 治理** | Data Steward · Data Governance · AI Adoption/Governance | **可迁移 / 可申请** | 无/偶尔 | 有可审计数据集和人工 gates；组织政策与委员会仍是缺口 |
+| **公共部门** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **可申请** | 无 | 有智利场景和可追溯性；未声称公共采购和政府部门经验 |
+
+[完整西班牙语职位矩阵](PROFESIONAL_ROLES.md)详细列出 14 个职业家族的目标、职责、市场经验、补充知识、证据、匹配度与差距。
 
 ## 🤖 AI 辅助开发流程
 
@@ -251,7 +282,9 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 
 ## 📌 可合作方向
 
-**开放方向：** Senior Full-Stack · Architecture · Legacy modernization · Platform/IDP · Application SRE · Pragmatic DevOps · Automation · AI Automation
+**开放方向：** Senior Full-Stack · Architecture · Legacy modernization · Platform/IDP · SRE · DevOps · Automation · AI Automation · business/functional analysis · IT 项目协调 · Product Operations · 数字化转型 · 解决方案咨询/售前 · 技术教育 · 质量与持续改进 · AI 采用与治理
+
+**根据职位范围评估：**技术 Product Owner/Manager · Service Delivery · IT Operations · GRC/technology risk · 行政与运营 · management control · 公共部门现代化。高管与综合管理职位属于未来发展目标，并非已声明经验。
 
 **模式：** remote 或 hybrid，按项目而定。
 
@@ -270,6 +303,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 [🛡️ 安全](SECURITY.zh.md) ·
 [⚖️ 行为准则](CODE_OF_CONDUCT.zh.md)
 
-<sub>README 已与每个公共仓库的真实已验证状态同步 — 指标来自 API，landing 通过 HTTP 响应检查 — 最后验证：2026 年 10 月 1 日。</sub>
+<sub>README 已与公共仓库的可验证状态同步 — 指标和变更来自 API — 最后验证：2026 年 10 月 9 日。</sub>
 
 </div>

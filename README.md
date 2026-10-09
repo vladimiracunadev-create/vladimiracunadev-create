@@ -2,9 +2,9 @@
 
 # 👋 Vladimir Acuña
 
-## **Arquitecto de Soluciones · Legacy Modernization · Senior Full-Stack · AI Automation**
+## **Arquitecto de Soluciones · Senior Full-Stack · Transformación Digital · Gestión y Operaciones**
 
-**+16 años construyendo y operando software en entornos reales. Diseño, construyo y opero sistemas de producción con foco en confiabilidad, rendimiento, entrega continua y criterio técnico propio — todo verificable en este GitHub.**
+**Ingeniero en Informática y Computación y Administrador de Empresas, con +16 años construyendo y operando software en entornos reales. Conecto negocios, personas, procesos y tecnología para diseñar, evaluar, entregar y sostener soluciones con criterio técnico y visión operacional — con evidencia verificable en este GitHub.**
 
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio_en_vivo-vladimiracunadev--create.github.io-0366d6?style=for-the-badge)](https://vladimiracunadev-create.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Acuña-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/)
@@ -15,10 +15,10 @@
 [![Currículos](https://img.shields.io/badge/currículos-21%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-63-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-148-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-13900-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-14500-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -29,6 +29,8 @@
 [🧩 Ecosistema](#-el-ecosistema-de-un-vistazo) ·
 [⚡ Evalúame en 10 minutos](#-si-tienes-10-minutos-para-evaluarme) ·
 [✅ Alcance profesional](#-alcance-profesional) ·
+[🧭 Gestión sin programación](#-gestión-administración-y-oportunidades-profesionales-sin-programación) ·
+[📋 Matriz de cargos](PROFESIONAL_ROLES.md) ·
 [📬 Contacto](#-contacto)
 
 **Idiomas:** [ES](README.md) · [EN](README.en.md) · [PT](README.pt.md) · [IT](README.it.md) · [FR](README.fr.md) · [ZH](README.zh.md)
@@ -37,12 +39,15 @@
 PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
 · AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observabilidad
 
+**Puente negocio–tecnología:**
+análisis de procesos y requerimientos · evaluación de soluciones · coordinación de entrega · operación y continuidad · gestión de riesgos · producto y servicio · formación técnica
+
 </div>
 
 ---
 
 > [!NOTE]
-> Este perfil no es una lista de aspiraciones. Cada afirmación de abajo tiene un repositorio que la respalda, ejecutable y con evidencia. Donde algo **no** está terminado, se declara como tal.
+> Este perfil no convierte posibilidades en experiencia. La trayectoria técnica acreditada, las competencias transferibles, las posibilidades de postulación y los objetivos futuros se distinguen de forma explícita. Cada evidencia de GitHub enlazada es ejecutable o documental; donde algo **no** está terminado, se declara como tal.
 
 ## 🎯 Qué encontrarás aquí
 
@@ -64,12 +69,12 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **828 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **158 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** con **39 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **151 releases** publicadas en un ecosistema de **63 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
+| 📦 **Distribución** | **148 releases** publicadas en un ecosistema de **64 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **14.379 clases** verificables en 21 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
+| 📚 **Currículos** | **14.500 clases** verificables en 21 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **36 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
-| 🌐 **Sitios publicados** | **55 sitios** en GitHub Pages —54 landings, una por producto o programa, más el portafolio— cada uno desplegado desde su propio repositorio · los 55 comprobados con respuesta `200` |
+| 🌐 **Sitios publicados** | **56 sitios** en GitHub Pages —55 landings, una por producto, programa o navegador del ecosistema, más el portafolio— cada uno desplegado desde su propio repositorio · los 56 comprobados con respuesta `200` |
 
 ## 🗺️ El ecosistema de un vistazo
 
@@ -107,7 +112,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Base de datos embebida: archivo único `.db`, WAL, optimizador por costos, API HTTP/JSON | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
 | [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Orquestador local: flows JSON que abren ventanas reales, interactúan con DOM y dejan evidencia | Python · Playwright · pywebview | **v0.3.0** · **27 flows** · instalador publicado y verificable · [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
 | [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Factoría local-first que convierte PDF, Word, web, Git, JSON y CSV en datasets auditables para pretraining, fine-tuning, RAG y evaluación | Python | **v0.2.0** · Windows + Android offline · primera release publicada · [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | App local-first para explorar 16 servicios AWS con CLI/SSO, lectura por defecto y controles explícitos para EC2 | JavaScript · Windows | **v0.1.1** · primera release publicada · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
+| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | App local-first con 15 integraciones de inventario AWS, 20 tutoriales, CLI/SSO y lectura por defecto; implementación en desarrollo, no acceso universal | JavaScript · Windows | **v0.1.1** · primera release publicada · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
 | [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Demo conceptual guiada de operación comercial: catálogo, stock, CRM, pedidos, pagos mock y trazabilidad | JavaScript · Web · Windows · Android | **v0.3.0** · **2 releases** · sin dinero ni SII real · [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
 | [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Lector Android-first local y de solo lectura, con zoom sin recortes, historial reabrible, compartir a WhatsApp y elección como lector predeterminado | HTML · Web · Android · Windows | **v0.3.3** · APK firmado · cero cuentas, permisos sensibles y telemetría · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
 | [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Un video, una lista o un **canal completo** de YouTube a texto con marcas de tiempo. No depende de que el video traiga subtítulos: Whisper reconoce el audio **en tu equipo**, sin API, sin cuenta y sin clave que configurar | Python · PySide6 · FastAPI · faster-whisper | **v0.2.0** · escritorio Windows + panel local en `127.0.0.1` + CLI, **con la misma cola** · MD · PDF · TXT · SRT · VTT · JSON · MP3 · OGG · **89 pruebas** · FFmpeg incluido · telemetría cero · [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
@@ -146,7 +151,9 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 21 programas suman **14.379 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
+Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 21 programas suman **14.500 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
+
+🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) funciona como brújula federada: conecta 30 recorridos reales en 6 áreas con mapas visuales y un [portal offline accesible](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/), sin contarse como un programa adicional.
 
 | Programa | Clases | Alcance |
 |---|---:|---|
@@ -156,16 +163,16 @@ Programas secuenciales en español, con estado y alcance declarados por reposito
 | [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 partes · fundamentos → Red Team, DFIR, cloud security, exploit dev, CTF y game security · mapeo a **7 certificaciones** · app Android/web offline · manual PDF · CI, Security y Pages verificados · [sitio](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, ventas y crecimiento**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 partes con definiciones operacionales, fichas de medición, bibliografía verificable y contexto normativo chileno · **v1.6.0** · 1,29 M palabras · 17 rutas por rol · [sitio](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Creación de empresas**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Crear y operar una empresa real en Chile: de la idea a la constitución, el SII, la operación, la crisis y la salida · 360 diagramas · glosario de 1.251 términos · manual de 1.548 páginas · [sitio](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Arquitectura y entorno construido**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 680 | 68 partes en 2 fases · 12 rutas · 622 fuentes trazadas · Markdown, lector offline y GitHub Pages · [sitio](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
+| [🏛️ **Arquitectura y entorno construido**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 800 | 80 partes · 60 sesiones integradoras · 33 rutas · fuentes trazables · Markdown, lector offline y GitHub Pages · [sitio](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
 | [🇨🇱 **Ruta escolar chilena**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8.841 | De 1° básico a 4° medio · **4.156 experiencias transversales integradas** · **2.823 OA** · fuentes MINEDUC · 0 propuestas pendientes y revisión humana especializada pendiente · [sitio](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Ingeniería de software moderna**](https://github.com/vladimiracunadev-create/software-engineering-learning-suite) | 480 | 40 partes · fundamentos → producto, arquitectura, seguridad, DevOps, SRE, SPEC, IA y sistemas multiagente · **0 clases aprobadas**: 360 borradores estructurales y 120 scaffolds, declarado por el repositorio · [sitio](https://vladimiracunadev-create.github.io/software-engineering-learning-suite/) |
+| [🧭 **Ingeniería de software moderna**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 partes y 8 etapas · fundamentos → producto, arquitectura, seguridad, DevOps, SRE, SPEC, IA y sistemas multiagente · estado editorial declarado por el repositorio · [sitio](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogía y ciencias del aprendizaje**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | De cómo aprende una persona a cómo se forma a quien enseña · 25 partes · **cada clase declara su estado de evidencia y sus límites** · alfabetización inicial, metodologías comparadas, necesidades educativas específicas, convivencia, diversidad cultural y evidencia internacional · glosario de 1.097 términos, 325 diagramas y banco de 60 actividades de aula · 14 rutas de carrera por rol · exportable a LMS · **v2.1.0** · [sitio](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1.288 horas** · 288 labs con evidencia JSON · 1.032 fuentes trazadas · manual PDF de 2.884 páginas · [sitio](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Liderazgo ejecutivo**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | De asumir tu primer resultado a dirigir una empresa y fundar la propia: equipos, KPI/OKR, finanzas, producto, riesgo, directorio y M&A · 24 casos, 96 labs y 39 plantillas · [sitio](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps · app Windows nativa + APK Android · [sitio](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 183 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, seguridad y frontera · **v0.17.0** · **705 notebooks** · eje de **148 papers fundacionales** enlazados desde 171 clases, con puente a 5 anexos matemáticos · apps de Windows, Android y PWA offline · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🧠 **Evolución de la IA**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Simbólica → probabilística → deep learning → LLMs, RAG, agentes, seguridad y frontera · **v0.17.0** · **708 notebooks** · eje de **148 papers fundacionales** · apps de Windows, Android y PWA offline · [sitio](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
 | [🌐 **Programación comparada**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Un concepto, **10 lenguajes** verificados en CI — **1.360 implementaciones** — más **1.632 programas** en los lenguajes que siguen vivos (COBOL, Fortran, Ada, RPG, MUMPS…) y atlas de **60 fichas en 15 familias** · v1.1.0 · [sitio](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks comparados**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Un contrato ejecutable, sin adaptadores, contra Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte y más · 12 partes · 180 h · **113 clases construidas y 36 en esqueleto, declarado en el propio repositorio** · **205 fuentes** verificadas · atlas de **138 tecnologías** · [sitio](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
+| [🧩 **Frameworks comparados**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Un contrato ejecutable, sin adaptadores, contra Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte y más · 12 partes · **70 clases construidas** · **397 casos verificados en CI** · **210 fuentes** con ISBN/DOI · [sitio](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Bases de datos**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** · ingeniería de bases de datos en 15 partes · 230 horas · **la fuente verificable de cada afirmación**: 120 fuentes con ISBN, DOI o norma · el mismo caso resuelto en 27 motores · glosario de 306 términos · 150 pytest · [sitio](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psicometría y medición**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Cómo se construye, puntúa, valida y audita un instrumento de medición · 8 partes · motor ejecutable con **5 instrumentos y 344 ítems, 276 de dominio público** |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · de cero a la infraestructura financiera programable y la analítica on-chain · **91 prácticas** y **356 pruebas** · contratos con Foundry (fuzzing e invariantes) y análisis estático Slither en CI · apps offline verificadas abriendo el binario y contando lo que lleva dentro · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
@@ -216,9 +223,11 @@ Descarga el instalador o el binario CLI desde [las releases de RootCause](https:
 - **Honestidad sobre el estado** — un repo se renombró (`Multisimulador` → `machine-operator-program`) para no prometer software que aún no existe.
 - **Los badges son señales, no evidencia** — cada repo declara también **lo que NO hace**.
 - **Del modelo hacia afuera** — el dominio se diseña primero; la interfaz es una proyección.
-- **Lo ajeno se declara ajeno** — de los 67 repositorios públicos de la cuenta, 63 son obra propia. Los cuatro restantes, [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive) y [`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill), son forks de [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills), [frappe/erpnext](https://github.com/frappe/erpnext), [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) y [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), respectivamente; quedan fuera de todas las cifras de este perfil.
+- **Lo ajeno se declara ajeno** — de los 70 repositorios públicos de la cuenta, 64 son obra propia. Los seis restantes —[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe), [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), [`raptor`](https://github.com/vladimiracunadev-create/raptor) y [`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)— son forks y quedan fuera de todas las cifras de obra propia de este perfil.
 
 ## ✅ Alcance profesional
+
+Mi formación dual —**Ingeniería en Informática y Computación + Administración de Empresas**— me permite traducir objetivos de negocio en decisiones técnicas, y restricciones técnicas en opciones comprensibles para operaciones, producto, clientes y dirección.
 
 ### 🎯 Identidad principal
 
@@ -231,11 +240,34 @@ Descarga el instalador o el binario CLI desde [las releases de RootCause](https:
 
 ### ↗ Expansión natural
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultor de Transformación Digital** · **Product Operations Técnico**
+**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultor de Transformación Digital** · **Business / Functional Analyst** · **Product Operations Técnico**
 
 ### ⚙️ Alcance complementario
 
 Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · SRE de aplicaciones · Automation Engineer · Consultor técnico-comercial
+
+## 🧭 Gestión, administración y oportunidades profesionales sin programación
+
+Esta ampliación no afirma que todos estos cargos hayan sido ejercidos. Prioriza funciones donde la combinación de informática, administración y evidencia pública permite aportar sin que escribir código sea la tarea central.
+
+| Prioridad profesional | Denominaciones reconocibles | Clasificación honesta | Programación | Respaldo y condición |
+|---|---|---|---|---|
+| **Análisis de negocio y procesos** | Business Analyst · Analista funcional · Analista de requerimientos · BPM / mejora continua | **Competencia transferible** | Ninguna u ocasional | Modelado de dominio, requisitos, documentación por audiencia y productos operacionales; falta acreditar proyectos BA con stakeholders externos |
+| **Gestión de proyectos tecnológicos** | Coordinador/Jefe de proyectos · IT Project Manager · PMO Analyst · Scrum Master / Agile Delivery | **Competencia transferible / posibilidad de postulación** | Ninguna u ocasional | Entrega sostenida de productos, releases, CI/CD y planificación; falta evidencia formal de presupuesto, dotación y patrocinio organizacional |
+| **Producto y servicio** | Product Owner · Product Manager técnico · Product Operations · Service Delivery Manager | **Competencia transferible / posibilidad de postulación** | Ninguna u ocasional | Roadmaps, ciclo de vida, distribución, soporte documental y operación; falta responsabilidad acreditada sobre P&L y producto de terceros |
+| **Transformación digital** | Consultor de transformación · Change Manager · Innovation Manager · Planificación tecnológica | **Competencia transferible** | Ninguna | Modernización de legado, automatización, adopción de IA y evaluación de soluciones; la gestión del cambio organizacional debe demostrarse en contexto empleador |
+| **Operaciones TI y continuidad** | IT Operations Lead · Coordinador TIC · Service Operations · Continuidad operacional | **Posibilidad de postulación** | Ninguna u ocasional | Observabilidad, resiliencia, runbooks, incidentes y operación local/cloud; falta acreditar guardias, SLA y continuidad corporativa bajo un empleador |
+| **Riesgo, controles y GRC** | Analista GRC · Auditor de controles TI · Riesgo tecnológico · Seguridad de la información | **Posibilidad de postulación** | Ninguna u ocasional | Supply chain, SBOM, controles, RootCause y documentación de riesgos; faltan auditorías organizacionales y credenciales como CISA/CISM/CRISC o ISO 27001 |
+| **Preventa y desarrollo de negocios tecnológicos** | Solutions Consultant · Preventa TI · Technical Account Manager · Business Development B2B | **Competencia transferible / posibilidad de postulación** | Ninguna | Capacidad de traducir arquitectura, valor, límites y demostraciones; falta evidencia de cuota comercial, cartera y negociación contractual |
+| **Administración y operaciones empresariales** | Administrador · Coordinador/Jefe administrativo · Operations Coordinator · Gestión de contratos y proveedores | **Posibilidad de postulación** | Ninguna | Formación en Administración y artefactos de Empresa Operativa Chile, Commerce OS y creación de empresas; falta experiencia laboral verificable administrando presupuesto, personas o proveedores |
+| **Control de gestión y evaluación** | Analista de control de gestión · Presupuestos y costos · Evaluación de proyectos · Planning Analyst | **Posibilidad de postulación** | Ninguna | Analítica, trazabilidad, FinOps y currículos de finanzas/negocios; se requiere evidencia aplicada con estados financieros, presupuesto real y KPI corporativos |
+| **Calidad y mejora continua** | Process / Quality Analyst · Auditor de procesos · Continuous Improvement | **Competencia transferible** | Ninguna u ocasional | Gates, pruebas, métricas, estándares y remediación reproducible; faltan auditorías ISO o ownership formal de un sistema de gestión de calidad |
+| **Educación y formación** | Instructor tecnológico · Relator · Coordinador académico · EdTech / Instructional Designer | **Competencia transferible** | Ninguna u ocasional | 21 programas, 14.500 clases, rutas por rol y material multiformato; la docencia formal y resultados de estudiantes deben acreditarse por separado |
+| **Datos e IA responsable** | Data Steward · Data Governance Analyst · AI Adoption Lead · AI Governance Analyst | **Competencia transferible / posibilidad de postulación** | Ninguna u ocasional | Datasets auditables, trazabilidad, agentes con gates y evaluación; faltan mandato organizacional sobre calidad de datos, políticas y comités de IA |
+| **Sector público y modernización institucional** | Coordinador TIC · Analista de modernización · Gestor de proyectos digitales · Planificación pública | **Posibilidad de postulación** | Ninguna | Interoperabilidad, documentación, seguridad y productos con contexto chileno; faltan experiencia sectorial acreditada y dominio aplicado de compras y normativa pública |
+| **Dirección tecnológica o empresarial** | Gerente TI · Head of IT · CIO · Gerente de Operaciones · Gerente de Transformación Digital | **Objetivo de desarrollo futuro** | Ninguna | Base técnica y empresarial compatible; requiere acreditar conducción de personas, presupuesto, proveedores, estrategia, gobierno y resultados organizacionales |
+
+La [matriz completa de cargos, responsabilidades, experiencia de mercado, certificaciones, evidencias, compatibilidad y brechas](PROFESIONAL_ROLES.md) desarrolla las 14 familias sin confundir formación, proyectos propios y experiencia laboral.
 
 ## 🤖 Flujo de desarrollo asistido por IA
 
@@ -251,7 +283,9 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · SRE de apli
 
 ## 📌 Disponibilidad
 
-**Abierto a:** Senior Full-Stack · Arquitectura · Modernización de legado · Platform/IDP · SRE de aplicaciones · DevOps pragmático · Automatización · AI Automation
+**Abierto a:** Senior Full-Stack · Arquitectura · Modernización de legado · Platform/IDP · SRE de aplicaciones · DevOps pragmático · Automatización · AI Automation · análisis de negocio/funcional · coordinación de proyectos TI · Product Operations · transformación digital · preventa de soluciones · formación tecnológica · calidad y mejora continua · adopción y gobierno de IA
+
+**En evaluación según alcance y evidencia exigida:** Product Owner / Product Manager técnico · Service Delivery · operaciones TI · GRC / riesgo tecnológico · administración y operaciones · control de gestión · proyectos de modernización pública. Los cargos de gerencia y dirección se presentan como desarrollo futuro, no como experiencia ya acreditada.
 
 **Modalidad:** remoto o híbrido, según proyecto.
 
@@ -270,6 +304,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · SRE de apli
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificado de cada repositorio público —cifras leídas por API, landings comprobadas con respuesta HTTP— · última verificación: 1 de octubre de 2026.</sub>
+<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: 9 de octubre de 2026.</sub>
 
 </div>

@@ -103,7 +103,7 @@ jobs:
               n=$(gh api "repos/$USUARIO/$nombre" \
                     --jq 'try ((.description // "") | capture("(?<n>[0-9][0-9.]*) clases").n | gsub("\\."; "")) catch "0"' \
                   2>/dev/null || echo 0)
-            elif [[ "$nombre" == "software-engineering-learning-suite" ]]; then
+            elif [[ "$nombre" == "modern-software-engineering-program" ]]; then
               n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
                     --jq '[.tree[] | select(
                              .type == "tree"
