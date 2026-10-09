@@ -36,6 +36,7 @@ Esta matriz amplía el campo profesional sin convertir formación, proyectos per
 
 | Cargo y equivalentes | Objetivo y responsabilidades habituales | Prog. | Experiencia / nivel habitual | Clasificación y compatibilidad | Evidencia | Brecha y complemento útil |
 |---|---|---:|---|---|---|---|
+| **Tech Lead / Líder técnico** | Dirigir decisiones técnicas, estándares, revisión, entrega y evolución de una solución o equipo. | Habitual | 5+ años; senior/lead | **EA · alta** | E1, E2 | No equivale por sí solo a gerencia: documentar mentoría, tamaño de equipo y resultados colectivos cuando exista evidencia. |
 | **Jefe de informática / IT Lead / Head of IT** | Alinear servicios TI, priorizar demanda, coordinar equipo/proveedores, continuidad, presupuesto y SLA. | Ocasional | 5–8 años; jefatura | **PP · media-alta** | E1, E2, E5 | Acreditar dotación, presupuesto, proveedores y SLA; ITIL 4, COBIT y gestión financiera TI. |
 | **Gerente TI / IT Manager** | Dirigir portafolio, operación, arquitectura, seguridad, talento y relación con dirección. | Ninguna | 7–10+ años; gerencia | **OD · media** | E1, E2, E3, E5 | Resultados organizacionales, P&L/presupuesto, liderazgo de managers y gobierno formal. |
 | **CIO / Chief Information Officer** | Definir estrategia y gobierno de información/tecnología, inversión, riesgo y valor empresarial. | Ninguna | 10–15+ años con dirección; ejecutivo | **OD · media-baja hoy** | Formación dual + E1–E3 | Experiencia ejecutiva, comité/directorio, portafolio, presupuesto y accountability empresarial. |
