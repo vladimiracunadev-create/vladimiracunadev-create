@@ -36,8 +36,8 @@
 **🌐 Полные версии:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **Техническое ядро:**
-PHP 8·Python·Ржавчина·Иди.·Узел/TS·Java 21·.NET 8·Дарт / Флаттер·Вазм
-·AWS·терраформ·Куберне·Докер·n8n·LangGraph/MCP·CI/CD·Финапс·наблюдаемость
+PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
+· AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
 
 **Мост бизнес-технологий:**
 Процесс и анализ требований·Оценка решений·координация поставок·операций и преемственности·Управление рисками·продукт и услуга·техническое образование

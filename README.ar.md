@@ -36,8 +36,8 @@
 **🌐 النسخ الكاملة:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **الجوهر التقني:**
-PHP 8·Python·Rust·إذهب·Node/TS·Java 21·-الشبكة 8·دارت/فلاتر·كان
-·AWS·Terraform·Kubernetes·(دوكر)·n8n·لانغ راف/م أ م·CI/CD·FinOps·القابلية للاحترام
+PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
+· AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
 
 **جسر تكنولوجيا الأعمال:**
 تحليل العمليات والاحتياجات·تقييم الحل·تنسيق التنفيذ·العمليات والاستمرارية·إدارة المخاطر·المنتجات والخدمات·التعليم التقني
@@ -236,7 +236,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 | **Solution Architect** | تصميم نظام متنقل قابل للتكدس مع حكم تطوري |
 | **مهندسة تحديث الجراثيم** | التطور الحقيقي (PHP 5.x)8.x، إعادة التصنيع التدريجي دون توقف العمليات) |
 | **أقدم مجموعة كاملة من التكنولوجيا** | الهيكلة والتنفيذ والمعايير المتعلقة بالمنابر الحقيقية (+16 سنة) |
-| **AI Automation Architect** | نظم عمل مع لانغ غراف/م أ.م.م.م.م.م.م.م.م.م.م.م.م.م.م. |
+| **AI Automation Architect** | Agentic systems with LangGraph/MCP and n8n flows with guardrails |
 
 ### ↗ التوسع الطبيعي
 

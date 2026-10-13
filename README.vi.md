@@ -36,8 +36,8 @@
 **🌐 Phiên bản đầy đủ:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **Trung tâm kỹ thuật:**
-PHP 8·Python·Rust·Đi·Nút/TS·Java 21·8 giờ tối.·Name·wasM
-·AWS·Name·Kubernetes·Docker·n8n·LangGraph/MCP·CI/CD·FinOps·Khả năng quan sát
+PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
+· AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
 
 **Cầu công nghệ kinh doanh–:**
 Phân tích tiến trình và yêu cầu·Đánh giá giải pháp·phối hợp giao hàng·thao tác và liên tục·rủi ro quản lý·sản phẩm và dịch vụ·Giáo dục kỹ thuật
@@ -240,7 +240,7 @@ Cả hai nền tảng —**Khoa học máy tính và cơ chế tính và quản 
 
 ### ↗ Mở rộng tự nhiên
 
-**Kỹ sư kỹ thuật kỹ thuật kỹ thuật kỹ thuật kỹ thuật kỹ thuật của Al** · **Hệ thống / Kỹ sư Rust** · **Kỹ sư di động (Flutter)** · **Kỹ sư giải quyết** · **Trình xây dựng kỹ thuật** · **Huấn luyện viên kỹ thuật** · **Bộ tư vấn biến hình số** · **Kinh doanh / Phân tích hàm** · **Thao tác kỹ thuật**
+**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Business / Functional Analyst** · **Technical Product Operations**
 
 ### ⚙️Phạm vi khen ngợi
 

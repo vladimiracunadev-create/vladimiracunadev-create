@@ -36,8 +36,8 @@
 **🌐 Πλήρεις εκδόσεις:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **Τεχνικός πυρήνας:**
-PHP 8·Πάιθον·Ραπάνια·Πήγαινε.·Κόμβος/ΤΣ·Ιάβα 21·.NET 8·Βελούδα/Φλάτερ·WASM (στα Αγγλικά)
-·AWS (ΣΥΜ)·Τεραμόμορφο·Κουμπερνέτες·Ντόκερ·n8n·LangGraph/MCP·CI/ CD·Φινόπς·Παρατηρησιμότητα
+PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
+· AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
 
 **Γέφυρα «επιχειρησιακής τεχνολογίας»:**
 ανάλυση διεργασιών και απαιτήσεων·αξιολόγηση λύσης·συντονισμός παράδοσης·πράξεις και συνέχεια·διαχείριση κινδύνων·προϊόν και υπηρεσία·τεχνική εκπαίδευση
@@ -170,7 +170,7 @@ flowchart TD
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS (ΣΥΜ)·Αζούρ·GCP·Κουμπερνέτες·Τεραμόμορφο·ΣΡΕ·Φινόπς· **1.288 ώρες** ·288 εργαστήρια με στοιχεία JSON·1,032 πηγές που εντοπίστηκαν·2,884-σελίδα εγχειρίδιο PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Από την ιδιοκτησία του πρώτου αποτελέσματος σας να ηγηθεί μια εταιρεία και την ίδρυση της δικής σας: ομάδες, KPI / OKR, χρηματοδότηση, προϊόν, κίνδυνος, διοικητικό συμβούλιο, και M&A·24 περιπτώσεις, 96 εργαστήρια, και 39 πρότυπα· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
 | [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Πολικοί, ML+Optuna/SHAP, PyTorch/LLMs/LORA, MLOps·εγγενής εφαρμογή Windows + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Συμβολικό → probabilist → βαθιά μάθηση → LLMs, RAG, παράγοντες, την ασφάλεια, και τα σύνορα· **v0.17. 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 7 - 7 - 7 - 7 - 0 - 7 - 7 - 7 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8 - 8, 0 - 8 - 8 - 8 - 8, 0 -** · **708 σημειωματάρια** · **148 έγγραφα βάσης** ·offline εφαρμογές Windows, Android και PWA· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolic → probabilistic → deep learning → LLMs, RAG, agents, safety, and frontier · **v0.17.0** · **708 notebooks** · **148 foundational papers** · offline Windows, Android, and PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
 | [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Μια ιδέα,**10 γλώσσες**επαληθεύτηκε στο CI —**1.360 υλοποιήσεις**— συν**1.632 προγράμματα**σε ακίνητες γλώσσες (COBOL, Fortran, Ada, RPG, MUMPS...) και έναν άτλαντα**60 κάρτες σε 15 οικογένειες** ·v1.1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
 | [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Ένα εκτελέσιμο συμβόλαιο, χωρίς προσαρμογείς, εναντίον Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte, και πολλά άλλα·12 μέρη· **70 οικοδομημένες τάξεις** · **397 περιπτώσεις που επαληθεύτηκαν σε ΚΚΠ** · **210 ISBN/DOI πηγές** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** ·μηχανική βάσεων δεδομένων σε 15 μέρη·230 ώρες· **την επαληθεύσιμη πηγή για κάθε ισχυρισμό**120 πηγές με ISBN, DOI, ή πρότυπο·Η ίδια περίπτωση λύθηκε σε 27 κινητήρες·306-τερματικό γλωσσάριο·150 pytest (πυόδοντας)· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
@@ -287,7 +287,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 **Αξιολογείται σύμφωνα με το πεδίο εφαρμογής κάθε ρόλου:**Ιδιοκτήτης / τεχνικός διαχειριστής προϊόντων·Παράδοση υπηρεσιών·Λειτουργίες πληροφορικής·GRC / κίνδυνος τεχνολογίας·διοίκηση και επιχειρήσεις·έλεγχος διαχείρισης·τον εκσυγχρονισμό του δημόσιου τομέα. Οι τίτλοι εκτελεστικής και γενικής διαχείρισης είναι μελλοντικοί αναπτυξιακοί στόχοι, όχι η διεκδίκηση εμπειρίας.
 
-**d Modddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd::ddddddddddd:ddddddddddddalityddddddddddddality::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ality:::ality::::::::::::::::::::::::::::::::::**απομακρυσμένη ή υβριδική, ανάλογα με το έργο.
+**Modality:** remote or hybrid, depending on the project.
 
 ## 📬Επαφή
 

@@ -36,8 +36,8 @@
 **🌐 完整版本:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [簡體中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **技術核心:**
-前一頁 8·蟒蛇·鏽·去吧,我們走·節點/TS·爪哇島21·.NET 8 資料·達特/弗盧特·溫斯
-·自動取款機·地表·庫伯涅斯·掛起點·n8n 號·朗格拉夫/多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔多孔·排雷中心/發改委·財務操作·觀察性
+PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
+· AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
 
 **商業-技術橋樑:**
 程式和要求分析·解決方案評價·執行協調·業務和連續性·風險管理·產品和服務·技術教育
@@ -136,7 +136,7 @@ flowchart TD
 | [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux 隔離: 執行第三方程式碼、檔案, 以及宣佈的政策下的商務模式**簽發了實際適用控制措施的簽名證據** · **36個案件**15個技術市場和21個資本市場,·* 已申報為實驗和教育產品,* 不是安全產品*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28個支付家庭**當地自我解釋演示:狀態、分類賬、對賬、安全和執行指南· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | 原生的Decentraliand 社交 三維體驗:一個MVP和多遊戲架構,並配有 SDK7, ECS, 和 TypeScript·西班牙文文件·無付款或遙測 |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | 每方增加一個AWS服務的進步案例**財務報告和已審計財務報表**新的 GitHub 動作能力·SAA-C03 導彈發射系統·數字數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字化數字數字·SOA-C02覆蓋範圍 |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
 
 ## 🤖應用AI
 
@@ -176,7 +176,7 @@ flowchart TD
 | [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **單曲3. 0.0** ·15個部分的資料庫工程·230小時· **每項索賠的可核實來源**:120 有ISBN,DOI,或標準來源.·27個引擎破了同樣的案子·306個術語表·150個火試· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | 衡量工具如何構建、打分、驗證和審計·8個部分·可執行引擎, 使用**5項文書和344項,276項公共領域** |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **0.14.0 維基百科** ·從零到可程式設計的金融基礎設施和鏈上分析· **91個做法**財務報告和已審計財務報表**363次測試** ·與開業公司(模糊和變化不定)和CI的Slither靜態分析的合同·開啟二進位制並計數其內容的離線應用程式· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7個單元·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          · **93個筆記本**——31個班,31個學生版本,31個解決方案.·問題、可視地圖、做法和真實公共資料評估·平頂層· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
+| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41個培訓單元**,每臺一臺機器· **502小時15分鐘** ·系統、控制、物理、安全和模擬設計,每類源·*還沒有可執行模擬器,而且它被宣佈為這樣* |
 
 ## 🔬科學計算
