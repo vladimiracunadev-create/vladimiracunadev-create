@@ -158,6 +158,7 @@ jobs:
         run: |
           python - <<'PY'
           import os, re
+          from pathlib import Path
 
           usuario = os.environ["USUARIO"]
           repos = os.environ["REPOS"]
@@ -225,18 +226,53 @@ jobs:
                   hubo_cambios = True
                   print(f"{ruta} actualizado.")
 
+          # Las demás traducciones completas conservan las URLs de insignia
+          # del README inglés. Se actualizan solo sus valores numéricos para
+          # no sobrescribir el texto, los enlaces ni las anclas traducidas.
+          reemplazos = {
+              r"(public%20repos-)\d+(?=-7c5cff)": rf"\g<1>{repos}",
+              r"(published%20releases-)\d+(?=-f39c12)": rf"\g<1>{releases}",
+              r"(main%20languages-)\d+(?=-0366d6)": rf"\g<1>{lenguajes}",
+              r"(curriculum%20classes-)\d+(?=-3fb950)": rf"\g<1>{clases}",
+              r"(forks-)\d+(?=-8957e5)": rf"\g<1>{forks}",
+          }
+          for ruta in sorted(Path(".").glob("README.*.md")):
+              if ruta.name in perfiles:
+                  continue
+              readme = ruta.read_text(encoding="utf-8")
+              coincidencia = re.search(
+                  r"<!-- STATS:START -->.*?<!-- STATS:END -->",
+                  readme,
+                  flags=re.S,
+              )
+              if not coincidencia:
+                  raise RuntimeError(f"{ruta} no contiene el bloque STATS")
+              bloque = coincidencia.group(0)
+              nuevo_bloque = bloque
+              for patron, reemplazo in reemplazos.items():
+                  nuevo_bloque, cantidad = re.subn(patron, reemplazo, nuevo_bloque)
+                  if cantidad != 1:
+                      raise RuntimeError(
+                          f"{ruta}: se esperaban 1 y se encontraron {cantidad} coincidencias para {patron}"
+                      )
+              nuevo = readme[:coincidencia.start()] + nuevo_bloque + readme[coincidencia.end():]
+              if nuevo != readme:
+                  ruta.write_text(nuevo, encoding="utf-8")
+                  hubo_cambios = True
+                  print(f"{ruta} actualizado.")
+
           if not hubo_cambios:
               print("Sin cambios en las cifras.")
           PY
 
       - name: Publicar si cambió
         run: |
-          if git diff --quiet README.md README.en.md README.pt.md README.it.md README.fr.md README.zh.md; then
+          if git diff --quiet -- README.md 'README.*.md'; then
             echo "Las cifras no variaron; no hay nada que publicar."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md README.en.md README.pt.md README.it.md README.fr.md README.zh.md
+          git add README.md README.*.md
           git commit -m "chore: actualiza las estadísticas del perfil"
           git push

@@ -1,55 +1,309 @@
 <div align="center" dir="rtl">
 
-# 👋 Vladimir Acuña
+# 👋ولادیمیر آیسینا
 
-## **معمار راهکار · توسعه‌دهنده ارشد Full-Stack · تحول دیجیتال · مدیریت و عملیات**
+## **راه حل معماری·پیر Full-Stack·تحول دیجیتال·مدیریت و عملیات**
 
-**مهندس انفورماتیک و رایانه و مدیر کسب‌وکار با بیش از ۱۶ سال تجربه در ساخت و بهره‌برداری نرم‌افزار در محیط‌های واقعی هستم. کسب‌وکار، افراد، فرایندها و فناوری را به هم پیوند می‌دهم تا راهکارها را با قضاوت فنی و دیدگاه عملیاتی طراحی، ارزیابی، تحویل و پایدار نگهداری کنم.**
+**حرفه ای در علوم کامپیوتر و مهندسی محاسبات و مدیریت کسب و کار آموزش دیده است، با 16 سال ساخت و ساز و نرم افزار عملیاتی در محیط های واقعی. من کسب و کار، افراد، فرآیندها و تکنولوژی را به طراحی، ارزیابی، تحویل و حفظ راه حل با قضاوت فنی و یک دیدگاه عملیاتی متصل می کنم - با حمایت شواهد قابل راستی آزمایی در این حساب GitHub.**
 
-[نمونه‌کارها](https://vladimiracunadev-create.github.io/) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [ایمیل](mailto:vladimir.acuna.dev@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_portfolio-vladimiracunadev--create.github.io-0366d6?style=for-the-badge)](https://vladimiracunadev-create.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Acuña-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/)
+[![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
-[نسخه کامل اسپانیایی](README.md) · [Full English version](README.en.md)
+[![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#حرفه-ای)
+[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#محصولات-با-توزیع-واقعی)
+[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#ویژگی-های-فنی-کامل)
+
+<!-- STATS:START -->
+[![Public repos](https://img.shields.io/badge/public%20repos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#سیستم-در-یک-نگاه)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-14530-3fb950?style=for-the-badge)](#ویژگی-های-فنی-کامل)
+[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+<!-- STATS:END -->
+
+[![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
+
+[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🧩 Ecosystem](#سیستم-در-یک-نگاه) ·
+[⚡ Evaluate me in 10 minutes](#اگر-10-دقیقه-وقت-دارید-تا-من-را-ارزیابی-کنید) ·
+[✅ Professional scope](#حرفه-ای) ·
+[🧭 Non-coding management](#مدیریت-مدیریت-و-فرصت-های-شغلی-غیر-مشارکتی) ·
+[📋 Role matrix](PROFESIONAL_ROLES.md) ·
+[📬 Contact](#تماس)
+
+**🌐 نسخه‌های کامل:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
+
+**هسته فنی:**
+PHP 8·پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python·Rust·برو برو برو برو برو·Node/TS·جاوا 21·NET 8·Dart / Flutter·WASM
+·AWS·سازنده : Terraform·Kubernetes·Docker·8·LangGraph /MCP·CI / CD·FinOps·قابلیت پذیری
+
+**پل تجاری-تکنولوژی:**
+فرآیند و تجزیه و تحلیل الزامات·ارزیابی راه حل·هماهنگی تحویل·عملیات و استمرار·مدیریت ریسک·محصول و خدمات·آموزش فنی
 
 </div>
 
 ---
 
 > [!NOTE]
-> این یک خلاصه بومی‌سازی‌شده است. محتوای کامل و مرجع در READMEهای اسپانیایی و انگلیسی نگهداری می‌شود؛ ادعاها، اعداد، دامنه و محدودیت‌ها در آنجا با مخزن‌های عمومی تطبیق داده می‌شوند.
+> این پروفایل فرصت ها را به تجربه تبدیل نمی کند. تجربه فنی اثبات شده، مهارت های قابل انتقال، برنامه های کاربردی پایدار و اهداف توسعه آینده به وضوح از هم جدا شده است. شواهد لینک شده GitHub اجرایی یا مستند است؛ جایی که چیزی است**نه نه نه**به پایان رسید، به همین ترتیب بیان می شود.
 
-## 🎯 نمایه حرفه‌ای
+## 🎯آنچه در اینجا پیدا خواهید کرد
 
-محصولات نرم‌افزاری، آزمایشگاه‌های مهندسی، سامانه‌های هوش مصنوعی کاربردی و برنامه‌های یادگیری آزاد را طراحی و بهره‌برداری می‌کنم. کار من معماری، نوسازی سامانه‌های قدیمی، تحویل، مشاهده‌پذیری، امنیت، مستندسازی و تداوم عملیات را یکپارچه می‌کند.
+این یک «یک repo» نیست: این یک اکوسیستم با استانداردهای مشترک است.
 
-این نمایه میان تجربه اثبات‌شده، مهارت‌های انتقال‌پذیر، فرصت‌های شغلی ممکن و اهداف آینده تمایز روشنی می‌گذارد. اگر یک مخزن فقط اسکلت یا برنامه باشد، آماده تولید معرفی نمی‌شود.
+- 🔁 **دانلود بازی Reroducible**- کلون، اجرا، اعتبار
+- 🧰 **ابزار استاندارد سازی**فایل های Makefiles، Hub CLI`doctor`و`smoke`در هر مخزن
+- 🛡️ **دفاع در عمق**اسکن مخفی، سیاست ها و شیوه های آشکارا ممنوع
+- 📈 **قابلیت پذیری** — `/health`, `/ready`, `/metrics`, داشبورد و قابلیت ردیابی
+- 📚 **آرشیو برچسب های مرتبط**- استخدام کننده، مبتدی، DevOps یا امنیت، بسته به مخزن.
+- 📦 **توزیع محصول**- نسخه های قابل دانلود، چکه ها و ساخت شواهد؛ امضاهای تجاری / فروشگاه اعلام شده در صورت لزوم.
+- 🌍 **بین المللی شدن**نمونه کارها در 6 زبان (ES)·EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN·PT·IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT·FR FR FR·ZH)
+- 🧭 **صداقت فنی**هر پرونده ای که برچسب زده شود`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`یا`PLANNED`.
 
-## ✅ آنچه اینجا می‌بینید
+## ✅وضعیت قابل تایید
 
-- **محصولات و نمونه‌های بازتولیدپذیر:** پروژه‌هایی که می‌توان آن‌ها را clone، اجرا، آزمایش یا دانلود کرد.
-- **شواهد مهندسی:** CI، آزمون‌های خودکار، checksum، خروجی‌های انتشار، مشاهده‌پذیری و کنترل‌های امنیتی.
-- **هوش مصنوعی کاربردی:** عامل‌های حالت‌مند، یکپارچه‌سازی MCP، مدل‌های محلی، ارزیابی و خودکارسازی قابل ردیابی.
-- **آموزش فنی:** برنامه‌های مرحله‌ای با وضعیت، منابع، تمرین‌ها و محدودیت‌های اعلام‌شده.
-- **پل میان کسب‌وکار و فناوری:** تحلیل فرایند و نیازمندی، ارزیابی راهکار، هماهنگی تحویل و مدیریت ریسک.
+| Surface Surface | شواهد دقیق |
+|---|---|
+| 🧪 **پوشش تست** | GabySQL**828 تست**+  fu**503.8M**(0 وحشت)·عملیات Empresa در شیلی**158 تست** ·Automa**150 pytest** ·CI چند بعدیOS CI |
+| 🤖 **تولید کنندگان** | LangGraph RealWorld**25/25 بازگشت عملیاتی**(مورد های 01 تا 25، 100٪ پوشش)·بازیگران AI عملیاتی**13 عامل**با**39 معیاری برای evals** |
+| 🔗 **Polyglot یکپارچگی** | **20 مورد**فرستنده:n8n**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.· **18+ موتورهای DB** · **20+** ·11 الگو |
+| 📦 **توزیع توزیع توزیع توزیع توزیع** | **151 آزاد**در سراسر یک اکوسیستم**64 مالکیت عمومی** ·نصب کنندگان و مصنوعات`.exe` · `.msi` · `.dmg` · `.apk`با بررسی و ساخت شواهد؛ امضاهای تجاری / فروشگاه در پیشرفت قابل اجرا |
+| 🛡️ **زنجیره تامین** | کدQL·Semgrep·Bandit·Trivy·Grype·گیتیکوس·تروفه ها·CycloneDX SBOM·کارت امتیاز |
+| 📚 **Curricula** | **14530 کلاس**قابل تایید در 21 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
+| 🌐 **نمونه کارها** | نصب PWA· **6 زبان** · **36 PDF**تولید شده توسط خط لوله·CV Data API·Android·فانوس دریایی 100 |
+| 🔒 **تله** | عدم تقارن صفر در محصولات قانونی و عملکرد Empresa در هر ساخت (بدون Android)`INTERNET`اجازه) |
+| 🌐 **سایت های منتشر شده** | **56 صفحه**55 فرود، یک محصول، برنامه یا هدایت کننده اکوسیستم، به علاوه نمونه کارها – هر کدام از مخزن خود را·همه 56 تایید شده با HTTP`200` |
 
-## 📦 کارهای منتخب
+## 🗺️سیستم در یک نگاه
 
-- [RootCause Windows Inspector](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) — تشخیص جرم‌شناختی Windows با Rust و تمرکز بر شواهد قابل بررسی.
-- [GabySQL](https://github.com/vladimiracunadev-create/gabysql) — پایگاه داده رابطه‌ای توکار با یک فایل، WAL، موتور SQL و API مبتنی بر HTTP/JSON.
-- [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld) — نمونه‌های سازمانی عامل‌ها با backend عملیاتی، streaming، مشاهده‌پذیری و کنترل‌های امنیتی روشن.
-- [Problem-Driven Systems Lab](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) — سناریوهای سامانه‌های توزیع‌شده با PHP، Python، Node.js، Java، .NET، Go و Rust.
+```mermaid
+flowchart TD
+    A["🧠 Technical judgment<br/>architecture · modernization · operations"] --> B["📦 Products<br/>with real distribution"]
+    A --> C["🧪 Engineering<br/>laboratories"]
+    A --> D["🤖 Applied AI<br/>agents and automation"]
+    A --> E["📚 Complete<br/>technical curricula"]
+    A --> F["🔬 Scientific<br/>and educational computing"]
 
-## 🧰 هسته فنی
+    B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
+    C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsystems · Problem-Driven · Payments · Decentraland"]
+    D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
+    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>Software Engineering · Architecture · Chilean School Path<br/>Neural networks · Machine operation"]
+    F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
+```
 
-PHP 8 · Python · Rust · Go · Node.js/TypeScript · Java 21 · .NET 8 · Dart/Flutter · WebAssembly · AWS · Terraform · Kubernetes · Docker · n8n · LangGraph/MCP · CI/CD · FinOps · Observability
+## 📦محصولات با توزیع واقعی
 
-## 🧭 دامنه حرفه‌ای
+نرم افزاری که دانلود، نصب و استفاده می شود - نه تنها کلون شده است.
 
-حوزه‌های اصلی شامل Senior Full-Stack، معماری راهکار، نوسازی legacy، Platform/IDP، Application SRE، DevOps عمل‌گرا، خودکارسازی، هوش مصنوعی کاربردی، تحلیل کسب‌وکار و کارکردی، هماهنگی پروژه‌های فناوری اطلاعات، Product Operations، تحول دیجیتال، مشاوره راهکار و آموزش فنی است.
+| محصول محصول | آنچه که هست | Stack | تحویل تحویل |
+|---|---|---|---|
+| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | امنیت سایبری قانونی: هر تحریف منابع غیر طبیعی ممکن است اولین نشانه یک تهدید باشد. اولین بار تشخیص داده شد، بعدا مداخله کنید | Rust🦀 ·ETW / WPR | **v0.19.0** · **16 آزاد** · **5 نسخه**GUI: GUI·قابل حمل·CLI CLI CLI CLI CLI CLI·PowerShell·VS Code· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
+| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | برادر تلفن همراه: یک سنسور قانونی که هر برنامه را در برابر خود، پرچم دار، و جدا کردن مجوز از صرفا درخواست شده است | Flutter·Kotlin·سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت سوئیفت | **v0.8.0** ·قابلیت های Android APK·5 زبان· **عدم تقارن صفر** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
+| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | نسخه macOS`launchd`پایداری، دروازه بان، SIP، FileVault، X protection، TCC مجوزهای، فرایندهای امضا شده و همسایگان شبکه - هر سطح در برابر یک حالت شناخته شده بررسی می شود | Rust🦀 ·macOS 13+ | **v0.1.0** ·اولین انتشار منتشر شده·Apache-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
+| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | برادر سرور: آنچه که هیچ یک از log ها را با هم نمی بیند را مرتبط می کند - سطح در معرض، انفجار دسترسی، جلسه ای که به همان آدرس، یکپارچگی فایل های بحرانی و سکوت سنسور داده می شود - و آن را به یک جمله عملی تبدیل می کند. | Rust🦀 ·ویندوز ویندوز·لینوکس·macOS | **v0.2.0** · **18 قانون**با شواهد و کتاب های اجرا·هرگز به تنهایی عمل را اجرا نمی کند·کنسول محلی بدون وابستگی به وب· **منتشر نشده هنوز** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
+| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | سنسور قانونی مرورگر: کوکی ها، جلسات ایمیل، پسوندها، بارگیری، مجوز ها و صفحاتی که از پنجره واقعی تقلید می کنند | JavaScript JavaScript·MV3 extension | **v0.2.0** ·منتشر نشده هنوز·پنل On`127.0.0.1` ·صفر وابستگی·عدم تقارن صفر در CI· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
+| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | تنها دفاع از بیت کوین: مخترعان هر کلید، آن را با هشدار های منتشر شده بررسی می کند و علت ریشه را با شواهد توضیح می دهد. | JavaScript JavaScript·برنامه Windows app·پانل محلی | **v0.3.0** · **2 انتشار** ·صفر وابستگی·هرگز از بذرها نپرسید·تایید شده در CI· [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
+| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | کنسول چند زنجیره ای تنها تماشا: قراردادهای مخترع، پروکسی ها، اوراکل ها، پل ها، حکومت و وابستگی ها و ایجاد کتاب های مدیریت ریشه به علت ریشه | JavaScript JavaScript·برنامه Windows app·پانل محلی | **v0.3.0**در مخزن·انتشار:`v0.1.0` ·صفر وابستگی·هرگز از کلید های خصوصی درخواست نکنید·تایید شده در CI· [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
+| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | برنامه محلی آندروید برای بررسی کدهای QR قبل از عمل: توضیح می دهد 26 سیگنال، جدا کردن حقایق از فرضیه ها و صادرات شواهد قرمز | Flutter·دارت | **v0.1.4** · **5 انتشار** · **107 تست** ·Android APK منتشر شده·قابل اعتماد بودن SHA-256·امضای بسته فنی: امضاهای تجاری / فروشگاه در پیشرفت·عدم تقارن صفر· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
+| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | راهنمای یک SpA از قبل در ادغام به هر بسته ماهانه: ادغام با شواهد، حمل و نقل با ارزش افزوده، پیش نویس F29، نزدیک غیر قابل تغییر و ثبت حسابرسی. هر قانون به منبع رسمی خود اشاره می کند | JavaScript JavaScript·Rust·PWA | **v1.5.0** ·Android Android Android·ویندوز ویندوز·مرورگر مرورگر مرورگر· **158 تست** · **0 وابستگی تولید** ·عدم تقارن صفر· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
+| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | QR و بارکد خوان**تفسیر قبل از عمل**۱۶ سیگنال خطر URL محلی و تایید صریح | Flutter·دارت | **v1.1.0** ·Android Android Android·iOS iOS iOS·macOS·PWA·تاریخ رمزگذاری شده**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
+| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | پایگاه داده جاسازی شده: تک تک`.db`فایل، WAL، بهینه سازی مبتنی بر هزینه، HTTP / JSON API | Rust🦀 | ویندوز ویندوز·macOS·لینوکس· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
+| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | ارکستر محلی: JSON جریان دارد که پنجره های واقعی را باز می کند، با DOM ارتباط برقرار می کند و شواهد را ترک می کند | پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python·بازی Playwright·pywebview | **v0.3.0** · **27 جریان** ·معرفی و تایید کننده· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
+| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | کارخانه اول محلی که تبدیل به PDF، Word، وب، Git، JSON و CSV به مجموعه داده های قابل حسابرسی برای آموزش، آموزش، زیبایی، RAG و ارزیابی می شود | پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python | **v0.2.0** ·ویندوز + آفلاین Android·اولین انتشار منتشر شده· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
+| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | برنامه اول محلی با 15 ادغام موجودی AWS، 20 آموزش، CLI / SSO، و پیش فرض های تنها خواندن؛ پیاده سازی در پیشرفت، نه دسترسی جهانی | JavaScript JavaScript·ویندوز ویندوز | **v0.1.1** ·اولین انتشار منتشر شده· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
+| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | راهنمای نسخه برداری مفهومی از عملیات تجاری: کاتالوگ، سهام، CRM، سفارشات، پرداخت های مسخره و ردیابی | JavaScript JavaScript·وب سایت Web·ویندوز ویندوز·Android Android Android | **v0.3.0** · **2 انتشار** ·هیچ پول واقعی یا ادغام مالیات بر قدرت شیلی· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
+| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-first Local Read-only Reader، بدون زوم بدون نسخه، تاریخ بازگشایی، به اشتراک گذاری WhatsApp و انتخاب پیش فرض-Reader | HTML HTML·وب سایت Web·Android Android Android·ویندوز ویندوز | **v0.33** ·امضایی از APK·هیچ حساب، مجوز حساس یا تلهومتر· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
+| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | یک ویدیو، لیست یا**کل کانال YouTube**متن با زمان بندی به زیرنویس های موجود اعتماد نمی کند: وسور صدای صوتی را به رسمیت می شناسد**روی ماشین شما**بدون API، حساب یا کلید برای پیکربندی | پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python·PySide6·FastAPI·سریع تر - | **v0.2.0** ·Windows Desktop + Local Panel`127.0.0.1`+، CLI،**اشتراک گذاری همان صف** ·MD MD·pdf·TXT·SRT·VTT·JSON·MP3·OGG· **89 تست** ·بسته بندی FFmpeg·عدم تقارن صفر· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
+| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | راه اندازی خلاق محلی AI: Qwen3TTS را هماهنگ می کند، زمزمه می کند.cpp، FaceFusion، AceForge و ComfyUI | Tauri 2·Rust·React React React | v0.5.1· **5/5 ابزار با استنتاج واقعی** ·Apple Silicon·ویندوز آزمایشی· **منتشر نشده هنوز** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
+| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | مجموعه Office از ابتدا: قوانین سند به DOM وابسته نیستند – HTML فقط یک پیش بینی است | Rust/WASM·برو برو برو برو برو·React 19 | تکاورپو تکاملی توسط فازها· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
+| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | برنامه آموزشی برای کودکان: chromatic audr، Audio-clock-curate metronome، آهنگ با ویولن واقعی | Tauri 2·React React React·TS TS | **v1.3.0** ·ویندوز ویندوز·Android Android Android·لینوکس·macOS·PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
+| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | برادر بزرگتر: 24 درس در 6 جهان، 6 رشته، چراغ قوه، مترونوم بدون حرکت، و 11 یادداشت گیتار واقعی | Tauri 2·React React React·TS TS | **v1.0.0** ·ویندوز ویندوز·Android Android Android·لینوکس·macOS·iOS iOS iOS·PWA·هیچ حساب، تبلیغات یا وابستگی آنلاین· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
+| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca از سن 10: 24 کلاس در 8 سطح، 72 فعالیت، آزمایشگاه شش پالس (3+3 و 2+2)، و نمودار کف قابل دسترس است. می گوید که**مکمل ها، نه جایگزین**معلمان و صاحبان فرهنگ | Flutter·دارت | **v0.2.0** ·Android 7+·ویندوز 10/11·دانلود بازی APK·EXE·MSI·قابل حمل· **29 تست + 2 اعتبار سنجی** ·هیچ دوربین، میکروفون، حساب، تبلیغات یا اینترنت· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 
-هر ادعا باید همراه با شواهد و مرزهای اعلام‌شده خوانده شود. مخزن‌های آموزشی مجوز یا گواهی حرفه‌ای صادر نمی‌کنند و نمایش‌های فنی جایگزین تجربه تولیدی تأییدشده نیستند.
+## 🧪آزمایشگاه های مهندسی
 
-## 📬 تماس
+| Repo | آنچه که نشان می دهد |
+|---|---|
+| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **۲۰ مشکل واقعی**(اعتبار در زمان، N+1، طوفان های دوباره، نشت، تکلیست، تمبرهای کش، عقب، مهاجرت صفر-downtime، DLQ فراموش شده) با شکست های تزریق فیبر بالا، حل شده در، در**7 پشته**PHP 8·پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون پایتون Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python·Node.js·جاوا 21·NET 8· **2/13** · **دانلود زیرنویس فارسی فیلم Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 مورد**منبع: n8n**18+ موتورهای DB** —**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.**8 لایه**حسابرسی، محافظان، شکستن مدار و DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 میکروکارهای تشخیصی و مدرن سازی**PHP·محلی Read- Only MCP server·سخت شدن در 3 مرحله· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
+| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **۱۳ آزمایشگاه**در یک پلت فرم 4service + خودکار`.exe`نصب کننده با Launcher· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
+| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 مورد**در`wslc`موتور ظروف بومی WSL –**بدون Docker Desktop** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
+| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | "Docker Desktop for Unikernels" : کنترل ویندوز بر UniDSM با WSL2 backend`kraft`QEMU / KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
+| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 آزمایشگاه**مجازی سازی واقعی با QEMU، KVM، libvirt، Cloud-init و`vm-manager`در لینوکس و WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
+| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | انزوای لینوکس: اجرای کد شخص ثالث، فایل ها و مدل های تجاری تحت سیاست های اعلام شده و**گزارش های امضا شده که در واقع کنترل ها اعمال می شوند** · **۳۶ مورد**در دو خانواده – ۱۵ بازار فنی و ۲۱ سرمایه –·گواهی تجربی و آموزشی، * نه یک محصول امنیتی *· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
+| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 خانواده پرداخت**در یک دموی محلی خود توضیحی: دولت ها، کللی، آشتی، امنیت و راهنماهای پیاده سازی· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
+| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | تجربه بومی Decentraland Social 3D: یک MVP و یک معماری چند بازی با SDK7، ECS و TypeScript·مستند اسپانیایی·پرداخت یا تلهومتر |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | موارد پیشرفته که هر یک از آنها یک سرویس AWS را اضافه می کند**و**قابلیت جدید GitHub Actions·SAA-C03·DVA-C02·پوشش SOA-C02 |
 
-[vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [نمونه‌کارها](https://vladimiracunadev-create.github.io/)
+## 🤖کاربردی AI
 
-<sub>خلاصه بومی‌سازی‌شده نمایه · آخرین تطبیق با حساب عمومی GitHub: ۱۲ اکتبر ۲۰۲۶.</sub>
+| Repo | آنچه که نشان می دهد |
+|---|---|
+| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 بازگشت عملیاتی**- حالت نوع، مسیرهای مشروط، جریان NDJSON، حالت DEMO / LIVE، 8 لایه امنیتی، زنجیره نگهداری SHA-256 |
+| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 عامل عملیاتی**برای کد کلود و زمان اجرای سازگار: هر یک یک ماموریت کامل - ارائه تکامل کامل، مدرن سازی میراث، طراحی برنامه درسی، انتشار نمونه کارها، اصلاح امنیت، تجزیه و تحلیل حادثه - تحت یک قرارداد اعلام شده، دروازه های انسانی و شواهد قابل اعتماد· **39 معیاری برای evals** ·34 تست·صفر-دپس (تنها در ادلب)·لینوکس·macOS·ویندوز ویندوز· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
+| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | هوش مصنوعی محلی-اول با ابزار MCP در یک Sandbox· `127.0.0.1`اتصال اتصال·پروفایل اعتماد چند لایه·در مورد محدودیت های آن صادق باشید |
+| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 پلاگین Agentic**نصب شده در کلود کد، OpenAI / codex، Copilot، Gemini و MCP از یک منبع:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`و`rootcause-response` · **69 دیدگاه بدون حرکت**- هر زمان اجرا فرمت خود را از همان قرارداد دریافت می کند -·صفر-deps·لینوکس·macOS·ویندوز ویندوز· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
+| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 مهارت های نمایندگی**برای کد کلود· **امنیت امنیتی**12 لایه`security-audit`(OSV)·KEV·EPSS·SAST·container·اسرار و 14 مرحله`bitcoin-custody-audit` · **دروازه های Repo**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **انسجام انسجام**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **Docker**: `docker-cleanup`, `docker-compose-doctor` · **docs docs**: `md-to-doc` ·صفر-deps·Cross-platform |
+| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 مهارت های نمایندگی**برای Codex: زنجیره امنیتی و عرضه، پیش پرواز، جریان های عملکردی، انعطاف پذیری و حالت، انتشار شواهد، پایتون / YaML / مارک معکوس، نسخه، وابستگی، Docker و اسناد·پایتون-first· `pnpm` ·لینوکس·macOS·ویندوز ویندوز· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+
+## 📚ویژگی های فنی کامل
+
+برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 21 برنامه اضافه شده به**14530 کلاس**شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
+
+🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)یک قطب نمای تغذیه شده است که 30 مسیر واقعی را در 6 ناحیه از طریق نقشه های بصری و یک قطب نمای بصری متصل می کند.[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)این به عنوان یک برنامه اضافی شمرده نمی شود.
+
+| برنامه برنامه برنامه | کلاس کلاس کلاس کلاس | محدوده محدوده |
+|---|---:|---|
+| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | از شمارش روی انگشتان تا بازتولید یک کاغذ· **360 تظاهرات قاطع تایید شده در CI** ·1080 نوت بوک·۴۸۹- واژه نامه· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
+| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h·ریاضیات مالی و IFRS اعتبار، ریسک، بازل III، امور مالی باز، DLT، ثابت کوین ها و MiCA· **27 مورد** · **تست های 298** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
+| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | ریاضیات و C# / C++ / GDScript → سایه ها، AI، چند نفره، VR /AR·خدا·وحدت وحدت وحدت·غیرواقعی· **10 آزمایشگاه گودوت در CI تایید شده است**(301 چک)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
+| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 قسمت·بنیادهای Red Team، DFIR، امنیت ابر، بهره برداری از dev، CTF و امنیت بازی·نقشه برداری برای**7 گواهینامه** ·برنامه Android / Web·PDF Manual·CI، امنیت و صفحات تایید شده· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
+| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 بخش با تعاریف عملیاتی، ورق های اندازه گیری، بی اعتبار بودن واقعی، و زمینه تنظیم مقررات شیلی· **v1.6.0** ·1.29M کلمات·17 مسیر مبتنی بر نقش· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
+| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | ایجاد و کار یک شرکت واقعی در شیلی: از ایده به مشارکت، اقتدار مالیاتی، عملیات، بحران و خروج·360 نمودار·1،251-termary·1،548 صفحه راهنمای· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
+| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 قسمت·60 جلسه ی یکپارچه·34 مسیر·منابع قابل ردیابی·مارک معکوس، خواننده آفلاین و صفحات GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | درجه 1 -12· **۴،۱۵ تجربه برنامه های درسی یکپارچه** · **2823 اهداف یادگیری** ·منابع ذهنی·هیچ پیشنهادی و بررسی تخصصی انسانی هنوز در انتظار نیست· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 قسمت و 8 مرحله·پایه ها، محصول، معماری، امنیت، DevOps، SRE، SPEC، AI و سیستم های چند عاملی·وضعیت سرمقاله اعلام شده توسط مخزن· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | از چگونگی یادگیری یک فرد به چگونگی آموزش معلمان·25 قسمت· **هر کلاسی وضعیت و محدودیت های خود را اعلام می کند.** ·سواد اولیه، روش های مقایسه ای، نیازهای آموزشی خاص، همزیستی، تنوع فرهنگی و شواهد بین المللی·1097-termary, 325 Dias و 60-active Class bank·14 مسیر شغلی با نقش·LMS-Exportable· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
+| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·سازنده : Terraform·SRE·FinOps· **1،288 ساعت** ·288 آزمایشگاه با شواهد JSON·1032 منابع ردیابی·2884 صفحه راهنمای PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
+| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | از داشتن اولین نتیجه خود برای رهبری یک شرکت و تاسیس خود: تیم ها، KPI /OKR، امور مالی، محصول، خطر، هیئت مدیره و M&A·24 مورد، 96 آزمایشگاه و 39 قالب· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
+| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars، ML+Optuna/SHAP، PyTorch/LLMs/LoRA، MLOps·برنامه های ویندوز بومی + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
+| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | نماد | یادگیری عمیق | LLM ها، RAG، عوامل، ایمنی و مرز· **v0.17.0** · **708 دفترچه** · **148 مقاله بنیادی** ·برنامه های آفلاین ویندوز، Android و PWA· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | یک مفهوم،**10 زبان**تایید شده در CI -**1،360 پیاده سازی**- به علاوه**1،750 برنامه**در زبان های زنده (COBOL، Fortran، Ada، RPG، MUMPS ...) و alas of of the**60 کارت در 15 خانواده** ·v1.1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
+| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | یک قرارداد اجرایی، بدون آداپتور، در برابر Express، FastAPI، Spring Boot، ASP.NET، Django، Rails، Laravel، React، Vue، Svelte و بیشتر·12 قسمت· **70 کلاس ساخت** · **397 مورد تایید در CI** · **منابع ISBN/DOI** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
+| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** ·مهندسی پایگاه داده در 15 بخش·230 ساعت· **منبع قابل اثبات برای هر ادعایی**120 منبع با ISBN، DEC یا استاندارد·همان مورد در 27 موتور حل شد·306- بلند مدت·150 pytest· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
+| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | چگونه یک ابزار اندازه گیری ساخته شده، به ثمر رسانده، معتبر و حسابرسی شده است·8 قسمت·موتور اجرایی با**5 ابزار و 344 آیتم، 276 Public-domain** |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·از صفر تا زیرساخت های مالی قابل برنامه ریزی و تجزیه و تحلیل های زنجیره ای· **91 شیوه**و**363 تست** ·قراردادهای با Foundry (تحریم و عایق) و تجزیه و تحلیل استاتیک Slither در CI·برنامه های آفلاین با باز کردن باینری و شمارش محتویات آن تایید شده است· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 ماژول·≈ساعت ≈· **93 دفترچه یادداشت**- 31 کلاس، 31 نسخه دانشجویی و 31 راه حل -·سوالات، نقشه های بصری، شیوه ها و ارزیابی با داده های عمومی واقعی·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
+| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 ماژول آموزش**یک در هر ماشین· **502 h 15 دقیقه** ·سیستم ها، کنترل ها، فیزیک، ایمنی و طراحی شبیه سازی با منابع در هر کلاس·* هنوز هم شبیه ساز اجرایی نیست و این گونه اعلام می شود |
+
+## 🔬محاسبات علمی
+
+| Repo | آنچه که نشان می دهد |
+|---|---|
+| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | پلتفرم genomics Reroducible: Typed`ScientificResult<T>`قراردادها، FASTA / GFF / VCF، ماژول ها با**بلوغ و شواهد صریح**صداقت رادیکال: * تشخیص بالینی انجام نمی دهد *· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
+
+## ⚡اگر 10 دقیقه وقت دارید تا من را ارزیابی کنید
+
+ایده فقط نگاه کردن به کد نیست: دیدن کد است.**چگونه فکر می کنم**چگونه سند می کنم و چگونه همه چیز را اجرا می کنم.
+
+**مسیر A – قابلیت های واقعی و ارکستر**(من مورد علاقه ام)
+
+```bash
+git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
+```
+
+شما گردش های کاری، معیارها، داشبورد ها و محافظ ها را در 19 مورد و 18 موتور DB مشاهده خواهید کرد.
+
+**جاده B – زیرساخت های قابل بازیافت در دقیقه**
+
+```bash
+git clone https://github.com/vladimiracunadev-create/docker-labs.git
+```
+
+**مسیر C – نمایندگان با حالت تایپ**
+
+```bash
+git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
+```
+
+**مسیر D – محصول قانونی Rust بدون نظارت**
+
+دانلود بازی The installer یا binary از[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)و تایید`SHA256SUMS`.
+
+## 🧠استانداردهایی که در سراسر مخازن اعمال می کنم
+
+- **اولین DX**اگر اجرای آن آسان نباشد، به عنوان یک دموی یا به عنوان یک پایگاه تیمی مفید نیست.
+- **قابلیت اطمینان از روز 1**- معیارها و قابلیت ردیابی، نه یک پس انداز.
+- **امنیت به عنوان خط لوله**اسکن مخفی، SBOM در هر آزادی، به طور واضح ممنوع است.
+- **انعطاف پذیری واقعی**– قابلیت تشخیص، شکستن مدار و تخریب کنترل شده
+- **Polyglot با طراحی**زبان و موتور انتخاب شده توسط مورد استفاده، هرگز با مد.
+- **صداقت در مورد وضعیت**یک بار تغییر نام داده شد (`Multisimulador` → `machine-operator-program`برای جلوگیری از نرم افزار امیدوار کننده که هنوز وجود ندارد.
+- **نشانه ها هستند، نه شواهد**هر بار که دوباره اعلام می کند**آنچه که انجام نمی دهد**.
+- **مدل خارجی**- دامنه ابتدا طراحی شده است؛ رابط یک پیش بینی است.
+- **کار خارجی به عنوان خارجی اعلام می شود**از 70 نمایندگی عمومی حساب، 64 نفر کار خودم هستند. شش بعدی –[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe), [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), [`raptor`](https://github.com/vladimiracunadev-create/raptor)و[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)چنگال هستند و از تمام ارقام برای کار خودم محروم هستند.
+
+## ✅حرفه ای
+
+پس زمینه دوگانه من -**مهندسی کامپیوتر و محاسبات + مدیریت کسب و کار**- به من کمک می کند تا اهداف کسب و کار را به تصمیمات فنی و محدودیت های فنی به گزینه های روشن برای عملیات، محصول، مشتریان و رهبری تبدیل کنم.
+
+### 🎯هویت اصلی
+
+| نقش نقش نقش | بازگشت |
+|---|---|
+| **راه حل معماری** | طراحی سیستم های مقیاس پذیر با قضاوت تکاملی |
+| **معماری مدرن سازی** | تکامل میراث واقعی (PHP 5.x) 8.x، بازسازی تدریجی بدون وقفه عملیات |
+| **ارشد Full-Stack / Tech Lead** | معماری، اجرای و استانداردهای سیستم عامل های واقعی (+16 سال) |
+| **معماری اتوماسیون AI** | سیستم های عامل با LangGraph /MCP و n8n با محافظان جریان می یابد |
+
+### ↗ گسترش طبیعی
+
+**مهندسی ارکستر AI** · **سیستم ها / مهندس Rust** · **مهندس موبایل (Flutter)** · **راه حل های مهندسی** · **سازنده محصول فنی** · **مربی فنی** · **مشاور تحول دیجیتال** · **Business / Applied Analysis** · **عملیات محصول فنی**
+
+### ⚙️محدوده های تکمیلی
+
+مهندسی پلتفرم / IDP·DevOps / CI-CD·مهندسی Cloud / AWS·کاربرد SRE·مهندسی اتوماسیون·مشاور فنی تجاری
+
+## 🧭مدیریت، مدیریت و فرصت های شغلی غیر مشارکتی
+
+این دامنه ادعا نمی کند که هر عنوانی در آن نگهداری شده است. این اولویت بندی کار را در جایی که ترکیبی از محاسبات، مدیریت کسب و کار و شواهد عمومی می تواند بدون برنامه نویسی به عنوان وظیفه اصلی ایجاد ارزش کند، اولویت بندی می کند.
+
+| خانواده حرفه ای | تشخیص نقش | طبقه بندی صداقت | Coding | شواهد و شرایط |
+|---|---|---|---|---|
+| **رهبری تکنولوژی** | مدیر IT·مدیریت عملیات IT·مدیر تحول دیجیتال·CIO | **برنامه ریزی بالقوه / هدف آینده** | هیچ/معجزه | پایه فنی قوی؛ افراد، بودجه، فروشنده و پاسخگویی اجرایی باید به طور جداگانه اثبات شوند |
+| **مدیریت پروژه** | پروژه هماهنگ کننده / مدیریت·PMO·دانلود بازی Master·تحویل سریع | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | تحویل و انتشار شواهد؛ تیم رسمی، بودجه و مسئولیت حمایت از آن همچنان یک شکاف است |
+| **مدیریت کسب و کار** | مدیر کسب و کار·مدیریت/عملیات مدیر·مدیر قرارداد | **کاربرد بالقوه** | هیچ کس | درجه کسب و کار و مصنوعات عملیاتی؛ نیاز به مالکیت تایید شده از منابع، مردم و تامین کنندگان |
+| **استراتژی و تغییر** | استراتژی مشاور·تغییر مدیر·برنامه ریزی شرکت·نوآوری / تحول | **قابلیت انتقال / قابلیت درخواست** | هیچ کس | مدرن سازی میراث و ارزیابی راه حل؛ نتایج پذیرش سازمانی باید نشان داده شود |
+| **تحلیل کسب و کار** | تحلیلگر کسب و کار·تحلیل گر کاربردی / requirements Analysis·BPM·بهبود مستمر | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | مدل سازی دامنه و شواهد مورد نیاز؛ موارد ذینفعان خارجی این ادعا را تقویت می کنند |
+| **محصول و خدمات** | مالک محصول / مدیر·عملیات محصول·خدمات تحویل·موفقیت مشتری | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | نقشه های جاده، چرخه عمر، آزاد سازی و عملیات؛ P&L، نمونه کارها مشتری و شواهد SLA با نقش متفاوت است |
+| **مدیریت امنیت سایبری** | GRC·کنترل IT Auditor·تکنولوژی ریسک·امنیت اطلاعات / Continuity | **کاربرد بالقوه** | هیچ/معجزه | کنترل ها و ریشه ها به دلیل شواهد؛ حسابرسی های سازمانی و اعتبار های مربوطه در انتظار |
+| **تجارت و فروش** | تکنولوژی Presale·راه حل های مشاور·فنی KAM·B2B توسعه کسب و کار | **قابلیت انتقال / قابلیت درخواست** | هیچ کس | راه حل قوی / ترجمه ارزش؛ سهمیه بندی، حساب و مذاکره قرارداد ادعا نمی شود |
+| **مدیریت و مدیریت کنترل** | بودجه / تحلیلگر·پروژه ارزیابی·FP & A·کنترل مدیریت | **کاربرد بالقوه** | هیچ کس | دارایی / عملیات؛ بودجه واقعی، بیانیه های مالی و KPI های شرکتی مورد نیاز است |
+| **کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت کیفیت** | تحلیل گران کیفیت / Quality Analysis·پردازش Auditor·بهبود مستمر | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | گیتس، تست ها، معیارها و تکرارپذیری؛ مالکیت سیستم های کیفیت رسمی همچنان شکافی است. |
+| **آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش آموزش** | مربی فنی·تسهیل کننده·هماهنگ کننده علمی·EdTech / طراح آموزش | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | 21 برنامه و 14530 کلاس؛ آموزش رسمی و نتایج یادگیرنده باید به طور جداگانه اثبات شود |
+| **تدارکات و تامین کنندگان** | خرید·عرضه / عملیات هماهنگ کننده·فروشنده / مدیر عامل | **کاربرد بالقوه** | هیچ کس | فرآیند و پایگاه دولت؛ تدارکات واقعی، موجودی و عملکرد تامین کننده مورد نیاز است |
+| **داده ها و مدیریت AI** | داده های Steward·مدیریت داده ها·اتخاذ AI / حاکمیت | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | مجموعه داده های قابل حسابرسی و عوامل انسانی؛ سیاست های سازمانی و کمیته ها همچنان شکاف هستند |
+| **بخش عمومی** | مدرن سازی نهادی·هماهنگ کننده ICT·پروژه های دیجیتال·برنامه ریزی عمومی | **کاربرد بالقوه** | هیچ کس | سیستم های متن شیلی و قابل ردیابی؛ ادعا نمی شود که خرید عمومی و تجربه بخش |
+
+The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The[full Spanish role matrix](PROFESIONAL_ROLES.md)اهداف جزئیات، مسئولیت ها، تجربه بازار، دانش مکمل، شواهد، سازگاری و شکاف ها در تمام 14 خانواده.
+
+## 🤖جریان توسعه AI-Assisted Development Flow
+
+| ابزار ابزار | استفاده اصلی |
+|---|---|
+| **کد کلود** | بررسی معماری، پیاده سازی و مستندات فنی |
+| **ChatGPT Plus** | تجزیه و تحلیل، معماری و تکرار (از سال 2023) |
+| **Codex** | تولید کد و بازسازی |
+| **ضد جاذبه** | افزایش پیشرفت و جریان اتوماسیون |
+| **VS Code / OpenCode** | محیط های با کمک AI یکپارچه |
+
+> من قضاوت فنی خودم، اعتبار انسانی و جهت معماری را ترکیب می کنم. هوش مصنوعی ظرفیت، سرعت و دستیابی را تقویت می کند – جایگزین تجربه نمی شود.
+
+## 📌در دسترس بودن
+
+**باز به:**پیر Full-Stack·معماری معماری معماری·مدرن سازی میراث·پلتفرم / IDP·کاربرد SRE·عملی DevOps·اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون اتوماسیون·اتوماسیون AI Automation·تجزیه و تحلیل کسب و کار / عملکردی·هماهنگی پروژه IT·عملیات محصول·تحول دیجیتال·راه حل های مشاوره / پیش فروش·آموزش فنی·کیفیت و بهبود مستمر·پذیرش و حکومتداری AI
+
+**ارزیابی با توجه به دامنه هر نقش:**مالک محصول / مدیر محصول فنی·خدمات تحویل·عملیات IT·خطر تکنولوژی GRC·مدیریت و عملیات·کنترل مدیریت·مدرن سازی بخش عمومی عناوین اجرایی و مدیریت عمومی اهداف توسعه آینده هستند، نه ادعا تجربه.
+
+**تغییر:**از راه دور یا هیبریدی، بسته به پروژه.
+
+## 📬تماس
+
+[![Web](https://img.shields.io/badge/Web-vladimiracunadev--create.github.io-0366d6?style=flat-square)](https://vladimiracunadev-create.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Acuña-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/)
+[![GitLab](https://img.shields.io/badge/GitLab-vladimir.acuna.dev-fc6d26?style=flat-square&logo=gitlab)](https://gitlab.com/vladimir.acuna.dev-group/vladimir.acuna.dev-group)
+[![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
+
+---
+
+<div align="center">
+
+[🤝 Contribute](CONTRIBUTING.en.md) ·
+[🛡️ Security](SECURITY.en.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+
+<sub>ReadME همگام با حالت قابل اثبات مخازن عمومی - چهره ها و تغییرات خواندن از طریق API -·آخرین تایید: 12 اکتبر 2026</sub>
+
+</div>
