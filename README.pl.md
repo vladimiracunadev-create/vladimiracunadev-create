@@ -74,7 +74,7 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 | 📚 **Programy nauczania** | **14 530 klas**weryfikowalne w 21 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
 | 🌐 **Portfolio** | Instalowalne PWA· **6 języków** · **36 PDF**generowane przez rurociąg·API danych CV·Capacitor Android·Latarnia morska 100 |
 | 🔒 **Telemetria** | Zero telemetrii w wyrobach kryminalistycznych i Empresa Operativa Chile - zweryfikowane w każdej budowie (nie Android`INTERNET`(pozwolenie) |
-| 🌐 **Opublikowane strony** | **56 Strony strony GitHub**- 55 wyładunków, po jednym na produkt, program lub nawigator ekosystemu, plus portfolio - każdy z nich został wprowadzony z własnego repozytorium·wszystkie 56 zweryfikowane za pomocą HTTP`200` |
+| 🌐 **Published sites** | **56 GitHub Pages sites** —55 landings, one per product, program, or ecosystem navigator, plus the portfolio— each deployed from its own repository · all 56 verified with HTTP `200` |
 
 ## 🗺️Ekosystem w odblasku
 

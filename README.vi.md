@@ -4,7 +4,7 @@
 
 ## **Kiến trúc giải quyết·Người đầy đủ cao cấp·Biến hình số·Quản lý & thao tác**
 
-**Chuyên nghiệp trong lĩnh vực khoa học máy tính và quản lý máy tính và kinh doanh, với 16+ năm xây dựng và vận hành phần mềm trong môi trường thực. Tôi kết nối thương mại, con người, quá trình và công nghệ để thiết kế, đánh giá, giải pháp và duy trì với các giải pháp kỹ thuật và quan điểm hoạt động — được chứng minh bằng bằng chứng có thể kiểm chứng trong tài khoản của GitHub này.**
+**Professionally trained in Computer Science and Computing Engineering and Business Administration, with 16+ years building and operating software in real environments. I connect business, people, processes, and technology to design, evaluate, deliver, and sustain solutions with technical judgment and an operational view — backed by verifiable evidence in this GitHub account.**
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Live_portfolio-vladimiracunadev--create.github.io-0366d6?style=for-the-badge)](https://vladimiracunadev-create.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Acuña-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/)
@@ -151,14 +151,14 @@ Phần mềm được tải về, cài đặt và sử dụng — không chỉ l
 
 ## 📚Máy tính trình duyệt kỹ thuật toàn bộ
 
-Các chương trình liên quan đến việc nhập cư bằng tiếng Tây Ban Nha, với địa vị và phạm vi được tuyên bố bởi mỗi kho. Các chương trình 21 cộng lại**14.530 lớp**đếm bởi[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thật hoặc một nguồn có thể kiểm chứng được được tuyên bố trong kho; các huy hiệu làm tươi hằng tuần và không được viết bằng tay.
+Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,530 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)là một la bàn liên kết 30 con đường thật trên 6 khu vực thông qua bản đồ thị giác và một[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); nó không được tính là một chương trình bổ sung.
 
 | Chương trình | Hạng | Phạm vị |
 |---|---:|---|
 | [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | Từ việc đếm trên ngón tay đến việc tái sản xuất một tờ giấy· **Đã kiểm tra 360 cuộc biểu tình xác định trong CN** ·1. 080 cuốn sổ·Bản chú giải 489- hạn· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 554 h·Toán học tài chính và tín dụng của IRS iRS, rủi ro, sự khai thác, tài chính, DLT, ổn định và MiCA· **27 thùng** · **Thử 298** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
+| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · financial mathematics and IFRS → credit, risk, Basel III, open finance, DLT, stablecoins, and MiCA · **27 cases** · **298 tests** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
 | [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Toán học và C#/C++/GDGD maker  lushers, Al, đa người chơi, VR/AR·Godot·Hợp nhất·Không thật· **10 Phòng thí nghiệm Godot được xác nhận ở CI**(301 Kiểm tra)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
 | [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3. 0** ·20 phần·Tổ chức nhóm đỏ, DFIR, an ninh đám mây, khai thác dev, CTF, và bảo mật trò chơi·Bản đồ**7 xác thực** ·Name·Sổ tay PDF·Đã kiểm tra các trang, CI, Security và Pages· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 phần với định nghĩa hoạt động, bảng đo đạc, tính toán bản thảo, và ngữ cảnh điều chỉnh Chile· **v1. 6. 0** ·1.29M từ·17 đường đi dựa trên vai trò· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
@@ -259,7 +259,7 @@ Phạm vi này không cho rằng mọi tước hiệu đều được giữ. Nó
 | **Phân tích kinh doanh** | Phân tích thương mại·Phân tích hàm/ Số lần·BPM·Sự cải thiện liên tục | **Có khả năng chuyển tiếp/ ứng dụng** | Không có/gcasional | Những vụ kiện bên ngoài có thể củng cố quyền đòi hỏi và mô hình địa phương. |
 | **Sản phẩm và dịch vụ** | Bộ quản lý/ sở hữu sản phẩm·Thao tác sản xuất·Giao dịch·Thành công theo ý riêng | **Có khả năng chuyển tiếp/ ứng dụng** | Không có/gcasional | Các sơ đồ, xe đạp cứu hộ, phát hành và hoạt động; P&L, danh mục khách hàng và SLA bằng chứng khác nhau tùy theo vai trò |
 | **Quản lý an ninh mạng** | GRS·Bộ quản lý máy chiếu·Nguy cơ về công nghệ·Thông tin bảo mật/ Hằng ngày | **tiềm năng ứng dụng** | Không có/gcasional | Kiểm soát và căn cứ vì bằng chứng; các cuộc kiểm tra và giấy ủy nhiệm về tổ chức vẫn còn |
-| **Thương mại và bán hàng** | Những người bảo tồn kỹ thuật·Trích dẫn giải pháp·KAM KAM·Phát triển kinh doanh B2B | **Có khả năng chuyển tiếp/ ứng dụng** | Không có | Không cho rằng có một bản dịch có giá trị, chỉ tiêu, danh mục kế toán và thương lượng hợp đồng |
+| **Commercial and sales** | Technology Presales · Solutions Consultant · Technical KAM · B2B Business Development | **Transferable / application potential** | None | Strong solution/value translation; quota, account portfolio, and contract negotiation are not claimed |
 | **Quản lý tài chính và quản lý** | Ngân sách sản xuất/Cost phân tích·Đánh giá dự án·FP & A·Điều khiển bộ quản lý | **tiềm năng ứng dụng** | Không có | Tài chính/ Các cổ vật; ngân sách thực sự, tuyên bố tài chính và công ty KPIs là cần thiết |
 | **Chất lượng** | Phân tích độ trong tiến trình/Qality·Trình thử giọng tiến trình·Sự cải thiện liên tục | **Có khả năng chuyển tiếp/ ứng dụng** | Không có/gcasional | Gates, thử nghiệm, số liệu, và tính dễ bị ảnh hưởng; sở hữu hệ thống chất lượng chính thức vẫn còn là một khoảng trống |
 | **Giáo dục** | Huấn luyện viên kỹ thuật·Trình tạo đối tượng·Trình phối hợp học·EdTeoch / Giới thiệu về giáo dục | **Có khả năng chuyển tiếp/ ứng dụng** | Không có/gcasional | 21 chương trình và 14.530 lớp; kết quả chính thức của việc dạy dỗ và học viên phải được chứng minh riêng biệt |
