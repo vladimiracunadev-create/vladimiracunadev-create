@@ -16,9 +16,9 @@
 
 <!-- STATS:START -->
 [![Repository pubblici](https://img.shields.io/badge/repository%20pubblici-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Release pubblicate](https://img.shields.io/badge/release%20pubblicate-148-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Release pubblicate](https://img.shields.io/badge/release%20pubblicate-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Linguaggi](https://img.shields.io/badge/linguaggi%20principali-10-0366d6?style=for-the-badge)](#-ecosistema-in-sintesi)
-[![Classi](https://img.shields.io/badge/classi%20curricolari-14500-3fb950?style=for-the-badge)](#-curricula-tecnici-completi)
+[![Classi](https://img.shields.io/badge/classi%20curricolari-14530-3fb950?style=for-the-badge)](#-curricula-tecnici-completi)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -33,7 +33,9 @@
 [📋 Matrice dei ruoli](PROFESIONAL_ROLES.md) ·
 [📬 Contatto](#-contatto)
 
-**Lingue:** [ES](README.md) · [EN](README.en.md) · [PT](README.pt.md) · [IT](README.it.md) · [FR](README.fr.md) · [ZH](README.zh.md)
+**🌐 Versioni complete:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md)
+
+**🌍 Riepiloghi localizzati:** [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **Nucleo tecnico:**
 PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
@@ -68,9 +70,9 @@ Non è “un repo”: è un ecosistema con standard comuni.
 | 🧪 **Copertura test** | GabySQL **828 test** + fuzz di **503,8 M query** (0 panic) · Empresa Operativa Chile **158 test** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agenti in produzione** | LangGraph RealWorld **25/25 backend operativi** (casi 01–25, copertura 100 %) · Operational AI Agents **13 agenti** con **39 eval deterministici** |
 | 🔗 **Integrazione poliglotta** | **20 casi** emittente→n8n→ricevitore —**19 operativi**, auditati uno a uno con Docker— · **18+ motori DB** · **20+ container** · 11 pattern |
-| 📦 **Distribuzione** | **148 release** pubblicate in un ecosistema di **64 repository pubblici propri** · installer e artefatti `.exe` · `.msi` · `.dmg` · `.apk` con checksum e prove di build; firme commerciali/store in corso quando applicabile |
+| 📦 **Distribuzione** | **151 release** pubblicate in un ecosistema di **64 repository pubblici propri** · installer e artefatti `.exe` · `.msi` · `.dmg` · `.apk` con checksum e prove di build; firme commerciali/store in corso quando applicabile |
 | 🛡️ **Supply chain** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Curricula** | **14.500 classi** verificabili in 21 programmi, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository —non scritte a mano— · ogni programma dichiara il proprio stato editoriale e i propri limiti |
+| 📚 **Curricula** | **14.530 classi** verificabili in 21 programmi, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository —non scritte a mano— · ogni programma dichiara il proprio stato editoriale e i propri limiti |
 | 🌐 **Portfolio** | PWA installabile · **6 lingue** · **36 PDF** via pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetria** | Zero nei prodotti forensi e in Empresa Operativa Chile — verificata in ogni build (senza permesso Android `INTERNET`) |
 | 🌐 **Siti pubblicati** | **56 siti** su GitHub Pages —55 landing, una per prodotto, programma o navigatore dell'ecosistema, più il portfolio— tutti distribuiti dal proprio repository · tutti verificati con risposta `200` |
@@ -150,7 +152,7 @@ Software che si scarica, si installa e si usa — non solo si clona.
 
 ## 📚 Curricula Tecnici Completi
 
-Programmi sequenziali in spagnolo, con stato e ambito dichiarati da ogni repository. I 21 programmi sommano **14.500 classi**, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository; il badge viene aggiornato ogni settimana e non è scritto a mano.
+Programmi sequenziali in spagnolo, con stato e ambito dichiarati da ogni repository. I 21 programmi sommano **14.530 classi**, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository; il badge viene aggiornato ogni settimana e non è scritto a mano.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) è una bussola federata che collega 30 percorsi reali in 6 aree tramite mappe visuali e un [portale offline accessibile](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/), senza essere contato come programma aggiuntivo.
 
@@ -162,7 +164,7 @@ Programmi sequenziali in spagnolo, con stato e ambito dichiarati da ogni reposit
 | [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 parti · fondamenti → Red Team, DFIR, cloud security, exploit dev, CTF e game security · mappato a **7 certificazioni** · app offline Android/web · manuale PDF · [sito](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Vendite e Crescita**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 parti con definizioni operative, schede di misurazione, bibliografia verificabile e contesto normativo cileno · **v1.6.0** · 1,29 M parole · 17 percorsi per ruolo · [sito](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Creazione d'Impresa**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Creare e operare un'impresa reale in Cile: idea, costituzione, SII, operazione, crisi e uscita · 360 diagrammi · glossario di 1.251 termini · manuale di 1.548 pagine · [sito](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architettura e Ambiente Costruito**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 800 | 80 parti · 60 sessioni integrative · 33 percorsi · fonti tracciabili · Markdown, lettore offline e GitHub Pages · [sito](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
+| [🏛️ **Architettura e Ambiente Costruito**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 parti · 60 sessioni integrative · 34 percorsi · fonti tracciabili · Markdown, lettore offline e GitHub Pages · [sito](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
 | [🇨🇱 **Percorso Scolastico Cileno**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8.841 | Dalla 1ª primaria alla 4ª superiore cilena · **4.156 esperienze trasversali integrate** · **2.823 obiettivi di apprendimento** · fonti MINEDUC · nessuna proposta in sospeso e revisione umana specializzata ancora necessaria · [sito](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
 | [🧭 **Ingegneria del software moderna**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 parti e 8 fasi · fondamenti → prodotto, architettura, sicurezza, DevOps, SRE, SPEC, IA e sistemi multi-agente · stato editoriale dichiarato dal repository · [sito](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogia e Scienze dell'Apprendimento**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Come una persona impara e come si forma chi insegna · 25 parti · **ogni classe dichiara evidenza e limiti** · alfabetizzazione, metodologie comparate, bisogni educativi, convivenza, diversità culturale · glossario di 1.097 termini · 14 percorsi · **v2.1.0** · [sito](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
@@ -174,7 +176,7 @@ Programmi sequenziali in spagnolo, con stato e ambito dichiarati da ogni reposit
 | [🧩 **Framework Comparati**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Un contratto eseguibile contro Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte e altri · **70 classi costruite** · **397 casi verificati in CI** · **210 fonti** ISBN/DOI · [sito](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Database**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** · ingegneria database in 15 parti · 230 ore · 120 fonti con ISBN, DOI o standard · stesso caso in 27 motori · 150 pytest · [sito](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psicometria e Misurazione**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Come si costruisce, valuta, valida e audita uno strumento di misurazione · 8 parti · motore eseguibile con **5 strumenti e 344 item, 276 di pubblico dominio** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · da zero a infrastruttura finanziaria programmabile e analitica on-chain · **91 pratiche** e **356 test** · Foundry e Slither in CI · [sito](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · da zero a infrastruttura finanziaria programmabile e analitica on-chain · **91 pratiche** e **363 test** · Foundry e Slither in CI · [sito](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 moduli · ≈214 ore · **93 notebook** —31 classi, 31 versioni studente e 31 soluzioni— · PyTorch · [sito di studio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 moduli formativi**, uno per macchina · **502 h 15 min** · sistemi, comandi, fisica, sicurezza e design di simulazione con fonti per classe · *nessun simulatore eseguibile ancora, e viene dichiarato* |
 
@@ -261,7 +263,7 @@ Questa estensione non afferma che tutti i ruoli siano stati ricoperti. Prioritiz
 | **Commerciale** | Presales · Solutions Consultant · Technical KAM · Business Development | **Trasferibile / possibilità** | Nessuno | Traduzione del valore; quota, account e contratti non sono dichiarati |
 | **Finanza e controllo** | Budget/Cost · Valutazione · FP&A · Management Control | **Possibilità** | Nessuno | Finanza e FinOps; servono budget e bilanci reali |
 | **Qualità** | Quality/Process Analyst · Auditor · Continuous Improvement | **Trasferibile / possibilità** | Nessuno/occasionale | Gate, test e metriche; manca ownership formale del sistema qualità |
-| **Educazione** | Technical Trainer · Facilitatore · Coordinatore accademico · EdTech/Instructional Design | **Trasferibile / possibilità** | Nessuno/occasionale | 21 programmi e 14.500 classi; la docenza formale va provata separatamente |
+| **Educazione** | Technical Trainer · Facilitatore · Coordinatore accademico · EdTech/Instructional Design | **Trasferibile / possibilità** | Nessuno/occasionale | 21 programmi e 14.530 classi; la docenza formale va provata separatamente |
 | **Logistica** | Procurement · Supply · Vendor/Contract · Operations Coordination | **Possibilità** | Nessuno | Base di processo; acquisti, inventario e fornitori reali sono lacune |
 | **Dati e IA** | Data Steward · Data Governance · AI Adoption/Governance | **Trasferibile / possibilità** | Nessuno/occasionale | Dataset auditabili e gate umani; politiche e comitati organizzativi sono lacune |
 | **Settore pubblico** | Modernizzazione · ICT Coordinator · Digital Projects · Public Planning | **Possibilità** | Nessuno | Contesto cileno e tracciabilità; procurement pubblico ed esperienza settoriale non sono dichiarati |
@@ -303,6 +305,6 @@ La [matrice completa in spagnolo](PROFESIONAL_ROLES.md) dettaglia obiettivi, res
 [🛡️ Sicurezza](SECURITY.it.md) ·
 [⚖️ Codice di condotta](CODE_OF_CONDUCT.it.md)
 
-<sub>README sincronizzato con lo stato verificabile dei repository pubblici —cifre e cambiamenti letti via API— · ultima verifica: 9 ottobre 2026.</sub>
+<sub>README sincronizzato con lo stato verificabile dei repository pubblici —cifre e cambiamenti letti via API— · ultima verifica: 12 ottobre 2026.</sub>
 
 </div>

@@ -16,9 +16,9 @@
 
 <!-- STATS:START -->
 [![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-148-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-14500-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-14530-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -33,7 +33,9 @@
 [📋 Matriz de cargos](PROFESIONAL_ROLES.md) ·
 [📬 Contacto](#-contacto)
 
-**Idiomas:** [ES](README.md) · [EN](README.en.md) · [PT](README.pt.md) · [IT](README.it.md) · [FR](README.fr.md) · [ZH](README.zh.md)
+**🌐 Versiones completas:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md)
+
+**🌍 Resúmenes localizados:** [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
 **Núcleo técnico:**
 PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter · WASM
@@ -69,9 +71,9 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **828 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **158 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** con **39 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **148 releases** publicadas en un ecosistema de **64 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
+| 📦 **Distribución** | **151 releases** publicadas en un ecosistema de **64 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **14.500 clases** verificables en 21 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
+| 📚 **Currículos** | **14.530 clases** verificables en 21 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
 | 🌐 **Portafolio** | PWA instalable · **6 idiomas** · **36 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
 | 🌐 **Sitios publicados** | **56 sitios** en GitHub Pages —55 landings, una por producto, programa o navegador del ecosistema, más el portafolio— cada uno desplegado desde su propio repositorio · los 56 comprobados con respuesta `200` |
@@ -151,7 +153,7 @@ Software que se descarga, se instala y se usa — no solo se clona.
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 21 programas suman **14.500 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
+Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 21 programas suman **14.530 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) funciona como brújula federada: conecta 30 recorridos reales en 6 áreas con mapas visuales y un [portal offline accesible](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/), sin contarse como un programa adicional.
 
@@ -163,7 +165,7 @@ Programas secuenciales en español, con estado y alcance declarados por reposito
 | [🛡️ **Ciberseguridad**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** · 20 partes · fundamentos → Red Team, DFIR, cloud security, exploit dev, CTF y game security · mapeo a **7 certificaciones** · app Android/web offline · manual PDF · CI, Security y Pages verificados · [sitio](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, ventas y crecimiento**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 partes con definiciones operacionales, fichas de medición, bibliografía verificable y contexto normativo chileno · **v1.6.0** · 1,29 M palabras · 17 rutas por rol · [sitio](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Creación de empresas**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Crear y operar una empresa real en Chile: de la idea a la constitución, el SII, la operación, la crisis y la salida · 360 diagramas · glosario de 1.251 términos · manual de 1.548 páginas · [sitio](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Arquitectura y entorno construido**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 800 | 80 partes · 60 sesiones integradoras · 33 rutas · fuentes trazables · Markdown, lector offline y GitHub Pages · [sitio](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
+| [🏛️ **Arquitectura y entorno construido**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 partes · 60 sesiones integradoras · 34 rutas · fuentes trazables · Markdown, lector offline y GitHub Pages · [sitio](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
 | [🇨🇱 **Ruta escolar chilena**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8.841 | De 1° básico a 4° medio · **4.156 experiencias transversales integradas** · **2.823 OA** · fuentes MINEDUC · 0 propuestas pendientes y revisión humana especializada pendiente · [sitio](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
 | [🧭 **Ingeniería de software moderna**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 partes y 8 etapas · fundamentos → producto, arquitectura, seguridad, DevOps, SRE, SPEC, IA y sistemas multiagente · estado editorial declarado por el repositorio · [sitio](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogía y ciencias del aprendizaje**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | De cómo aprende una persona a cómo se forma a quien enseña · 25 partes · **cada clase declara su estado de evidencia y sus límites** · alfabetización inicial, metodologías comparadas, necesidades educativas específicas, convivencia, diversidad cultural y evidencia internacional · glosario de 1.097 términos, 325 diagramas y banco de 60 actividades de aula · 14 rutas de carrera por rol · exportable a LMS · **v2.1.0** · [sitio](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
@@ -175,7 +177,7 @@ Programas secuenciales en español, con estado y alcance declarados por reposito
 | [🧩 **Frameworks comparados**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Un contrato ejecutable, sin adaptadores, contra Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte y más · 12 partes · **70 clases construidas** · **397 casos verificados en CI** · **210 fuentes** con ISBN/DOI · [sitio](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Bases de datos**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** · ingeniería de bases de datos en 15 partes · 230 horas · **la fuente verificable de cada afirmación**: 120 fuentes con ISBN, DOI o norma · el mismo caso resuelto en 27 motores · glosario de 306 términos · 150 pytest · [sitio](https://vladimiracunadev-create.github.io/database-systems-labs/) |
 | [📐 **Psicometría y medición**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Cómo se construye, puntúa, valida y audita un instrumento de medición · 8 partes · motor ejecutable con **5 instrumentos y 344 ítems, 276 de dominio público** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · de cero a la infraestructura financiera programable y la analítica on-chain · **91 prácticas** y **356 pruebas** · contratos con Foundry (fuzzing e invariantes) y análisis estático Slither en CI · apps offline verificadas abriendo el binario y contando lo que lleva dentro · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · de cero a la infraestructura financiera programable y la analítica on-chain · **91 prácticas** y **363 pruebas** · contratos con Foundry (fuzzing e invariantes) y análisis estático Slither en CI · apps offline verificadas abriendo el binario y contando lo que lleva dentro · [sitio](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 módulos · ≈214 horas · **93 notebooks** —31 clases, 31 versiones para estudiante y 31 soluciones— · preguntas, mapas visuales, prácticas y evaluación con datos públicos reales · PyTorch · [sitio de estudio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 módulos formativos**, uno por máquina · **502 h 15 min** · sistemas, mandos, física, seguridad y diseño de simulación con fuentes por clase · *sin simulador ejecutable todavía, y así se declara* |
 
@@ -262,7 +264,7 @@ Esta ampliación no afirma que todos estos cargos hayan sido ejercidos. Prioriza
 | **Administración y operaciones empresariales** | Administrador · Coordinador/Jefe administrativo · Operations Coordinator · Gestión de contratos y proveedores | **Posibilidad de postulación** | Ninguna | Formación en Administración y artefactos de Empresa Operativa Chile, Commerce OS y creación de empresas; falta experiencia laboral verificable administrando presupuesto, personas o proveedores |
 | **Control de gestión y evaluación** | Analista de control de gestión · Presupuestos y costos · Evaluación de proyectos · Planning Analyst | **Posibilidad de postulación** | Ninguna | Analítica, trazabilidad, FinOps y currículos de finanzas/negocios; se requiere evidencia aplicada con estados financieros, presupuesto real y KPI corporativos |
 | **Calidad y mejora continua** | Process / Quality Analyst · Auditor de procesos · Continuous Improvement | **Competencia transferible** | Ninguna u ocasional | Gates, pruebas, métricas, estándares y remediación reproducible; faltan auditorías ISO o ownership formal de un sistema de gestión de calidad |
-| **Educación y formación** | Instructor tecnológico · Relator · Coordinador académico · EdTech / Instructional Designer | **Competencia transferible** | Ninguna u ocasional | 21 programas, 14.500 clases, rutas por rol y material multiformato; la docencia formal y resultados de estudiantes deben acreditarse por separado |
+| **Educación y formación** | Instructor tecnológico · Relator · Coordinador académico · EdTech / Instructional Designer | **Competencia transferible** | Ninguna u ocasional | 21 programas, 14.530 clases, rutas por rol y material multiformato; la docencia formal y resultados de estudiantes deben acreditarse por separado |
 | **Datos e IA responsable** | Data Steward · Data Governance Analyst · AI Adoption Lead · AI Governance Analyst | **Competencia transferible / posibilidad de postulación** | Ninguna u ocasional | Datasets auditables, trazabilidad, agentes con gates y evaluación; faltan mandato organizacional sobre calidad de datos, políticas y comités de IA |
 | **Sector público y modernización institucional** | Coordinador TIC · Analista de modernización · Gestor de proyectos digitales · Planificación pública | **Posibilidad de postulación** | Ninguna | Interoperabilidad, documentación, seguridad y productos con contexto chileno; faltan experiencia sectorial acreditada y dominio aplicado de compras y normativa pública |
 | **Dirección tecnológica o empresarial** | Gerente TI · Head of IT · CIO · Gerente de Operaciones · Gerente de Transformación Digital | **Objetivo de desarrollo futuro** | Ninguna | Base técnica y empresarial compatible; requiere acreditar conducción de personas, presupuesto, proveedores, estrategia, gobierno y resultados organizacionales |
@@ -304,6 +306,6 @@ La [matriz completa de cargos, responsabilidades, experiencia de mercado, certif
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: 9 de octubre de 2026.</sub>
+<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: 12 de octubre de 2026.</sub>
 
 </div>
