@@ -31,6 +31,7 @@
 
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#生態系統一一) ·
+[🛠️ 技術堆疊](#-技術堆疊) ·
 [⚡ Evaluate me in 10 minutes](#如果你有十分鐘的時間來評價我) ·
 [✅ Professional scope](#專業範圍) ·
 [🧭 Non-coding management](#管理行政和非編碼職業機會) ·
@@ -70,8 +71,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 | 表面 | 具體證據 |
 |---|---|
-| 🧪 **測試覆蓋率** | 蓋比SQL**828個測試**+ 模糊過**503.8M次查詢**(0恐慌) (笑聲)·智利企業**217次試驗** ·自動**150個火試** ·多作業系統分類 |
-| 🤖 **生產級製劑** | 朗格勒真實世界**25/25 業務後端**(病例01-25,100%覆蓋)·業務助理**13名特工人員**與**39個確定性評估** |
+| 🧪 **測試覆蓋率** | 蓋比SQL**850個測試**+ 模糊過**503.8M次查詢**(0恐慌) (笑聲)·智利企業**230次試驗** ·自動**150個火試** ·多作業系統分類 |
+| 🤖 **生產級製劑** | 朗格勒真實世界**25/25 業務後端**(病例01-25,100%覆蓋)·業務助理**23名特工人員**與**69個確定性評估** |
 | 🔗 **多塊塊融合** | **20個案件**傳送者 n8n 收發者-**19起業務**,個人審計 與多克 -· **18+ DB 發動機** · **20個以上集裝箱** ·11種模式 |
 | 📦 **分發** | **155次釋放**跨越生態系統的**65個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
 | 🛡️ **供應鏈** | 程式碼QL·衛星·匪幫·特里維·格萊普·巨頭·旋轉木偶·旋風DX SBOM·計分卡 |
@@ -100,7 +101,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![資料庫](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
 
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (Rust)</sub>
 
 **雲端、容器與 DevOps**
 
@@ -118,7 +119,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
-![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Operational AI Agents 23 agents](https://img.shields.io/badge/Operational%20AI%20Agents-23%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
 ![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -150,23 +151,72 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 ## 🗺️生態系統一一
 
 ```mermaid
-flowchart TD
-    A["🧠 Technical judgment<br/>architecture · modernization · operations"] --> B["📦 Products<br/>with real distribution"]
-    A --> C["🧪 Engineering<br/>laboratories"]
-    A --> D["🤖 Applied AI<br/>agents and automation"]
-    A --> E["📚 Complete<br/>technical curricula"]
-    A --> F["🔬 Scientific<br/>and educational computing"]
+flowchart LR
+    CORE["🧠 Technical judgment<br/>architecture · modernization · operations"]:::core
 
-    B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
-    C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsystems · Problem-Driven · Payments · Decentraland"]
-    D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>Software Engineering · Architecture · Chilean School Path<br/>Neural networks · Machine operation"]
-    F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
+    subgraph P["📦 具有實際分佈的產品 · 22"]
+        direction LR
+        P1["🛡️ RootCause ×8<br/>🔍 Universal Code Scanner"]:::prod
+        P2["🗄️ GabySQL · 🤖 Automa PC<br/>🏭 AI Dataset Foundry<br/>🎙️ Video Transcript Studio"]:::prod
+        P3["🏢 Empresa Operativa Chile<br/>🧭 Commerce OS · ☁️ AWS Desktop Studio<br/>📄 PDF Reader"]:::prod
+        P4["🎨 ChofyAI Studio · 🦏 Rhino Suite<br/>🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo"]:::prod
+    end
+    subgraph L["🧪 工程實驗室 · 11"]
+        direction LR
+        L1["🐳 Docker · WSL · Unikernel<br/>🧰 QEMU/KVM · 🛡️ Sandbox"]:::lab
+        L2["🧪 Problem-Driven · 📆 Social Bot<br/>🧰 Microsistemas"]:::lab
+        L3["💳 Payments · 🕹️ Decentraland<br/>☁️ Proyectos AWS"]:::lab
+    end
+    subgraph I["🤖 應用AI · 6"]
+        direction LR
+        I1["🤖 LangGraph ×25<br/>🧭 Operational AI Agents ×23"]:::ai
+        I2["🧰 Claude Skills ×22 · Codex Skills ×19<br/>🧩 Agentic Plugins ×6"]:::ai
+        I3["🧠 MCP + Ollama"]:::ai
+    end
+    subgraph C["📚 完成技術課程 · 21"]
+        direction LR
+        C1["💻 Cybersecurity · GameDev · Data Science<br/>Multi-Cloud · AI · Blockchain · Software Eng.<br/>Frameworks · Polyglot · Databases · Neural Nets"]:::cur
+        C2["💼 Business Creation · Finance & Banking<br/>Marketing · Leadership · Pedagogy"]:::cur
+        C3["🔬 Math · Psychometrics · Architecture<br/>Machine Operator · Chilean School Path"]:::cur
+        C4["🌌 Astronomy & Aerospace<br/>規劃中 · 2.077"]:::plan
+    end
+    LL["🧭 Lifelong Learning Ecosystem"]:::core2
+    subgraph S["🔬 科學計算 · 1"]
+        S1["🧬 Human Genome Labs"]:::sci
+    end
+    subgraph F["🍴 第三方專案的 fork · 52"]
+        F1["🤖 編碼代理與代理框架 · 18<br/>🧩 面向代理的技能、外掛與工作流程 · 11<br/>🛡️ 資安與軟體分析 · 8"]:::fork
+        F2["🧠 AI 模型與基礎設施 · 5<br/>🏢 企業管理與平台 · 6<br/>🎓 教育與參考 · 4"]:::fork
+    end
+
+    CORE --> P
+    CORE --> L
+    CORE --> I
+    CORE --> C
+    CORE --> S
+    CORE -.-> F
+    LL -.- C
+
+    classDef core fill:#1f2328,stroke:#8b949e,color:#ffffff,stroke-width:2px
+    classDef core2 fill:#fff8c5,stroke:#9a6700,color:#4d2d00,stroke-width:2px
+    classDef prod fill:#ddf4ff,stroke:#0969da,color:#0a3069
+    classDef lab fill:#fff1e5,stroke:#bc4c00,color:#5c2200
+    classDef ai fill:#fbefff,stroke:#8250df,color:#3b1d73
+    classDef cur fill:#dafbe1,stroke:#1a7f37,color:#0f3d1e
+    classDef sci fill:#ffeff7,stroke:#bf3989,color:#5c1541
+    classDef fork fill:#f6f8fa,stroke:#6e7781,color:#24292f
+    classDef plan fill:#ffffff,stroke:#6e7781,color:#57606a,stroke-dasharray:5 5
+    style P fill:none,stroke:#0969da,stroke-width:1.5px
+    style L fill:none,stroke:#bc4c00,stroke-width:1.5px
+    style I fill:none,stroke:#8250df,stroke-width:1.5px
+    style C fill:none,stroke:#1a7f37,stroke-width:1.5px
+    style S fill:none,stroke:#bf3989,stroke-width:1.5px
+    style F fill:none,stroke:#6e7781,stroke-width:1.5px,stroke-dasharray:5 5
 ```
 
 ## 🗂️ 生態系統：產品、實驗室、應用 AI、課程與科學運算
 
-本檔案的實作成果集中在獨立文件中：可下載安裝的軟體、工程實驗室、應用 AI 與科學運算，以及帳號中每個第三方專案 fork 的說明。
+本檔案的實作成果集中在獨立文件中：可下載安裝的軟體、工程實驗室、應用 AI、完整技術課程與科學運算，以及帳號中每個第三方專案 fork 的說明。
 
 - 📦 **具有實際分佈的產品** (22)
 - 🧪 **工程實驗室** (11)
@@ -181,6 +231,8 @@ flowchart TD
 
 西班牙語序列程式,每個儲存器都宣告狀態和範圍. 21個方案加起來是:**14 550個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
+🌌 **規劃中，不計入統計：**[天文學、天體物理學、太空科學與航空太空工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 個領域、133 個模組共 2,077 堂規劃課程；其中 397 堂已有正文，全部仍處於 E0 狀態。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+
 👉 **[查看全部 21 個課程](docs/ECOSYSTEM.zh-TW.md#curricula)**
 
 ## ⚡如果你有十分鐘的時間來評價我
@@ -193,7 +245,7 @@ flowchart TD
 git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
 ```
 
-將會看到工作流程, 度量衡,儀表板, 和護欄, 覆蓋19個案例和18+ DB引擎。
+將會看到工作流程, 度量衡,儀表板, 和護欄, 覆蓋20個案例和18+ DB引擎。
 
 **B道——幾分鐘內可複製的基礎設施**
 

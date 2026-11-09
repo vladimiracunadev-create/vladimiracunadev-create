@@ -31,6 +31,7 @@
 
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#bir-bakışta-ekosistem) ·
+[🛠️ Teknoloji yığını](#-teknoloji-yığını) ·
 [⚡ Evaluate me in 10 minutes](#beni-değerlendirmek-için-10-dakikanız-varsa) ·
 [✅ Professional scope](#profesyonel-kapsam) ·
 [🧭 Non-coding management](#yönetim-yönetim-ve-kariyer-fırsatları) ·
@@ -70,8 +71,8 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 
 | Surface | Concrete evidence |
 |---|---|
-| 🧪 **Test kapsamı** | GabySQL**828 test testleri**+ söndürücü**503.8M sorguları**(0 Panik)·Empresa Operativa Chile**217 Test testleri** ·Automa**150 pytest** ·multi-OS CI |
-| 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **13 agents** with **39 deterministic evals** |
+| 🧪 **Test kapsamı** | GabySQL**850 test testleri**+ söndürücü**503.8M sorguları**(0 Panik)·Empresa Operativa Chile**230 Test testleri** ·Automa**150 pytest** ·multi-OS CI |
+| 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **Polyglot integration** | **20 cases** sender→n8n→receiver —**19 operational**, individually audited with Docker— · **18+ DB engines** · **20+ containers** · 11 patterns |
 | 📦 **Distribution** | **155 releases** across an ecosystem of **65 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **Tedarik zinciri** | KodQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
@@ -100,7 +101,7 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 ![Veritabanları](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
 
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (Rust)</sub>
 
 **Bulut, konteynerler ve DevOps**
 
@@ -118,7 +119,7 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 ![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
-![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Operational AI Agents 23 agents](https://img.shields.io/badge/Operational%20AI%20Agents-23%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
 ![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -150,23 +151,72 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 ## 🗺️Bir bakışta ekosistem
 
 ```mermaid
-flowchart TD
-    A["🧠 Technical judgment<br/>architecture · modernization · operations"] --> B["📦 Products<br/>with real distribution"]
-    A --> C["🧪 Engineering<br/>laboratories"]
-    A --> D["🤖 Applied AI<br/>agents and automation"]
-    A --> E["📚 Complete<br/>technical curricula"]
-    A --> F["🔬 Scientific<br/>and educational computing"]
+flowchart LR
+    CORE["🧠 Technical judgment<br/>architecture · modernization · operations"]:::core
 
-    B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
-    C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsystems · Problem-Driven · Payments · Decentraland"]
-    D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>Software Engineering · Architecture · Chilean School Path<br/>Neural networks · Machine operation"]
-    F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
+    subgraph P["📦 Gerçek Dağıtım ile Ürünler · 22"]
+        direction LR
+        P1["🛡️ RootCause ×8<br/>🔍 Universal Code Scanner"]:::prod
+        P2["🗄️ GabySQL · 🤖 Automa PC<br/>🏭 AI Dataset Foundry<br/>🎙️ Video Transcript Studio"]:::prod
+        P3["🏢 Empresa Operativa Chile<br/>🧭 Commerce OS · ☁️ AWS Desktop Studio<br/>📄 PDF Reader"]:::prod
+        P4["🎨 ChofyAI Studio · 🦏 Rhino Suite<br/>🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo"]:::prod
+    end
+    subgraph L["🧪 Mühendislik Laboratuvarları · 11"]
+        direction LR
+        L1["🐳 Docker · WSL · Unikernel<br/>🧰 QEMU/KVM · 🛡️ Sandbox"]:::lab
+        L2["🧪 Problem-Driven · 📆 Social Bot<br/>🧰 Microsistemas"]:::lab
+        L3["💳 Payments · 🕹️ Decentraland<br/>☁️ Proyectos AWS"]:::lab
+    end
+    subgraph I["🤖 Uygulamalı yapay zekâ · 6"]
+        direction LR
+        I1["🤖 LangGraph ×25<br/>🧭 Operational AI Agents ×23"]:::ai
+        I2["🧰 Claude Skills ×22 · Codex Skills ×19<br/>🧩 Agentic Plugins ×6"]:::ai
+        I3["🧠 MCP + Ollama"]:::ai
+    end
+    subgraph C["📚 Eksiksiz teknik müfredatlar · 21"]
+        direction LR
+        C1["💻 Cybersecurity · GameDev · Data Science<br/>Multi-Cloud · AI · Blockchain · Software Eng.<br/>Frameworks · Polyglot · Databases · Neural Nets"]:::cur
+        C2["💼 Business Creation · Finance & Banking<br/>Marketing · Leadership · Pedagogy"]:::cur
+        C3["🔬 Math · Psychometrics · Architecture<br/>Machine Operator · Chilean School Path"]:::cur
+        C4["🌌 Astronomy & Aerospace<br/>planlama aşamasında · 2.077"]:::plan
+    end
+    LL["🧭 Lifelong Learning Ecosystem"]:::core2
+    subgraph S["🔬 Bilimsel Bilgi · 1"]
+        S1["🧬 Human Genome Labs"]:::sci
+    end
+    subgraph F["🍴 Üçüncü taraf projelerin fork'ları · 52"]
+        F1["🤖 Kodlama ajanları ve ajan çerçeveleri · 18<br/>🧩 Ajanlar için skill'ler, eklentiler ve iş akışları · 11<br/>🛡️ Güvenlik ve yazılım analizi · 8"]:::fork
+        F2["🧠 Yapay zekâ modelleri ve altyapı · 5<br/>🏢 İşletme yönetimi ve platformlar · 6<br/>🎓 Eğitim ve referans · 4"]:::fork
+    end
+
+    CORE --> P
+    CORE --> L
+    CORE --> I
+    CORE --> C
+    CORE --> S
+    CORE -.-> F
+    LL -.- C
+
+    classDef core fill:#1f2328,stroke:#8b949e,color:#ffffff,stroke-width:2px
+    classDef core2 fill:#fff8c5,stroke:#9a6700,color:#4d2d00,stroke-width:2px
+    classDef prod fill:#ddf4ff,stroke:#0969da,color:#0a3069
+    classDef lab fill:#fff1e5,stroke:#bc4c00,color:#5c2200
+    classDef ai fill:#fbefff,stroke:#8250df,color:#3b1d73
+    classDef cur fill:#dafbe1,stroke:#1a7f37,color:#0f3d1e
+    classDef sci fill:#ffeff7,stroke:#bf3989,color:#5c1541
+    classDef fork fill:#f6f8fa,stroke:#6e7781,color:#24292f
+    classDef plan fill:#ffffff,stroke:#6e7781,color:#57606a,stroke-dasharray:5 5
+    style P fill:none,stroke:#0969da,stroke-width:1.5px
+    style L fill:none,stroke:#bc4c00,stroke-width:1.5px
+    style I fill:none,stroke:#8250df,stroke-width:1.5px
+    style C fill:none,stroke:#1a7f37,stroke-width:1.5px
+    style S fill:none,stroke:#bf3989,stroke-width:1.5px
+    style F fill:none,stroke:#6e7781,stroke-width:1.5px,stroke-dasharray:5 5
 ```
 
 ## 🗂️ Ekosistem: ürünler, laboratuvarlar, uygulamalı yapay zekâ, müfredatlar ve bilimsel hesaplama
 
-Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yazılımlar, mühendislik laboratuvarları, uygulamalı yapay zekâ ve bilimsel hesaplama ile hesaptaki üçüncü taraf projelerin her bir fork'unun açıklaması.
+Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yazılımlar, mühendislik laboratuvarları, uygulamalı yapay zekâ, eksiksiz teknik müfredatlar ve bilimsel hesaplama ile hesaptaki üçüncü taraf projelerin her bir fork'unun açıklaması.
 
 - 📦 **Gerçek Dağıtım ile Ürünler** (22)
 - 🧪 **Mühendislik Laboratuvarları** (11)
@@ -181,6 +231,8 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 
 Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,550 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
+🌌 **Planlama aşamasında, sayımın dışında:** [Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 alanda ve 133 blokta 2.077 planlanmış ders; 397'sinin metni yazılmış, hepsi hâlâ E0 durumunda. Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+
 👉 **[21 programın tamamını gör](docs/ECOSYSTEM.tr.md#curricula)**
 
 ## ⚡Beni değerlendirmek için 10 dakikanız varsa
@@ -193,7 +245,7 @@ Fikir sadece koda bakmak değildir: görmektir**Nasıl düşündüğümü nasıl
 git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
 ```
 
-İş akışlarını, ölçümleri, panoları ve 19 vaka ve 18+ DB motorlarında bekçileri göreceksiniz.
+İş akışlarını, ölçümleri, panoları ve 20 vaka ve 18+ DB motorlarında bekçileri göreceksiniz.
 
 **B - Reproducible altyapı dakikalar içinde**
 

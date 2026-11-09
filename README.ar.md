@@ -31,6 +31,7 @@
 
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#النظام-الإيكولوجي-في-غلاف) ·
+[🛠️ المكدس التقني](#-المكدس-التقني) ·
 [⚡ Evaluate me in 10 minutes](#إذا-كان-لديك-10-دقائق-لتقييمي) ·
 [✅ Professional scope](#النطاق-المهني) ·
 [🧭 Non-coding management](#فرص-العمل-في-مجالات-الإدارة-والإدارة-وغير-الترميز) ·
@@ -70,8 +71,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 | الوجه السطحي | أدلة ملموسة |
 |---|---|
-| 🧪 **التغطية بالاختبارات** | GabySQL**828 اختبارا**"و تذمر"**503.8M queries**(0 ذعر)·Empresa Operativa Chile**217 اختبارا** ·Automa**150 باوند** ·منظمة العفو الدولية المتعددة الأطراف |
-| 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **13 agents** with **39 deterministic evals** |
+| 🧪 **التغطية بالاختبارات** | GabySQL**850 اختبارا**"و تذمر"**503.8M queries**(0 ذعر)·Empresa Operativa Chile**230 اختبارا** ·Automa**150 باوند** ·منظمة العفو الدولية المتعددة الأطراف |
+| 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **الاندماج في المجتمع المحلي** | **20 حالة**مرسل**19 تشغيلية**"مراجعة بشكل فردي مع "دوكر· **18+ محركات ثنائي الفينيل متعدد البروم** · **20+ حاويات** ·11 نمطا |
 | 📦 **التوزيع** | **155 بلاغا**عبر نظام إيكولوجي**65 مستودعاً عمومياً** ·المثبتات والقطع الأثرية`.exe` · `.msi` · `.dmg` · `.apk`مع إجراء فحصات وإثباتات؛ وتوقيعات تجارية/موقعة جارية حيثما ينطبق ذلك |
 | 🛡️ **سلسلة الإمداد** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·بطاقة الإسكوار |
@@ -100,7 +101,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![قواعد البيانات](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
 
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (Rust)</sub>
 
 **السحابة والحاويات وDevOps**
 
@@ -118,7 +119,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
-![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Operational AI Agents 23 agents](https://img.shields.io/badge/Operational%20AI%20Agents-23%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
 ![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -150,23 +151,72 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 ## 🗺️النظام الإيكولوجي في غلاف
 
 ```mermaid
-flowchart TD
-    A["🧠 Technical judgment<br/>architecture · modernization · operations"] --> B["📦 Products<br/>with real distribution"]
-    A --> C["🧪 Engineering<br/>laboratories"]
-    A --> D["🤖 Applied AI<br/>agents and automation"]
-    A --> E["📚 Complete<br/>technical curricula"]
-    A --> F["🔬 Scientific<br/>and educational computing"]
+flowchart LR
+    CORE["🧠 Technical judgment<br/>architecture · modernization · operations"]:::core
 
-    B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
-    C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsystems · Problem-Driven · Payments · Decentraland"]
-    D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>Software Engineering · Architecture · Chilean School Path<br/>Neural networks · Machine operation"]
-    F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
+    subgraph P["📦 المنتجات ذات التوزيع الحقيقي · 22"]
+        direction LR
+        P1["🛡️ RootCause ×8<br/>🔍 Universal Code Scanner"]:::prod
+        P2["🗄️ GabySQL · 🤖 Automa PC<br/>🏭 AI Dataset Foundry<br/>🎙️ Video Transcript Studio"]:::prod
+        P3["🏢 Empresa Operativa Chile<br/>🧭 Commerce OS · ☁️ AWS Desktop Studio<br/>📄 PDF Reader"]:::prod
+        P4["🎨 ChofyAI Studio · 🦏 Rhino Suite<br/>🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo"]:::prod
+    end
+    subgraph L["🧪 المختبرات الهندسية · 11"]
+        direction LR
+        L1["🐳 Docker · WSL · Unikernel<br/>🧰 QEMU/KVM · 🛡️ Sandbox"]:::lab
+        L2["🧪 Problem-Driven · 📆 Social Bot<br/>🧰 Microsistemas"]:::lab
+        L3["💳 Payments · 🕹️ Decentraland<br/>☁️ Proyectos AWS"]:::lab
+    end
+    subgraph I["🤖 الذكاء الاصطناعي التطبيقي · 6"]
+        direction LR
+        I1["🤖 LangGraph ×25<br/>🧭 Operational AI Agents ×23"]:::ai
+        I2["🧰 Claude Skills ×22 · Codex Skills ×19<br/>🧩 Agentic Plugins ×6"]:::ai
+        I3["🧠 MCP + Ollama"]:::ai
+    end
+    subgraph C["📚 المناهج التقنية الكاملة · 21"]
+        direction LR
+        C1["💻 Cybersecurity · GameDev · Data Science<br/>Multi-Cloud · AI · Blockchain · Software Eng.<br/>Frameworks · Polyglot · Databases · Neural Nets"]:::cur
+        C2["💼 Business Creation · Finance & Banking<br/>Marketing · Leadership · Pedagogy"]:::cur
+        C3["🔬 Math · Psychometrics · Architecture<br/>Machine Operator · Chilean School Path"]:::cur
+        C4["🌌 Astronomy & Aerospace<br/>قيد التخطيط · 2.077"]:::plan
+    end
+    LL["🧭 Lifelong Learning Ecosystem"]:::core2
+    subgraph S["🔬 الحوسبة العلمية · 1"]
+        S1["🧬 Human Genome Labs"]:::sci
+    end
+    subgraph F["🍴 forks لمشاريع أطراف ثالثة · 52"]
+        F1["🤖 وكلاء البرمجة وأطر الوكلاء · 18<br/>🧩 المهارات والإضافات وسير العمل للوكلاء · 11<br/>🛡️ الأمن وتحليل البرمجيات · 8"]:::fork
+        F2["🧠 نماذج الذكاء الاصطناعي والبنية التحتية · 5<br/>🏢 إدارة الأعمال والمنصات · 6<br/>🎓 التعليم والمراجع · 4"]:::fork
+    end
+
+    CORE --> P
+    CORE --> L
+    CORE --> I
+    CORE --> C
+    CORE --> S
+    CORE -.-> F
+    LL -.- C
+
+    classDef core fill:#1f2328,stroke:#8b949e,color:#ffffff,stroke-width:2px
+    classDef core2 fill:#fff8c5,stroke:#9a6700,color:#4d2d00,stroke-width:2px
+    classDef prod fill:#ddf4ff,stroke:#0969da,color:#0a3069
+    classDef lab fill:#fff1e5,stroke:#bc4c00,color:#5c2200
+    classDef ai fill:#fbefff,stroke:#8250df,color:#3b1d73
+    classDef cur fill:#dafbe1,stroke:#1a7f37,color:#0f3d1e
+    classDef sci fill:#ffeff7,stroke:#bf3989,color:#5c1541
+    classDef fork fill:#f6f8fa,stroke:#6e7781,color:#24292f
+    classDef plan fill:#ffffff,stroke:#6e7781,color:#57606a,stroke-dasharray:5 5
+    style P fill:none,stroke:#0969da,stroke-width:1.5px
+    style L fill:none,stroke:#bc4c00,stroke-width:1.5px
+    style I fill:none,stroke:#8250df,stroke-width:1.5px
+    style C fill:none,stroke:#1a7f37,stroke-width:1.5px
+    style S fill:none,stroke:#bf3989,stroke-width:1.5px
+    style F fill:none,stroke:#6e7781,stroke-width:1.5px,stroke-dasharray:5 5
 ```
 
 ## 🗂️ المنظومة: المنتجات والمختبرات والذكاء الاصطناعي التطبيقي والمناهج والحوسبة العلمية
 
-العمل التطبيقي لهذا الملف الشخصي موجود في وثيقة مستقلة: برمجيات تُنزَّل وتُثبَّت، ومختبرات هندسية، وذكاء اصطناعي تطبيقي، وحوسبة علمية، إضافةً إلى وصف كل fork لمشاريع الأطراف الثالثة الموجودة في الحساب.
+العمل التطبيقي لهذا الملف الشخصي موجود في وثيقة مستقلة: برمجيات تُنزَّل وتُثبَّت، ومختبرات هندسية، وذكاء اصطناعي تطبيقي، ومناهج تقنية كاملة، وحوسبة علمية، إضافةً إلى وصف كل fork لمشاريع الأطراف الثالثة الموجودة في الحساب.
 
 - 📦 **المنتجات ذات التوزيع الحقيقي** (22)
 - 🧪 **المختبرات الهندسية** (11)
@@ -181,6 +231,8 @@ flowchart TD
 
 برامج مستقلة باللغة الإسبانية، مع إعلان مركز كل مستودع ونطاقه. الـ 21 برنامج يضاف إلى**530 14 فصلا**"أعدّها"[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع؛ وتعيد الشارة أسبوعياً ولا تكتب باليد.
 
+🌌 **قيد التخطيط، خارج العدّ:** [علم الفلك والفيزياء الفلكية وعلوم الفضاء وهندسة الطيران والفضاء](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 درسًا مخططًا في 12 مجالًا و133 كتلة؛ 397 منها بنص مكتوب وكلها ما تزال في الحالة E0. تدريب مستقل وليس ترخيصًا مهنيًا · [الموقع](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+
 👉 **[عرض البرامج الـ21 كاملة](docs/ECOSYSTEM.ar.md#curricula)**
 
 ## ⚡إذا كان لديك 10 دقائق لتقييمي
@@ -193,7 +245,7 @@ flowchart TD
 git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
 ```
 
-سترون سير العمل، والمقاييس، ولوحات الدبابيس، وأجهزة الحراسة في 19 حالة و18+ محركات الـ دي بي.
+سترون سير العمل، والمقاييس، ولوحات الدبابيس، وأجهزة الحراسة في 20 حالة و18+ محركات الـ دي بي.
 
 **الطريق باء - الهياكل الأساسية القابلة للتكاثر في دقائق**
 

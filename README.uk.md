@@ -31,6 +31,7 @@
 
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#екосистема-на-погляді) ·
+[🛠️ Технологічний стек](#-технологічний-стек) ·
 [⚡ Evaluate me in 10 minutes](#якщо-ви-маєте-10-хвилин-щоб-оцінити-мене) ·
 [✅ Professional scope](#професійний-scope) ·
 [🧭 Non-coding management](#управління-адміністрування-та-незгодні-можливості-карєри) ·
@@ -70,8 +71,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 | Промисловість | Бетонні докази |
 |---|---|
-| 🧪 **Тестове покриття** | ДЖИС**828 тести**+ знезадувається над**503.8M запитів**(0 каструлі)·Оператив Чилі**217 тести** ·Автоматика**150 пітест** ·мульти-OS CI |
-| 🤖 **Продукція-градусний агент** | Універсальні інженерні рішення**25/25 оперативних запобіжників**(кейси 01–25, 100% покриття)·Операційні агенти AI**13 агентів**з**39 детермінативних ОВД** |
+| 🧪 **Тестове покриття** | ДЖИС**850 тести**+ знезадувається над**503.8M запитів**(0 каструлі)·Оператив Чилі**230 тести** ·Автоматика**150 пітест** ·мульти-OS CI |
+| 🤖 **Продукція-градусний агент** | Універсальні інженерні рішення**25/25 оперативних запобіжників**(кейси 01–25, 100% покриття)·Операційні агенти AI**23 агентів**з**69 детермінативних ОВД** |
 | 🔗 **Інтеграція поліглоту** | **20 випадків**Надсилання на сайті: http://n8n→receiver**19 операцій**, індивідуально аудитовані Docker-· **18+ ДБ-двигуни** · **20+ контейнерів** ·11 візерунки |
 | 📦 **Розсилка** | **155 релізи**через екосистему**65 державних репозиторіїв** ·монтажники та артефакти`.exe` · `.msi` · `.dmg` · `.apk`з контрольними та будівельними доказами; комерційні / зберігати підписи в процесі, де це можливо |
 | 🛡️ **Мережа поставок** | КодQL·Семгреп·бензо·Триває·Гріпе·ГІДЛІКИ·Трьох·ЦП-Р·укр |
@@ -100,7 +101,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![Бази даних](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
 
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (Rust)</sub>
 
 **Хмара, контейнери та DevOps**
 
@@ -118,7 +119,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
-![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Operational AI Agents 23 agents](https://img.shields.io/badge/Operational%20AI%20Agents-23%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
 ![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -150,23 +151,72 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 ## 🗺️Екосистема на погляді
 
 ```mermaid
-flowchart TD
-    A["🧠 Technical judgment<br/>architecture · modernization · operations"] --> B["📦 Products<br/>with real distribution"]
-    A --> C["🧪 Engineering<br/>laboratories"]
-    A --> D["🤖 Applied AI<br/>agents and automation"]
-    A --> E["📚 Complete<br/>technical curricula"]
-    A --> F["🔬 Scientific<br/>and educational computing"]
+flowchart LR
+    CORE["🧠 Technical judgment<br/>architecture · modernization · operations"]:::core
 
-    B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
-    C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsystems · Problem-Driven · Payments · Decentraland"]
-    D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Cybersecurity · GameDev · Data Science · Multi-Cloud · AI · Blockchain<br/>Frameworks · Mathematics · Business · Finance · Leadership · Marketing · Pedagogy<br/>Software Engineering · Architecture · Chilean School Path<br/>Neural networks · Machine operation"]
-    F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
+    subgraph P["📦 Продукція з реальним розподілом · 22"]
+        direction LR
+        P1["🛡️ RootCause ×8<br/>🔍 Universal Code Scanner"]:::prod
+        P2["🗄️ GabySQL · 🤖 Automa PC<br/>🏭 AI Dataset Foundry<br/>🎙️ Video Transcript Studio"]:::prod
+        P3["🏢 Empresa Operativa Chile<br/>🧭 Commerce OS · ☁️ AWS Desktop Studio<br/>📄 PDF Reader"]:::prod
+        P4["🎨 ChofyAI Studio · 🦏 Rhino Suite<br/>🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo"]:::prod
+    end
+    subgraph L["🧪 Інженерні лабораторії · 11"]
+        direction LR
+        L1["🐳 Docker · WSL · Unikernel<br/>🧰 QEMU/KVM · 🛡️ Sandbox"]:::lab
+        L2["🧪 Problem-Driven · 📆 Social Bot<br/>🧰 Microsistemas"]:::lab
+        L3["💳 Payments · 🕹️ Decentraland<br/>☁️ Proyectos AWS"]:::lab
+    end
+    subgraph I["🤖 Прикладна AI · 6"]
+        direction LR
+        I1["🤖 LangGraph ×25<br/>🧭 Operational AI Agents ×23"]:::ai
+        I2["🧰 Claude Skills ×22 · Codex Skills ×19<br/>🧩 Agentic Plugins ×6"]:::ai
+        I3["🧠 MCP + Ollama"]:::ai
+    end
+    subgraph C["📚 Повний технічний навчальний план · 21"]
+        direction LR
+        C1["💻 Cybersecurity · GameDev · Data Science<br/>Multi-Cloud · AI · Blockchain · Software Eng.<br/>Frameworks · Polyglot · Databases · Neural Nets"]:::cur
+        C2["💼 Business Creation · Finance & Banking<br/>Marketing · Leadership · Pedagogy"]:::cur
+        C3["🔬 Math · Psychometrics · Architecture<br/>Machine Operator · Chilean School Path"]:::cur
+        C4["🌌 Astronomy & Aerospace<br/>у плануванні · 2.077"]:::plan
+    end
+    LL["🧭 Lifelong Learning Ecosystem"]:::core2
+    subgraph S["🔬 Науковий склад · 1"]
+        S1["🧬 Human Genome Labs"]:::sci
+    end
+    subgraph F["🍴 Форки сторонніх проєктів · 52"]
+        F1["🤖 Агенти для коду та фреймворки агентів · 18<br/>🧩 Навички (skills), плагіни та сценарії для агентів · 11<br/>🛡️ Безпека та аналіз ПЗ · 8"]:::fork
+        F2["🧠 Моделі ШІ та інфраструктура · 5<br/>🏢 Управління бізнесом та платформи · 6<br/>🎓 Освіта та довідкові матеріали · 4"]:::fork
+    end
+
+    CORE --> P
+    CORE --> L
+    CORE --> I
+    CORE --> C
+    CORE --> S
+    CORE -.-> F
+    LL -.- C
+
+    classDef core fill:#1f2328,stroke:#8b949e,color:#ffffff,stroke-width:2px
+    classDef core2 fill:#fff8c5,stroke:#9a6700,color:#4d2d00,stroke-width:2px
+    classDef prod fill:#ddf4ff,stroke:#0969da,color:#0a3069
+    classDef lab fill:#fff1e5,stroke:#bc4c00,color:#5c2200
+    classDef ai fill:#fbefff,stroke:#8250df,color:#3b1d73
+    classDef cur fill:#dafbe1,stroke:#1a7f37,color:#0f3d1e
+    classDef sci fill:#ffeff7,stroke:#bf3989,color:#5c1541
+    classDef fork fill:#f6f8fa,stroke:#6e7781,color:#24292f
+    classDef plan fill:#ffffff,stroke:#6e7781,color:#57606a,stroke-dasharray:5 5
+    style P fill:none,stroke:#0969da,stroke-width:1.5px
+    style L fill:none,stroke:#bc4c00,stroke-width:1.5px
+    style I fill:none,stroke:#8250df,stroke-width:1.5px
+    style C fill:none,stroke:#1a7f37,stroke-width:1.5px
+    style S fill:none,stroke:#bf3989,stroke-width:1.5px
+    style F fill:none,stroke:#6e7781,stroke-width:1.5px,stroke-dasharray:5 5
 ```
 
 ## 🗂️ Екосистема: продукти, лабораторії, прикладний ШІ, навчальні програми та наукові обчислення
 
-Практична робота профілю винесена в окремий документ: програми, які завантажують і встановлюють, інженерні лабораторії, прикладний ШІ та наукові обчислення, а також опис кожного форку сторонніх проєктів в акаунті.
+Практична робота профілю винесена в окремий документ: програми, які завантажують і встановлюють, інженерні лабораторії, прикладний ШІ, повні технічні навчальні програми та наукові обчислення, а також опис кожного форку сторонніх проєктів в акаунті.
 
 - 📦 **Продукція з реальним розподілом** (22)
 - 🧪 **Інженерні лабораторії** (11)
@@ -181,6 +231,8 @@ flowchart TD
 
 Напрями діяльності іспанської мови, з статусом та сферою, що засвідчує кожну репозиторію. 21 програми додано**14550 класи**, підрахунок[a workflow](.github/workflows/stats.yml)з реальної структури репозиторій або в'єтнамського джерела, заявленого в репозиторію; значок освіжає щотижневий і не письмовий вручну.
 
+🌌 **У плануванні, поза підрахунком:** [Астрономія, астрофізика, космічні науки та аерокосмічна інженерія](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 запланованих занять у 12 напрямах і 133 блоках; у 397 написано текст, усі поки в статусі E0. Незалежне навчання, а не професійна атестація · [сайт](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+
 👉 **[Переглянути всі 21 програму](docs/ECOSYSTEM.uk.md#curricula)**
 
 ## ⚡Якщо ви маєте 10 хвилин, щоб оцінити мене
@@ -193,7 +245,7 @@ flowchart TD
 git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
 ```
 
-Ви побачите робочі процеси, метрики, прилади, охоронці по 19 корпусах та 18+ ДБ-двигунів.
+Ви побачите робочі процеси, метрики, прилади, охоронці по 20 корпусах та 18+ ДБ-двигунів.
 
 **Маршрут B — Відповідна інфраструктура за хвилину**
 

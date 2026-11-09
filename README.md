@@ -31,6 +31,7 @@
 
 [🌐 Portafolio (22 idiomas)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosistema](#-el-ecosistema-de-un-vistazo) ·
+[🛠️ Stack tecnológico](#-stack-tecnológico) ·
 [⚡ Evalúame en 10 minutos](#-si-tienes-10-minutos-para-evaluarme) ·
 [✅ Alcance profesional](#-alcance-profesional) ·
 [🧭 Gestión sin programación](#-gestión-administración-y-oportunidades-profesionales-sin-programación) ·
@@ -70,8 +71,8 @@ No es «un repo»: es un ecosistema con estándares comunes.
 
 | Superficie | Evidencia concreta |
 |---|---|
-| 🧪 **Cobertura de pruebas** | GabySQL **828 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **217 pruebas** · Automa **150 pytest** · CI multi-OS |
-| 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **13 agentes** con **39 evals deterministas** |
+| 🧪 **Cobertura de pruebas** | GabySQL **850 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **230 pruebas** · Automa **150 pytest** · CI multi-OS |
+| 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **23 agentes** con **69 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
 | 📦 **Distribución** | **155 releases** publicadas en un ecosistema de **65 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
@@ -100,7 +101,7 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 
 ![Bases de datos](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
 
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (Rust)</sub>
 
 **Nube, contenedores y DevOps**
 
@@ -118,7 +119,7 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 
 ![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
-![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Operational AI Agents 23 agents](https://img.shields.io/badge/Operational%20AI%20Agents-23%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
 ![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -150,23 +151,72 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 ## 🗺️ El ecosistema de un vistazo
 
 ```mermaid
-flowchart TD
-    A["🧠 Criterio técnico<br/>arquitectura · modernización · operación"] --> B["📦 Productos<br/>con distribución real"]
-    A --> C["🧪 Laboratorios<br/>de ingeniería"]
-    A --> D["🤖 IA aplicada<br/>agentes y automatización"]
-    A --> E["📚 Currículos<br/>técnicos completos"]
-    A --> F["🔬 Computación<br/>científica y educativa"]
+flowchart LR
+    CORE["🧠 Criterio técnico<br/>arquitectura · modernización · operación"]:::core
 
-    B --> B1["RootCause ×8 · GabySQL · Automa · Code Scanner<br/>Video Transcript Studio · ChofyAI · Rhino Suite · Empresa Operativa Chile<br/>AI Dataset Foundry · AWS Desktop Studio · Commerce OS · PDF Reader"]
-    C --> C1["Docker · WSL · Unikernel · QEMU/KVM · Sandbox<br/>Microsistemas · Problem-Driven · Payments · Decentraland"]
-    D --> D1["LangGraph · MCP+Ollama · Operational AI Agents<br/>Claude Skills · Codex Skills · Agentic Plugins · Social Bot"]
-    E --> E1["Ciberseguridad · GameDev · Data Science · Multi-Cloud · IA · Blockchain<br/>Frameworks · Matemática · Negocios · Finanzas · Liderazgo · Marketing · Pedagogía<br/>Ingeniería de software · Arquitectura · Ruta escolar chilena<br/>Redes neuronales · Operación de máquinas"]
-    F --> F1["Human Genome Labs<br/>Mi Aventura con el Violín · Mi Aventura con la Guitarra<br/>Pañuelo al Viento"]
+    subgraph P["📦 Productos con distribución real · 22"]
+        direction LR
+        P1["🛡️ RootCause ×8<br/>🔍 Universal Code Scanner"]:::prod
+        P2["🗄️ GabySQL · 🤖 Automa PC<br/>🏭 AI Dataset Foundry<br/>🎙️ Video Transcript Studio"]:::prod
+        P3["🏢 Empresa Operativa Chile<br/>🧭 Commerce OS · ☁️ AWS Desktop Studio<br/>📄 PDF Reader"]:::prod
+        P4["🎨 ChofyAI Studio · 🦏 Rhino Suite<br/>🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo"]:::prod
+    end
+    subgraph L["🧪 Laboratorios de ingeniería · 11"]
+        direction LR
+        L1["🐳 Docker · WSL · Unikernel<br/>🧰 QEMU/KVM · 🛡️ Sandbox"]:::lab
+        L2["🧪 Problem-Driven · 📆 Social Bot<br/>🧰 Microsistemas"]:::lab
+        L3["💳 Payments · 🕹️ Decentraland<br/>☁️ Proyectos AWS"]:::lab
+    end
+    subgraph I["🤖 IA aplicada · 6"]
+        direction LR
+        I1["🤖 LangGraph ×25<br/>🧭 Operational AI Agents ×23"]:::ai
+        I2["🧰 Claude Skills ×22 · Codex Skills ×19<br/>🧩 Agentic Plugins ×6"]:::ai
+        I3["🧠 MCP + Ollama"]:::ai
+    end
+    subgraph C["📚 Currículos técnicos completos · 21"]
+        direction LR
+        C1["💻 Cybersecurity · GameDev · Data Science<br/>Multi-Cloud · AI · Blockchain · Software Eng.<br/>Frameworks · Polyglot · Databases · Neural Nets"]:::cur
+        C2["💼 Business Creation · Finance & Banking<br/>Marketing · Leadership · Pedagogy"]:::cur
+        C3["🔬 Math · Psychometrics · Architecture<br/>Machine Operator · Chilean School Path"]:::cur
+        C4["🌌 Astronomy & Aerospace<br/>en planificación · 2.077"]:::plan
+    end
+    LL["🧭 Lifelong Learning Ecosystem"]:::core2
+    subgraph S["🔬 Computación científica · 1"]
+        S1["🧬 Human Genome Labs"]:::sci
+    end
+    subgraph F["🍴 Forks de proyectos de terceros · 52"]
+        F1["🤖 Agentes de código y frameworks de agentes · 18<br/>🧩 Skills, plugins y flujos para agentes · 11<br/>🛡️ Seguridad y análisis de software · 8"]:::fork
+        F2["🧠 Modelos de IA e infraestructura · 5<br/>🏢 Gestión empresarial y plataformas · 6<br/>🎓 Educación y referencia · 4"]:::fork
+    end
+
+    CORE --> P
+    CORE --> L
+    CORE --> I
+    CORE --> C
+    CORE --> S
+    CORE -.-> F
+    LL -.- C
+
+    classDef core fill:#1f2328,stroke:#8b949e,color:#ffffff,stroke-width:2px
+    classDef core2 fill:#fff8c5,stroke:#9a6700,color:#4d2d00,stroke-width:2px
+    classDef prod fill:#ddf4ff,stroke:#0969da,color:#0a3069
+    classDef lab fill:#fff1e5,stroke:#bc4c00,color:#5c2200
+    classDef ai fill:#fbefff,stroke:#8250df,color:#3b1d73
+    classDef cur fill:#dafbe1,stroke:#1a7f37,color:#0f3d1e
+    classDef sci fill:#ffeff7,stroke:#bf3989,color:#5c1541
+    classDef fork fill:#f6f8fa,stroke:#6e7781,color:#24292f
+    classDef plan fill:#ffffff,stroke:#6e7781,color:#57606a,stroke-dasharray:5 5
+    style P fill:none,stroke:#0969da,stroke-width:1.5px
+    style L fill:none,stroke:#bc4c00,stroke-width:1.5px
+    style I fill:none,stroke:#8250df,stroke-width:1.5px
+    style C fill:none,stroke:#1a7f37,stroke-width:1.5px
+    style S fill:none,stroke:#bf3989,stroke-width:1.5px
+    style F fill:none,stroke:#6e7781,stroke-width:1.5px,stroke-dasharray:5 5
 ```
 
 ## 🗂️ Ecosistema: productos, laboratorios, IA aplicada, currículos y computación científica
 
-La obra práctica del perfil vive en un documento propio: software que se descarga e instala, laboratorios de ingeniería, IA aplicada y computación científica, además de la descripción de cada fork de proyectos de terceros que hay en la cuenta.
+La obra práctica del perfil vive en un documento propio: software que se descarga e instala, laboratorios de ingeniería, IA aplicada, currículos técnicos completos y computación científica, además de la descripción de cada fork de proyectos de terceros que hay en la cuenta.
 
 - 📦 **Productos con distribución real** (22)
 - 🧪 **Laboratorios de ingeniería** (11)
@@ -181,6 +231,8 @@ La obra práctica del perfil vive en un documento propio: software que se descar
 
 Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 21 programas suman **14.550 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
 
+🌌 **En planificación, fuera del conteo:** [Astronomía, astrofísica, ciencias espaciales e ingeniería aeroespacial](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 clases planificadas en 12 áreas y 133 bloques; 397 con texto redactado y todas aún en estado E0. Formación independiente, no habilitación profesional · [sitio](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+
 👉 **[Ver los 21 programas completos](docs/ECOSYSTEM.md#curricula)**
 
 ## ⚡ Si tienes 10 minutos para evaluarme
@@ -193,7 +245,7 @@ La idea no es mirar código: es ver **cómo pienso**, cómo documento y cómo ha
 git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
 ```
 
-Verás workflows, métricas, dashboards y guardrails sobre 19 casos y 18+ motores de BD.
+Verás workflows, métricas, dashboards y guardrails sobre 20 casos y 18+ motores de BD.
 
 **Ruta B — Infraestructura reproducible en minutos**
 
