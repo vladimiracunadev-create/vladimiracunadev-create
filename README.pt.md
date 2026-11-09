@@ -15,8 +15,8 @@
 [![Currículos](https://img.shields.io/badge/curr%C3%ADculos-21%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-153-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Linguagens](https://img.shields.io/badge/linguagens%20principais-10-0366d6?style=for-the-badge)](#-ecossistema-em-uma-visão)
 [![Aulas](https://img.shields.io/badge/aulas%20de%20curr%C3%ADculo-14550-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)

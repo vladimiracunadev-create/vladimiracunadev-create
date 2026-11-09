@@ -15,8 +15,8 @@
 [![课程](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
 
 <!-- STATS:START -->
-[![公共仓库](https://img.shields.io/badge/public%20repos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![已发布版本](https://img.shields.io/badge/published%20releases-153-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![公共仓库](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![已发布版本](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
 [![课程数](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#-完整技术课程)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
