@@ -308,9 +308,9 @@ Liderem technologicznym · Zarządzanie projektami · Administracja biznesowa ·
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.pl.md) ·
+[🛡️ Security](SECURITY.pl.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.pl.md)
 
 <sub>README zsynchronizowany z weryfikowalnym stanem publicznych repozytoriów —dane i zmiany odczytywane przez API— · ostatnia weryfikacja: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

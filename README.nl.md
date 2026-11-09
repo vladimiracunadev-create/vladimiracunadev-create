@@ -308,9 +308,9 @@ Technologieleiderschap · Projectbeheer · Bedrijfsadministratie · Strategie en
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.nl.md) ·
+[🛡️ Security](SECURITY.nl.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.nl.md)
 
 <sub>README gesynchroniseerd met de controleerbare staat van de openbare repositories —cijfers en wijzigingen via de API gelezen— · laatste verificatie: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

@@ -308,9 +308,9 @@ Teknologi kepemimpinan · Manajemen projek · Administrasi bisnis · Strategi da
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.id.md) ·
+[🛡️ Security](SECURITY.id.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.id.md)
 
 <sub>README disinkronkan dengan kondisi repositori publik yang dapat diverifikasi —angka dan perubahan dibaca melalui API— · verifikasi terakhir: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

@@ -308,9 +308,9 @@ installer 또는 CLI 바이너리를 다운로드[RootCause releases](https://gi
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.ko.md) ·
+[🛡️ Security](SECURITY.ko.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.ko.md)
 
 <sub>README는 공개 저장소의 검증 가능한 상태와 동기화되어 있습니다 —수치와 변경 사항은 API로 읽음— · 최종 검증: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

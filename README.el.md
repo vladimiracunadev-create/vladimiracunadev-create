@@ -308,9 +308,9 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.el.md) ·
+[🛡️ Security](SECURITY.el.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.el.md)
 
 <sub>README συγχρονισμένο με την επαληθεύσιμη κατάσταση των δημόσιων αποθετηρίων —αριθμοί και αλλαγές διαβάζονται μέσω API— · τελευταία επαλήθευση: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

@@ -1,6 +1,6 @@
 # Politique de Sécurité et de Divulgation Responsable
 
-**Langues :** [ES](SECURITY.md) · [EN](SECURITY.en.md) · [PT](SECURITY.pt.md) · [IT](SECURITY.it.md) · [FR](SECURITY.fr.md) · [ZH](SECURITY.zh.md)
+**Langues :** [ES](SECURITY.md) · [EN](SECURITY.en.md) · [PT](SECURITY.pt.md) · [IT](SECURITY.it.md) · [FR](SECURITY.fr.md) · [ZH](SECURITY.zh.md) · [ZH-TW](SECURITY.zh-TW.md) · [JA](SECURITY.ja.md) · [KO](SECURITY.ko.md) · [TR](SECURITY.tr.md) · [RU](SECURITY.ru.md) · [VI](SECURITY.vi.md) · [TH](SECURITY.th.md) · [DE](SECURITY.de.md) · [UK](SECURITY.uk.md) · [PL](SECURITY.pl.md) · [AR](SECURITY.ar.md) · [FA](SECURITY.fa.md) · [ID](SECURITY.id.md) · [NL](SECURITY.nl.md) · [HI](SECURITY.hi.md) · [EL](SECURITY.el.md)
 
 La sécurité, la traçabilité et l'observabilité sont des piliers de cet écosystème de projets. Nous prenons très au sérieux tout signalement concernant l'intégrité de nos applications.
 

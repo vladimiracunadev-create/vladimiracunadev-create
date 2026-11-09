@@ -308,9 +308,9 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.zh-TW.md) ·
+[🛡️ Security](SECURITY.zh-TW.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.zh-TW.md)
 
 <sub>README 與公開儲存庫的可驗證狀態同步 —數字與變更透過 API 讀取— · 最後驗證：<!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->。</sub>
 

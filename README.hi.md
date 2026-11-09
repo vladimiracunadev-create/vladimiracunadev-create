@@ -308,9 +308,9 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.hi.md) ·
+[🛡️ Security](SECURITY.hi.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.hi.md)
 
 <sub>README सार्वजनिक रिपॉज़िटरी की सत्यापन-योग्य स्थिति से सिंक है —आँकड़े और बदलाव API से पढ़े गए— · अंतिम सत्यापन: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->।</sub>
 

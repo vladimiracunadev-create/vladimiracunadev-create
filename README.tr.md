@@ -308,9 +308,9 @@ Technology leadership · Proje Yönetimi · Business administration · Strateji 
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.tr.md) ·
+[🛡️ Security](SECURITY.tr.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.tr.md)
 
 <sub>README, herkese açık depoların doğrulanabilir durumuyla eşitlenmiştir —rakamlar ve değişiklikler API üzerinden okunur— · son doğrulama: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

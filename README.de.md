@@ -308,9 +308,9 @@ Technologieführerschaft · Projektmanagement · Betriebswirtschaftslehre · Str
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.de.md) ·
+[🛡️ Security](SECURITY.de.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.de.md)
 
 <sub>README synchronisiert mit dem überprüfbaren Zustand der öffentlichen Repositories —Zahlen und Änderungen werden über die API gelesen— · letzte Überprüfung: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

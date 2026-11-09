@@ -308,9 +308,9 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.fa.md) ·
+[🛡️ Security](SECURITY.fa.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.fa.md)
 
 <sub>README با وضعیت قابل راستی‌آزمایی مخزن‌های عمومی همگام است —ارقام و تغییرات از طریق API خوانده می‌شوند— · آخرین بررسی: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

@@ -1,6 +1,6 @@
 # 安全与负责任披露政策
 
-**语言：** [ES](SECURITY.md) · [EN](SECURITY.en.md) · [PT](SECURITY.pt.md) · [IT](SECURITY.it.md) · [FR](SECURITY.fr.md) · [ZH](SECURITY.zh.md)
+**语言：** [ES](SECURITY.md) · [EN](SECURITY.en.md) · [PT](SECURITY.pt.md) · [IT](SECURITY.it.md) · [FR](SECURITY.fr.md) · [ZH](SECURITY.zh.md) · [ZH-TW](SECURITY.zh-TW.md) · [JA](SECURITY.ja.md) · [KO](SECURITY.ko.md) · [TR](SECURITY.tr.md) · [RU](SECURITY.ru.md) · [VI](SECURITY.vi.md) · [TH](SECURITY.th.md) · [DE](SECURITY.de.md) · [UK](SECURITY.uk.md) · [PL](SECURITY.pl.md) · [AR](SECURITY.ar.md) · [FA](SECURITY.fa.md) · [ID](SECURITY.id.md) · [NL](SECURITY.nl.md) · [HI](SECURITY.hi.md) · [EL](SECURITY.el.md)
 
 安全性、可追溯性和可观测性是本项目生态的基础。我们会严肃对待任何与应用完整性有关的报告。
 

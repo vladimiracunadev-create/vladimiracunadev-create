@@ -308,9 +308,9 @@ Lãnh đạo công nghệ · Quản lý dự án · Bộ quản lý kinh doanh �
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.vi.md) ·
+[🛡️ Security](SECURITY.vi.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.vi.md)
 
 <sub>README được đồng bộ với trạng thái có thể kiểm chứng của các kho mã công khai —số liệu và thay đổi được đọc qua API— · xác minh gần nhất: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 

@@ -1,6 +1,6 @@
 # Código de Conduta para Colaboradores
 
-**Idiomas:** [ES](CODE_OF_CONDUCT.md) · [EN](CODE_OF_CONDUCT.en.md) · [PT](CODE_OF_CONDUCT.pt.md) · [IT](CODE_OF_CONDUCT.it.md) · [FR](CODE_OF_CONDUCT.fr.md) · [ZH](CODE_OF_CONDUCT.zh.md)
+**Idiomas:** [ES](CODE_OF_CONDUCT.md) · [EN](CODE_OF_CONDUCT.en.md) · [PT](CODE_OF_CONDUCT.pt.md) · [IT](CODE_OF_CONDUCT.it.md) · [FR](CODE_OF_CONDUCT.fr.md) · [ZH](CODE_OF_CONDUCT.zh.md) · [ZH-TW](CODE_OF_CONDUCT.zh-TW.md) · [JA](CODE_OF_CONDUCT.ja.md) · [KO](CODE_OF_CONDUCT.ko.md) · [TR](CODE_OF_CONDUCT.tr.md) · [RU](CODE_OF_CONDUCT.ru.md) · [VI](CODE_OF_CONDUCT.vi.md) · [TH](CODE_OF_CONDUCT.th.md) · [DE](CODE_OF_CONDUCT.de.md) · [UK](CODE_OF_CONDUCT.uk.md) · [PL](CODE_OF_CONDUCT.pl.md) · [AR](CODE_OF_CONDUCT.ar.md) · [FA](CODE_OF_CONDUCT.fa.md) · [ID](CODE_OF_CONDUCT.id.md) · [NL](CODE_OF_CONDUCT.nl.md) · [HI](CODE_OF_CONDUCT.hi.md) · [EL](CODE_OF_CONDUCT.el.md)
 
 ## Nosso Compromisso
 

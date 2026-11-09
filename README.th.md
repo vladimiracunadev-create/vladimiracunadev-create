@@ -308,9 +308,9 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 <div align="center">
 
-[🤝 Contribute](CONTRIBUTING.en.md) ·
-[🛡️ Security](SECURITY.en.md) ·
-[⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
+[🤝 Contribute](CONTRIBUTING.th.md) ·
+[🛡️ Security](SECURITY.th.md) ·
+[⚖️ Code of Conduct](CODE_OF_CONDUCT.th.md)
 
 <sub>README ซิงก์กับสถานะที่ตรวจสอบได้ของคลังสาธารณะ —ตัวเลขและการเปลี่ยนแปลงอ่านผ่าน API— · ตรวจสอบล่าสุด: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END --></sub>
 
