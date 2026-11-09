@@ -93,8 +93,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **508 tests** · contracts with Foundry (fuzzing and invariants) and Slither static analysis in CI · offline apps verified by opening the binary and counting its contents · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 モジュール·≈214時間· **93 ノートブック**—31クラス、31の学生バージョン、31のソリューション·実際のパブリックデータに関する質問、ビジュアルマップ、慣行、評価·ピートーチ· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 トレーニングモジュール**、機械ごとの1· **502 h 15 分** ·システムの制御、物理、安全、およびクラスごとのソースとのシミュレーション設計·※実行可能シミュレータは未だ、その方法が宣言されていない* |
-
-🌌 **計画中・集計対象外：**[天文学・天体物理学・宇宙科学・航空宇宙工学](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12領域・133ブロックにわたる計画済み2,077クラス。うち397クラスは本文執筆済みで、すべて状態E0のままです。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+| [🌌 **天文学・天体物理学・宇宙科学・航空宇宙工学**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | — | **計画中・集計対象外：**12領域・133ブロックにわたる計画済み2,077クラス。うち397クラスは本文執筆済みで、すべて状態E0のままです。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬科学コンピューティング
 

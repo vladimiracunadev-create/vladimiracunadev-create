@@ -106,6 +106,32 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
 
+**Архитектуры ПО**
+
+![Local-first](https://img.shields.io/badge/Local--first-0969da?style=flat-square)
+![Offline-first / PWA](https://img.shields.io/badge/Offline--first%20/%20PWA-0969da?style=flat-square)
+![Event-driven (n8n)](https://img.shields.io/badge/Event--driven%20(n8n)-0969da?style=flat-square)
+![Idempotency](https://img.shields.io/badge/Idempotency-0969da?style=flat-square)
+![Circuit breaker](https://img.shields.io/badge/Circuit%20breaker-0969da?style=flat-square)
+![Dead-letter queue](https://img.shields.io/badge/Dead--letter%20queue-0969da?style=flat-square)
+![Outbox](https://img.shields.io/badge/Outbox-0969da?style=flat-square)
+![Backpressure](https://img.shields.io/badge/Backpressure-0969da?style=flat-square)
+![State machines](https://img.shields.io/badge/State%20machines-0969da?style=flat-square)
+![Agent graphs](https://img.shields.io/badge/Agent%20graphs-0969da?style=flat-square)
+![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-0969da?style=flat-square)
+![Plugin architecture](https://img.shields.io/badge/Plugin%20architecture-0969da?style=flat-square)
+![Domain-first](https://img.shields.io/badge/Domain--first-0969da?style=flat-square)
+![Monorepo](https://img.shields.io/badge/Monorepo-0969da?style=flat-square)
+![Micro-apps](https://img.shields.io/badge/Micro--apps-0969da?style=flat-square)
+![Embedded database](https://img.shields.io/badge/Embedded%20database-0969da?style=flat-square)
+![Read-only by default](https://img.shields.io/badge/Read--only%20by%20default-0969da?style=flat-square)
+![Double-entry ledger](https://img.shields.io/badge/Double--entry%20ledger-0969da?style=flat-square)
+![ADRs](https://img.shields.io/badge/ADRs-0969da?style=flat-square)
+![IaC / CI-CD](https://img.shields.io/badge/IaC%20/%20CI--CD-0969da?style=flat-square)
+![Docker-first](https://img.shields.io/badge/Docker--first-0969da?style=flat-square)
+
+<sub>Local-first → [empresa-operativa-chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [ai-dataset-foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry) · Event-driven → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler) · Resilience → [problem-driven-systems-lab](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) · Ledger → [universal-payments-engineering-lab](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) · Plugins → [agentic-plugins-toolkit](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) · Agents → [langgraph-realworld](https://github.com/vladimiracunadev-create/langgraph-realworld), [operational-ai-agents](https://github.com/vladimiracunadev-create/operational-ai-agents) · Domain-first → [rhino-suite](https://github.com/vladimiracunadev-create/rhino-suite) · Micro-apps → [microsistemas](https://github.com/vladimiracunadev-create/microsistemas) · Embedded DB → [gabysql](https://github.com/vladimiracunadev-create/gabysql) · IaC → [proyectos-aws](https://github.com/vladimiracunadev-create/proyectos-aws)</sub>
+
 **Базы данных**
 
 ![Базы данных](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
@@ -159,69 +185,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️Экосистема с первого взгляда
 
-```mermaid
-flowchart LR
-    CORE["🧠 Technical judgment<br/>architecture · modernization · operations"]:::core
-
-    subgraph P["📦 Продукты с реальным распределением · 22"]
-        direction LR
-        P1["🛡️ RootCause ×8<br/>🔍 Universal Code Scanner"]:::prod
-        P2["🗄️ GabySQL · 🤖 Automa PC<br/>🏭 AI Dataset Foundry<br/>🎙️ Video Transcript Studio"]:::prod
-        P3["🏢 Empresa Operativa Chile<br/>🧭 Commerce OS · ☁️ AWS Desktop Studio<br/>📄 PDF Reader"]:::prod
-        P4["🎨 ChofyAI Studio · 🦏 Rhino Suite<br/>🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo"]:::prod
-    end
-    subgraph L["🧪 Инженерные лаборатории · 11"]
-        direction LR
-        L1["🐳 Docker · WSL · Unikernel<br/>🧰 QEMU/KVM · 🛡️ Sandbox"]:::lab
-        L2["🧪 Problem-Driven · 📆 Social Bot<br/>🧰 Microsistemas"]:::lab
-        L3["💳 Payments · 🕹️ Decentraland<br/>☁️ Proyectos AWS"]:::lab
-    end
-    subgraph I["🤖 Прикладной ИИ · 6"]
-        direction LR
-        I1["🤖 LangGraph ×25<br/>🧭 Operational AI Agents ×23"]:::ai
-        I2["🧰 Claude Skills ×22 · Codex Skills ×19<br/>🧩 Agentic Plugins ×6"]:::ai
-        I3["🧠 MCP + Ollama"]:::ai
-    end
-    subgraph C["📚 Полная техническая программа · 21"]
-        direction LR
-        C1["💻 Cybersecurity · GameDev · Data Science<br/>Multi-Cloud · AI · Blockchain · Software Eng.<br/>Frameworks · Polyglot · Databases · Neural Nets"]:::cur
-        C2["💼 Business Creation · Finance & Banking<br/>Marketing · Leadership · Pedagogy"]:::cur
-        C3["🔬 Math · Psychometrics · Architecture<br/>Machine Operator · Chilean School Path"]:::cur
-        C4["🌌 Astronomy & Aerospace<br/>в планировании · 2.077"]:::plan
-    end
-    LL["🧭 Lifelong Learning Ecosystem"]:::core2
-    subgraph S["🔬 Научные вычисления · 1"]
-        S1["🧬 Human Genome Labs"]:::sci
-    end
-    subgraph F["🍴 Форки сторонних проектов · 52"]
-        F1["🤖 Кодирующие агенты и фреймворки агентов · 18<br/>🧩 Навыки (skills), плагины и сценарии для агентов · 11<br/>🛡️ Безопасность и анализ ПО · 8"]:::fork
-        F2["🧠 Модели ИИ и инфраструктура · 5<br/>🏢 Управление бизнесом и платформы · 6<br/>🎓 Образование и справочные материалы · 4"]:::fork
-    end
-
-    CORE --> P
-    CORE --> L
-    CORE --> I
-    CORE --> C
-    CORE --> S
-    CORE -.-> F
-    LL -.- C
-
-    classDef core fill:#1f2328,stroke:#8b949e,color:#ffffff,stroke-width:2px
-    classDef core2 fill:#fff8c5,stroke:#9a6700,color:#4d2d00,stroke-width:2px
-    classDef prod fill:#ddf4ff,stroke:#0969da,color:#0a3069
-    classDef lab fill:#fff1e5,stroke:#bc4c00,color:#5c2200
-    classDef ai fill:#fbefff,stroke:#8250df,color:#3b1d73
-    classDef cur fill:#dafbe1,stroke:#1a7f37,color:#0f3d1e
-    classDef sci fill:#ffeff7,stroke:#bf3989,color:#5c1541
-    classDef fork fill:#f6f8fa,stroke:#6e7781,color:#24292f
-    classDef plan fill:#ffffff,stroke:#6e7781,color:#57606a,stroke-dasharray:5 5
-    style P fill:none,stroke:#0969da,stroke-width:1.5px
-    style L fill:none,stroke:#bc4c00,stroke-width:1.5px
-    style I fill:none,stroke:#8250df,stroke-width:1.5px
-    style C fill:none,stroke:#1a7f37,stroke-width:1.5px
-    style S fill:none,stroke:#bf3989,stroke-width:1.5px
-    style F fill:none,stroke:#6e7781,stroke-width:1.5px,stroke-dasharray:5 5
-```
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ru.svg)
 
 ## 🗂️ Экосистема: продукты, лаборатории, прикладной ИИ, учебные программы и научные вычисления
 
@@ -299,11 +263,11 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 ### ↗ Естественное расширение
 
-**Инженер оркестровки AI** · **Системы / Rust Engineer** · **Мобильный инженер (Flutter)** · **Инженер решений** · **Технический конструктор продукта** · **Технический тренер** · **Консультант по цифровой трансформации** · **Бизнес / Функциональный аналитик** · **Технические операции с продуктом**
+**Инженер оркестровки AI** · **Системы / Rust Engineer** · **Мобильный инженер (Flutter)** · **Инженер решений** · **Технический конструктор продукта** · **Технический тренер** · **Консультант по цифровой трансформации** · **Бизнес / Функциональный аналитик** · **Технические операции с продуктом** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Преподаватель / Тренер / Инструктор по технологиям** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Дополнительный охват
 
-Инженер платформы / IDP·DevOps / CI-CD·Облако / Инженер AWS·Приложение SRE·Инженер по автоматизации·Технический коммерческий консультант
+Инженер платформы / IDP·DevOps / CI-CD·Облако / Инженер AWS·Приложение SRE·Инженер по автоматизации·Технический коммерческий консультант · Backend / API Engineer · Fintech / Payments Engineer · Developer Advocate / DevRel
 
 ## 🧭Управление, администрирование и некодирование карьерных возможностей
 

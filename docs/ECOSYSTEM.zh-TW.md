@@ -93,8 +93,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** ·從零到可程式設計的金融基礎設施和鏈上分析· **91個做法**財務報告和已審計財務報表**508次測試** ·與開業公司(模糊和變化不定)和CI的Slither靜態分析的合同·開啟二進位制並計數其內容的離線應用程式· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41個培訓單元**,每臺一臺機器· **502小時15分鐘** ·系統、控制、物理、安全和模擬設計,每類源·*還沒有可執行模擬器,而且它被宣佈為這樣* |
-
-🌌 **規劃中，不計入統計：**[天文學、天體物理學、太空科學與航空太空工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 個領域、133 個模組共 2,077 堂規劃課程；其中 397 堂已有正文，全部仍處於 E0 狀態。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+| [🌌 **天文學、天體物理學、太空科學與航空太空工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | — | **規劃中，不計入統計：**12 個領域、133 個模組共 2,077 堂規劃課程；其中 397 堂已有正文，全部仍處於 E0 狀態。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬科學計算
 

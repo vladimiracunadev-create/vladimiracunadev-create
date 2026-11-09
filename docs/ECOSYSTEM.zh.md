@@ -93,8 +93,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **508 tests** · Foundry and Slither in CI · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, 31 solutions— · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 training modules**, one per machine · **502 h 15 min** · systems、controls、physics、safety、simulation design with sources per class · *no executable simulator yet, and that is declared* |
-
-🌌 **规划中，不计入统计：**[天文学、天体物理学、空间科学与航空航天工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 个领域、133 个模块共 2,077 节规划课程；其中 397 节已有正文，全部仍处于 E0 状态。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+| [🌌 **天文学、天体物理学、空间科学与航空航天工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | — | **规划中，不计入统计：**12 个领域、133 个模块共 2,077 节规划课程；其中 397 节已有正文，全部仍处于 E0 状态。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬 科学计算
 
