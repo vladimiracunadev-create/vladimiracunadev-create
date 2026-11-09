@@ -15,17 +15,10 @@
 [![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
 
 <!-- STATS:START -->
-<<<<<<< HEAD
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนเวศ)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#หลกสตรเทคนคฉบบสมบรณ)
-=======
-[![Public repos](https://img.shields.io/badge/public%20repos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนิเวศ)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-14530-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
->>>>>>> 65bf18d (docs: separa ecosistema y gestión en documentos independientes por idioma)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
