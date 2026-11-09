@@ -287,6 +287,6 @@ Technology leadership · Proje Yönetimi · Business administration · Strateji 
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>DME, kamu depolarının gerçekleştirilebilir durumuyla senkronize edildi - API aracılığıyla okunan değişiklikler ve değişiklikler -·Son doğrulama: 12 Ekim 2026.</sub>
+<sub>README, herkese açık depoların doğrulanabilir durumuyla eşitlenmiştir —rakamlar ve değişiklikler API üzerinden okunur— · son doğrulama: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

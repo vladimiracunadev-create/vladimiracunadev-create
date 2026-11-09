@@ -287,6 +287,6 @@ Technology leadership · Project management · Business administration · Strate
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README synchronized with the verifiable state of the public repositories —figures and changes read through the API— · last verification: October 12, 2026.</sub>
+<sub>README synchronized with the verifiable state of the public repositories —figures and changes read through the API— · last verification: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

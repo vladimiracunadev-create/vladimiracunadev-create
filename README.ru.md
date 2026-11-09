@@ -287,6 +287,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README синхронизирован с проверяемым состоянием публичных репозиториев — считываемые через API цифры и изменения —·Последняя проверка: 12 октября 2026 года.</sub>
+<sub>README синхронизирован с проверяемым состоянием публичных репозиториев —цифры и изменения читаются через API— · последняя проверка: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

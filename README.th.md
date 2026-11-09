@@ -287,6 +287,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>RecodeME ตรงกับสภาพที่ตรวจสอบได้ของสถานสงเคราะห์สาธารณะ การแปลงและเปลี่ยนแปลงการอ่านผ่านเครื่องเอไอ --·2560. สืบค้นครั้งสุดท้าย: 12 ตุลาคม 2026.</sub>
+<sub>README ซิงก์กับสถานะที่ตรวจสอบได้ของคลังสาธารณะ —ตัวเลขและการเปลี่ยนแปลงอ่านผ่าน API— · ตรวจสอบล่าสุด: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END --></sub>
 
 </div>

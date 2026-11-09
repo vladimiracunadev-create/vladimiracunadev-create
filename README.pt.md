@@ -286,6 +286,6 @@ Direção tecnológica · Projetos · Administração · Estratégia · Análise
 [🛡️ Segurança](SECURITY.pt.md) ·
 [⚖️ Código de conduta](CODE_OF_CONDUCT.pt.md)
 
-<sub>README sincronizado com o estado verificável dos repositórios públicos —números e mudanças lidos por API— · última verificação: 12 de outubro de 2026.</sub>
+<sub>README sincronizado com o estado verificável dos repositórios públicos —números e mudanças lidos por API— · última verificação: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

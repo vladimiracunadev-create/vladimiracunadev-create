@@ -287,6 +287,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>تزامنت هذه المبادرة مع حالة المستودعات العامة التي يمكن التحقق منها - أي التكوينات والتغييرات التي تُقرأ عن طريق البروتوكول الاختياري لاتفاقية مناهضة التعذيب -·آخر عملية تحقق: 12 تشرين الأول/أكتوبر 2026.</sub>
+<sub>README متزامن مع الحالة القابلة للتحقق للمستودعات العامة —الأرقام والتغييرات تُقرأ عبر واجهة API— · آخر تحقق: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

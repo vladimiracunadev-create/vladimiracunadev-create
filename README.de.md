@@ -287,6 +287,6 @@ Technologieführerschaft · Projektmanagement · Betriebswirtschaftslehre · Str
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README synchronisiert mit dem überprüfbaren Zustand der öffentlichen Repositories - Zahlen und Änderungen, die über die API gelesen werden -·Letzte Überprüfung: 12. Oktober 2026.</sub>
+<sub>README synchronisiert mit dem überprüfbaren Zustand der öffentlichen Repositories —Zahlen und Änderungen werden über die API gelesen— · letzte Überprüfung: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

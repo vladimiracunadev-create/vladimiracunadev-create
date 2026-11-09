@@ -287,6 +287,6 @@ Liderem technologicznym · Zarządzanie projektami · Administracja biznesowa ·
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README zsynchronizowany z weryfikowalnym stanem repozytoriów publicznych - dane liczbowe i zmiany odczytywane za pośrednictwem API -·ostatnia weryfikacja: 12 października 2026 r.</sub>
+<sub>README zsynchronizowany z weryfikowalnym stanem publicznych repozytoriów —dane i zmiany odczytywane przez API— · ostatnia weryfikacja: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

@@ -286,6 +286,6 @@ Direzione tecnologica · Progetti · Amministrazione · Strategia · Business an
 [🛡️ Sicurezza](SECURITY.it.md) ·
 [⚖️ Codice di condotta](CODE_OF_CONDUCT.it.md)
 
-<sub>README sincronizzato con lo stato verificabile dei repository pubblici —cifre e cambiamenti letti via API— · ultima verifica: 12 ottobre 2026.</sub>
+<sub>README sincronizzato con lo stato verificabile dei repository pubblici —cifre e cambiamenti letti via API— · ultima verifica: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

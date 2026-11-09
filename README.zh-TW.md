@@ -287,6 +287,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README 與可核查的公共庫狀態同步——圖和變化透過API讀取——·最後核實:2026年10月12日。</sub>
+<sub>README 與公開儲存庫的可驗證狀態同步 —數字與變更透過 API 讀取— · 最後驗證：<!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->。</sub>
 
 </div>

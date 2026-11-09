@@ -287,6 +287,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>ReadME همگام با حالت قابل اثبات مخازن عمومی - چهره ها و تغییرات خواندن از طریق API -·آخرین تایید: 12 اکتبر 2026</sub>
+<sub>README با وضعیت قابل راستی‌آزمایی مخزن‌های عمومی همگام است —ارقام و تغییرات از طریق API خوانده می‌شوند— · آخرین بررسی: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

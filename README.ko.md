@@ -287,6 +287,6 @@ installer 또는 CLI 바이너리를 다운로드[RootCause releases](https://gi
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README는 공개 저장소의 검증 가능한 상태와 동기화 - 구성 및 변경 API를 통해 읽습니다.·최종 검증: 10월 12, 2026.</sub>
+<sub>README는 공개 저장소의 검증 가능한 상태와 동기화되어 있습니다 —수치와 변경 사항은 API로 읽음— · 최종 검증: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

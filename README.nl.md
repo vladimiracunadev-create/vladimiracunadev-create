@@ -287,6 +287,6 @@ Technologieleiderschap · Projectbeheer · Bedrijfsadministratie · Strategie en
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README gesynchroniseerd met de controleerbare staat van de openbare repositories .figuren en wijzigingen gelezen door de API·laatste verificatie: 12 oktober 2026.</sub>
+<sub>README gesynchroniseerd met de controleerbare staat van de openbare repositories —cijfers en wijzigingen via de API gelezen— · laatste verificatie: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

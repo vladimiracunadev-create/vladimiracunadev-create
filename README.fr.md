@@ -286,6 +286,6 @@ Direction technologique · Projets · Administration · Stratégie · Business a
 [🛡️ Sécurité](SECURITY.fr.md) ·
 [⚖️ Code de conduite](CODE_OF_CONDUCT.fr.md)
 
-<sub>README synchronisé avec l’état vérifiable des dépôts publics —chiffres et changements lus via API— · dernière vérification : 12 octobre 2026.</sub>
+<sub>README synchronisé avec l’état vérifiable des dépôts publics —chiffres et changements lus via API— · dernière vérification : <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

@@ -287,6 +287,6 @@ Lãnh đạo công nghệ · Quản lý dự án · Bộ quản lý kinh doanh �
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>Dịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Huy Tô, Yuki, Ann, Phương·Xác thực cuối cùng: ngày 12 tháng 10 năm 2026.</sub>
+<sub>README được đồng bộ với trạng thái có thể kiểm chứng của các kho mã công khai —số liệu và thay đổi được đọc qua API— · xác minh gần nhất: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

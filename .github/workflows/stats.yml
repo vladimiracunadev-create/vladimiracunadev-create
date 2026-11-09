@@ -323,6 +323,22 @@ jobs:
                   hubo_cambios = True
                   print(f"{ruta} actualizado.")
 
+          # Si alguna cifra cambió, el pie de cada README refleja la fecha de
+          # esta verificación. Solo se toca entre los marcadores VERIFIED.
+          if hubo_cambios:
+              from datetime import date
+              hoy = date.today().isoformat()
+              for ruta in sorted(Path(".").glob("README*.md")):
+                  texto = ruta.read_text(encoding="utf-8")
+                  nuevo = re.sub(
+                      r"(<!-- VERIFIED:START -->).*?(<!-- VERIFIED:END -->)",
+                      lambda m: f"{m.group(1)}{hoy}{m.group(2)}",
+                      texto,
+                  )
+                  if nuevo != texto:
+                      ruta.write_text(nuevo, encoding="utf-8")
+                      print(f"{ruta}: fecha de verificación {hoy}.")
+
           if not hubo_cambios:
               print("Sin cambios en las cifras.")
           PY

@@ -286,6 +286,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 [🛡️ 安全](SECURITY.zh.md) ·
 [⚖️ 行为准则](CODE_OF_CONDUCT.zh.md)
 
-<sub>README 已与公共仓库的可验证状态同步 — 指标和变更来自 API — 最后验证：2026 年 10 月 12 日。</sub>
+<sub>README 已与公共仓库的可验证状态同步 —数字和变更通过 API 读取— · 最后验证：<!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->。</sub>
 
 </div>

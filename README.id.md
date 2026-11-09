@@ -287,6 +287,6 @@ Teknologi kepemimpinan · Manajemen projek · Administrasi bisnis · Strategi da
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README disinkronkan dengan kondisi yang dapat diverifikasi dari repositori publik - angka dan perubahan dibaca melalui API -·verifikasi terakhir: 12 Oktober 2026.</sub>
+<sub>README disinkronkan dengan kondisi repositori publik yang dapat diverifikasi —angka dan perubahan dibaca melalui API— · verifikasi terakhir: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
 
 </div>

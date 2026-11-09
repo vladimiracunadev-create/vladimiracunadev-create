@@ -287,6 +287,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.en.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.en.md)
 
-<sub>README ने सार्वजनिक प्रस्तावों की सत्यापित स्थिति के साथ सिंक्रनाइज़ किया - एपीआई के माध्यम से पढ़ने के लिए कॉन्फ़िगर और परिवर्तन -·अंतिम सत्यापन: अक्टूबर 12, 2026।</sub>
+<sub>README सार्वजनिक रिपॉज़िटरी की सत्यापन-योग्य स्थिति से सिंक है —आँकड़े और बदलाव API से पढ़े गए— · अंतिम सत्यापन: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->।</sub>
 
 </div>
