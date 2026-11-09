@@ -73,7 +73,7 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 | 🧪 **Zakres badania** | GabySQL**828 badań**+ rozmycie**503,8M zapytania**(0 paniki)·Empresa Operativa Chile**217 badań** ·Automa**150 pikseli** ·wieloOS CI |
 | 🤖 **Czynniki klasy produkcyjnej** | LangGraph RealWorld**25 / 25 operacyjnych oparć**(sprawy 01- 25, 100%)·Operacyjne środki do zwalczania ptasiej grypy**13**z**39 determinalistycznych wymienników** |
 | 🔗 **Integracja poliglotów** | **20 spraw**nadawca → n8n → odbiornik -**19 operacyjne**, indywidualnie skontrolowane z Docker -· **Silniki o mocy 18 + DB** · **20 + pojemniki** ·11 wzorów |
-| 📦 **Dystrybucja** | **158 wydaleń**w całym ekosystemie**65 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
+| 📦 **Dystrybucja** | **155 wydaleń**w całym ekosystemie**65 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
 | 🛡️ **Łańcuch dostaw** | CodeQL·Semgrep·Bandyta·Trivy·Typ·Gitleaks·TruffleHog Przewodniczący·CycloneDX SBOM·Wyniki |
 | 📚 **Programy nauczania** | **14 550 klas**weryfikowalne w 21 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
 | 🌐 **Portfolio** | Instalowalne PWA· **22 języków** · **154 PDF**generowane przez rurociąg·API danych CV·Capacitor Android·Latarnia morska 100 |
