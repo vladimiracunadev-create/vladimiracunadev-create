@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 はじめに](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#地球の環境システム) ·
 [🛠️ 技術スタック](#-技術スタック) ·
@@ -53,6 +54,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > 体験する機会をオンにしないプロファイルです。 確かな技術経験、譲渡可能なスキル、生存可能なアプリケーション、将来の開発目標は明示的に分けられます。 GitHub の証拠は実行可能か、またはドキュメンタリーです。何かが何かである**なし**終了、などと記載しております。
+
+## 🧭 はじめに
+
+該当するケースを選んで、必要な情報へ直行してください:
+
+🧑‍💼 [採用](docs/guides/RECRUITER.en.md) · 💼 [クライアント・フリーランス](docs/guides/FREELANCE.en.md) · 🛠️ [技術評価](docs/guides/TECH_LEAD.en.md) · 🏢 [ビジネス・マネジメント](docs/guides/BUSINESS.en.md) · 🤝 [コラボレーションとセキュリティ](docs/guides/COLLABORATOR.en.md) · 🎓 [学ぶ・教える](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯あなたを見つけるためにここに
 

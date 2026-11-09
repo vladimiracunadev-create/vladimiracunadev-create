@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 कहाँ से शुरू करें](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#पारिस्थितिकी-तंत्र-एक-झलक-में) ·
 [🛠️ टेक्नोलॉजी स्टैक](#-टेक्नोलॉजी-स्टैक) ·
@@ -53,6 +54,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > यह प्रोफ़ाइल अनुभव में अवसर नहीं बदलती है। सिद्ध तकनीकी अनुभव, हस्तांतरणीय कौशल, व्यवहार्य अनुप्रयोग और भविष्य के विकास के लक्ष्य स्पष्ट रूप से अलग हो जाते हैं। लिंक्ड गिटहब सबूत निष्पादन योग्य या दस्तावेजी है; जहां कुछ है**नहीं**समाप्त हो गया, यह इस तरह के रूप में कहा जाता है।
+
+## 🧭 कहाँ से शुरू करें
+
+अपना मामला चुनें और सीधे अपनी ज़रूरत तक पहुँचें:
+
+🧑‍💼 [भर्ती](docs/guides/RECRUITER.en.md) · 💼 [क्लाइंट या फ़्रीलांस](docs/guides/FREELANCE.en.md) · 🛠️ [तकनीकी मूल्यांकन](docs/guides/TECH_LEAD.en.md) · 🏢 [व्यवसाय और प्रबंधन](docs/guides/BUSINESS.en.md) · 🤝 [सहयोग और सुरक्षा](docs/guides/COLLABORATOR.en.md) · 🎓 [सीखना या सिखाना](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯आपको यहाँ क्या मिलेगा
 

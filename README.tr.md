@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 Nereden başlamalı](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#bir-bakışta-ekosistem) ·
 [🛠️ Teknoloji yığını](#-teknoloji-yığını) ·
@@ -53,6 +54,14 @@ process and requirements analysis · solution evaluation · delivery coordinatio
 
 > [!NOTE]
 > This profile does not turn opportunities into experience. Proven technical experience, transferable skills, viable applications, and future development goals are explicitly separated. Linked GitHub evidence is executable or documentary; where something is **not** finished, it is stated as such.
+
+## 🧭 Nereden başlamalı
+
+Durumunuzu seçin ve doğrudan ihtiyacınız olana gidin:
+
+🧑‍💼 [İşe alım](docs/guides/RECRUITER.en.md) · 💼 [Müşteri veya freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Teknik değerlendirme](docs/guides/TECH_LEAD.en.md) · 🏢 [İş ve yönetim](docs/guides/BUSINESS.en.md) · 🤝 [İş birliği ve güvenlik](docs/guides/COLLABORATOR.en.md) · 🎓 [Öğrenme veya öğretme](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯Burada neler bulacaksınız
 

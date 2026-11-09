@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 Od czego zacząć](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ekosystem-w-odblasku) ·
 [🛠️ Stos technologiczny](#-stos-technologiczny) ·
@@ -53,6 +54,14 @@ analiza procesu i wymogów·Ocena roztworu·koordynacja realizacji·operacje i c
 
 > [!NOTE]
 > Profil ten nie zmienia możliwości w doświadczenie. Dowodzone doświadczenie techniczne, umiejętności do przenoszenia, wykonalne zastosowania oraz przyszłe cele rozwojowe są wyraźnie oddzielone. Powiązane dowody GitHub są wykonalne lub dokumentalne; gdzie coś jest**nie**wykończone, jest to określone jako takie.
+
+## 🧭 Od czego zacząć
+
+Wybierz swój przypadek i przejdź prosto do tego, czego potrzebujesz:
+
+🧑‍💼 [Rekrutacja](docs/guides/RECRUITER.en.md) · 💼 [Klient lub freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Ocena techniczna](docs/guides/TECH_LEAD.en.md) · 🏢 [Biznes i zarządzanie](docs/guides/BUSINESS.en.md) · 🤝 [Współpraca i bezpieczeństwo](docs/guides/COLLABORATOR.en.md) · 🎓 [Nauka lub nauczanie](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯Co znajdziesz tutaj
 

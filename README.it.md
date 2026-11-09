@@ -29,6 +29,7 @@
 [![Stelle](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stelle&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Follower](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=follower&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 Da dove iniziare](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 lingue)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosistema](#-ecosistema-in-sintesi) ·
 [🛠️ Stack tecnologico](#-stack-tecnologico) ·
@@ -52,6 +53,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > Questo profilo non trasforma le possibilità in esperienza. Esperienza comprovata, competenze trasferibili, possibilità di candidatura e obiettivi futuri sono separati esplicitamente.
+
+## 🧭 Da dove iniziare
+
+Scegli il tuo caso e vai dritto a ciò che ti serve:
+
+🧑‍💼 [Selezione del personale](docs/guides/RECRUITER.en.md) · 💼 [Cliente o freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Valutazione tecnica](docs/guides/TECH_LEAD.en.md) · 🏢 [Business e gestione](docs/guides/BUSINESS.en.md) · 🤝 [Collaborazione e sicurezza](docs/guides/COLLABORATOR.en.md) · 🎓 [Imparare o insegnare](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯 Cosa Troverai Qui
 

@@ -29,6 +29,7 @@
 [![Estrellas](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=estrellas&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Seguidores](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=seguidores&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 Por dónde empezar](docs/START_HERE.md) ·
 [🌐 Portafolio (22 idiomas)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosistema](#-el-ecosistema-de-un-vistazo) ·
 [🛠️ Stack tecnológico](#-stack-tecnológico) ·
@@ -53,6 +54,12 @@ análisis de procesos y requerimientos · evaluación de soluciones · coordinac
 
 > [!NOTE]
 > Este perfil no convierte posibilidades en experiencia. La trayectoria técnica acreditada, las competencias transferibles, las posibilidades de postulación y los objetivos futuros se distinguen de forma explícita. Cada evidencia de GitHub enlazada es ejecutable o documental; donde algo **no** está terminado, se declara como tal.
+
+## 🧭 Por dónde empezar
+
+Elige tu caso y ve directo a lo que necesitas:
+
+🧑‍💼 [Reclutamiento](docs/guides/RECRUITER.md) · 💼 [Cliente o freelance](docs/guides/FREELANCE.md) · 🛠️ [Evaluación técnica](docs/guides/TECH_LEAD.md) · 🏢 [Negocio y gestión](docs/guides/BUSINESS.md) · 🤝 [Colaboración y seguridad](docs/guides/COLLABORATOR.md) · 🎓 [Aprender o enseñar](docs/guides/LEARNER.md)
 
 ## 🎯 Qué encontrarás aquí
 

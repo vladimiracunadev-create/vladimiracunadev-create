@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 Start here](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#-ecosystem-at-a-glance) ·
 [🛠️ Technology stack](#-technology-stack) ·
@@ -53,6 +54,12 @@ process and requirements analysis · solution evaluation · delivery coordinatio
 
 > [!NOTE]
 > This profile does not turn opportunities into experience. Proven technical experience, transferable skills, viable applications, and future development goals are explicitly separated. Linked GitHub evidence is executable or documentary; where something is **not** finished, it is stated as such.
+
+## 🧭 Start here
+
+Pick your case and go straight to what you need:
+
+🧑‍💼 [Recruiting](docs/guides/RECRUITER.en.md) · 💼 [Client or freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Technical evaluation](docs/guides/TECH_LEAD.en.md) · 🏢 [Business and management](docs/guides/BUSINESS.en.md) · 🤝 [Collaboration and security](docs/guides/COLLABORATOR.en.md) · 🎓 [Learn or teach](docs/guides/LEARNER.en.md)
 
 ## 🎯 What You Will Find Here
 

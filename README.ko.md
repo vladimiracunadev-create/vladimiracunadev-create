@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 시작하기](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#한눈에-보는-생태계) ·
 [🛠️ 기술 스택](#-기술-스택) ·
@@ -53,6 +54,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > 이 프로필은 경험에 기회를 끄지 않습니다. 입증된 기술적인 경험, transferable 기술, viable 신청 및 미래 발달 목표는 명시적으로 분리됩니다. Linked GitHub 증거는 실행 또는 문서화입니다. 뭔가가 있는 곳**뚱 베어**완료, 그것은 같은 명시.
+
+## 🧭 시작하기
+
+해당하는 경우를 선택해 필요한 내용으로 바로 이동하세요:
+
+🧑‍💼 [채용](docs/guides/RECRUITER.en.md) · 💼 [클라이언트·프리랜스](docs/guides/FREELANCE.en.md) · 🛠️ [기술 평가](docs/guides/TECH_LEAD.en.md) · 🏢 [비즈니스·경영](docs/guides/BUSINESS.en.md) · 🤝 [협업과 보안](docs/guides/COLLABORATOR.en.md) · 🎓 [배우기·가르치기](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯여기에서 확인할 수 있는 내용
 

@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 З чого почати](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#екосистема-на-погляді) ·
 [🛠️ Технологічний стек](#-технологічний-стек) ·
@@ -53,6 +54,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > Цей профіль не перетворює можливості для досвіду. Визначено технічний досвід, переносні навички, вімкнені програми та цілі майбутнього розвитку. Заявка на GitHub є документальним або документальним, де щось**нема**закінчився, він зазначений таким чином.
+
+## 🧭 З чого почати
+
+Оберіть свій випадок і переходьте одразу до потрібного:
+
+🧑‍💼 [Рекрутинг](docs/guides/RECRUITER.en.md) · 💼 [Клієнт або фриланс](docs/guides/FREELANCE.en.md) · 🛠️ [Технічна оцінка](docs/guides/TECH_LEAD.en.md) · 🏢 [Бізнес і управління](docs/guides/BUSINESS.en.md) · 🤝 [Співпраця та безпека](docs/guides/COLLABORATOR.en.md) · 🎓 [Вчитися чи навчати](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯Що ви знайдете тут
 

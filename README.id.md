@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 Mulai dari mana](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ekosistem-pada-a-glance) ·
 [🛠️ Tumpukan teknologi](#-tumpukan-teknologi) ·
@@ -53,6 +54,14 @@ analisis proses dan persyaratan·evaluasi solusi·koordinasi pengiriman·operasi
 
 > [!NOTE]
 > Profil ini tidak mengubah peluang menjadi pengalaman. Diproduksi pengalaman teknis, keterampilan transferable, aplikasi yang layak, dan tujuan pembangunan masa depan secara eksplisit dipisahkan. Terkait dengan bukti GitHub dapat dieksekusi atau dokumenter; dimana sesuatu berada**tidak**selesai, itu dinyatakan seperti itu.
+
+## 🧭 Mulai dari mana
+
+Pilih kasus Anda dan langsung menuju yang Anda butuhkan:
+
+🧑‍💼 [Rekrutmen](docs/guides/RECRUITER.en.md) · 💼 [Klien atau freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Evaluasi teknis](docs/guides/TECH_LEAD.en.md) · 🏢 [Bisnis dan manajemen](docs/guides/BUSINESS.en.md) · 🤝 [Kolaborasi dan keamanan](docs/guides/COLLABORATOR.en.md) · 🎓 [Belajar atau mengajar](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯Apa yang akan Anda temukan di sini
 

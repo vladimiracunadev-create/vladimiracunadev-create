@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 从哪里开始](docs/START_HERE.en.md) ·
 [🌐 作品集（22 种语言）](https://vladimiracunadev-create.github.io/) ·
 [🧩 生态系统](#-生态系统概览) ·
 [🛠️ 技术栈](#-技术栈) ·
@@ -52,6 +53,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > 本档案不会把职业可能性写成已任职经验。经验证的技术经验、可迁移能力、可申请机会与未来发展目标均明确区分。
+
+## 🧭 从哪里开始
+
+选择你的情况，直达所需内容:
+
+🧑‍💼 [招聘](docs/guides/RECRUITER.en.md) · 💼 [客户或自由职业](docs/guides/FREELANCE.en.md) · 🛠️ [技术评估](docs/guides/TECH_LEAD.en.md) · 🏢 [商业与管理](docs/guides/BUSINESS.en.md) · 🤝 [协作与安全](docs/guides/COLLABORATOR.en.md) · 🎓 [学习或教学](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯 这里有什么
 

@@ -29,6 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
+[🧭 เริ่มต้นที่ไหน](docs/START_HERE.en.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ภาพรวมระบบนิเวศ) ·
 [🛠️ เทคโนโลยีสแตก](#-เทคโนโลยีสแตก) ·
@@ -53,6 +54,14 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 > [!NOTE]
 > โปรไฟล์นี้ไม่ได้เปลี่ยนโอกาสให้กลายเป็นประสบการณ์ ประสบการณ์ ทาง เทคนิค ที่ พิสูจน์ ว่า มี ความ สามารถ ที่ จะ ย้าย ได้ การ ใช้ ประโยชน์ ได้ และ เป้า หมาย ใน การ พัฒนา อนาคต ก็ แยก กัน อย่าง ชัดเจน. เชื่อมโยงหลักฐาน Githoub มีกระบวนการประมวลผลหรือสารคดี; ที่บางสิ่งบางอย่าง**ไม่**เสร็จ สิ้น การ ประชุม นี้ ได้ รับ การ กล่าว ถึง ว่า เป็น เช่น นั้น.
+
+## 🧭 เริ่มต้นที่ไหน
+
+เลือกกรณีของคุณแล้วไปยังสิ่งที่ต้องการได้ทันที:
+
+🧑‍💼 [การสรรหาบุคลากร](docs/guides/RECRUITER.en.md) · 💼 [ลูกค้าหรือฟรีแลนซ์](docs/guides/FREELANCE.en.md) · 🛠️ [การประเมินทางเทคนิค](docs/guides/TECH_LEAD.en.md) · 🏢 [ธุรกิจและการจัดการ](docs/guides/BUSINESS.en.md) · 🤝 [ความร่วมมือและความปลอดภัย](docs/guides/COLLABORATOR.en.md) · 🎓 [เรียนหรือสอน](docs/guides/LEARNER.en.md)
+
+<sub>(English)</sub>
 
 ## 🎯สิ่งที่คุณจะพบที่นี่
 
