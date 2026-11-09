@@ -26,5 +26,5 @@
 ## 📚 Χάρτης εγγράφων
 
 - [Δείτε ολόκληρο το οικοσύστημα](ECOSYSTEM.el.md): προϊόντα, εργαστήρια, εφαρμοσμένη ΤΝ, προγράμματα σπουδών και forks.
-- [Διαχείριση, Διοίκηση και Μη Κωδικοποίηση Ευκαιρίες Καριέρας](MANAGEMENT.el.md) και τον [Role matrix](../PROFESIONAL_ROLES.md).
+- [Διαχείριση, Διοίκηση και Μη Κωδικοποίηση Ευκαιρίες Καριέρας](MANAGEMENT.el.md) και τον [μήτρα θέσεων](../PROFESIONAL_ROLES.el.md).
 - [Contribute](../CONTRIBUTING.el.md) · [Security](../SECURITY.el.md) · [Code of Conduct](../CODE_OF_CONDUCT.el.md)

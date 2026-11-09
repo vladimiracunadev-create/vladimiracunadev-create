@@ -26,5 +26,5 @@
 ## 📚 แผนที่เอกสาร
 
 - [ดูระบบนิเวศทั้งหมด](ECOSYSTEM.th.md): ผลิตภัณฑ์ ห้องปฏิบัติการ AI ประยุกต์ หลักสูตร และ fork
-- [การจัดการ, การบริหาร, และโอกาสงานที่ไม่ประสบความสําเร็จ](MANAGEMENT.th.md) และ [Role matrix](../PROFESIONAL_ROLES.md).
+- [การจัดการ, การบริหาร, และโอกาสงานที่ไม่ประสบความสําเร็จ](MANAGEMENT.th.md) และ [เมทริกซ์ตำแหน่งงาน](../PROFESIONAL_ROLES.th.md).
 - [Contribute](../CONTRIBUTING.th.md) · [Security](../SECURITY.th.md) · [Code of Conduct](../CODE_OF_CONDUCT.th.md)

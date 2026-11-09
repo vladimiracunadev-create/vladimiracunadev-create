@@ -26,5 +26,5 @@ Kies je situatie en ga direct naar wat je nodig hebt. Elke gids lees je in 1–2
 ## 📚 Documentoverzicht
 
 - [Bekijk het volledige ecosysteem](ECOSYSTEM.nl.md): producten, labs, toegepaste AI, curricula en forks.
-- [Management, administratie en niet-coding carrièremogelijkheden](MANAGEMENT.nl.md) en de [Role matrix](../PROFESIONAL_ROLES.md).
+- [Management, administratie en niet-coding carrièremogelijkheden](MANAGEMENT.nl.md) en de [functiematrix](../PROFESIONAL_ROLES.nl.md).
 - [Contribute](../CONTRIBUTING.nl.md) · [Security](../SECURITY.nl.md) · [Code of Conduct](../CODE_OF_CONDUCT.nl.md)

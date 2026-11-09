@@ -17,7 +17,7 @@ A formação dual em informática e administração permite traduzir objetivos d
 | Formação | Instrutor, design instrucional | Competência transferível |
 | Direção | Gerente de TI, CIO, Head of IT | Objetivo de desenvolvimento futuro |
 
-As 14 áreas, com experiência de mercado, evidências e lacunas, estão em [Gestão, Administração e Oportunidades Profissionais sem Programação](../MANAGEMENT.pt.md) e na [Matriz de cargos](../../PROFESIONAL_ROLES.md).
+As 14 áreas, com experiência de mercado, evidências e lacunas, estão em [Gestão, Administração e Oportunidades Profissionais sem Programação](../MANAGEMENT.pt.md) e na [Matriz de cargos](../../PROFESIONAL_ROLES.pt.md).
 
 ## Produtos com foco em gestão
 

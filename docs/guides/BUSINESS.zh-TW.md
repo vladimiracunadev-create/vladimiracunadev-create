@@ -17,7 +17,7 @@
 | 培訓 | 講師、教學設計 | 可遷移能力 |
 | 領導 | IT 經理、CIO、Head of IT | 未來發展目標 |
 
-14 個領域及其市場經驗、證據與差距見[管理、行政和非編碼職業機會](../MANAGEMENT.zh-TW.md)與[Role matrix](../../PROFESIONAL_ROLES.md)。
+14 個領域及其市場經驗、證據與差距見[管理、行政和非編碼職業機會](../MANAGEMENT.zh-TW.md)與[職位矩陣](../../PROFESIONAL_ROLES.zh-TW.md)。
 
 ## 面向管理的產品
 

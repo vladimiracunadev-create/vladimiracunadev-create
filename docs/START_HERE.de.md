@@ -26,5 +26,5 @@ Wählen Sie Ihren Fall und gehen Sie direkt zum Wesentlichen. Jeder Leitfaden is
 ## 📚 Dokumentenübersicht
 
 - [Das vollständige Ökosystem ansehen](ECOSYSTEM.de.md): Produkte, Labore, angewandte KI, Lehrpläne und Forks.
-- [Management, Administration und Non-Coding Karrieremöglichkeiten](MANAGEMENT.de.md) und die [Role matrix](../PROFESIONAL_ROLES.md).
+- [Management, Administration und Non-Coding Karrieremöglichkeiten](MANAGEMENT.de.md) und die [Rollenmatrix](../PROFESIONAL_ROLES.de.md).
 - [Contribute](../CONTRIBUTING.de.md) · [Security](../SECURITY.de.md) · [Code of Conduct](../CODE_OF_CONDUCT.de.md)

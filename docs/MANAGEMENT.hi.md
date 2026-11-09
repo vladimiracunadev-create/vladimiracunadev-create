@@ -23,4 +23,4 @@
 | **डेटा और एआई शासन** | डेटा स्ट्वर्ड·डाटा प्रशासन·एआई अपनाने / शासन | **हस्तांतरणीय / अनुप्रयोग क्षमता** | None/occasional | लेखापरीक्षित डेटासेट और मानव-गणित एजेंट; संगठनात्मक नीतियों और समितियों एक अंतर बने |
 | **Public sector** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **Application potential** | None | Chilean-context systems and traceability; public procurement and sector experience are not claimed |
 
-The [full Spanish role matrix](../PROFESIONAL_ROLES.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.
+The [full Spanish role matrix](../PROFESIONAL_ROLES.hi.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.

@@ -36,7 +36,7 @@
 [⚡ Valutami in 10 minuti](#-se-hai-10-minuti-per-valutarmi) ·
 [✅ Ambito professionale](#-ambito-professionale) ·
 [🧭 Gestione senza programmazione](#-gestione-amministrazione-e-opportunità-professionali-senza-programmazione) ·
-[📋 Matrice dei ruoli](PROFESIONAL_ROLES.md) ·
+[📋 Matrice dei ruoli](PROFESIONAL_ROLES.it.md) ·
 [📬 Contatto](#-contatto)
 
 **🌐 Versioni complete:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)

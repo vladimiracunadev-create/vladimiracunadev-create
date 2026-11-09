@@ -17,7 +17,7 @@
 | İş analizi, BT proje yönetimi, ürün, ön satış | 🔁 Kapsama göre aktarılabilir yetkinlik veya başvuru olasılığı |
 | Yönetim veya liderlik (BT Müdürü, CIO, Head of IT) | 🎯 Gelecekteki gelişim hedefi: ekip, bütçe ve sonuçlar henüz kanıtlanacak |
 
-Tam sınıflandırma (kanıtlı deneyim, aktarılabilir yetkinlik, başvuru olasılığı, gelecek hedef) [Role matrix](../../PROFESIONAL_ROLES.md) içinde ve [Yönetim, Yönetim ve Kariyer Fırsatları](../MANAGEMENT.tr.md) sayfasındadır.
+Tam sınıflandırma (kanıtlı deneyim, aktarılabilir yetkinlik, başvuru olasılığı, gelecek hedef) [rol matrisi](../../PROFESIONAL_ROLES.tr.md) içinde ve [Yönetim, Yönetim ve Kariyer Fırsatları](../MANAGEMENT.tr.md) sayfasındadır.
 
 ## Hızlı bilgiler
 

@@ -23,4 +23,4 @@ Bu bağlamda her unvanın yapıldığı iddia edilmez. Bilgisayar, işletme yön
 | **Data and AI Governance** | Data Steward·Data Governance Data Governance Data·AI Kabul / Yönetişim | **Transferable / uygulama potansiyel** | Yok /occasional | Denetimli veri kümeleri ve insan kaynaklı ajanlar; örgütsel politikalar ve komiteler bir boşluk olarak kalır |
 | **Public sector** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **Application potential** | None | Chilean-context systems and traceability; public procurement and sector experience are not claimed |
 
-The [full Spanish role matrix](../PROFESIONAL_ROLES.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.
+The [full Spanish role matrix](../PROFESIONAL_ROLES.tr.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.

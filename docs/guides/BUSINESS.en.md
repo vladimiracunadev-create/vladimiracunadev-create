@@ -17,7 +17,7 @@ A dual background in informatics and business administration makes it possible t
 | Training | Instructor, instructional design | Transferable skill |
 | Leadership | IT Manager, CIO, Head of IT | Future development goal |
 
-The 14 areas, with market experience, evidence and gaps, are in [Management without programming](../MANAGEMENT.en.md) and in the [role matrix](../../PROFESIONAL_ROLES.md) (Spanish).
+The 14 areas, with market experience, evidence and gaps, are in [Management without programming](../MANAGEMENT.en.md) and in the [role matrix](../../PROFESIONAL_ROLES.en.md).
 
 ## Products with a management focus
 

@@ -23,4 +23,4 @@ Dieser Umfang behauptet nicht, dass jeder Titel gehalten wurde. Es priorisiert A
 | **Data und AI Governance** | Datenverwalter·Data Governance·AI Adoption / Governance | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | Überprüfbare Datensätze und von Menschen eingesetzte Agenten; Organisationsrichtlinien und -ausschüsse bleiben eine Lücke |
 | **Öffentlicher Sektor** | Institutionelle Modernisierung·IKT-Koordinator·Digitale Projekte·Öffentliche Planung | **Anwendungspotenzial** | Keine | Chilenische Kontextsysteme und Rückverfolgbarkeit; öffentliches Auftragswesen und Erfahrung im Sektor werden nicht beansprucht |
 
-Die[full Spanish role matrix](../PROFESIONAL_ROLES.md)Details Ziele, Verantwortlichkeiten, Markterfahrung, komplementäres Wissen, Evidenz, Kompatibilität und Lücken in allen 14 Familien.
+Die[full Spanish role matrix](../PROFESIONAL_ROLES.de.md)Details Ziele, Verantwortlichkeiten, Markterfahrung, komplementäres Wissen, Evidenz, Kompatibilität und Lücken in allen 14 Familien.

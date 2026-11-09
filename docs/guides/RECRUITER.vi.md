@@ -17,7 +17,7 @@ Kiến trúc sư Giải pháp và Senior Full-Stack với hơn 16 năm, được
 | Phân tích kinh doanh, quản lý dự án CNTT, sản phẩm, tiền bán hàng | 🔁 Năng lực chuyển đổi được hoặc khả năng ứng tuyển, tùy phạm vi |
 | Quản lý hoặc lãnh đạo (IT Manager, CIO, Head of IT) | 🎯 Mục tiêu phát triển tương lai: đội ngũ, ngân sách và kết quả vẫn cần chứng minh |
 
-Bảng phân loại đầy đủ (kinh nghiệm đã chứng minh, năng lực chuyển đổi được, khả năng ứng tuyển, mục tiêu tương lai) nằm trong [Role matrix](../../PROFESIONAL_ROLES.md) và trong [Quản lý, quản lý và không kiểm soát sự bất tiện của các nhà kinh doanh](../MANAGEMENT.vi.md).
+Bảng phân loại đầy đủ (kinh nghiệm đã chứng minh, năng lực chuyển đổi được, khả năng ứng tuyển, mục tiêu tương lai) nằm trong [ma trận vị trí](../../PROFESIONAL_ROLES.vi.md) và trong [Quản lý, quản lý và không kiểm soát sự bất tiện của các nhà kinh doanh](../MANAGEMENT.vi.md).
 
 ## Thông tin nhanh
 

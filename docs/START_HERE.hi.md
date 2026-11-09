@@ -26,5 +26,5 @@
 ## 📚 दस्तावेज़ मानचित्र
 
 - [पूरा पारिस्थितिकी तंत्र देखें](ECOSYSTEM.hi.md): उत्पाद, प्रयोगशालाएँ, अनुप्रयुक्त AI, पाठ्यक्रम और fork।
-- [प्रबंधन, प्रशासन और गैर कोडिंग कैरियर के अवसर](MANAGEMENT.hi.md) और [Role matrix](../PROFESIONAL_ROLES.md).
+- [प्रबंधन, प्रशासन और गैर कोडिंग कैरियर के अवसर](MANAGEMENT.hi.md) और [पद मैट्रिक्स](../PROFESIONAL_ROLES.hi.md).
 - [Contribute](../CONTRIBUTING.hi.md) · [Security](../SECURITY.hi.md) · [Code of Conduct](../CODE_OF_CONDUCT.hi.md)

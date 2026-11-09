@@ -26,5 +26,5 @@ Escolha o seu caso e vá direto ao que precisa. Cada guia leva 1–2 minutos par
 ## 📚 Mapa de documentos
 
 - [Ver o ecossistema completo](ECOSYSTEM.pt.md): produtos, laboratórios, IA aplicada, currículos e forks.
-- [Gestão, Administração e Oportunidades Profissionais sem Programação](MANAGEMENT.pt.md) e a [Matriz de cargos](../PROFESIONAL_ROLES.md).
+- [Gestão, Administração e Oportunidades Profissionais sem Programação](MANAGEMENT.pt.md) e a [Matriz de cargos](../PROFESIONAL_ROLES.pt.md).
 - [Contribuir](../CONTRIBUTING.pt.md) · [Segurança](../SECURITY.pt.md) · [Código de conduta](../CODE_OF_CONDUCT.pt.md)

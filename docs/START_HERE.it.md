@@ -26,5 +26,5 @@ Scegli il tuo caso e vai dritto a ciò che ti serve. Ogni guida si legge in 1–
 ## 📚 Mappa dei documenti
 
 - [Vedi l'ecosistema completo](ECOSYSTEM.it.md): prodotti, laboratori, IA applicata, curricula e fork.
-- [Gestione, Amministrazione e Opportunità Professionali senza Programmazione](MANAGEMENT.it.md) e la [Matrice dei ruoli](../PROFESIONAL_ROLES.md).
+- [Gestione, Amministrazione e Opportunità Professionali senza Programmazione](MANAGEMENT.it.md) e la [Matrice dei ruoli](../PROFESIONAL_ROLES.it.md).
 - [Contribuire](../CONTRIBUTING.it.md) · [Sicurezza](../SECURITY.it.md) · [Codice di condotta](../CODE_OF_CONDUCT.it.md)

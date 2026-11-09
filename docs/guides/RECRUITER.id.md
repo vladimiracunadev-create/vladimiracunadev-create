@@ -17,7 +17,7 @@ Solution Architect dan Senior Full-Stack dengan 16+ tahun, berlatar Teknik Infor
 | Analisis bisnis, manajemen proyek TI, produk, pra-penjualan | 🔁 Kompetensi yang dapat ditransfer atau kemungkinan melamar, sesuai cakupan |
 | Manajemen atau pimpinan (IT Manager, CIO, Head of IT) | 🎯 Tujuan pengembangan masa depan: tim, anggaran, dan hasil masih harus dibuktikan |
 
-Klasifikasi lengkap (pengalaman terbukti, kompetensi yang dapat ditransfer, kemungkinan melamar, tujuan masa depan) ada di [Role matrix](../../PROFESIONAL_ROLES.md) dan di [Manajemen, Administrasi, dan Non- Coding Kesempatan Karir](../MANAGEMENT.id.md).
+Klasifikasi lengkap (pengalaman terbukti, kompetensi yang dapat ditransfer, kemungkinan melamar, tujuan masa depan) ada di [matriks jabatan](../../PROFESIONAL_ROLES.id.md) dan di [Manajemen, Administrasi, dan Non- Coding Kesempatan Karir](../MANAGEMENT.id.md).
 
 ## Fakta singkat
 

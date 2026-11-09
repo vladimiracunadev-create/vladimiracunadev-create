@@ -17,7 +17,7 @@ Solution Architect en Senior Full-Stack met 16+ jaar ervaring, opgeleid in Infor
 | Businessanalyse, IT-projectmanagement, product, pre-sales | 🔁 Overdraagbare vaardigheid of sollicitatiemogelijkheid, afhankelijk van de scope |
 | Management of leiding (IT-manager, CIO, Head of IT) | 🎯 Toekomstig ontwikkeldoel: team, budget en resultaten nog aan te tonen |
 
-De volledige indeling (aangetoonde ervaring, overdraagbare vaardigheid, sollicitatiemogelijkheid, toekomstdoel) staat in de [Role matrix](../../PROFESIONAL_ROLES.md) en in [Management, administratie en niet-coding carrièremogelijkheden](../MANAGEMENT.nl.md).
+De volledige indeling (aangetoonde ervaring, overdraagbare vaardigheid, sollicitatiemogelijkheid, toekomstdoel) staat in de [functiematrix](../../PROFESIONAL_ROLES.nl.md) en in [Management, administratie en niet-coding carrièremogelijkheden](../MANAGEMENT.nl.md).
 
 ## Snelle feiten
 

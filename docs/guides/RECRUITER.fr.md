@@ -17,7 +17,7 @@ Architecte de Solutions et Senior Full-Stack avec plus de 16 ans, formé en Ing�
 | Analyse métier, gestion de projets IT, produit, avant-vente | 🔁 Compétence transférable ou possibilité de candidature, selon le périmètre |
 | Direction ou management (IT Manager, CIO, Head of IT) | 🎯 Objectif de développement futur : équipe, budget et résultats restent à démontrer |
 
-La classification complète (expérience avérée, compétence transférable, possibilité de candidature, objectif futur) figure dans la [Matrice des rôles](../../PROFESIONAL_ROLES.md) et dans [Gestion, Administration et Opportunités Professionnelles sans Programmation](../MANAGEMENT.fr.md).
+La classification complète (expérience avérée, compétence transférable, possibilité de candidature, objectif futur) figure dans la [Matrice des rôles](../../PROFESIONAL_ROLES.fr.md) et dans [Gestion, Administration et Opportunités Professionnelles sans Programmation](../MANAGEMENT.fr.md).
 
 ## Repères rapides
 

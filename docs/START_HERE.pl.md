@@ -26,5 +26,5 @@ Wybierz swój przypadek i przejdź prosto do tego, czego potrzebujesz. Każdy pr
 ## 📚 Mapa dokumentów
 
 - [Zobacz pełny ekosystem](ECOSYSTEM.pl.md): produkty, laboratoria, stosowana AI, programy nauczania i forki.
-- [Zarządzanie, Administracja i niekodujące szanse na karierę](MANAGEMENT.pl.md) oraz [Role matrix](../PROFESIONAL_ROLES.md).
+- [Zarządzanie, Administracja i niekodujące szanse na karierę](MANAGEMENT.pl.md) oraz [macierz stanowisk](../PROFESIONAL_ROLES.pl.md).
 - [Contribute](../CONTRIBUTING.pl.md) · [Security](../SECURITY.pl.md) · [Code of Conduct](../CODE_OF_CONDUCT.pl.md)

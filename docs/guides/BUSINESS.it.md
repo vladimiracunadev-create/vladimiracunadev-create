@@ -17,7 +17,7 @@ La formazione duale in informatica e amministrazione permette di tradurre gli ob
 | Formazione | Istruttore, instructional design | Competenza trasferibile |
 | Direzione | IT Manager, CIO, Head of IT | Obiettivo di sviluppo futuro |
 
-Le 14 aree, con esperienza di mercato, evidenze e lacune, sono in [Gestione, Amministrazione e Opportunità Professionali senza Programmazione](../MANAGEMENT.it.md) e nella [Matrice dei ruoli](../../PROFESIONAL_ROLES.md).
+Le 14 aree, con esperienza di mercato, evidenze e lacune, sono in [Gestione, Amministrazione e Opportunità Professionali senza Programmazione](../MANAGEMENT.it.md) e nella [Matrice dei ruoli](../../PROFESIONAL_ROLES.it.md).
 
 ## Prodotti orientati alla gestione
 

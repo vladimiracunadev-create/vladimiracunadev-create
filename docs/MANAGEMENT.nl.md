@@ -23,4 +23,4 @@ Deze reikwijdte stelt niet dat elke titel is gehouden. Het prioriteiten werk waa
 | **Gegevens en AI-governance** | Data Steward·Gegevensbeheer·AI-adoptie / governance | **Overdraagbaar / toepassingspotentieel** | Geen/soms | Auditable datasets en human-gated agents; organisatiebeleid en commissies blijven een kloof |
 | **Openbare sector** | Institutionele modernisering·ICT-coördinator·Digitale projecten·Openbare planning | **Toepassingspotentieel** | Geen | Chilianse contextsystemen en traceerbaarheid; er wordt geen ervaring opgedaan met overheidsopdrachten en sectoriële activiteiten |
 
-De[full Spanish role matrix](../PROFESIONAL_ROLES.md)Details van doelstellingen, verantwoordelijkheden, marktervaring, aanvullende kennis, bewijs, compatibiliteit en lacunes in alle 14 families.
+De[full Spanish role matrix](../PROFESIONAL_ROLES.nl.md)Details van doelstellingen, verantwoordelijkheden, marktervaring, aanvullende kennis, bewijs, compatibiliteit en lacunes in alle 14 families.

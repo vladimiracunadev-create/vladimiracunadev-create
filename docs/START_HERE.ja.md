@@ -26,5 +26,5 @@
 ## 📚 ドキュメントマップ
 
 - [エコシステム全体を見る](ECOSYSTEM.ja.md): プロダクト、ラボ、応用 AI、カリキュラム、フォーク。
-- [経営・管理・非コーディングのキャリア機会](MANAGEMENT.ja.md) および [Role matrix](../PROFESIONAL_ROLES.md).
+- [経営・管理・非コーディングのキャリア機会](MANAGEMENT.ja.md) および [職種マトリクス](../PROFESIONAL_ROLES.ja.md).
 - [Contribute](../CONTRIBUTING.ja.md) · [Security](../SECURITY.ja.md) · [Code of Conduct](../CODE_OF_CONDUCT.ja.md)

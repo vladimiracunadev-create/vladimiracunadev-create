@@ -26,5 +26,5 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần. Mỗ
 ## 📚 Bản đồ tài liệu
 
 - [Xem toàn bộ hệ sinh thái](ECOSYSTEM.vi.md): sản phẩm, phòng thí nghiệm, AI ứng dụng, giáo trình và các fork.
-- [Quản lý, quản lý và không kiểm soát sự bất tiện của các nhà kinh doanh](MANAGEMENT.vi.md) và [Role matrix](../PROFESIONAL_ROLES.md).
+- [Quản lý, quản lý và không kiểm soát sự bất tiện của các nhà kinh doanh](MANAGEMENT.vi.md) và [ma trận vị trí](../PROFESIONAL_ROLES.vi.md).
 - [Contribute](../CONTRIBUTING.vi.md) · [Security](../SECURITY.vi.md) · [Code of Conduct](../CODE_OF_CONDUCT.vi.md)

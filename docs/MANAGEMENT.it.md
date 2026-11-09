@@ -23,4 +23,4 @@ Questa estensione non afferma che tutti i ruoli siano stati ricoperti. Prioritiz
 | **Dati e IA** | Data Steward · Data Governance · AI Adoption/Governance | **Trasferibile / possibilità** | Nessuno/occasionale | Dataset auditabili e gate umani; politiche e comitati organizzativi sono lacune |
 | **Settore pubblico** | Modernizzazione · ICT Coordinator · Digital Projects · Public Planning | **Possibilità** | Nessuno | Contesto cileno e tracciabilità; procurement pubblico ed esperienza settoriale non sono dichiarati |
 
-La [matrice completa in spagnolo](../PROFESIONAL_ROLES.md) dettaglia obiettivi, responsabilità, esperienza di mercato, conoscenze, evidenze, compatibilità e lacune delle 14 famiglie.
+La [matrice completa in spagnolo](../PROFESIONAL_ROLES.it.md) dettaglia obiettivi, responsabilità, esperienza di mercato, conoscenze, evidenze, compatibilità e lacune delle 14 famiglie.

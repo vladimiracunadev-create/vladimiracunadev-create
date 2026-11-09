@@ -17,7 +17,7 @@ Solution Architect und Senior Full-Stack mit über 16 Jahren, ausgebildet in Inf
 | Business-Analyse, IT-Projektmanagement, Produkt, Pre-Sales | 🔁 Übertragbare Kompetenz oder Bewerbungsmöglichkeit, je nach Umfang |
 | Management oder Leitung (IT-Manager, CIO, Head of IT) | 🎯 Künftiges Entwicklungsziel: Team, Budget und Ergebnisse noch nachzuweisen |
 
-Die vollständige Einstufung (nachgewiesene Erfahrung, übertragbare Kompetenz, Bewerbungsmöglichkeit, Zukunftsziel) steht in der [Role matrix](../../PROFESIONAL_ROLES.md) und in [Management, Administration und Non-Coding Karrieremöglichkeiten](../MANAGEMENT.de.md).
+Die vollständige Einstufung (nachgewiesene Erfahrung, übertragbare Kompetenz, Bewerbungsmöglichkeit, Zukunftsziel) steht in der [Rollenmatrix](../../PROFESIONAL_ROLES.de.md) und in [Management, Administration und Non-Coding Karrieremöglichkeiten](../MANAGEMENT.de.md).
 
 ## Kurzfakten
 

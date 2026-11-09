@@ -26,5 +26,5 @@ Pilih kasus Anda dan langsung menuju yang Anda butuhkan. Setiap panduan dibaca d
 ## 📚 Peta dokumen
 
 - [Lihat ekosistem lengkap](ECOSYSTEM.id.md): produk, laboratorium, AI terapan, kurikulum, dan fork.
-- [Manajemen, Administrasi, dan Non- Coding Kesempatan Karir](MANAGEMENT.id.md) dan [Role matrix](../PROFESIONAL_ROLES.md).
+- [Manajemen, Administrasi, dan Non- Coding Kesempatan Karir](MANAGEMENT.id.md) dan [matriks jabatan](../PROFESIONAL_ROLES.id.md).
 - [Contribute](../CONTRIBUTING.id.md) · [Security](../SECURITY.id.md) · [Code of Conduct](../CODE_OF_CONDUCT.id.md)

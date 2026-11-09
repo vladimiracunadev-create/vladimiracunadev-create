@@ -26,5 +26,5 @@
 ## 📚 Карта документов
 
 - [Смотреть всю экосистему](ECOSYSTEM.ru.md): продукты, лаборатории, прикладной ИИ, учебные программы и форки.
-- [Управление, администрирование и некодирование карьерных возможностей](MANAGEMENT.ru.md) и [Role matrix](../PROFESIONAL_ROLES.md).
+- [Управление, администрирование и некодирование карьерных возможностей](MANAGEMENT.ru.md) и [матрица должностей](../PROFESIONAL_ROLES.ru.md).
 - [Contribute](../CONTRIBUTING.ru.md) · [Security](../SECURITY.ru.md) · [Code of Conduct](../CODE_OF_CONDUCT.ru.md)

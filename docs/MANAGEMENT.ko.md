@@ -23,4 +23,4 @@
 | **데이터 및 AI 관리** | 데이터 스튜어드·데이터 Governance·AI Adoption / 정부 | **Transferable / 응용 분야** | 없음/occasional | 감사 데이터셋 및 인적자원; 조직 정책 및 위원회는 격차를 유지 |
 | **공공 부문** | 기관 현대화·ICT 코디네이터·디지털 프로젝트·공공 계획 | **적용 분야** | ᄋᄋᄋ | Chilean-context 시스템 및 추적성; 공공 조달 및 부문 경험은 주장하지 않습니다 |
 
-The [full Spanish role matrix](../PROFESIONAL_ROLES.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.
+The [full Spanish role matrix](../PROFESIONAL_ROLES.ko.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.

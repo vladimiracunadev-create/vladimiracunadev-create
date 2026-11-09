@@ -17,7 +17,7 @@
 | 교육 | 강사, 교수 설계 | 이전 가능한 역량 |
 | 리더십 | IT 매니저, CIO, Head of IT | 향후 성장 목표 |
 
-14개 영역의 시장 경험, 근거, 격차는 [관리, 관리, 비 코딩 경력 기회](../MANAGEMENT.ko.md)과 [Role matrix](../../PROFESIONAL_ROLES.md)에 있습니다.
+14개 영역의 시장 경험, 근거, 격차는 [관리, 관리, 비 코딩 경력 기회](../MANAGEMENT.ko.md)과 [직무 매트릭스](../../PROFESIONAL_ROLES.ko.md)에 있습니다.
 
 ## 경영 지향 제품
 

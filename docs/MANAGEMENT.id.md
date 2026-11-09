@@ -23,4 +23,4 @@ Lingkup ini tidak mengklaim bahwa setiap judul telah diadakan. Hal ini mempriori
 | **Pemerintahan Data dan AI** | Steward Data·Pemerintahan Data·Adopsi / Pemerintah AI | **Potensi transferable / application** | Tidak ada / sesekali | Datanya dapat ditatah dan agen yang terukur; kebijakan organisasi dan komite tetap menjadi celah |
 | **Sektor publik** | Modernisasi Institusional·Koordinat ICT·Proyek Digital·Perencanaan Publik | **Potensi aplikasi** | Nihil | Sistem dan tracebilitas konteks anak-anak. Pengadaan publik dan pengalaman sektor tidak diklaim. |
 
-The[full Spanish role matrix](../PROFESIONAL_ROLES.md)Tujuan, tanggung jawab, pengalaman pasar, pengetahuan yang lengkap, bukti, kompatibilitas, dan celah di seluruh 14 keluarga.
+The[full Spanish role matrix](../PROFESIONAL_ROLES.id.md)Tujuan, tanggung jawab, pengalaman pasar, pengetahuan yang lengkap, bukti, kompatibilitas, dan celah di seluruh 14 keluarga.

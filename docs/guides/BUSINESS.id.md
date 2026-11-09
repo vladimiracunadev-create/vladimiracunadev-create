@@ -17,7 +17,7 @@ Latar ganda di informatika dan administrasi bisnis memungkinkan menerjemahkan tu
 | Pelatihan | Instruktur, desain instruksional | Kompetensi yang dapat ditransfer |
 | Kepemimpinan | IT Manager, CIO, Head of IT | Tujuan pengembangan masa depan |
 
-Ke-14 area, dengan pengalaman pasar, bukti, dan kesenjangan, ada di [Manajemen, Administrasi, dan Non- Coding Kesempatan Karir](../MANAGEMENT.id.md) dan di [Role matrix](../../PROFESIONAL_ROLES.md).
+Ke-14 area, dengan pengalaman pasar, bukti, dan kesenjangan, ada di [Manajemen, Administrasi, dan Non- Coding Kesempatan Karir](../MANAGEMENT.id.md) dan di [matriks jabatan](../../PROFESIONAL_ROLES.id.md).
 
 ## Produk berfokus manajemen
 

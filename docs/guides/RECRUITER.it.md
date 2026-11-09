@@ -17,7 +17,7 @@ Solution Architect e Senior Full-Stack con oltre 16 anni, formato in Ingegneria 
 | Analisi di business, gestione di progetti IT, prodotto, pre-vendita | 🔁 Competenza trasferibile o possibilità di candidatura, secondo l'ambito |
 | Direzione o management (IT Manager, CIO, Head of IT) | 🎯 Obiettivo di sviluppo futuro: team, budget e risultati ancora da dimostrare |
 
-La classificazione completa (esperienza comprovata, competenza trasferibile, possibilità di candidatura, obiettivo futuro) è nella [Matrice dei ruoli](../../PROFESIONAL_ROLES.md) e in [Gestione, Amministrazione e Opportunità Professionali senza Programmazione](../MANAGEMENT.it.md).
+La classificazione completa (esperienza comprovata, competenza trasferibile, possibilità di candidatura, obiettivo futuro) è nella [Matrice dei ruoli](../../PROFESIONAL_ROLES.it.md) e in [Gestione, Amministrazione e Opportunità Professionali senza Programmazione](../MANAGEMENT.it.md).
 
 ## Dati rapidi
 

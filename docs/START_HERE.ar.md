@@ -26,5 +26,5 @@
 ## 📚 خريطة الوثائق
 
 - [عرض المنظومة كاملة](ECOSYSTEM.ar.md): المنتجات والمختبرات والذكاء الاصطناعي التطبيقي والمناهج وforks.
-- [فرص العمل في مجالات الإدارة والإدارة وغير الترميز](MANAGEMENT.ar.md) و [Role matrix](../PROFESIONAL_ROLES.md).
+- [فرص العمل في مجالات الإدارة والإدارة وغير الترميز](MANAGEMENT.ar.md) و [مصفوفة المناصب](../PROFESIONAL_ROLES.ar.md).
 - [Contribute](../CONTRIBUTING.ar.md) · [Security](../SECURITY.ar.md) · [Code of Conduct](../CODE_OF_CONDUCT.ar.md)

@@ -17,7 +17,7 @@ Bilişim ve işletme alanındaki ikili formasyon, iş hedeflerini teknik kararla
 | Eğitim | Eğitmen, öğretim tasarımı | Aktarılabilir yetkinlik |
 | Liderlik | BT Müdürü, CIO, Head of IT | Gelecekteki gelişim hedefi |
 
-Piyasa deneyimi, kanıt ve açıklarıyla 14 alan [Yönetim, Yönetim ve Kariyer Fırsatları](../MANAGEMENT.tr.md) içinde ve [Role matrix](../../PROFESIONAL_ROLES.md) sayfasındadır.
+Piyasa deneyimi, kanıt ve açıklarıyla 14 alan [Yönetim, Yönetim ve Kariyer Fırsatları](../MANAGEMENT.tr.md) içinde ve [rol matrisi](../../PROFESIONAL_ROLES.tr.md) sayfasındadır.
 
 ## Yönetim odaklı ürünler
 

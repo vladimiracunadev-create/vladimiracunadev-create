@@ -26,5 +26,5 @@
 ## 📚 文件地圖
 
 - [查看完整生態系統](ECOSYSTEM.zh-TW.md): 產品、實驗室、應用 AI、課程與 fork。
-- [管理、行政和非編碼職業機會](MANAGEMENT.zh-TW.md) 以及 [Role matrix](../PROFESIONAL_ROLES.md).
+- [管理、行政和非編碼職業機會](MANAGEMENT.zh-TW.md) 以及 [職位矩陣](../PROFESIONAL_ROLES.zh-TW.md).
 - [Contribute](../CONTRIBUTING.zh-TW.md) · [Security](../SECURITY.zh-TW.md) · [Code of Conduct](../CODE_OF_CONDUCT.zh-TW.md)

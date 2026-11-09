@@ -36,7 +36,7 @@
 [⚡ Evaluate me in 10 minutes](#저를-평가할-시간이-10분이라면) ·
 [✅ Professional scope](#전문-범위) ·
 [🧭 Non-coding management](#관리-관리-비-코딩-경력-기회) ·
-[📋 Role matrix](PROFESIONAL_ROLES.md) ·
+[📋 직무 매트릭스](PROFESIONAL_ROLES.ko.md) ·
 [📬 Contact](#연락처)
 
 **🌐 전체 버전:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)

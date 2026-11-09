@@ -17,7 +17,7 @@ Solution Architect i Senior Full-Stack z ponad 16-letnim doświadczeniem, wykszt
 | Analiza biznesowa, zarządzanie projektami IT, produkt, pre-sales | 🔁 Kompetencja przenośna lub możliwość aplikowania, zależnie od zakresu |
 | Kierownictwo lub zarząd (IT Manager, CIO, Head of IT) | 🎯 Cel rozwojowy na przyszłość: zespół, budżet i wyniki do wykazania |
 
-Pełna klasyfikacja (udokumentowane doświadczenie, kompetencja przenośna, możliwość aplikowania, cel przyszły) znajduje się w [Role matrix](../../PROFESIONAL_ROLES.md) oraz w [Zarządzanie, Administracja i niekodujące szanse na karierę](../MANAGEMENT.pl.md).
+Pełna klasyfikacja (udokumentowane doświadczenie, kompetencja przenośna, możliwość aplikowania, cel przyszły) znajduje się w [macierz stanowisk](../../PROFESIONAL_ROLES.pl.md) oraz w [Zarządzanie, Administracja i niekodujące szanse na karierę](../MANAGEMENT.pl.md).
 
 ## Szybkie fakty
 

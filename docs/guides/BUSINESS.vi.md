@@ -17,7 +17,7 @@ Nền tảng kép về tin học và quản trị cho phép chuyển mục tiêu
 | Đào tạo | Giảng viên, thiết kế giảng dạy | Năng lực chuyển đổi được |
 | Lãnh đạo | IT Manager, CIO, Head of IT | Mục tiêu phát triển tương lai |
 
-14 mảng, kèm kinh nghiệm thị trường, bằng chứng và khoảng trống, nằm trong [Quản lý, quản lý và không kiểm soát sự bất tiện của các nhà kinh doanh](../MANAGEMENT.vi.md) và trong [Role matrix](../../PROFESIONAL_ROLES.md).
+14 mảng, kèm kinh nghiệm thị trường, bằng chứng và khoảng trống, nằm trong [Quản lý, quản lý và không kiểm soát sự bất tiện của các nhà kinh doanh](../MANAGEMENT.vi.md) và trong [ma trận vị trí](../../PROFESIONAL_ROLES.vi.md).
 
 ## Sản phẩm hướng đến quản lý
 

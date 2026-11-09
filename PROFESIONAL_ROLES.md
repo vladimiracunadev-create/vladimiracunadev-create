@@ -1,5 +1,7 @@
 # Matriz de cargos, competencias y oportunidades profesionales
 
+**Español** · [English](PROFESIONAL_ROLES.en.md) · [Português](PROFESIONAL_ROLES.pt.md) · [Italiano](PROFESIONAL_ROLES.it.md) · [Français](PROFESIONAL_ROLES.fr.md) · [简体中文](PROFESIONAL_ROLES.zh.md) · [繁體中文](PROFESIONAL_ROLES.zh-TW.md) · [日本語](PROFESIONAL_ROLES.ja.md) · [한국어](PROFESIONAL_ROLES.ko.md) · [Türkçe](PROFESIONAL_ROLES.tr.md) · [Русский](PROFESIONAL_ROLES.ru.md) · [Tiếng Việt](PROFESIONAL_ROLES.vi.md) · [ไทย](PROFESIONAL_ROLES.th.md) · [Deutsch](PROFESIONAL_ROLES.de.md) · [Українська](PROFESIONAL_ROLES.uk.md) · [Polski](PROFESIONAL_ROLES.pl.md) · [العربية](PROFESIONAL_ROLES.ar.md) · [فارسی](PROFESIONAL_ROLES.fa.md) · [Bahasa Indonesia](PROFESIONAL_ROLES.id.md) · [Nederlands](PROFESIONAL_ROLES.nl.md) · [हिन्दी](PROFESIONAL_ROLES.hi.md) · [Ελληνικά](PROFESIONAL_ROLES.el.md)
+
 **Perfil:** Vladimir Acuña
 
 **Formación declarada:** Ingeniería en Informática y Computación + Administración de Empresas

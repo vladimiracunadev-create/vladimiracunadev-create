@@ -23,4 +23,4 @@ Esta ampliação não afirma que todos estes cargos tenham sido exercidos. Prior
 | **Dados e IA** | Data Steward · Data Governance · Adoção/Governança de IA | **Transferível / possibilidade** | Nenhuma/ocasional | Datasets auditáveis e gates humanos; políticas e comitês organizacionais são brecha |
 | **Setor público** | Modernização · Coordenador TIC · Projetos digitais · Planejamento público | **Possibilidade** | Nenhuma | Contexto chileno e rastreabilidade; compras públicas e experiência setorial não são alegadas |
 
-A [matriz completa em espanhol](../PROFESIONAL_ROLES.md) detalha objetivos, responsabilidades, experiência de mercado, conhecimentos complementares, evidências, compatibilidade e brechas das 14 famílias.
+A [matriz completa em espanhol](../PROFESIONAL_ROLES.pt.md) detalha objetivos, responsabilidades, experiência de mercado, conhecimentos complementares, evidências, compatibilidade e brechas das 14 famílias.

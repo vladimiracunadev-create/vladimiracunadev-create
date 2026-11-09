@@ -26,5 +26,5 @@
 ## 📚 Мапа документів
 
 - [Переглянути всю екосистему](ECOSYSTEM.uk.md): продукти, лабораторії, прикладний ШІ, навчальні програми та форки.
-- [Управління, адміністрування та незгодні можливості кар'єри](MANAGEMENT.uk.md) і [Role matrix](../PROFESIONAL_ROLES.md).
+- [Управління, адміністрування та незгодні можливості кар'єри](MANAGEMENT.uk.md) і [матриця посад](../PROFESIONAL_ROLES.uk.md).
 - [Contribute](../CONTRIBUTING.uk.md) · [Security](../SECURITY.uk.md) · [Code of Conduct](../CODE_OF_CONDUCT.uk.md)

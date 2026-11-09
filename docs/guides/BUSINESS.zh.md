@@ -17,7 +17,7 @@
 | 培训 | 讲师、教学设计 | 可迁移能力 |
 | 领导 | IT 经理、CIO、Head of IT | 未来发展目标 |
 
-14 个领域及其市场经验、证据与差距见[管理、行政与无需编程的职业机会](../MANAGEMENT.zh.md)和[职位矩阵](../../PROFESIONAL_ROLES.md)。
+14 个领域及其市场经验、证据与差距见[管理、行政与无需编程的职业机会](../MANAGEMENT.zh.md)和[职位矩阵](../../PROFESIONAL_ROLES.zh.md)。
 
 ## 面向管理的产品
 

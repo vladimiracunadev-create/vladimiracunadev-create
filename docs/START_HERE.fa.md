@@ -26,5 +26,5 @@
 ## 📚 نقشهٔ مستندات
 
 - [مشاهدهٔ کل اکوسیستم](ECOSYSTEM.fa.md): محصولات، آزمایشگاه‌ها، هوش مصنوعی کاربردی، برنامه‌های آموزشی و forkها.
-- [مدیریت، مدیریت و فرصت های شغلی غیر مشارکتی](MANAGEMENT.fa.md) و [Role matrix](../PROFESIONAL_ROLES.md).
+- [مدیریت، مدیریت و فرصت های شغلی غیر مشارکتی](MANAGEMENT.fa.md) و [ماتریس مشاغل](../PROFESIONAL_ROLES.fa.md).
 - [Contribute](../CONTRIBUTING.fa.md) · [Security](../SECURITY.fa.md) · [Code of Conduct](../CODE_OF_CONDUCT.fa.md)

@@ -17,7 +17,7 @@ Eine duale Ausbildung in Informatik und Betriebswirtschaft ermöglicht es, Gesch
 | Weiterbildung | Trainer, Instructional Design | Übertragbare Kompetenz |
 | Leitung | IT-Manager, CIO, Head of IT | Künftiges Entwicklungsziel |
 
-Die 14 Bereiche mit Markterfahrung, Belegen und Lücken stehen in [Management, Administration und Non-Coding Karrieremöglichkeiten](../MANAGEMENT.de.md) und in der [Role matrix](../../PROFESIONAL_ROLES.md).
+Die 14 Bereiche mit Markterfahrung, Belegen und Lücken stehen in [Management, Administration und Non-Coding Karrieremöglichkeiten](../MANAGEMENT.de.md) und in der [Rollenmatrix](../../PROFESIONAL_ROLES.de.md).
 
 ## Produkte mit Management-Fokus
 

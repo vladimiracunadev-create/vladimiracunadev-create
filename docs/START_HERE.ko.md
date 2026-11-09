@@ -26,5 +26,5 @@
 ## 📚 문서 지도
 
 - [전체 생태계 보기](ECOSYSTEM.ko.md): 제품, 연구소, 응용 AI, 교육과정, 포크.
-- [관리, 관리, 비 코딩 경력 기회](MANAGEMENT.ko.md) 그리고 [Role matrix](../PROFESIONAL_ROLES.md).
+- [관리, 관리, 비 코딩 경력 기회](MANAGEMENT.ko.md) 그리고 [직무 매트릭스](../PROFESIONAL_ROLES.ko.md).
 - [Contribute](../CONTRIBUTING.ko.md) · [Security](../SECURITY.ko.md) · [Code of Conduct](../CODE_OF_CONDUCT.ko.md)

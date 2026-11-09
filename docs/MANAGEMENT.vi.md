@@ -23,4 +23,4 @@ Phạm vi này không cho rằng mọi tước hiệu đều được giữ. Nó
 | **Bộ quản lý dữ liệu và AI** | Bộ quản lý dữ liệu·Bộ điều khiển dữ liệu·Nhận nuôi và lãnh đạo | **Có khả năng chuyển tiếp/ ứng dụng** | Không có/gcasional | Bộ dữ liệu nghe được và các đại lý do con người quản lý; các chính sách và ủy ban tổ chức vẫn còn là một khoảng trống |
 | **Khu vực công cộng** | Sự tân tiến hóa trong chế độ chế độ hóa·Trình phối hợp CT·Dự án số·Kế hoạch công cộng | **tiềm năng ứng dụng** | Không có | Không ai cho rằng hệ thống văn bản và định vị được; không phải là kinh nghiệm thu thập và kinh nghiệm khu vực công cộng |
 
-Hạt[full Spanish role matrix](../PROFESIONAL_ROLES.md)Mục tiêu chi tiết, trách nhiệm thị trường, kinh nghiệm thị trường, kiến thức bổ sung, bằng chứng, sự tương thích và khoảng cách trong tất cả 14 gia đình.
+Hạt[full Spanish role matrix](../PROFESIONAL_ROLES.vi.md)Mục tiêu chi tiết, trách nhiệm thị trường, kinh nghiệm thị trường, kiến thức bổ sung, bằng chứng, sự tương thích và khoảng cách trong tất cả 14 gia đình.

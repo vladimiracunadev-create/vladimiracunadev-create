@@ -23,4 +23,4 @@ This scope does not claim that every title has been held. It prioritizes work wh
 | **Data and AI governance** | Data Steward · Data Governance · AI Adoption / Governance | **Transferable / application potential** | None/occasional | Auditable datasets and human-gated agents; organizational policies and committees remain a gap |
 | **Public sector** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **Application potential** | None | Chilean-context systems and traceability; public procurement and sector experience are not claimed |
 
-The [full Spanish role matrix](../PROFESIONAL_ROLES.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.
+The [full Spanish role matrix](../PROFESIONAL_ROLES.en.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.

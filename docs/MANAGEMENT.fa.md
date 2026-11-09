@@ -23,4 +23,4 @@
 | **داده ها و مدیریت AI** | داده های Steward·مدیریت داده ها·اتخاذ AI / حاکمیت | **قابلیت انتقال / قابلیت درخواست** | هیچ/معجزه | مجموعه داده های قابل حسابرسی و عوامل انسانی؛ سیاست های سازمانی و کمیته ها همچنان شکاف هستند |
 | **بخش عمومی** | مدرن سازی نهادی·هماهنگ کننده ICT·پروژه های دیجیتال·برنامه ریزی عمومی | **کاربرد بالقوه** | هیچ کس | سیستم های متن شیلی و قابل ردیابی؛ ادعا نمی شود که خرید عمومی و تجربه بخش |
 
-The [full Spanish role matrix](../PROFESIONAL_ROLES.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.
+The [full Spanish role matrix](../PROFESIONAL_ROLES.fa.md) details objectives, responsibilities, market experience, complementary knowledge, evidence, compatibility, and gaps across all 14 families.

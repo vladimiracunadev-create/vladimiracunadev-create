@@ -23,4 +23,4 @@ Cette extension n'affirme pas que tous les postes ont été occupés. Elle privi
 | **Données et IA** | Data Steward · Data Governance · AI Adoption/Governance | **Transférable / possibilité** | Aucun/occasionnel | Datasets auditables et gates humains ; politiques et comités organisationnels manquent |
 | **Secteur public** | Modernisation · Coordinateur TIC · Projets numériques · Planification publique | **Possibilité** | Aucun | Contexte chilien et traçabilité ; achats publics et expérience sectorielle non revendiqués |
 
-La [matrice complète en espagnol](../PROFESIONAL_ROLES.md) détaille objectifs, responsabilités, expérience du marché, connaissances, preuves, compatibilité et lacunes des 14 familles.
+La [matrice complète en espagnol](../PROFESIONAL_ROLES.fr.md) détaille objectifs, responsabilités, expérience du marché, connaissances, preuves, compatibilité et lacunes des 14 familles.

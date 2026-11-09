@@ -36,7 +36,7 @@
 [⚡ Evaluate me in 10 minutes](#jeśli-masz-10-minut-na-ocenę-mnie) ·
 [✅ Professional scope](#zakres-działalności) ·
 [🧭 Non-coding management](#zarządzanie-administracja-i-niekodujące-szanse-na-karierę) ·
-[📋 Role matrix](PROFESIONAL_ROLES.md) ·
+[📋 Macierz stanowisk](PROFESIONAL_ROLES.pl.md) ·
 [📬 Contact](#kontakt)
 
 **🌐 Pełne wersje:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)

@@ -23,4 +23,4 @@
 | **数据与 AI 治理** | Data Steward · Data Governance · AI Adoption/Governance | **可迁移 / 可申请** | 无/偶尔 | 有可审计数据集和人工 gates；组织政策与委员会仍是缺口 |
 | **公共部门** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **可申请** | 无 | 有智利场景和可追溯性；未声称公共采购和政府部门经验 |
 
-[完整西班牙语职位矩阵](../PROFESIONAL_ROLES.md)详细列出 14 个职业家族的目标、职责、市场经验、补充知识、证据、匹配度与差距。
+[完整西班牙语职位矩阵](../PROFESIONAL_ROLES.zh.md)详细列出 14 个职业家族的目标、职责、市场经验、补充知识、证据、匹配度与差距。

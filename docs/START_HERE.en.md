@@ -26,5 +26,5 @@ Pick your case and go straight to what you need. Each guide takes 1–2 minutes 
 ## 📚 Document map
 
 - [Full ecosystem](ECOSYSTEM.en.md): products, labs, applied AI, curricula and forks.
-- [Management and non-coding opportunities](MANAGEMENT.en.md) and the [role matrix](../PROFESIONAL_ROLES.md) (Spanish).
+- [Management and non-coding opportunities](MANAGEMENT.en.md) and the [role matrix](../PROFESIONAL_ROLES.en.md).
 - [Contributing](../CONTRIBUTING.en.md) · [Security](../SECURITY.en.md) · [Code of conduct](../CODE_OF_CONDUCT.en.md).

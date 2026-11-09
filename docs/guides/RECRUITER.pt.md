@@ -17,7 +17,7 @@ Arquiteto de Soluções e Senior Full-Stack com mais de 16 anos, formado em Enge
 | Análise de negócio, gestão de projetos de TI, produto, pré-venda | 🔁 Competência transferível ou possibilidade de candidatura, conforme o escopo |
 | Gerência ou direção (Gerente de TI, CIO, Head of IT) | 🎯 Objetivo de desenvolvimento futuro: equipe, orçamento e resultados ainda por comprovar |
 
-A classificação completa (experiência comprovada, competência transferível, possibilidade de candidatura, objetivo futuro) está na [Matriz de cargos](../../PROFESIONAL_ROLES.md) e em [Gestão, Administração e Oportunidades Profissionais sem Programação](../MANAGEMENT.pt.md).
+A classificação completa (experiência comprovada, competência transferível, possibilidade de candidatura, objetivo futuro) está na [Matriz de cargos](../../PROFESIONAL_ROLES.pt.md) e em [Gestão, Administração e Oportunidades Profissionais sem Programação](../MANAGEMENT.pt.md).
 
 ## Dados rápidos
 

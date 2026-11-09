@@ -17,7 +17,7 @@ Une double formation en informatique et en administration permet de traduire des
 | Formation | Formateur, ingénierie pédagogique | Compétence transférable |
 | Direction | IT Manager, CIO, Head of IT | Objectif de développement futur |
 
-Les 14 domaines, avec expérience de marché, preuves et écarts, figurent dans [Gestion, Administration et Opportunités Professionnelles sans Programmation](../MANAGEMENT.fr.md) et dans la [Matrice des rôles](../../PROFESIONAL_ROLES.md).
+Les 14 domaines, avec expérience de marché, preuves et écarts, figurent dans [Gestion, Administration et Opportunités Professionnelles sans Programmation](../MANAGEMENT.fr.md) et dans la [Matrice des rôles](../../PROFESIONAL_ROLES.fr.md).
 
 ## Produits orientés gestion
 

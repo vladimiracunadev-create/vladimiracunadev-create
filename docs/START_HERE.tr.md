@@ -26,5 +26,5 @@ Durumunuzu seçin ve doğrudan ihtiyacınız olana gidin. Her rehber 1–2 dakik
 ## 📚 Belge haritası
 
 - [Ekosistemin tamamını gör](ECOSYSTEM.tr.md): ürünler, laboratuvarlar, uygulamalı yapay zekâ, müfredatlar ve fork'lar.
-- [Yönetim, Yönetim ve Kariyer Fırsatları](MANAGEMENT.tr.md) ve [Role matrix](../PROFESIONAL_ROLES.md).
+- [Yönetim, Yönetim ve Kariyer Fırsatları](MANAGEMENT.tr.md) ve [rol matrisi](../PROFESIONAL_ROLES.tr.md).
 - [Contribute](../CONTRIBUTING.tr.md) · [Security](../SECURITY.tr.md) · [Code of Conduct](../CODE_OF_CONDUCT.tr.md)

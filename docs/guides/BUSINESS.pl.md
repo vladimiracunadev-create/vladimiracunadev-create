@@ -17,7 +17,7 @@ Podwójne wykształcenie w informatyce i administracji pozwala przekładać cele
 | Szkolenia | Instruktor, projektowanie instruktażowe | Kompetencja przenośna |
 | Kierownictwo | IT Manager, CIO, Head of IT | Cel rozwojowy na przyszłość |
 
-14 obszarów, z doświadczeniem rynkowym, dowodami i lukami, opisano w [Zarządzanie, Administracja i niekodujące szanse na karierę](../MANAGEMENT.pl.md) oraz w [Role matrix](../../PROFESIONAL_ROLES.md).
+14 obszarów, z doświadczeniem rynkowym, dowodami i lukami, opisano w [Zarządzanie, Administracja i niekodujące szanse na karierę](../MANAGEMENT.pl.md) oraz w [macierz stanowisk](../../PROFESIONAL_ROLES.pl.md).
 
 ## Produkty zorientowane na zarządzanie
 

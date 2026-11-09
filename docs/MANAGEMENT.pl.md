@@ -23,4 +23,4 @@ Zakres ten nie stanowi, że każdy tytuł został zachowany. Priorytetem jest pr
 | **Zarządzanie danymi i ptasimi zwierzętami i ptasimi zwierzętami** | Data Steward·Zarządzanie danymi·Przyjęcie / zarządzanie PWI | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | Zestawy danych audytowych i agenci zajmujący się ochroną przed ludźmi; polityka organizacyjna i komitety nadal pozostają luką |
 | **Sektor publiczny** | Modernizacja instytucjonalna·Koordynator TIK·Projekty cyfrowe·Planowanie publiczne | **Potencjalny potencjał zastosowania** | Brak | Systemy kontekstowe i identyfikowalność; nie wnioskuje się o zamówienia publiczne i doświadczenie sektorowe |
 
-W[full Spanish role matrix](../PROFESIONAL_ROLES.md)szczegółowe cele, obowiązki, doświadczenie rynkowe, uzupełniająca wiedza, dowody, zgodność i luki we wszystkich 14 rodzinach.
+W[full Spanish role matrix](../PROFESIONAL_ROLES.pl.md)szczegółowe cele, obowiązki, doświadczenie rynkowe, uzupełniająca wiedza, dowody, zgodność i luki we wszystkich 14 rodzinach.

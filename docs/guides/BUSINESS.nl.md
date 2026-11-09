@@ -17,7 +17,7 @@ Een dubbele achtergrond in informatica en bedrijfskunde maakt het mogelijk bedri
 | Opleiding | Trainer, instructional design | Overdraagbare vaardigheid |
 | Leiderschap | IT-manager, CIO, Head of IT | Toekomstig ontwikkeldoel |
 
-De 14 gebieden, met marktervaring, bewijs en hiaten, staan in [Management, administratie en niet-coding carrièremogelijkheden](../MANAGEMENT.nl.md) en in de [Role matrix](../../PROFESIONAL_ROLES.md).
+De 14 gebieden, met marktervaring, bewijs en hiaten, staan in [Management, administratie en niet-coding carrièremogelijkheden](../MANAGEMENT.nl.md) en in de [functiematrix](../../PROFESIONAL_ROLES.nl.md).
 
 ## Producten met managementfocus
 

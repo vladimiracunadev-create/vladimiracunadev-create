@@ -26,5 +26,5 @@
 ## 📚 文档地图
 
 - [查看完整生态系统](ECOSYSTEM.zh.md): 产品、实验室、应用 AI、课程与 fork。
-- [管理、行政与无需编程的职业机会](MANAGEMENT.zh.md) 以及 [职位矩阵](../PROFESIONAL_ROLES.md).
+- [管理、行政与无需编程的职业机会](MANAGEMENT.zh.md) 以及 [职位矩阵](../PROFESIONAL_ROLES.zh.md).
 - [贡献](../CONTRIBUTING.zh.md) · [安全](../SECURITY.zh.md) · [行为准则](../CODE_OF_CONDUCT.zh.md)

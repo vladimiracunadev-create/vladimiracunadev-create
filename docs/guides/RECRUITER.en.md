@@ -17,7 +17,7 @@ Solution Architect and Senior Full-Stack with 16+ years, trained in Computer & I
 | Business analysis, IT project management, product, pre-sales | 🔁 Transferable skill or application possibility, depending on scope |
 | Management or leadership (IT Manager, CIO, Head of IT) | 🎯 Future development goal: team, budget and results still to be proven |
 
-The full classification (proven experience, transferable skill, application possibility, future goal) is in the [role matrix](../../PROFESIONAL_ROLES.md) (Spanish) and in [Management without programming](../MANAGEMENT.en.md).
+The full classification (proven experience, transferable skill, application possibility, future goal) is in the [role matrix](../../PROFESIONAL_ROLES.en.md) and in [Management without programming](../MANAGEMENT.en.md).
 
 ## Quick facts
 
