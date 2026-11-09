@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 시작하기](docs/START_HERE.en.md) ·
+[🧭 시작하기](docs/START_HERE.ko.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#한눈에-보는-생태계) ·
 [🛠️ 기술 스택](#-기술-스택) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 해당하는 경우를 선택해 필요한 내용으로 바로 이동하세요:
 
-🧑‍💼 [채용](docs/guides/RECRUITER.en.md) · 💼 [클라이언트·프리랜스](docs/guides/FREELANCE.en.md) · 🛠️ [기술 평가](docs/guides/TECH_LEAD.en.md) · 🏢 [비즈니스·경영](docs/guides/BUSINESS.en.md) · 🤝 [협업과 보안](docs/guides/COLLABORATOR.en.md) · 🎓 [배우기·가르치기](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [채용](docs/guides/RECRUITER.ko.md) · 💼 [클라이언트·프리랜스](docs/guides/FREELANCE.ko.md) · 🛠️ [기술 평가](docs/guides/TECH_LEAD.ko.md) · 🏢 [비즈니스·경영](docs/guides/BUSINESS.ko.md) · 🤝 [협업과 보안](docs/guides/COLLABORATOR.ko.md) · 🎓 [배우기·가르치기](docs/guides/LEARNER.ko.md)
 
 ## 🎯여기에서 확인할 수 있는 내용
 

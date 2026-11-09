@@ -1,6 +1,6 @@
 # 🎓 Guía para aprender o enseñar
 
-[← Por dónde empezar](../START_HERE.md) · **Español** · [English](LEARNER.en.md)
+[← Por dónde empezar](../START_HERE.md) · **Español** · [English](LEARNER.en.md) · [Português](LEARNER.pt.md) · [Italiano](LEARNER.it.md) · [Français](LEARNER.fr.md) · [简体中文](LEARNER.zh.md) · [繁體中文](LEARNER.zh-TW.md) · [日本語](LEARNER.ja.md) · [한국어](LEARNER.ko.md) · [Türkçe](LEARNER.tr.md) · [Русский](LEARNER.ru.md) · [Tiếng Việt](LEARNER.vi.md) · [ไทย](LEARNER.th.md) · [Deutsch](LEARNER.de.md) · [Українська](LEARNER.uk.md) · [Polski](LEARNER.pl.md) · [العربية](LEARNER.ar.md) · [فارسی](LEARNER.fa.md) · [Bahasa Indonesia](LEARNER.id.md) · [Nederlands](LEARNER.nl.md) · [हिन्दी](LEARNER.hi.md) · [Ελληνικά](LEARNER.el.md)
 
 ## En una línea
 

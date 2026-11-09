@@ -1,6 +1,6 @@
 # 🤝 Guía para colaborar, open source y seguridad
 
-[← Por dónde empezar](../START_HERE.md) · **Español** · [English](COLLABORATOR.en.md)
+[← Por dónde empezar](../START_HERE.md) · **Español** · [English](COLLABORATOR.en.md) · [Português](COLLABORATOR.pt.md) · [Italiano](COLLABORATOR.it.md) · [Français](COLLABORATOR.fr.md) · [简体中文](COLLABORATOR.zh.md) · [繁體中文](COLLABORATOR.zh-TW.md) · [日本語](COLLABORATOR.ja.md) · [한국어](COLLABORATOR.ko.md) · [Türkçe](COLLABORATOR.tr.md) · [Русский](COLLABORATOR.ru.md) · [Tiếng Việt](COLLABORATOR.vi.md) · [ไทย](COLLABORATOR.th.md) · [Deutsch](COLLABORATOR.de.md) · [Українська](COLLABORATOR.uk.md) · [Polski](COLLABORATOR.pl.md) · [العربية](COLLABORATOR.ar.md) · [فارسی](COLLABORATOR.fa.md) · [Bahasa Indonesia](COLLABORATOR.id.md) · [Nederlands](COLLABORATOR.nl.md) · [हिन्दी](COLLABORATOR.hi.md) · [Ελληνικά](COLLABORATOR.el.md)
 
 ## En una línea
 

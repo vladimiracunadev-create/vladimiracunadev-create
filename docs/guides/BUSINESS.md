@@ -1,6 +1,6 @@
 # 🏢 Guía para negocio, gestión y sector público
 
-[← Por dónde empezar](../START_HERE.md) · **Español** · [English](BUSINESS.en.md)
+[← Por dónde empezar](../START_HERE.md) · **Español** · [English](BUSINESS.en.md) · [Português](BUSINESS.pt.md) · [Italiano](BUSINESS.it.md) · [Français](BUSINESS.fr.md) · [简体中文](BUSINESS.zh.md) · [繁體中文](BUSINESS.zh-TW.md) · [日本語](BUSINESS.ja.md) · [한국어](BUSINESS.ko.md) · [Türkçe](BUSINESS.tr.md) · [Русский](BUSINESS.ru.md) · [Tiếng Việt](BUSINESS.vi.md) · [ไทย](BUSINESS.th.md) · [Deutsch](BUSINESS.de.md) · [Українська](BUSINESS.uk.md) · [Polski](BUSINESS.pl.md) · [العربية](BUSINESS.ar.md) · [فارسی](BUSINESS.fa.md) · [Bahasa Indonesia](BUSINESS.id.md) · [Nederlands](BUSINESS.nl.md) · [हिन्दी](BUSINESS.hi.md) · [Ελληνικά](BUSINESS.el.md)
 
 ## En una línea
 

@@ -29,7 +29,7 @@
 [![Estrelas](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=estrelas&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Seguidores](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=seguidores&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 Por onde começar](docs/START_HERE.en.md) ·
+[🧭 Por onde começar](docs/START_HERE.pt.md) ·
 [🌐 Portfólio (22 idiomas)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecossistema](#-ecossistema-em-uma-visão) ·
 [🛠️ Stack tecnológico](#-stack-tecnológico) ·
@@ -58,9 +58,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 Escolha o seu caso e vá direto ao que precisa:
 
-🧑‍💼 [Recrutamento](docs/guides/RECRUITER.en.md) · 💼 [Cliente ou freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Avaliação técnica](docs/guides/TECH_LEAD.en.md) · 🏢 [Negócios e gestão](docs/guides/BUSINESS.en.md) · 🤝 [Colaboração e segurança](docs/guides/COLLABORATOR.en.md) · 🎓 [Aprender ou ensinar](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [Recrutamento](docs/guides/RECRUITER.pt.md) · 💼 [Cliente ou freelance](docs/guides/FREELANCE.pt.md) · 🛠️ [Avaliação técnica](docs/guides/TECH_LEAD.pt.md) · 🏢 [Negócios e gestão](docs/guides/BUSINESS.pt.md) · 🤝 [Colaboração e segurança](docs/guides/COLLABORATOR.pt.md) · 🎓 [Aprender ou ensinar](docs/guides/LEARNER.pt.md)
 
 ## 🎯 O Que Você Vai Encontrar Aqui
 

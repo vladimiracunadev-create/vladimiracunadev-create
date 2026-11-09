@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 Wo anfangen](docs/START_HERE.en.md) ·
+[🧭 Wo anfangen](docs/START_HERE.de.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ökosystem-auf-einen-blick) ·
 [🛠️ Technologie-Stack](#-technologie-stack) ·
@@ -59,9 +59,7 @@ Prozess- und Anforderungsanalyse·Lösungsbewertung·Lieferkoordinierung·Betrie
 
 Wählen Sie Ihren Fall und gehen Sie direkt zum Wesentlichen:
 
-🧑‍💼 [Recruiting](docs/guides/RECRUITER.en.md) · 💼 [Kunde oder Freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Technische Bewertung](docs/guides/TECH_LEAD.en.md) · 🏢 [Business und Management](docs/guides/BUSINESS.en.md) · 🤝 [Zusammenarbeit und Sicherheit](docs/guides/COLLABORATOR.en.md) · 🎓 [Lernen oder lehren](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [Recruiting](docs/guides/RECRUITER.de.md) · 💼 [Kunde oder Freelance](docs/guides/FREELANCE.de.md) · 🛠️ [Technische Bewertung](docs/guides/TECH_LEAD.de.md) · 🏢 [Business und Management](docs/guides/BUSINESS.de.md) · 🤝 [Zusammenarbeit und Sicherheit](docs/guides/COLLABORATOR.de.md) · 🎓 [Lernen oder lehren](docs/guides/LEARNER.de.md)
 
 ## 🎯Was Sie hier finden werden
 

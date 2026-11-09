@@ -1,6 +1,6 @@
 # 💼 Guía para clientes y freelance
 
-[← Por dónde empezar](../START_HERE.md) · **Español** · [English](FREELANCE.en.md)
+[← Por dónde empezar](../START_HERE.md) · **Español** · [English](FREELANCE.en.md) · [Português](FREELANCE.pt.md) · [Italiano](FREELANCE.it.md) · [Français](FREELANCE.fr.md) · [简体中文](FREELANCE.zh.md) · [繁體中文](FREELANCE.zh-TW.md) · [日本語](FREELANCE.ja.md) · [한국어](FREELANCE.ko.md) · [Türkçe](FREELANCE.tr.md) · [Русский](FREELANCE.ru.md) · [Tiếng Việt](FREELANCE.vi.md) · [ไทย](FREELANCE.th.md) · [Deutsch](FREELANCE.de.md) · [Українська](FREELANCE.uk.md) · [Polski](FREELANCE.pl.md) · [العربية](FREELANCE.ar.md) · [فارسی](FREELANCE.fa.md) · [Bahasa Indonesia](FREELANCE.id.md) · [Nederlands](FREELANCE.nl.md) · [हिन्दी](FREELANCE.hi.md) · [Ελληνικά](FREELANCE.el.md)
 
 ## En una línea
 

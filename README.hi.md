@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 कहाँ से शुरू करें](docs/START_HERE.en.md) ·
+[🧭 कहाँ से शुरू करें](docs/START_HERE.hi.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#पारिस्थितिकी-तंत्र-एक-झलक-में) ·
 [🛠️ टेक्नोलॉजी स्टैक](#-टेक्नोलॉजी-स्टैक) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 अपना मामला चुनें और सीधे अपनी ज़रूरत तक पहुँचें:
 
-🧑‍💼 [भर्ती](docs/guides/RECRUITER.en.md) · 💼 [क्लाइंट या फ़्रीलांस](docs/guides/FREELANCE.en.md) · 🛠️ [तकनीकी मूल्यांकन](docs/guides/TECH_LEAD.en.md) · 🏢 [व्यवसाय और प्रबंधन](docs/guides/BUSINESS.en.md) · 🤝 [सहयोग और सुरक्षा](docs/guides/COLLABORATOR.en.md) · 🎓 [सीखना या सिखाना](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [भर्ती](docs/guides/RECRUITER.hi.md) · 💼 [क्लाइंट या फ़्रीलांस](docs/guides/FREELANCE.hi.md) · 🛠️ [तकनीकी मूल्यांकन](docs/guides/TECH_LEAD.hi.md) · 🏢 [व्यवसाय और प्रबंधन](docs/guides/BUSINESS.hi.md) · 🤝 [सहयोग और सुरक्षा](docs/guides/COLLABORATOR.hi.md) · 🎓 [सीखना या सिखाना](docs/guides/LEARNER.hi.md)
 
 ## 🎯आपको यहाँ क्या मिलेगा
 

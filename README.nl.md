@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 Waar te beginnen](docs/START_HERE.en.md) ·
+[🧭 Waar te beginnen](docs/START_HERE.nl.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ecosysteem-bij-een-glance) ·
 [🛠️ Technologiestack](#-technologiestack) ·
@@ -59,9 +59,7 @@ proces- en vereistenanalyse·evaluatie van de oplossing·coördinatie van de lev
 
 Kies je situatie en ga direct naar wat je nodig hebt:
 
-🧑‍💼 [Werving](docs/guides/RECRUITER.en.md) · 💼 [Klant of freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Technische beoordeling](docs/guides/TECH_LEAD.en.md) · 🏢 [Business en management](docs/guides/BUSINESS.en.md) · 🤝 [Samenwerking en beveiliging](docs/guides/COLLABORATOR.en.md) · 🎓 [Leren of lesgeven](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [Werving](docs/guides/RECRUITER.nl.md) · 💼 [Klant of freelance](docs/guides/FREELANCE.nl.md) · 🛠️ [Technische beoordeling](docs/guides/TECH_LEAD.nl.md) · 🏢 [Business en management](docs/guides/BUSINESS.nl.md) · 🤝 [Samenwerking en beveiliging](docs/guides/COLLABORATOR.nl.md) · 🎓 [Leren of lesgeven](docs/guides/LEARNER.nl.md)
 
 ## 🎯Wat je hier zult vinden
 

@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 من أين تبدأ](docs/START_HERE.en.md) ·
+[🧭 من أين تبدأ](docs/START_HERE.ar.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#النظام-الإيكولوجي-في-غلاف) ·
 [🛠️ المكدس التقني](#-المكدس-التقني) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 اختر حالتك وانتقل مباشرة إلى ما تحتاجه:
 
-🧑‍💼 [التوظيف](docs/guides/RECRUITER.en.md) · 💼 [عميل أو عمل حر](docs/guides/FREELANCE.en.md) · 🛠️ [التقييم التقني](docs/guides/TECH_LEAD.en.md) · 🏢 [الأعمال والإدارة](docs/guides/BUSINESS.en.md) · 🤝 [التعاون والأمن](docs/guides/COLLABORATOR.en.md) · 🎓 [التعلّم أو التعليم](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [التوظيف](docs/guides/RECRUITER.ar.md) · 💼 [عميل أو عمل حر](docs/guides/FREELANCE.ar.md) · 🛠️ [التقييم التقني](docs/guides/TECH_LEAD.ar.md) · 🏢 [الأعمال والإدارة](docs/guides/BUSINESS.ar.md) · 🤝 [التعاون والأمن](docs/guides/COLLABORATOR.ar.md) · 🎓 [التعلّم أو التعليم](docs/guides/LEARNER.ar.md)
 
 ## 🎯ما الذي ستجده هنا
 

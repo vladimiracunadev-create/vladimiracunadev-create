@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 เริ่มต้นที่ไหน](docs/START_HERE.en.md) ·
+[🧭 เริ่มต้นที่ไหน](docs/START_HERE.th.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ภาพรวมระบบนิเวศ) ·
 [🛠️ เทคโนโลยีสแตก](#-เทคโนโลยีสแตก) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 เลือกกรณีของคุณแล้วไปยังสิ่งที่ต้องการได้ทันที:
 
-🧑‍💼 [การสรรหาบุคลากร](docs/guides/RECRUITER.en.md) · 💼 [ลูกค้าหรือฟรีแลนซ์](docs/guides/FREELANCE.en.md) · 🛠️ [การประเมินทางเทคนิค](docs/guides/TECH_LEAD.en.md) · 🏢 [ธุรกิจและการจัดการ](docs/guides/BUSINESS.en.md) · 🤝 [ความร่วมมือและความปลอดภัย](docs/guides/COLLABORATOR.en.md) · 🎓 [เรียนหรือสอน](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [การสรรหาบุคลากร](docs/guides/RECRUITER.th.md) · 💼 [ลูกค้าหรือฟรีแลนซ์](docs/guides/FREELANCE.th.md) · 🛠️ [การประเมินทางเทคนิค](docs/guides/TECH_LEAD.th.md) · 🏢 [ธุรกิจและการจัดการ](docs/guides/BUSINESS.th.md) · 🤝 [ความร่วมมือและความปลอดภัย](docs/guides/COLLABORATOR.th.md) · 🎓 [เรียนหรือสอน](docs/guides/LEARNER.th.md)
 
 ## 🎯สิ่งที่คุณจะพบที่นี่
 

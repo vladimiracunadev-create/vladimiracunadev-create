@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 С чего начать](docs/START_HERE.en.md) ·
+[🧭 С чего начать](docs/START_HERE.ru.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#экосистема-с-первого-взгляда) ·
 [🛠️ Технологический стек](#-технологический-стек) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 Выберите свой случай и переходите сразу к нужному:
 
-🧑‍💼 [Рекрутинг](docs/guides/RECRUITER.en.md) · 💼 [Клиент или фриланс](docs/guides/FREELANCE.en.md) · 🛠️ [Техническая оценка](docs/guides/TECH_LEAD.en.md) · 🏢 [Бизнес и управление](docs/guides/BUSINESS.en.md) · 🤝 [Сотрудничество и безопасность](docs/guides/COLLABORATOR.en.md) · 🎓 [Учиться или преподавать](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [Рекрутинг](docs/guides/RECRUITER.ru.md) · 💼 [Клиент или фриланс](docs/guides/FREELANCE.ru.md) · 🛠️ [Техническая оценка](docs/guides/TECH_LEAD.ru.md) · 🏢 [Бизнес и управление](docs/guides/BUSINESS.ru.md) · 🤝 [Сотрудничество и безопасность](docs/guides/COLLABORATOR.ru.md) · 🎓 [Учиться или преподавать](docs/guides/LEARNER.ru.md)
 
 ## 🎯Что вы найдете здесь
 

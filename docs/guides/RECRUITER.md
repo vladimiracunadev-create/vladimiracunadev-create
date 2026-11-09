@@ -1,6 +1,6 @@
 # 🧑‍💼 Guía para reclutamiento
 
-[← Por dónde empezar](../START_HERE.md) · **Español** · [English](RECRUITER.en.md)
+[← Por dónde empezar](../START_HERE.md) · **Español** · [English](RECRUITER.en.md) · [Português](RECRUITER.pt.md) · [Italiano](RECRUITER.it.md) · [Français](RECRUITER.fr.md) · [简体中文](RECRUITER.zh.md) · [繁體中文](RECRUITER.zh-TW.md) · [日本語](RECRUITER.ja.md) · [한국어](RECRUITER.ko.md) · [Türkçe](RECRUITER.tr.md) · [Русский](RECRUITER.ru.md) · [Tiếng Việt](RECRUITER.vi.md) · [ไทย](RECRUITER.th.md) · [Deutsch](RECRUITER.de.md) · [Українська](RECRUITER.uk.md) · [Polski](RECRUITER.pl.md) · [العربية](RECRUITER.ar.md) · [فارسی](RECRUITER.fa.md) · [Bahasa Indonesia](RECRUITER.id.md) · [Nederlands](RECRUITER.nl.md) · [हिन्दी](RECRUITER.hi.md) · [Ελληνικά](RECRUITER.el.md)
 
 ## En una línea
 

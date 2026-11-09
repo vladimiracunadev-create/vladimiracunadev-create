@@ -2,7 +2,7 @@
 
 [← Volver al perfil](../README.md)
 
-**🌐** **Español** · [English](START_HERE.en.md)
+**🌐** **Español** · [English](START_HERE.en.md) · [Português](START_HERE.pt.md) · [Italiano](START_HERE.it.md) · [Français](START_HERE.fr.md) · [简体中文](START_HERE.zh.md) · [繁體中文](START_HERE.zh-TW.md) · [日本語](START_HERE.ja.md) · [한국어](START_HERE.ko.md) · [Türkçe](START_HERE.tr.md) · [Русский](START_HERE.ru.md) · [Tiếng Việt](START_HERE.vi.md) · [ไทย](START_HERE.th.md) · [Deutsch](START_HERE.de.md) · [Українська](START_HERE.uk.md) · [Polski](START_HERE.pl.md) · [العربية](START_HERE.ar.md) · [فارسی](START_HERE.fa.md) · [Bahasa Indonesia](START_HERE.id.md) · [Nederlands](START_HERE.nl.md) · [हिन्दी](START_HERE.hi.md) · [Ελληνικά](START_HERE.el.md)
 
 Elige tu caso y ve directo a lo que necesitas. Cada guía se lee en 1–2 minutos y termina con un siguiente paso concreto.
 

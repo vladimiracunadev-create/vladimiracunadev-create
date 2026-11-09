@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 از کجا شروع کنیم](docs/START_HERE.en.md) ·
+[🧭 از کجا شروع کنیم](docs/START_HERE.fa.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#سیستم-در-یک-نگاه) ·
 [🛠️ پشتهٔ فناوری](#-پشتهٔ-فناوری) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 مورد خود را انتخاب کنید و مستقیم به مطلب موردنظر بروید:
 
-🧑‍💼 [استخدام](docs/guides/RECRUITER.en.md) · 💼 [کارفرما یا فریلنس](docs/guides/FREELANCE.en.md) · 🛠️ [ارزیابی فنی](docs/guides/TECH_LEAD.en.md) · 🏢 [کسب‌وکار و مدیریت](docs/guides/BUSINESS.en.md) · 🤝 [همکاری و امنیت](docs/guides/COLLABORATOR.en.md) · 🎓 [یادگیری یا آموزش](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [استخدام](docs/guides/RECRUITER.fa.md) · 💼 [کارفرما یا فریلنس](docs/guides/FREELANCE.fa.md) · 🛠️ [ارزیابی فنی](docs/guides/TECH_LEAD.fa.md) · 🏢 [کسب‌وکار و مدیریت](docs/guides/BUSINESS.fa.md) · 🤝 [همکاری و امنیت](docs/guides/COLLABORATOR.fa.md) · 🎓 [یادگیری یا آموزش](docs/guides/LEARNER.fa.md)
 
 ## 🎯آنچه در اینجا پیدا خواهید کرد
 

@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 Bắt đầu từ đâu](docs/START_HERE.en.md) ·
+[🧭 Bắt đầu từ đâu](docs/START_HERE.vi.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#hệ-thống-sinh-thái-đang-hưng-thịnh) ·
 [🛠️ Ngăn xếp công nghệ](#-ngăn-xếp-công-nghệ) ·
@@ -59,9 +59,7 @@ Phân tích tiến trình và yêu cầu·Đánh giá giải pháp·phối hợp
 
 Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 
-🧑‍💼 [Tuyển dụng](docs/guides/RECRUITER.en.md) · 💼 [Khách hàng hoặc freelance](docs/guides/FREELANCE.en.md) · 🛠️ [Đánh giá kỹ thuật](docs/guides/TECH_LEAD.en.md) · 🏢 [Kinh doanh và quản lý](docs/guides/BUSINESS.en.md) · 🤝 [Cộng tác và bảo mật](docs/guides/COLLABORATOR.en.md) · 🎓 [Học hoặc dạy](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [Tuyển dụng](docs/guides/RECRUITER.vi.md) · 💼 [Khách hàng hoặc freelance](docs/guides/FREELANCE.vi.md) · 🛠️ [Đánh giá kỹ thuật](docs/guides/TECH_LEAD.vi.md) · 🏢 [Kinh doanh và quản lý](docs/guides/BUSINESS.vi.md) · 🤝 [Cộng tác và bảo mật](docs/guides/COLLABORATOR.vi.md) · 🎓 [Học hoặc dạy](docs/guides/LEARNER.vi.md)
 
 ## 🎯Những gì bạn sẽ tìm thấy ở đây
 

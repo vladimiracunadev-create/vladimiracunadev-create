@@ -2,7 +2,7 @@
 
 [← Back to profile](../README.en.md)
 
-**🌐** [Español](START_HERE.md) · **English**
+**🌐** [Español](START_HERE.md) · **English** · [Português](START_HERE.pt.md) · [Italiano](START_HERE.it.md) · [Français](START_HERE.fr.md) · [简体中文](START_HERE.zh.md) · [繁體中文](START_HERE.zh-TW.md) · [日本語](START_HERE.ja.md) · [한국어](START_HERE.ko.md) · [Türkçe](START_HERE.tr.md) · [Русский](START_HERE.ru.md) · [Tiếng Việt](START_HERE.vi.md) · [ไทย](START_HERE.th.md) · [Deutsch](START_HERE.de.md) · [Українська](START_HERE.uk.md) · [Polski](START_HERE.pl.md) · [العربية](START_HERE.ar.md) · [فارسی](START_HERE.fa.md) · [Bahasa Indonesia](START_HERE.id.md) · [Nederlands](START_HERE.nl.md) · [हिन्दी](START_HERE.hi.md) · [Ελληνικά](START_HERE.el.md)
 
 Pick your case and go straight to what you need. Each guide takes 1–2 minutes to read and ends with a concrete next step.
 

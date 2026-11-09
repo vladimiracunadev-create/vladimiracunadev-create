@@ -29,7 +29,7 @@
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🧭 從哪裡開始](docs/START_HERE.en.md) ·
+[🧭 從哪裡開始](docs/START_HERE.zh-TW.md) ·
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#生態系統一一) ·
 [🛠️ 技術堆疊](#-技術堆疊) ·
@@ -59,9 +59,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 選擇你的情況，直達所需內容:
 
-🧑‍💼 [招募](docs/guides/RECRUITER.en.md) · 💼 [客戶或自由接案](docs/guides/FREELANCE.en.md) · 🛠️ [技術評估](docs/guides/TECH_LEAD.en.md) · 🏢 [商業與管理](docs/guides/BUSINESS.en.md) · 🤝 [協作與資安](docs/guides/COLLABORATOR.en.md) · 🎓 [學習或教學](docs/guides/LEARNER.en.md)
-
-<sub>(English)</sub>
+🧑‍💼 [招募](docs/guides/RECRUITER.zh-TW.md) · 💼 [客戶或自由接案](docs/guides/FREELANCE.zh-TW.md) · 🛠️ [技術評估](docs/guides/TECH_LEAD.zh-TW.md) · 🏢 [商業與管理](docs/guides/BUSINESS.zh-TW.md) · 🤝 [協作與資安](docs/guides/COLLABORATOR.zh-TW.md) · 🎓 [學習或教學](docs/guides/LEARNER.zh-TW.md)
 
 ## 🎯你在這裡能找到什麼
 
