@@ -1,0 +1,157 @@
+# 🗂️ Ecossistema: produtos, laboratórios, IA aplicada e computação científica
+
+[← Voltar ao perfil](../README.pt.md)
+
+**🌐** [Español](ECOSYSTEM.md) · [English](ECOSYSTEM.en.md) · **Português** · [Italiano](ECOSYSTEM.it.md) · [Français](ECOSYSTEM.fr.md) · [简体中文](ECOSYSTEM.zh.md) · [繁體中文](ECOSYSTEM.zh-TW.md) · [日本語](ECOSYSTEM.ja.md) · [한국어](ECOSYSTEM.ko.md) · [Türkçe](ECOSYSTEM.tr.md) · [Русский](ECOSYSTEM.ru.md) · [Tiếng Việt](ECOSYSTEM.vi.md) · [ไทย](ECOSYSTEM.th.md) · [Deutsch](ECOSYSTEM.de.md) · [Українська](ECOSYSTEM.uk.md) · [Polski](ECOSYSTEM.pl.md) · [العربية](ECOSYSTEM.ar.md) · [فارسی](ECOSYSTEM.fa.md) · [Bahasa Indonesia](ECOSYSTEM.id.md) · [Nederlands](ECOSYSTEM.nl.md) · [हिन्दी](ECOSYSTEM.hi.md) · [Ελληνικά](ECOSYSTEM.el.md)
+
+O trabalho prático do perfil vive em um documento próprio: software que se baixa e instala, laboratórios de engenharia, IA aplicada e computação científica, além da descrição de cada fork de projetos de terceiros presente na conta.
+
+## 📦 Produtos Com Distribuição Real
+
+Software que se baixa, instala e usa — não apenas se clona.
+
+| Produto | O que é | Stack | Entrega |
+|---|---|---|---|
+| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Forense de cibersegurança: toda distorção anômala de recursos pode ser o primeiro indício de uma ameaça. Diagnóstico primeiro, intervenção depois | Rust 🦀 · ETW/WPR | **v0.19.0** · **16 releases** · **5 edições**: GUI · Portable · CLI · PowerShell · VS Code · [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
+| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | O irmão móvel: sensor forense que compara cada app consigo mesmo, aponta stalkerware e separa permissões concedidas das apenas solicitadas | Flutter · Kotlin · Swift | **v0.8.0** · APK Android verificável · 5 idiomas · **telemetria zero** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
+| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | Edição macOS: persistência `launchd`, Gatekeeper, SIP, FileVault, XProtect, permissões TCC, processos assinados e vizinhos de rede — cada superfície contra um estado bom conhecido | Rust 🦀 · macOS 13+ | **v0.1.0** · primeira release publicada · Apache-2.0 · [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
+| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | O irmão de servidor: correlaciona superfície exposta, rajadas de tentativas, sessão concedida ao mesmo endereço, integridade de arquivos críticos e silêncio do sensor em uma frase acionável | Rust 🦀 · Windows · Linux · macOS | **v0.2.0** · **18 regras** com evidência e runbook · nunca executa ações sozinho · console local sem dependências web · **ainda sem release publicada** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
+| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | Sensor forense do navegador: cookies, sessões de email, extensões, downloads, permissões e páginas que simulam uma janela real | JavaScript · extensão MV3 | **v0.2.0** · ainda sem release publicada · painel em `127.0.0.1` · zero dependências · telemetria zero verificada em CI · [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
+| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Defesa watch-only para custódia Bitcoin: inventaria a procedência de cada chave, cruza com avisos publicados e explica a causa raiz com evidência | JavaScript · app Windows · painel local | **v0.3.0** · **2 releases** · zero dependências · nunca pede seeds · verificado em CI · [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
+| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | Console watch-only multi-chain: inventaria contratos, proxies, oráculos, pontes, governança e dependências, e gera runbooks de causa raiz | JavaScript · app Windows · painel local | **v0.3.0** no repositório · release publicada: `v0.1.0` · zero dependências · nunca pede chaves privadas · verificado em CI · [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
+| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | App Android local para inspecionar QR antes de agir: explica 26 sinais, separa fatos de hipóteses e exporta evidência redigida | Flutter · Dart | **v0.1.4** · **5 releases** · **107 testes** · APK Android publicado · SHA-256 verificável · assinatura técnica de pacote APK; assinaturas comerciais/de loja em andamento · telemetria zero · [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
+| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | Acompanha uma SpA desde antes de existir até o fechamento de cada mês: constituição com evidência, IVA com saldo carregado, rascunho F29, fechamento imutável e trilha de auditoria. Cada regra com fonte oficial | JavaScript · Rust · PWA | **v1.5.0** · Android · Windows · navegador · **158 testes** · **0 dependências de produção** · telemetria zero · [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
+| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | Leitor de QR e códigos de barras que **interpreta antes de agir**: 16 sinais locais de risco por URL e confirmação explícita | Flutter · Dart | **v1.1.0** · Android · iOS · macOS · PWA · histórico cifrado **AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
+| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Banco de dados embutido: arquivo único `.db`, WAL, otimizador por custos, API HTTP/JSON | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
+| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Orquestrador local: flows JSON que abrem janelas reais, interagem com DOM e deixam evidência | Python · Playwright · pywebview | **v0.3.0** · **27 flows** · instalador publicado e verificável · [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
+| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Fábrica local-first que converte PDF, Word, web, Git, JSON e CSV em datasets auditáveis para pretraining, fine-tuning, RAG e avaliação | Python | **v0.2.0** · Windows + Android offline · primeira release publicada · [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
+| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | App local-first com 15 integrações de inventário AWS, 20 tutoriais, CLI/SSO e leitura por padrão; implementação em desenvolvimento, sem acesso universal | JavaScript · Windows | **v0.1.1** · primeira release publicada · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
+| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Demo conceitual guiada de operação comercial: catálogo, estoque, CRM, pedidos, pagamentos mock e rastreabilidade | JavaScript · Web · Windows · Android | **v0.3.0** · **2 releases** · sem dinheiro nem SII real · [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
+| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Leitor Android-first local e somente leitura, com zoom sem cortes, histórico reabrível, compartilhamento para WhatsApp e escolha como leitor padrão | HTML · Web · Android · Windows | **v0.3.3** · APK assinado · zero contas, permissões sensíveis e telemetria · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
+| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Um vídeo, uma lista ou um **canal completo** do YouTube para texto com timestamps. Não depende de legendas: Whisper reconhece o áudio **no seu computador**, sem API, conta ou chave | Python · PySide6 · FastAPI · faster-whisper | **v0.2.0** · desktop Windows + painel local em `127.0.0.1` + CLI, **com a mesma fila** · MD · PDF · TXT · SRT · VTT · JSON · MP3 · OGG · **89 testes** · FFmpeg incluído · telemetria zero · [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
+| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Launcher de IA criativa local: orquestra Qwen3-TTS, whisper.cpp, FaceFusion, AceForge e ComfyUI | Tauri 2 · Rust · React | v0.5.1 · **5/5 ferramentas com inferência real** · macOS Apple Silicon · Windows experimental · **ainda sem release publicada** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
+| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Suíte de escritório do zero: as regras do documento não dependem do DOM — o HTML é apenas uma projeção | Rust/WASM · Go · React 19 | Monorepo evolutivo por fases · [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
+| [🎻 **Minha Aventura com o Violino**](https://github.com/vladimiracunadev-create/violin-adventure) | App educativo infantil: afinador cromático, metrônomo exato no relógio de áudio e canções com violino real | Tauri 2 · React · TS | **v1.3.0** · Windows · Android · Linux · macOS · PWA · [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
+| [🎸 **Minha Aventura com a Guitarra**](https://github.com/vladimiracunadev-create/guitarra-adventure) | O irmão de corda dedilhada: 24 lições em 6 mundos, afinador das 6 cordas, metrônomo sem deriva e 11 notas reais de guitarra | Tauri 2 · React · TS | **v1.0.0** · Windows · Android · Linux · macOS · iOS · PWA · sem contas, publicidade ou dependência online · [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
+| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | A cueca a partir dos 10 anos: 24 aulas em 8 níveis, 72 atividades, laboratório de seis pulsos (3+3 e 2+2+2) e diagramas de chão acessíveis. Declara que **complementa, não substitui**, docentes e cultores | Flutter · Dart | **v0.2.0** · Android 7+ · Windows 10/11 · APK · EXE · MSI · portable · **29 testes + 2 validadores** · sem câmera, microfone, conta, publicidade ou internet · [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+
+## 🧪 Laboratórios De Engenharia
+
+| Repo | O que demonstra |
+|---|---|
+| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 problemas reais** (latência sob carga, N+1, retry storms, vazamentos, monólito, cache stampede, backpressure, migração sem downtime, DLQ esquecida) com falhas de alta fidelidade injetadas, resolvidas em **7 stacks**: PHP 8 · Python · Node.js · Java 21 · .NET 8 · **Go 1.23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 casos** origem→n8n→receptor sobre **18+ motores de BD** —**19 operacionais**, auditados um a um com Docker— auditoria de **8 camadas**, guardrails de idempotência, circuit breaker e DLQ · [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 microapps** de diagnóstico e modernização PHP · servidor MCP local somente leitura · hardening em 3 fases · [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
+| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 labs** em plataforma de 4 serviços + instalador `.exe` automatizado com launcher · [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
+| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 casos** sobre `wslc`, o motor de contêineres nativo do WSL — **sem Docker Desktop** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
+| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | “Docker Desktop para unikernels”: controle Windows sobre Unikraft com backend WSL2, `kraft` + QEMU/KVM · [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
+| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 labs** de virtualização real com QEMU, KVM, libvirt, cloud-init e `vm-manager` sobre Linux e WSL2 · [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
+| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Isolamento em Linux: executa código, arquivos e modelos de negócio de terceiros sob políticas declaradas e **emite evidência assinada dos controles realmente aplicados** · **36 casos** em duas famílias —15 técnicos e 21 de mercado de capitais— · experimental e educativo, *não um produto de segurança* · [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
+| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 famílias** de pagamentos em uma demo local autoexplicativa: estados, ledger, conciliação, segurança e guias de implementação · [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
+| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Experiência 3D social nativa de Decentraland: um MVP e arquitetura multijogo com SDK7, ECS e TypeScript · documentação em espanhol · sem pagamentos nem telemetria |
+| [☁️ **Projetos AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casos progressivos em que cada um adiciona um serviço AWS **e** uma nova capacidade de GitHub Actions · cobertura SAA-C03 · DVA-C02 · SOA-C02 |
+
+## 🤖 IA Aplicada
+
+| Repo | O que demonstra |
+|---|---|
+| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 backends operacionais** — estado tipado, rotas condicionais, streaming NDJSON, modo DEMO/LIVE, 8 camadas de segurança, cadeia de custódia SHA-256 |
+| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 agentes operacionais** para Claude Code e runtimes compatíveis: cada um recebe uma missão completa —evolução de repositórios, modernização de legado, desenho curricular, publicação de portfólio, remediação de segurança, análise de incidentes— sob **contrato declarado, gates humanos e evidência verificável** · **39 evals determinísticos** · 34 testes · zero-deps (somente stdlib) · Linux · macOS · Windows · [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
+| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | IA local-first com tools MCP em sandbox · bind `127.0.0.1` · trust profile multicamada · honesto sobre seus limites |
+| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 plugins agentic** instaláveis em Claude Code, OpenAI/Codex, Copilot, Gemini e MCP a partir de uma única fonte: `repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance` e `rootcause-response` · **69 vistas geradas sem drift** · zero-deps · Linux · macOS · Windows · [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
+| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 skills agentic** para Claude Code · **segurança**: `security-audit` de 12 camadas e `bitcoin-custody-audit` em 14 etapas · gates de repositório, coerência, Docker e documentação · zero-deps · multiplataforma |
+| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 skills agentic** para Codex: segurança e supply chain, preflight, fluxos funcionais, resiliência e estado, evidência de release, gates Python/YAML/Markdown, versões, dependências, Docker e documentos · Python-first · `pnpm` · Linux · macOS · Windows · [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+
+## 🔬 Computação Científica
+
+| Repo | O que demonstra |
+|---|---|
+| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Plataforma reproduzível de genômica: contratos tipados `ScientificResult<T>`, FASTA/GFF3/VCF, módulos com **maturidade e evidência explícitas**. Honestidade radical: *não realiza diagnóstico clínico* · [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
+
+<a id="forks"></a>
+
+## 🍴 Forks de projetos de terceiros (52)
+
+São forks de projetos alheios guardados nesta conta. **Não são obra própria**: o mérito é dos autores originais, não entram em nenhum número deste perfil e cada descrição resume o que o projeto original declara, sem implicar suporte, auditoria nem experiência produtiva própria. Descrições conforme o projeto original · 2026-11-09.
+
+### 🤖 Agentes de código e frameworks de agentes (18)
+
+| Fork | Projeto original | Linguagem | O que é |
+|---|---|---|---|
+| [**OpenHands**](https://github.com/vladimiracunadev-create/OpenHands) | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | TypeScript | Plataforma de agentes para desenvolvimento de software dirigido por IA |
+| [**cline**](https://github.com/vladimiracunadev-create/cline) | [cline/cline](https://github.com/cline/cline) | TypeScript | Agente de código autônomo como SDK, extensão de IDE ou CLI |
+| [**opencode**](https://github.com/vladimiracunadev-create/opencode) | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | Agente de código de código aberto |
+| [**qwen-code**](https://github.com/vladimiracunadev-create/qwen-code) | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | Agente de código com IA de código aberto para o terminal |
+| [**goose**](https://github.com/vladimiracunadev-create/goose) | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | Agente extensível que instala, executa, edita e testa código com qualquer LLM |
+| [**pi**](https://github.com/vladimiracunadev-create/pi) | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | Kit de agentes: API unificada de LLM, loop de agente, TUI e CLI de código |
+| [**hermes-agent**](https://github.com/vladimiracunadev-create/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | O agente que cresce com você (NousResearch) |
+| [**deepagents**](https://github.com/vladimiracunadev-create/deepagents) | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | Harness de agentes «com baterias incluídas» (LangChain) |
+| [**crewAI**](https://github.com/vladimiracunadev-create/crewAI) | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Python | Framework para orquestrar agentes autônomos com papéis |
+| [**agent-framework**](https://github.com/vladimiracunadev-create/agent-framework) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | Python | Framework da Microsoft para construir e implantar agentes e fluxos multiagente em Python e .NET |
+| [**deepseek-harness**](https://github.com/vladimiracunadev-create/deepseek-harness) | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | Harness de agentes da DeepSeek em que tudo é um plugin |
+| [**agent-orchestrator**](https://github.com/vladimiracunadev-create/agent-orchestrator) | [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Go | Planeja, executa e supervisiona frotas de agentes, da tarefa ao PR mesclado |
+| [**orca**](https://github.com/vladimiracunadev-create/orca) | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | Espaço para trabalhar com uma frota de agentes de código (desktop, mobile e remoto) |
+| [**kander**](https://github.com/vladimiracunadev-create/kander) | [dualface/kander](https://github.com/dualface/kander) | Go | Quadro kanban que coordena agentes de código com git worktrees isolados e agentes revisores |
+| [**OpenBot**](https://github.com/vladimiracunadev-create/OpenBot) | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | Colegas de trabalho com IA, cada um com seu próprio computador; cada ação é decidida antes e registrada depois |
+| [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Biblioteca Python para agentes de IA que operam o navegador |
+| [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI de uso de computador (computer use) para agentes de IA |
+| [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter para ferramentas de agentes» |
+
+### 🧩 Skills, plugins e fluxos para agentes (11)
+
+| Fork | Projeto original | Linguagem | O que é |
+|---|---|---|---|
+| [**claude-plugins-official**](https://github.com/vladimiracunadev-create/claude-plugins-official) | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | Diretório oficial, gerenciado pela Anthropic, de plugins de qualidade para Claude Code |
+| [**agentic-awesome-skills**](https://github.com/vladimiracunadev-create/agentic-awesome-skills) | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | Plano de controle local para descobrir, escolher e validar um grande catálogo de skills agentic (CLI, MCP local, plugins) |
+| [**claude-review-all**](https://github.com/vladimiracunadev-create/claude-review-all) | [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) | Python | Revisão de código multiagente para Claude Code |
+| [**blender-skills**](https://github.com/vladimiracunadev-create/blender-skills) | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | TypeScript | Skills especializadas de Blender para agentes de código, com pipeline sobre MCP |
+| [**diagram-design**](https://github.com/vladimiracunadev-create/diagram-design) | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | Design editorial de diagramas (HTML + SVG) para agentes de código |
+| [**elephant-goldfish-model**](https://github.com/vladimiracunadev-create/elephant-goldfish-model) | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Python | Skills abertas do Google para projetar e revisar software com agentes de IA |
+| [**Claude-Code-Game-Studios**](https://github.com/vladimiracunadev-create/Claude-Code-Game-Studios) | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Transforma o Claude Code em um estúdio de games de agentes coordenados |
+| [**headcount**](https://github.com/vladimiracunadev-create/headcount) | [cbrock84/headcount](https://github.com/cbrock84/headcount) | Markdown | Organização de agentes estruturada como empresa: departamentos e skills instaláveis |
+| [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Plataforma aberta de QA/QE com agentes e skills para todo o ciclo de vida do software |
+| [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Equipe executiva virtual: uma figura executiva apoiada por 8 agentes Claude especialistas |
+| [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Servidor MCP para que Claude, Cursor ou Windsurf construam fluxos do n8n |
+
+### 🛡️ Segurança e análise de software (8)
+
+| Fork | Projeto original | Linguagem | O que é |
+|---|---|---|---|
+| [**raptor**](https://github.com/vladimiracunadev-create/raptor) | [gadievron/raptor](https://github.com/gadievron/raptor) | Python | Transforma o Claude Code em um agente de segurança ofensiva e defensiva |
+| [**Cybersecurity-Projects**](https://github.com/vladimiracunadev-create/Cybersecurity-Projects) | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | Go | 70 projetos de cibersegurança, do nível iniciante ao avançado |
+| [**SkillSpector**](https://github.com/vladimiracunadev-create/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | Scanner de segurança da NVIDIA para skills de agentes (injeção de prompt, exfiltração, cadeia de suprimentos) |
+| [**Anthropic-Cybersecurity-Skills**](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills) | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | Centenas de skills de cibersegurança para agentes, mapeadas para MITRE ATT&CK, NIST CSF e outros frameworks |
+| [**security-audit-skill**](https://github.com/vladimiracunadev-create/security-audit-skill) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | Skill da Cloudflare para auditorias de segurança em várias fases, com achados verificados de forma independente |
+| [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Rastreador e analisador de sites para SEO, segurança, acessibilidade e desempenho |
+| [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Engenharia reversa com agentes, do comportamento de um app a binários nativos |
+| [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Entender como qualquer software funciona e construir o seu próprio |
+
+### 🧠 Modelos de IA e infraestrutura (5)
+
+| Fork | Projeto original | Linguagem | O que é |
+|---|---|---|---|
+| [**marin**](https://github.com/vladimiracunadev-create/marin) | [marin-community/marin](https://github.com/marin-community/marin) | Python | Framework aberto para pesquisar e desenvolver modelos de fundação |
+| [**prime-rl**](https://github.com/vladimiracunadev-create/prime-rl) | [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) | Python | Treinamento por reforço agêntico em escala |
+| [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Blocos de construção PyTorch para o ecossistema OLMo |
+| [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Framework de inferência de alto desempenho e grande escala para modelos DeepSeek |
+| [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Modificação de modelos de linguagem sem retreinamento (censura, bajulação etc.) |
+
+### 🏢 Gestão empresarial e plataformas (6)
+
+| Fork | Projeto original | Linguagem | O que é |
+|---|---|---|---|
+| [**erpnext**](https://github.com/vladimiracunadev-create/erpnext) | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | ERP livre e de código aberto |
+| [**odoo**](https://github.com/vladimiracunadev-create/odoo) | [odoo/odoo](https://github.com/odoo/odoo) | Python | Aplicativos empresariais de código aberto |
+| [**mautic**](https://github.com/vladimiracunadev-create/mautic) | [mautic/mautic](https://github.com/mautic/mautic) | PHP | Automação de marketing de código aberto |
+| [**crm**](https://github.com/vladimiracunadev-create/crm) | [trycompai/crm](https://github.com/trycompai/crm) | TypeScript | CRM de código aberto pensado para agentes de IA (Comp AI) |
+| [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | Plataforma de desenvolvimento completa: controle de código, CI/CD, ambientes e registros de artefatos |
+| [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | Plataforma de rastreamento GPS de código aberto, mais de 200 protocolos de dispositivos |
+
+### 🎓 Educação e referência (4)
+
+| Fork | Projeto original | Linguagem | O que é |
+|---|---|---|---|
+| [**computer-science**](https://github.com/vladimiracunadev-create/computer-science) | [ossu/computer-science](https://github.com/ossu/computer-science) | HTML | Trilha gratuita de autoaprendizado em Ciência da Computação (OSSU) |
+| [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | Trilha gratuita de autoaprendizado em Matemática (OSSU) |
+| [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | Framework comunitário de Python para animações matemáticas |
+| [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Código-fonte de exemplo de jogos para Atari 2600 em assembly |

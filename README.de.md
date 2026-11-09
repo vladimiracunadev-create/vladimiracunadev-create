@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#berufsumfang)
-[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#produkte-mit-realer-distribution)
+[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.de.md)
 [![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#komplette-technische-lehrpläne)
 
 <!-- STATS:START -->
@@ -93,61 +93,17 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 📦Produkte mit realer Distribution
+## 🗂️ Ökosystem: Produkte, Labore, angewandte KI und wissenschaftliches Rechnen
 
-Software, die heruntergeladen, installiert und verwendet wird – nicht nur geklont.
+Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum Herunterladen und Installieren, Engineering-Labore, angewandte KI und wissenschaftliches Rechnen – dazu die Beschreibung jedes Forks von Drittprojekten im Konto.
 
-| Produkt | Was es ist | Stapel | Lieferung |
-|---|---|---|---|
-| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Cybersecurity Forensik: Jede anomale Ressourcenverzerrung kann das erste Anzeichen einer Bedrohung sein. Erst diagnostizieren, später eingreifen | Rust🦀 ·ETW/WPR | **v0.19.0** · **16 Releases** · **5 Ausgaben**: GUI·Tragbar·CLI·PowerShell·VS-Code· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | Das mobile Geschwister: ein forensischer Sensor, der jede App mit sich selbst vergleicht, Stalkerware kennzeichnet und erteilte Berechtigungen von nur angeforderten trennt | Flutter·Kotlin·Schnell | **v0.8.0** ·Nachprüfbare Android APK·5 Sprachen· **Nulltelemetrie** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
-| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | macOS Edition:`launchd`Persistenz, Gatekeeper, SIP, FileVault, XProtect, TCC-Berechtigungen, signierte Prozesse und Netzwerknachbarn - jede Oberfläche wird mit einem bekannten Gutzustand verglichen | Rust🦀 ·macOS 13+ | **v0.1.0** ·Erstes veröffentlichtes Release·Apache-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
-| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | Die Server-Geschwister: korreliert, was kein einzelnes Protokoll zusammen sieht - exponierte Oberfläche, Zugriffsversuchs-Bursts, eine Sitzung, die derselben Adresse gewährt wird, kritische Dateiintegrität und Sensorstille - und verwandelt sie in einen umsetzbaren Satz | Rust🦀 ·Windows·Linux·macOS | **v0.2.0** · **18 Regeln**Mit Beweisen und Runbook·Niemals Aktionen alleine ausführen·Lokale Konsole ohne Webabhängigkeiten· **noch keine Veröffentlichung veröffentlicht** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
-| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | Browser forensischer Sensor: Cookies, E-Mail-Sitzungen, Erweiterungen, Downloads, Berechtigungen und Seiten, die ein echtes Fenster imitieren | JavaScript·MV3 Erweiterung | **v0.2.0** ·noch keine Veröffentlichung veröffentlicht·Platte auf`127.0.0.1` ·Nullabhängigkeiten·Nulltelemetrie überprüft in CI· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
-| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Watch-only defense for Bitcoin custody: inventories the origin of each key, cross-checks it with published warnings, and explains root cause with evidence | JavaScript · Windows app · local panel | **v0.3.0** · **2 releases** · zero dependencies · never asks for seeds · verified in CI · [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
-| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | Multi-chain watch-only console: inventories contracts, proxies, oracles, bridges, governance, and dependencies, and generates root-cause runbooks | JavaScript · Windows app · local panel | **v0.3.0** in the repository · published release: `v0.1.0` · zero dependencies · never asks for private keys · verified in CI · [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
-| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | Lokale Android-App zur Überprüfung von QR-Codes vor dem Handeln: Erklärt 26 Signale, trennt Fakten von Hypothesen und exportiert redaktionelle Beweise | Flutter·Dart | **v0.1.4** · **5 Veröffentlichungen** · **107 Tests** ·veröffentlicht Android APK·Nachprüfbar SHA-256·technische APK Paketsignatur; kommerzielle / Ladensignaturen in Arbeit·Nulltelemetrie· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
-| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | Führt eine SpA von vor der Gründung zu jedem monatlichen Abschluss: Einbeziehung mit Beweisen, Umsatzsteuervortrag, F29-Entwurf, unveränderlicher Abschluss und Audit-Log. Jede Regel weist auf ihre offizielle Quelle hin | JavaScript·Rust·PWA | **v1.5.0** ·Android·Windows·Browser· **158 Prüfungen** · **0 Produktionsabhängigkeiten** ·Nulltelemetrie· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
-| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | QR und Barcode-Leser, die**Dolmetschen vor Handeln**: 16 lokale URL-Risikosignale und explizite Bestätigung | Flutter·Dart | **v1.1.0** ·Android·iOS·macOS·PWA·verschlüsselte Geschichte**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
-| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Eingebettete Datenbank: Single`.db`Datei, WAL, kostenbasierter Optimierer, HTTP/JSON API | Rust🦀 | Windows·macOS·Linux· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
-| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Lokaler Orchestrator: JSON fließt, die echte Fenster öffnen, mit dem DOM interagieren und Beweise hinterlassen | Python·Playwright·pywebview | **v0.3.0** · **27 Ströme** ·veröffentlicht und überprüfbar Installateur· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
-| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Lokale erste Fabrik, die PDF, Word, Web, Git, JSON und CSV in überprüfbare Datensätze für Vorschulungen, Feinabstimmung, RAG und Auswertung verwandelt | Python | **v0.2.0** ·Windows + Offline Android·Erstes veröffentlichtes Release· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Lokale erste App mit 15 AWS-Inventarintegrationen, 20 Tutorials, CLI/SSO und Read-Only-Standards; Implementierung im Gange, nicht universeller Zugriff | JavaScript·Windows | **v0.1.1** ·Erstes veröffentlichtes Release· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
-| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Geführte konzeptionelle Demo der kommerziellen Operationen: Katalog, Lager, CRM, Bestellungen, Scheinzahlungen und Rückverfolgbarkeit | JavaScript·Web-Web·Windows·Android | **v0.3.0** · **2 Freigaben** ·kein echtes Geld oder chilenische Steuerbehörde Integration· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-erster lokaler Lese-Lesegerät, mit No-Crop-Zoom, wiedereröffneter Historie, WhatsApp-Freigabe und Standardleserauswahl | HTML·Web-Web·Android·Windows | **v0.3.3** ·unterzeichnete APK·Keine Konten, sensible Berechtigungen oder Telemetrie· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
-| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Ein Video, eine Playlist oder**Der gesamte YouTube-Kanal**Text mit Zeitstempeln. Es ist nicht auf bestehende Untertitel angewiesen: Whisper erkennt Audio**auf Ihrer Maschine**, ohne API, Konto oder Schlüssel zu konfigurieren | Python·PySide6·FastAPI·Schneller Flüstern | **v0.2.0** ·Windows Desktop + lokales Panel auf`127.0.0.1`+ CLI,**die gleiche Warteschlange teilen** ·MD·PDF·TXT·SRT·VTT·JSON·MP3·OGG· **89 Prüfungen** ·gebündelt FFmpeg·Nulltelemetrie· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
-| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Lokaler kreativer KI-Launcher: orchestriert Qwen3-TTS, whisper.cpp, FaceFusion, AceForge und ComfyUI | Tauri 2·Rust·Reaktion | v0.5.1· **5/5 Werkzeuge mit echter Inferenz** ·macOS Apple Silicon·Experimentelles Windows· **noch keine Veröffentlichung veröffentlicht** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
-| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Office-Suite von Grund auf neu: Dokumentregeln hängen nicht vom DOM ab - HTML ist nur eine Projektion | Rust/WASM·Go·Reaktionsreaktion 19 | Evolutionäre Monorepo nach Phasen· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
-| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | Pädagogische App für Kinder: chromatischer Tuner, audio-clock-genaues Metronom, Lieder mit echter Violine | Tauri 2·Reaktion·SK | **v1.3.0** ·Windows·Android·Linux·macOS·PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
-| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | Das gerupfte Geschwisterpaar: 24 Lektionen in 6 Welten, 6-saitiger Stimmer, driftfreies Metronom und 11 echte Gitarrennoten | Tauri 2·Reaktion·SK | **v1.0.0** ·Windows·Android·Linux·macOS·iOS·PWA·Keine Konten, Anzeigen oder Online-Abhängigkeit· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
-| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca ab 10 Jahren: 24 Klassen in 8 Stufen, 72 Aktivitäten, Sechs-Puls-Labor (3+3 und 2+2+2) und zugängliche Grunddiagramme. Es heißt, es**Ergänzungen, nicht Ersatz**Lehrer und Kulturträger | Flutter·Dart | **v0.2.0** ·Android 7+·Windows 10/11·APP·EXE·MSI·tragbares Gerät· **29 Prüfungen + 2 Validatoren** ·Keine Kamera, Mikrofon, Konto, Werbung oder Internet· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+- 📦 **Produkte mit realer Distribution** (22)
+- 🧪 **Technische Laboratorien** (11)
+- 🤖 **Angewandte KI** (6)
+- 🔬 **Wissenschaftliche Datenverarbeitung** (1)
+- 🍴 **Forks von Drittprojekten** (52)
 
-## 🧪Technische Laboratorien
-
-| Repo | Was es zeigt |
-|---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 echte Probleme**(Latenz unter Last, N+1, Retry-Stürme, Lecks, Monolithen, Cache-Stampede, Rückstau, Null-Downtime-Migration, vergessenes DLQ) mit hochtreuen injizierten Fehlern, gelöst in**7 Stapel**: PHP 8·Python·Node.js·Java 21·.NET 8· **Go 1.23** · **Rust 1,83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 Fälle**source→n8n→Empfänger über**18+ DB-Motoren** —**19 Einsatzkräfte**, einzeln mit Docker auditiert -**8-Schicht**Audit, idempotency guardrails, circuit breaker und DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
-| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 Diagnose- und Modernisierungs-Mikroapps**für PHP·Lokaler Read-Only-MCP-Server·Härtung in 3 Phasen· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
-| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 Laboratorien**auf einer 4-Service-Plattform + automatisiert`.exe`Installateur mit Launcher· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
-| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 Fälle**am`wslc`, der native WSL-Containermotor —**Ohne Docker Desktop** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
-| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | „Docker Desktop für Unikernels: Windows-Steuerung über Unikraft mit WSL2-Backend,`kraft`+ QEMU/KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
-| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 Laboratorien**von realer Virtualisierung mit QEMU, KVM, libvirt, cloud-init und`vm-manager`Linux und WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
-| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux-Isolation: Ausführt Code, Dateien und Geschäftsmodelle von Drittanbietern unter deklarierten Richtlinien und**signierte Nachweise, welche Kontrollen tatsächlich durchgeführt wurden** · **36 Fälle**in zwei Familien — 15 technische und 21 Kapitalmärkte —·erklärt experimentell und lehrreich, *kein Sicherheitsprodukt*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
-| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 Zahlungsfamilien**in einer lokalen Demo zur Selbsterklärung: Staaten, Ledger, Versöhnung, Sicherheit und Umsetzungsleitfäden· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
-| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Natives dezentrales und soziales 3D-Erlebnis: ein MVP und eine Multi-Game-Architektur mit SDK7, ECS und TypeScript·Spanische Dokumentation·Keine Zahlungen oder Telemetrie |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive Fälle, in denen jeder einen AWS-Service hinzufügt**und**eine neue GitHub Actions-Fähigkeit·SAA-C03·DVA-C02·SOA-C02-Abdeckung |
-
-## 🤖Angewandte KI
-
-| Repo | Was es zeigt |
-|---|---|
-| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 operative Backends**— Typisierungszustand, bedingte Routen, NDJSON-Streaming, DEMO/LIVE-Modus, 8 Sicherheitsschichten, SHA-256-Verwahrkette |
-| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 operative Agenten**für Claude Code und kompatible Laufzeiten: Jeder erhält eine vollständige Mission - Repository-Evolution, Legacy-Modernisierung, Curriculum-Design, Portfolio-Publishing, Sicherheitssanierung, Vorfallsanalyse - unter einem erklärten Vertrag, menschlichen Toren und überprüfbaren Beweisen· **39 deterministische Evals** ·34 Prüfungen·Null-Deps (nur Stdlib)·Linux·macOS·Windows· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
-| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | Lokale erste KI mit MCP-Tools in einer Sandbox· `127.0.0.1`Bindung·Mehrschichtiges Vertrauensprofil·Ehrlich über seine Grenzen |
-| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 Agentic Plugins**Installierbar in Claude Code, OpenAI/Codex, Copilot, Gemini und MCP aus einer Hand:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`, und`rootcause-response` · **69 generierte Ansichten ohne Drift**-jede Laufzeit erhält ihr Format aus demselben Vertrag -·Null-Deps·Linux·macOS·Windows· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
-| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 Agentic Skills**für Claude Code· **Sicherheit**: 12-Schicht`security-audit`(OSV)·KV·EPSS·SAST·Behälter·Geheimnisse) und 14-stufige`bitcoin-custody-audit` · **Repo-Gates**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **Kohärenz**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **Docker**: `docker-cleanup`, `docker-compose-doctor` · **docs**: `md-to-doc` ·Null-Deps·Plattformübergreifender |
-| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 Agentische Fähigkeiten**für Codex: Sicherheits- und Lieferkette, Preflight, Funktionsflüsse, Resilienz und Zustand, Release-Beweise, Python/YAML/Markdown-Gates, Versionierung, Abhängigkeiten, Docker und Dokumente·Python-first· `pnpm` ·Linux·macOS·Windows· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+👉 **[Das vollständige Ökosystem ansehen](docs/ECOSYSTEM.de.md)** · [🍴 Forks von Drittprojekten](docs/ECOSYSTEM.de.md#forks)
 
 ## 📚Komplette technische Lehrpläne
 
@@ -178,12 +134,6 @@ Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Reposit
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·Von null auf programmierbare Finanzinfrastruktur und On-Chain-Analyse· **91 Praktiken**und**363 Prüfungen** ·Verträge mit Foundry (Fuzzing und Invarianten) und Slither statische Analyse in CI·Offline-Apps verifiziert, indem sie die Binärdatei öffnen und deren Inhalt zählen· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 Module·≈214 Stunden· **93 Notizbücher**31 Klassen, 31 Studentenversionen und 31 Lösungen -·Fragen, visuelle Karten, Praktiken und Bewertungen mit echten öffentlichen Daten·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 Schulungsmodule**eine pro Maschine· **502 h 15 min** ·Systeme, Steuerungen, Physik, Sicherheit und Simulationsdesign mit Quellen pro Klasse·*noch kein ausführbarer Simulator, und es wird so deklariert* |
-
-## 🔬Wissenschaftliche Datenverarbeitung
-
-| Repo | Was es zeigt |
-|---|---|
-| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Reproduzierbare Genomikplattform: typisiert`ScientificResult<T>`Verträge, FASTA/GFF3/VCF, Module mit**explizite Laufzeit und Nachweise**. Radikale Ehrlichkeit: *nicht klinische Diagnose*· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
 
 ## ⚡Wenn Sie 10 Minuten Zeit haben, mich zu bewerten
 
@@ -223,7 +173,7 @@ Laden Sie das Installer oder CLI binary von[RootCause releases](https://github.c
 - **Ehrlichkeit über Status**Ein Repo wurde umbenannt ()`Multisimulador` → `machine-operator-program`) vielversprechende Software zu vermeiden, die noch nicht existiert.
 - **Abzeichen sind Signale, keine Beweise**Jedes Repo erklärt auch**Was er nicht tut**.
 - **Modell nach außen**- die Domäne wird zuerst entworfen; die Schnittstelle ist eine Projektion.
-- **Externe Arbeit wird als extern deklariert**- von den 70 öffentlichen Repositories des Kontos sind 64 meine eigenen Arbeiten. Die anderen sechs –[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe), [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), [`raptor`](https://github.com/vladimiracunadev-create/raptor), und[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)— sind Gabeln und sind für meine eigene Arbeit von allen Figuren ausgeschlossen.
+- **Externe Arbeit wird als extern deklariert** — die [52 Forks](docs/ECOSYSTEM.de.md#forks) von Drittprojekten werden einzeln beschrieben und bleiben außerhalb aller Zahlen eigener Arbeit in diesem Profil.
 
 ## ✅Berufsumfang
 
@@ -248,26 +198,11 @@ Plattformingenieur / IDP·DevOps / CI-CD·Cloud / AWS Engineer·Antrag SRE·Auto
 
 ## 🧭Management, Administration und Non-Coding Karrieremöglichkeiten
 
-Dieser Umfang behauptet nicht, dass jeder Titel gehalten wurde. Es priorisiert Arbeit, bei der die Kombination von Computern, Betriebswirtschaft und öffentlichen Beweisen Wert schaffen kann, ohne dass die Kodierung die Kernaufgabe ist.
+Management-, Verwaltungs- und Business-Rollen, in denen Informatik und Betriebswirtschaft beitragen, ohne dass Programmieren die Kernaufgabe ist – ehrlich eingestuft (übertragbare Kompetenz, Bewerbungsmöglichkeit oder Zukunftsziel) und mit der jeweiligen Lücke. Abgedeckte Bereiche:
 
-| Berufsfamilie | Anerkannte Rollen | Ehrliche Einstufung | Kodierung | Nachweise und Bedingung |
-|---|---|---|---|---|
-| **Technologieführerschaft** | Leiter der IT·IT Operations Manager·Digital Transformation Manager·CIO | **Anwendungspotential / Zukunftsziel** | Keine/gelegentlich | Starke technische Basis; Menschen, Budget, Anbieter und Führungsverantwortung müssen separat nachgewiesen werden |
-| **Projektmanagement** | IT Projektkoordinator/Manager·PMO·Scrum Master·Agile Lieferung | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | Liefer- und Freigabenachweise; formale Team-, Budget- und Sponsorenverantwortung bleibt eine Lücke |
-| **Betriebswirtschaftslehre** | Geschäftsleitung·Verwaltungs-/Betriebsleiter·Vertragsverwalter | **Anwendungspotenzial** | Keine | Business-Grad und operative Artefakte; Bedürfnisse verifiziert Eigentum an Ressourcen, Menschen und Lieferanten |
-| **Strategie und Wandel** | Strategieberater·Change Manager·Unternehmensplanung·Innovation / Transformation | **Übertragbares / Anwendungspotenzial** | Keine | Legacy-Modernisierung und Lösungsbewertung; Ergebnisse der organisatorischen Adoption müssen demonstriert werden |
-| **Geschäftsanalyse** | Business Analyst·Funktionaler/Anforderungen Analyst·BPM·Kontinuierliche Verbesserung | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | Domain-Modellierung und Anforderungsnachweis; externe Stakeholder-Fälle würden den Anspruch stärken |
-| **Produkt und Dienstleistung** | Product Owner/Manager·Produktoperationen·Service Delivery·Kundenerfolg | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | Roadmaps, Lifecycle, Releases und Operations; P&L, Kundenportfolio und SLA-Beweise variieren je nach Rolle |
-| **Cybersecurity Management** | GRC·IT Controls Auditor·Technologierisiko·Informationssicherheit / Kontinuität | **Anwendungspotenzial** | Keine/gelegentlich | Kontrollen und RootCause-Nachweise; organisatorische Audits und relevante Anmeldeinformationen sind noch ausstehend |
-| **Handels- und Verkaufsgeschäfte** | Technologievorverkauf·Solutions Consultant·Technisches KAM·B2B Business Development | **Übertragbares / Anwendungspotenzial** | Keine | Starke Lösung / Value-Übersetzung; Quote, Kontoportfolio und Vertragsverhandlungen werden nicht beansprucht |
-| **Finanz- und Managementkontrolle** | Budget/Kostenanalytiker·Projektbewertung·FP&A·Managementkontrolle | **Anwendungspotenzial** | Keine | Finanz-/FinOps-Artefakte; reale Budgets, Abschlüsse und Unternehmenskennzahlen sind erforderlich |
-| **Qualität** | Prozess-/Qualitätsanalytiker·Prozessprüfer·Kontinuierliche Verbesserung | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | Gates, Tests, Metriken und Reproduzierbarkeit; formales Qualitäts-System-Eigentum bleibt eine Lücke |
-| **Bildung** | Technischer Trainer·Moderator·Akademischer Koordinator·EdTech / Instruction Designer | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | 21 Programme und 14.530 Klassen; formale Lehr- und Lernergebnisse müssen separat nachgewiesen werden |
-| **Logistik und Lieferanten** | Beschaffung·Versorgungs-/Betriebskoordinator·Vendor/Contract Manager | **Anwendungspotenzial** | Keine | Prozess- und Verwaltungsbasis; echte Beschaffung, Inventar und Lieferantenleistung sind erforderlich |
-| **Data und AI Governance** | Datenverwalter·Data Governance·AI Adoption / Governance | **Übertragbares / Anwendungspotenzial** | Keine/gelegentlich | Überprüfbare Datensätze und von Menschen eingesetzte Agenten; Organisationsrichtlinien und -ausschüsse bleiben eine Lücke |
-| **Öffentlicher Sektor** | Institutionelle Modernisierung·IKT-Koordinator·Digitale Projekte·Öffentliche Planung | **Anwendungspotenzial** | Keine | Chilenische Kontextsysteme und Rückverfolgbarkeit; öffentliches Auftragswesen und Erfahrung im Sektor werden nicht beansprucht |
+Technologieführerschaft · Projektmanagement · Betriebswirtschaftslehre · Strategie und Wandel · Geschäftsanalyse · Produkt und Dienstleistung · Cybersecurity Management · Handels- und Verkaufsgeschäfte · Finanz- und Managementkontrolle · Qualität · Bildung · Logistik und Lieferanten · Data und AI Governance · Öffentlicher Sektor
 
-Die[full Spanish role matrix](PROFESIONAL_ROLES.md)Details Ziele, Verantwortlichkeiten, Markterfahrung, komplementäres Wissen, Evidenz, Kompatibilität und Lücken in allen 14 Familien.
+👉 **[Die vollständige Chancenmatrix ansehen](docs/MANAGEMENT.de.md)**
 
 ## 🤖AI-unterstützter Entwicklungsfluss
 

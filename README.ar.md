@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#النطاق-المهني)
-[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#المنتجات-ذات-التوزيع-الحقيقي)
+[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.ar.md)
 [![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#المناهج-التقنية-الكاملة)
 
 <!-- STATS:START -->
@@ -93,61 +93,17 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 📦المنتجات ذات التوزيع الحقيقي
+## 🗂️ المنظومة: المنتجات والمختبرات والذكاء الاصطناعي التطبيقي والحوسبة العلمية
 
-البرمجيات التي يتم تحميلها، تركيبها واستخدامها - ليس فقط مستنسخة.
+العمل التطبيقي لهذا الملف الشخصي موجود في وثيقة مستقلة: برمجيات تُنزَّل وتُثبَّت، ومختبرات هندسية، وذكاء اصطناعي تطبيقي، وحوسبة علمية، إضافةً إلى وصف كل fork لمشاريع الأطراف الثالثة الموجودة في الحساب.
 
-| المنتجات | ما هو عليه | ستاك | التسليم |
-|---|---|---|---|
-| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Cybersecurity forensics: every anomalous resource distortion may be the first sign of a threat. دياغنوس أولا، تتدخل لاحقا | Rust🦀 ·ETW/WPR | **v0.19.0** · **16 عملية إطلاق** · **5 طبعات**: GUI·محمول·CLI·Power Shell·VS Code· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | الأخت المتنقلة: جهاز استشعار شرعي يقارن كل طلب ضد نفسه، وجهاز تعقب الأعلام، وفصلها عن الطلبات فقط | Flutter·كوتلين·Swift | **v0.8.0** ·يمكن التحقق من أندروك·5 لغات· **صفر من القياس عن بعد** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
-| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | طبعة ماكوس:`launchd`الثبات، محفظة البوابة، برنامج SIP، الفيل فيو، البرمجيات الإلكترونية، الرخص من قبل لجنة التجارة الدولية، العمليات الموقعة، وجيران الشبكات - كل سطح متحقق من دولة معروفة | Rust🦀 ·ماجستير في الخدمات 13+ | **v0.1.0** ·أول إصدار منشور·Apache-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
-| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | يربط ما لا يراه أحد من قطع الأشجار معا - طلقات سطحية مكشوفة، وفتحات محاولات الوصول، وجلسة مُنحت لهذا العنوان نفسه، وسلامة الملفات الحيوية، وصمت أجهزة الاستشعار - ويحوله إلى جملة قابلة للتنفيذ | Rust🦀 ·النوافذ·لينكس·ماكسو | **v0.2.0** · **18 قاعدة**مع الأدلة والكتب·لا تنفذ أبداً الأعمال لوحدها·التآمر المحلي بدون معالين على الشبكة· **لم تصدر بعد** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
-| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | جهاز استشعار الطب الشرعي للزجاج: الكوكيز، جلسات البريد الإلكتروني، الإرشادات، التنزيلات، التصاريح، الصفحات التي تقلل من النافذة الحقيقية | JavaScript·إمتداد MV3 | **v0.2.0** ·لم تصدر بعد·حلقة نقاش`127.0.0.1` ·عدم وجود أي معالين·لم يتم التحقق من أي قياس عن بعد في مركز التحقيقات الجنائية· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
-| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | (د) الدفاع عن (بيتكوين) فقط: جرد مصدر كل مفتاح، وفحصه بالتحذيرات المنشورة، وشرح السبب الجذري بالأدلة | JavaScript·تطبيق النوافذ·حلقة نقاش محلية | **v0.3.0** · **2 - الإطلاقات** ·عدم وجود أي معالين·لا تطلب أبداً البذور·تم التحقق منها في مركز التحقيقات الجنائية· [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
-| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | مجموعة من الوحدات التي تراقب فقط: عقود المخزونات، والبرقيات، والأوعية، والجسور، والحوكمة، والعالين، وتولد دفترات من جذورها | JavaScript·تطبيق النوافذ·حلقة نقاش محلية | **v0.3.0**في المستودع·النشرة المنشورة:`v0.1.0` ·عدم وجود أي معالين·لا تسأل أبداً عن المفاتيح الخاصة·تم التحقق منها في مركز التحقيقات الجنائية· [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
-| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | تطبيقات (أندرويد) المحلية للتفتيش على رموز التردد العالي قبل القيام بالتصرف: تفسر 26 إشارة، وتفصل الحقائق عن الافتراضات، وتصدر أدلة مكررة | Flutter·دارت | **٠,١,٤** · **5 إطلاقات** · **107 اختبارات** ·نُشرت في مجلة أندروك·يمكن التحقق من صحة SHA-256·التوقيع على مجموعة من حزمة المعارف التقليدية؛ التوقيعات التجارية/التوقيعات الجارية·صفر من القياس عن بعد· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
-| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | (أ) دليل على أن القيد في الحسابات يُدرج قبل ذلك إلى كل وثيقة شهرية: الإدراج بالأدلة، والاحتفاظ بالأدلة، والاحتفاظ بسجلات البيانات المالية، وسجل مراجعة الحسابات في إطار ضريبة القيمة المضافة، ورقم F29. كل قاعدة تشير إلى مصدرها الرسمي | JavaScript·Rust·PWA | **v1.5.0** ·أندرو·النوافذ·مصفف· **158 اختبارا** · **عدم وجود أي معالين للإنتاج** ·صفر من القياس عن بعد· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
-| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | قراء الـ "كيو آر" و "باركو"**الترجمة الشفوية قبل التصرّف**: 16 المحلية من إشارات الخطر وإثباتها صراحة | Flutter·دارت | **v1.1.0** ·أندرو·iOS·ماكسو·PWA·التاريخ المشفر**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
-| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | قاعدة البيانات المدمجة: واحدة`.db`ملف، WAL، جهاز اختيار معتمد على التكلفة، HTTP/JSON API | Rust🦀 | النوافذ·ماكسو·لينكس· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
-| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | الموصل المحلي: يتدفق المشتركون من النوافذ الحقيقية، ويتفاعلون مع إدارة الشؤون الإدارية، ويتركون الأدلة | Python·الكاتب·Pywebview | **v0.3.0** · **27 تدفقا** ·منشورة ويمكن التحقق منها· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
-| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | مصنع محلي يحوّل PDF و Word و web و Git و JSON و CSV إلى مجموعات بيانات قابلة للمراجعة من أجل التدريب المسبق، والتعديل، والتقدير، والتقديرات، والتقييم | Python | **v0.2.0** ·النوافذ + خارج الأندرويد·أول إصدار منشور· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | تطبيق محلي في إطار 15 عملية إدماج لمخزونات الأسلحة النووية، و 20 دراسة، و CLI/SSO، وتخلف عن سداد التكاليف فقط؛ والتنفيذ الجاري، وليس تعميم الوصول | JavaScript·النوافذ | **v0.1.1** ·أول إصدار منشور· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
-| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | إجراء استعراض مفاهيمي مرشد للعمليات التجارية: المفهرسة، والمخزون، وإدارة المخاطر المؤسسية، والأوامر، والمدفوعات المتحركة، وإمكانية التعقب | JavaScript·الشبكة·النوافذ·أندرو | **v0.3.0** · **2 - الإطلاقات** ·لا مال حقيقي أو دمج السلطة الضريبية الشيلية· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | (أندرويد) الأول قارئ محلي فقط، مع زوم لا يُحصى، تاريخ قابل لإعادة فتحه، (ماساب) يتشارك، واختيار مُرتَبِع | HTML·الشبكة·أندرو·النوافذ | **v0.3.3** ·وقعت على بروتوكول كيوتو·لا حسابات أو إذن حساس أو قياس عن بعد· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
-| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | فيديو واحد، أو قائمة مسرحية، أو**قناة اليوتيوب بأكملها**للنص مع المصابيح لا يعتمد على الترجمات الفرعية الحالية ويبر يُدركُ الصوتَ**على آلة**بدون أيٍّ منافذٍ أو حسابٍ أو مفتاحٍ للتحدّي | Python·PySide6·FastAPI·أسرع | **v0.2.0** ·حاسوب مكتبي للنوافذ + لوحة محلية`127.0.0.1`+ CLI،**تقاسم نفس السؤال** ·MD·PDF·TXT·SRT·VTT·JSON·MP3·OG· **89 اختبارا** ·مجمّعة·صفر من القياس عن بعد· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
-| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | محرر محلي إبداعي من طراز AI: أوشيدات Qwen3-TTS، الهمس، الواجهة، الفيسفوزيون، آيس فورج، كومفيو | Tauri 2·Rust·رد الفعل | v0.5.1· **5/5 أدوات ذات استدلال حقيقي** ·ماكوس آبل سيليكون·"النافذة التجريبية"· **لم تصدر بعد** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
-| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | جناح المكتب من الصفر: قواعد الوثائق لا تتوقف على إدارة الشؤون الإدارية - لا يعد مشروع HTML سوى إسقاط | Rust/WASM·إذهب·الرد على المادة 19 | احتكار تطوري حسب المراحل· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
-| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | برنامج تعليمي للأطفال: تلميح كروماتيكي، ميكروناوم الصوتي - الساعة، الأغاني التي بها كمان حقيقي | Tauri 2·رد الفعل·TS | **v1.3.0** ·النوافذ·أندرو·لينكس·ماكسو·PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
-| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | الأخوة المُتَرَبَّة: 24 درساً في 6 عوالم، 6 تَرْكات، مَعْرُب مَعْلُوَة، و11 ملاحظة جيتار حقيقية | Tauri 2·رد الفعل·TS | **v1.0.0** ·النوافذ·أندرو·لينكس·ماكسو·iOS·PWA·لا حسابات أو إعلانات أو تبعية على الإنترنت· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
-| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca from age 10: 24 classes in 8 levels, 72 activities, six-pulse laboratory (3+3 and 2+2+2) and accessible floor diagrams. It states that it**مكمّلات، لا تحل محلها**المعلمون و الحاضنون | Flutter·دارت | **v0.2.0** ·أندرويد 7+·النوافذ 10/11·APK·EXE·MSI·محمول· **29 اختباراً + 2 مصدق** ·لا كاميرا، ميكروفون، حساب، إعلانات، أو إنترنت· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+- 📦 **المنتجات ذات التوزيع الحقيقي** (22)
+- 🧪 **المختبرات الهندسية** (11)
+- 🤖 **الذكاء الاصطناعي التطبيقي** (6)
+- 🔬 **الحوسبة العلمية** (1)
+- 🍴 **forks لمشاريع أطراف ثالثة** (52)
 
-## 🧪المختبرات الهندسية
-
-| Repo | ما يُظهره |
-|---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 مشكلة حقيقية**(البطء تحت الحمولة، N+1، عواصف الاستحمام، التسرب، الأحاديث، الختم، الكساد، التراجع، الهجرة غير المتفرغة، النسيان DLQ) مع إخفاقات عالية في الحقن، حلت في**7 أكوام**: PHP 8·Python·Node.js·Java 21·-الشبكة 8· **Go 1.23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 حالة**المصدر →n8nrereceiver over**18+ محركات ثنائي الفينيل متعدد البروم** —**19 تشغيلية**"مراجعة بشكل فردي مع "دوكر**8 طوابق**مراجعة الحسابات، وحرس الايدز، وكسر الدوائر، وأجهزة الاتصال· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
-| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 جهازاً تشخيصياً وتحديثياً**PHP·خادم برنامج إم بي سي المحلي·التصلب في ثلاث مراحل· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
-| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 مختبرا**على منصة 4 خدمات + مؤتمتة`.exe`مطلي مع مُطلق· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
-| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 قضية**على`wslc`محرك حاوية دبليو إس إل**بدون دوكر ديسكتوب** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
-| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | &quot; حواسيب دوكر &quot; للغير المضرورة &quot; : (ويندوز) يسيطر على (يونيكرافت) مع (واس إل 2)`kraft`+ QEMU/KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
-| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 مختبرا**of real virtualization with QEMU, KVM, libvirt, cloud-init, and`vm-manager`on Linux and WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
-| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | العزلة: يدير القانون الخاص بالأطراف الثالثة والملفات ونماذج الأعمال في إطار السياسات المعلنة**دليل موقع على أيّة ضوابط طبقت** · **36 قضية**في أسرتين - ٥١١ أسرة تقنية و ٢١ سوقا رأسمالية -·* لم يُعلن عن إنتاج تجريبي وتثقيفي*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
-| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 أسرة مستفيدة**في مركز محلي للتفسير الذاتي: الولايات، ودفتر الأستاذ، والمصالحة، والأمن، وأدلة التنفيذ· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
-| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland social 3D experience: one MVP and a multi-game structure with SDK7, ECS, and TypeScript·الوثائق الإسبانية·عدم دفع أي مدفوعات أو قياس عن بعد |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | حالات تقدم حيث يضيف كل واحد خدمة واحدة من خدمات الأسلحة النووية**و**(أ) قدرة جديدة على العمل في (غيت هوب·SA-C03·DVA-C02·SOA-C02 coverage |
-
-## 🤖الذكاء الاصطناعي التطبيقي
-
-| Repo | ما يُظهره |
-|---|---|
-| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 المساندة التشغيلية**- الدولة المطبعة، والطرق المشروطة، وتدفقات NDJSON، وأسلوب إدارة الشؤون الاقتصادية والاجتماعية/الحياة، و 8 طبقات أمنية، وسلسلة الاحتجاز SHA-256 |
-| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 من وكلاء العمليات**)ب( قانون كلود والزوابق المتسقة: يتلقى كل منهم مهمة كاملة - تطور الودائع، وتحديث الإرث، وتصميم المناهج، ونشر الحافظات، وإصلاح الأمن، وتحليل الحوادث - بموجب عقد معلن، وبوابات بشرية، وأدلة يمكن التحقق منها· **39 من الصمامات المحددة** ·34 اختبار·صفر - صفر (الاستدليب فقط)·لينكس·ماكسو·النوافذ· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
-| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | مُصاب بمرض إدمان مُخدّرات في صندوق رمل· `127.0.0.1`مُلزمة·تعدد ملامح الثقة·صادقة بشأن حدوده |
-| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 مُنَوَّات عملاء**لا يمكن تركيبها في كلود كود، وفتحة، وقاعدة البيانات، وكوبليت، وجوز، وجوز، وجوز الهند، ومصدر من مصدر واحد:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`و`rootcause-response` · **69 رأيا مستمدا من عدم الانجراف**- كل مرة يتلقى فيها شكله من نفس العقد -·صفر·لينكس·ماكسو·النوافذ· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
-| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 مهارات عملاء**قانون كلود· **الأمن**: 12 مبيد`security-audit`(OSV)·KEV·EPSS·SAST·حاويات·الأسرار و14 مرحلة`bitcoin-custody-audit` · **بوابة إعادة البوابات**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **الاتساق**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **(دوكر)**: `docker-cleanup`, `docker-compose-doctor` · **docs**: `md-to-doc` ·صفر·المزيجات المتعددة |
-| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 مهارات عمل**بالنسبة للمدونة: سلسلة الأمن والإمداد، وسرعان الطيران، والتدفقات الوظيفية، والقدرة على التكيف، والولاية، ودليل الإطلاق، وبوابات بيتون/يام إل/ماركداون، والنسخ، والعالين، ودوكر، والوثائق·(بيتون)· `pnpm` ·لينكس·ماكسو·النوافذ· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+👉 **[عرض المنظومة كاملة](docs/ECOSYSTEM.ar.md)** · [🍴 forks لمشاريع أطراف ثالثة](docs/ECOSYSTEM.ar.md#forks)
 
 ## 📚المناهج التقنية الكاملة
 
@@ -178,12 +134,6 @@ flowchart TD
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·من صفر إلى بنية أساسية مالية قابلة للبرمجة ومحلل في سلسلة· **91 ممارسة**و**363 اختبار** ·العقود المبرمة مع مؤسسة (التشويش والتجار) وتحليلات ثابتة للأخشاب في مركز الاستخبارات المركزية·تطبيقات خارج الإنترنت تم التحقق منها بفتح المخزن و عد محتوياته· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 وحدات نموذجية·▪ ▪214 ساعة· **93 دفتر ملاحظات**- ٣١ فصلا، و ٣١ نسخة للطلاب، و ٣١ حلا -·المسائل، والخرائط البصرية، والممارسات، والتقييم مع البيانات العامة الحقيقية·Py Torch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 وحدة تدريب**واحد لكل آلة· **502 h 15 min** ·النظم والضوابط والفيزياء والسلامة وتصميم المحاكاة مع مصادر لكل فئة·* لم يُنفذ أي مُحفز بعد، ويُعلن عن ذلك على هذا النحو* |
-
-## 🔬الحوسبة العلمية
-
-| Repo | ما يُظهره |
-|---|---|
-| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | منصة جينومات قابلة للتكاثر: نوع`ScientificResult<T>`العقود، وفرق التمويل المتناهي الصغر/العاملة في إطار التمويل المشترك، ووحدات نموذجية**النضج الواضح والأدلة**الصدق الإشعاعي: * لا يؤدي التشخيص السريري*· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
 
 ## ⚡إذا كان لديك 10 دقائق لتقييمي
 
@@ -223,7 +173,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **الصدق بشأن المركز**- أعيد تسمية إعادة واحدة )أ(`Multisimulador` → `machine-operator-program`() تجنب البرمجيات الواعدة التي لا توجد بعد.
 - **(بادجز) هي إشارات، وليس دليلاً**- كل مذكرة أيضا تعلن**ما لا يفعله**.
 - **النموذج الخارجي**- تم تصميم المجال أولا؛ والواجهة هي إسقاط.
-- **يُعلن عن العمل الخارجي كعمل خارجي**- من بين المستودعات العامة للحساب البالغ عددها ٧٠ مكتبا، هناك ٦٤ مكتبا من أعمالي. الستة الآخرون[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe), [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), [`raptor`](https://github.com/vladimiracunadev-create/raptor)و[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)- هي الشوكات، وتستبعد من جميع الأرقام لعملي الخاص.
+- **يُعلن عن العمل الخارجي كعمل خارجي** — توصف [52 fork](docs/ECOSYSTEM.ar.md#forks) لمشاريع الأطراف الثالثة واحداً واحداً وتبقى خارج جميع أرقام الأعمال الخاصة في هذا الملف.
 
 ## ✅النطاق المهني
 
@@ -248,26 +198,11 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 ## 🧭فرص العمل في مجالات الإدارة والإدارة وغير الترميز
 
-ولا يدعي هذا النطاق أن كل عنوان قد حُجز. وهو يعطي الأولوية للعمل حيث يمكن أن يؤدي الجمع بين الحساب وإدارة الأعمال والأدلة العامة إلى خلق قيمة دون أن يكون الترميز هو الواجب الأساسي.
+وظائف إدارية وتنظيمية وتجارية تسهم فيها المعلوماتية والإدارة دون أن تكون البرمجة هي المهمة المحورية، مصنَّفة بصدق (كفاءة قابلة للنقل، أو إمكانية تقديم، أو هدف مستقبلي) مع الفجوة الخاصة بكل منها. المجالات المشمولة:
 
-| الأسرة المهنية | الأدوار المعترف بها | التصنيف الأشرف | الترميز | الأدلة والشرط |
-|---|---|---|---|---|
-| **قيادة التكنولوجيا** | رئيس تكنولوجيا المعلومات·مدير عمليات تكنولوجيا المعلومات·مدير التحول الرقمي·CIO | **إمكانية التطبيق/الهدف المقبل** | لا شيء/مرتب | قاعدة تقنية قوية؛ يجب إثبات الناس والميزانية والبائعين والمساءلة التنفيذية بصورة منفصلة |
-| **إدارة المشروع** | منسق مشروع تكنولوجيا المعلومات/مدير·PMO·سيد (سكروم)·تسليم الأغيل | **إمكانية التحويل/التطبيق** | لا شيء/مرتب | تقديم الأدلة والإفراج عنها؛ ولا يزال الفريق الرسمي والميزانية ومسؤولية مقدميها يشكلان ثغرة |
-| **إدارة الأعمال** | مدير أعمال·إدارة/مدير عمليات·مدير العقود | **إمكانية تطبيق** | لا | درجة الأعمال التجارية والصناعات الأثرية التشغيلية؛ الاحتياجات المتحققة من ملكية الموارد، والناس، والموردين |
-| **الاستراتيجية والتغيير** | خبير استشاري·مدير التغيير·تخطيط الشركات·الابتكار/التحول | **إمكانية التحويل/التطبيق** | لا | تحديث الجمود وتقييم الحلول؛ ويجب إثبات نتائج الاعتماد التنظيمي |
-| **تحليل الأعمال** | محلل أعمال·محلل المهام/الاحتياجات·BPM·التحسين المستمر | **إمكانية التحويل/التطبيق** | لا شيء/مرتب | Domain modeling and requirements evidence; external stakeholder cases would strengthen the claim |
-| **المنتجات والخدمات** | مالك المنتجات/المانجر·العمليات الإنتاجية·تقديم الخدمات·نجاح العملاء | **إمكانية التحويل/التطبيق** | لا شيء/مرتب | :: نسق الطرق، ودورة الحياة، والإطلاقات، والعمليات؛ وحافظة عملاء، ودليل جيش تحرير السودان يختلف عن الدور |
-| **إدارة أمن الفضاء الإلكتروني** | GRC·مراجع حسابات مراقبة تكنولوجيا المعلومات·جيم - المخاطر التكنولوجية·أمن المعلومات/الاستمرارية | **إمكانية تطبيق** | لا شيء/مرتب | الضوابط والأدلة المتعلقة بالحسابات؛ ولا تزال مراجعة الحسابات التنظيمية ووثائق التفويض ذات الصلة معلقة |
-| **التجارة والمبيعات** | التكنولوجيا·مستشارة في مجال الحلول·Technical KAM·B2B Business Development | **إمكانية التحويل/التطبيق** | لا | عدم المطالبة بتسوية قوية/ترجمة قيمة؛ وحصص وحافظة حسابات والتفاوض بشأن العقود |
-| **الرقابة المالية والإدارية** | محلل الميزانية/المحلل القطري·تقييم المشروع·FPA·الرقابة الإدارية | **إمكانية تطبيق** | لا | المعاملات المالية/المالية؛ والميزانيات الحقيقية والبيانات المالية ومؤشرات الشركات |
-| **النوعية** | محلل العمليات/الملكية·مراجع حسابات عملية·التحسين المستمر | **إمكانية التحويل/التطبيق** | لا شيء/مرتب | Gates, tests, metrics, and reproducibility; formal quality-system ownership remains a gap |
-| **التعليم** | التدريب التقني·الميسِّر·المنسق الأكاديمي·مصمم ادتكت/مصمم ادارية | **إمكانية التحويل/التطبيق** | لا شيء/مرتب | 21 برنامجاً و530 14 فصلاً؛ ويجب أن تكون نتائج التعليم والتعلم الرسمية واضحة بصورة منفصلة |
-| **السوقيات والموردون** | المشتريات·منسق الإمدادات/العمليات·البائع/المدير المتعاقد | **إمكانية تطبيق** | لا | قاعدة العمليات والإدارة؛ والمشتريات الحقيقية والمخزونات وأداء الموردين |
-| **إدارة البيانات والمبادرة** | Data Steward·إدارة البيانات·AI Adoption / Governance | **إمكانية التحويل/التطبيق** | لا شيء/مرتب | مجموعات البيانات القابلة للمراجعة والوكلاء الذين يُخضعون للاعتبارات الإنسانية؛ ولا تزال السياسات واللجان التنظيمية تشكل ثغرة |
-| **القطاع العام** | التحديث المؤسسي·منسق تكنولوجيا المعلومات والاتصالات·المشاريع الرقمية·التخطيط العام | **إمكانية تطبيق** | لا | نظم الاتصالات بين شيلي وضوابطها وإمكانية التعقب؛ لا يُطالب بخبرات المشتريات العامة والقطاع |
+قيادة التكنولوجيا · إدارة المشروع · إدارة الأعمال · الاستراتيجية والتغيير · تحليل الأعمال · المنتجات والخدمات · إدارة أمن الفضاء الإلكتروني · التجارة والمبيعات · الرقابة المالية والإدارية · النوعية · التعليم · السوقيات والموردون · إدارة البيانات والمبادرة · القطاع العام
 
-The[full Spanish role matrix](PROFESIONAL_ROLES.md):: تفاصيل الأهداف والمسؤوليات وخبرة السوق والمعارف التكميلية والأدلة والتوافق والثغرات في جميع الأسر الـ 14.
+👉 **[عرض مصفوفة الفرص كاملة](docs/MANAGEMENT.ar.md)**
 
 ## 🤖سير التطوير بمساعدة الذكاء الاصطناعي
 

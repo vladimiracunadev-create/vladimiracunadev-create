@@ -1,0 +1,26 @@
+# 🧭Zarządzanie, Administracja i niekodujące szanse na karierę
+
+[← Powrót do profilu](../README.pl.md)
+
+**🌐** [Español](MANAGEMENT.md) · [English](MANAGEMENT.en.md) · [Português](MANAGEMENT.pt.md) · [Italiano](MANAGEMENT.it.md) · [Français](MANAGEMENT.fr.md) · [简体中文](MANAGEMENT.zh.md) · [繁體中文](MANAGEMENT.zh-TW.md) · [日本語](MANAGEMENT.ja.md) · [한국어](MANAGEMENT.ko.md) · [Türkçe](MANAGEMENT.tr.md) · [Русский](MANAGEMENT.ru.md) · [Tiếng Việt](MANAGEMENT.vi.md) · [ไทย](MANAGEMENT.th.md) · [Deutsch](MANAGEMENT.de.md) · [Українська](MANAGEMENT.uk.md) · **Polski** · [العربية](MANAGEMENT.ar.md) · [فارسی](MANAGEMENT.fa.md) · [Bahasa Indonesia](MANAGEMENT.id.md) · [Nederlands](MANAGEMENT.nl.md) · [हिन्दी](MANAGEMENT.hi.md) · [Ελληνικά](MANAGEMENT.el.md)
+
+Zakres ten nie stanowi, że każdy tytuł został zachowany. Priorytetem jest praca, w której połączenie komputerów, administracji przedsiębiorstw i dowodów publicznych może tworzyć wartość bez kodowania jako podstawowego obowiązku.
+
+| Rodzina zawodowa | Uznane role | Uczciwa klasyfikacja | Kodowanie | Dowody i stan |
+|---|---|---|---|---|
+| **Liderem technologicznym** | Szef IT·Kierownik ds. operacji IT·Kierownik transformacji cyfrowej·CIO | **Potencjał zastosowania / cel na przyszłość** | Brak / sporadycznie | Silne podstawy techniczne; ludzie, budżet, sprzedawca i odpowiedzialność wykonawczą muszą być udowodnione oddzielnie |
+| **Zarządzanie projektami** | Koordynator projektu IT / menedżer·PMO·Mistrz Scrum·Dostawa zwinnych | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | Dowody dostawy i wydania; formalny zespół, budżet i odpowiedzialność sponsora pozostaje luką |
+| **Administracja biznesowa** | Administrator biznesu·Administracja / Kierownik Operacyjny·Administrator umowy | **Potencjalny potencjał zastosowania** | Brak | Stopień działalności i artefakty operacyjne; wymaga zweryfikowanej własności zasobów, ludzi i dostawców |
+| **Strategia i zmiany** | Konsultant Strategii·Zmień menedżera·Planowanie korporacyjne·Innowacje / transformacja | **Potencjał nadający się do przenoszenia / zastosowania** | Brak | Modernizacja i ocena rozwiązań w zakresie legacji; należy wykazać wyniki organizacyjne adopcji |
+| **Analiza biznesowa** | Analityk biznesu·Analityk funkcjonalny / wymagania·BPM·Ciągłe doskonalenie | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | Modeling domeny i wymogi dowody; zewnętrzne sprawy zainteresowanych stron wzmocniłyby wniosek |
+| **Produkt i usługi** | Właściciel produktu / menedżer·Operacje produktu·Dostawa usług·Sukces klienta | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | Mapy drogowe, cykl życia, wydania i operacje; P & L, portfolio klientów i dowody SLA różnią się w zależności od roli |
+| **Zarządzanie bezpieczeństwem cybernetycznym** | GRC·Audytor kontroli IT·Ryzyko technologiczne·Bezpieczeństwo informacji / Ciągłość | **Potencjalny potencjał zastosowania** | Brak / sporadycznie | Kontrole i dowody RootCause; audyty organizacyjne i odpowiednie kwalifikacje są w toku |
+| **Sprzedaż i sprzedaż** | Pregales Technology·Konsultant ds. rozwiązań·KAM techniczny·B2B Rozwój działalności gospodarczej | **Potencjał nadający się do przenoszenia / zastosowania** | Brak | Silny sposób przetłumaczenia / wartość; kwoty, portfolio rachunków i negocjacje umowne nie są zgłaszane |
+| **Kontrola finansów i zarządzania** | Budżet / Analityk kosztów·Ocena projektu·FP & A·Kontrola zarządzania | **Potencjalny potencjał zastosowania** | Brak | Artefakty finansowe / finansowe; potrzebne są prawdziwe budżety, sprawozdania finansowe i korporacyjne KPI |
+| **Jakość** | Proces / Analizator jakości·Audytor procesu·Ciągłe doskonalenie | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | Bramy, testy, wskaźniki i odtwarzalność; posiadanie formalnego systemu jakości pozostaje luką |
+| **Edukacja** | Trener techniczny·Ułatwiacz·Koordynator akademicki·EdTech / Projektant Instrukcji | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | 21 programów i 14,530 klas; oficjalne wyniki nauczania i uczenia się muszą być udokumentowane oddzielnie |
+| **Logistyka i dostawcy** | Zamówienia publiczne·Koordynator ds. dostaw / operacji·Kierownik / zleceniodawca | **Potencjalny potencjał zastosowania** | Brak | Podstawy procesu i administracji; potrzebne są rzeczywiste zamówienia, inwentaryzacja i wydajność dostawcy |
+| **Zarządzanie danymi i ptasimi zwierzętami i ptasimi zwierzętami** | Data Steward·Zarządzanie danymi·Przyjęcie / zarządzanie PWI | **Potencjał nadający się do przenoszenia / zastosowania** | Brak / sporadycznie | Zestawy danych audytowych i agenci zajmujący się ochroną przed ludźmi; polityka organizacyjna i komitety nadal pozostają luką |
+| **Sektor publiczny** | Modernizacja instytucjonalna·Koordynator TIK·Projekty cyfrowe·Planowanie publiczne | **Potencjalny potencjał zastosowania** | Brak | Systemy kontekstowe i identyfikowalność; nie wnioskuje się o zamówienia publiczne i doświadczenie sektorowe |
+
+W[full Spanish role matrix](../PROFESIONAL_ROLES.md)szczegółowe cele, obowiązki, doświadczenie rynkowe, uzupełniająca wiedza, dowody, zgodność i luki we wszystkich 14 rodzinach.

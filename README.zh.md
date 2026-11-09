@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
 [![经验](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#-专业范围)
-[![产品](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#-真实分发的产品)
+[![产品](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.zh.md)
 [![课程](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
 
 <!-- STATS:START -->
@@ -92,61 +92,17 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 📦 真实分发的产品
+## 🗂️ 生态系统：产品、实验室、应用 AI 与科学计算
 
-这些软件可以下载、安装、使用 — 不只是 clone 代码。
+本档案的实践成果集中在独立文档中：可下载安装的软件、工程实验室、应用 AI 与科学计算，以及账号中每个第三方项目 fork 的说明。
 
-| 产品 | 说明 | Stack | 交付 |
-|---|---|---|---|
-| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | 网络安全取证：任何异常资源失真都可能是威胁的最早信号。先诊断，再干预 | Rust 🦀 · ETW/WPR | **v0.19.0** · **16 releases** · **5 editions**: GUI · Portable · CLI · PowerShell · VS Code · [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | 移动端取证传感器：将每个 app 与自身基线比较，识别 stalkerware，并区分已授予权限和仅请求权限 | Flutter · Kotlin · Swift | **v0.8.0** · 可验证 Android APK · 5 languages · **zero telemetry** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
-| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | macOS 版本：`launchd` 持久化、Gatekeeper、SIP、FileVault、XProtect、TCC 权限、签名进程和网络邻居 — 每个面都与已知良好状态对比 | Rust 🦀 · macOS 13+ | **v0.1.0** · first published release · Apache-2.0 · [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
-| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | 服务器版本：把暴露面、访问尝试突增、同地址会话、关键文件完整性和传感器沉默关联成一句可执行结论 | Rust 🦀 · Windows · Linux · macOS | **v0.2.0** · **18 rules** with evidence and runbook · never executes actions on its own · local console · **no published release yet** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
-| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | 浏览器取证传感器：cookies、邮件会话、扩展、下载、权限，以及伪装真实窗口的网页 | JavaScript · MV3 extension | **v0.2.0** · no published release yet · panel on `127.0.0.1` · zero dependencies · zero telemetry verified in CI · [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
-| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Bitcoin custody 的 watch-only 防御：盘点每把钥匙来源，与公开警告交叉检查，并用证据解释 root cause | JavaScript · Windows app · local panel | **v0.3.0** · **2 releases** · zero dependencies · never asks for seeds · verified in CI · [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
-| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | 多链 watch-only 控制台：盘点 contracts、proxies、oracles、bridges、governance 和 dependencies，并生成 root-cause runbooks | JavaScript · Windows app · local panel | **v0.3.0** in repo · published release: `v0.1.0` · zero dependencies · never asks for private keys · verified in CI · [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
-| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | 本地 Android app，用于行动前检查 QR：解释 26 个信号，区分事实和假设，导出脱敏证据 | Flutter · Dart | **v0.1.4** · **5 releases** · **107 tests** · Android APK published · verifiable SHA-256 · technical APK package signature; commercial/store signatures in progress · zero telemetry · [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
-| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | 陪伴 Chile SpA 从成立前到每月结账：带证据的设立、VAT carry-forward、F29 draft、immutable close 和 audit log。每条规则都有官方来源 | JavaScript · Rust · PWA | **v1.5.0** · Android · Windows · browser · **158 tests** · **0 production dependencies** · zero telemetry · [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
-| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | QR 和条码读取器，**先解释再行动**：16 个本地 URL 风险信号和明确确认 | Flutter · Dart | **v1.1.0** · Android · iOS · macOS · PWA · encrypted history **AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
-| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | 嵌入式数据库：单个 `.db` 文件、WAL、cost-based optimizer、HTTP/JSON API | Rust 🦀 | Windows · macOS · Linux · [landing](https://vladimiracunadev-create.github.io/gabysql/) |
-| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | 本地编排器：JSON flows 打开真实窗口、与 DOM 交互并留下证据 | Python · Playwright · pywebview | **v0.3.0** · **27 flows** · published and verifiable installer · [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
-| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Local-first 数据集工厂：将 PDF、Word、web、Git、JSON、CSV 转成可审计数据集，用于 pretraining、fine-tuning、RAG 和 evaluation | Python | **v0.2.0** · Windows + offline Android · first published release · [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Local-first app，提供 15 个 AWS 资产集成、20 个教程、CLI/SSO 和默认只读；仍在开发中，并非通用访问 | JavaScript · Windows | **v0.1.1** · first published release · [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
-| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | 商业运营概念演示：catalog、stock、CRM、orders、mock payments 和 traceability | JavaScript · Web · Windows · Android | **v0.3.0** · **2 releases** · no real money or real SII · [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-first 本地只读阅读器：无裁剪缩放、可重开历史、分享到 WhatsApp、可设默认阅读器 | HTML · Web · Android · Windows | **v0.3.3** · signed APK · no accounts, sensitive permissions, or telemetry · [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
-| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | 一个视频、播放列表或**整个 YouTube 频道**转带时间戳文本。不依赖原字幕：Whisper 在**你的电脑**识别音频，无 API、账户或密钥 | Python · PySide6 · FastAPI · faster-whisper | **v0.2.0** · Windows desktop + local panel `127.0.0.1` + CLI, **same queue** · MD · PDF · TXT · SRT · VTT · JSON · MP3 · OGG · **89 tests** · FFmpeg included · zero telemetry · [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
-| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | 本地创意 AI launcher：编排 Qwen3-TTS、whisper.cpp、FaceFusion、AceForge 和 ComfyUI | Tauri 2 · Rust · React | v0.5.1 · **5/5 tools with real inference** · macOS Apple Silicon · experimental Windows · **no published release yet** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
-| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | 从零构建的办公套件：文档规则不依赖 DOM — HTML 只是投影 | Rust/WASM · Go · React 19 | Evolutionary monorepo by phases · [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
-| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | 儿童教育 app：chromatic tuner、基于音频时钟的精准 metronome、真实小提琴歌曲 | Tauri 2 · React · TS | **v1.3.0** · Windows · Android · Linux · macOS · PWA · [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
-| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | 吉他兄弟项目：6 个世界 24 节课、6 弦调音器、无漂移 metronome、11 个真实吉他音符 | Tauri 2 · React · TS | **v1.0.0** · Windows · Android · Linux · macOS · iOS · PWA · no accounts, ads, or online dependency · [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
-| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 面向 10 岁以上的 cueca 学习：8 个级别 24 节课、72 个活动、六拍实验室（3+3 与 2+2+2）和可访问地面图。声明**补充而不是替代**教师和文化传承者 | Flutter · Dart | **v0.2.0** · Android 7+ · Windows 10/11 · APK · EXE · MSI · portable · **29 tests + 2 validators** · no camera, microphone, account, ads, or internet · [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+- 📦 **真实分发的产品** (22)
+- 🧪 **工程实验室** (11)
+- 🤖 **应用 AI** (6)
+- 🔬 **科学计算** (1)
+- 🍴 **第三方项目的 fork** (52)
 
-## 🧪 工程实验室
-
-| Repo | 展示内容 |
-|---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 个真实问题**（load latency、N+1、retry storms、leaks、monolith、cache stampede、backpressure、zero-downtime migration、forgotten DLQ）以高保真故障注入，在 **7 个 stack** 中解决：PHP 8 · Python · Node.js · Java 21 · .NET 8 · **Go 1.23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 cases** source→n8n→receiver，覆盖 **18+ DB engines** —**19 operational**，逐一用 Docker 审计— **8-layer** audit、idempotency guardrails、circuit breaker、DLQ · [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
-| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 个 PHP 诊断与现代化 microapps** · local read-only MCP server · 3-phase hardening · [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
-| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 labs** on 4-service platform + automated `.exe` installer with launcher · [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
-| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 cases** on `wslc`, native WSL container engine — **without Docker Desktop** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
-| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | “Docker Desktop for unikernels”：Windows control over Unikraft with WSL2 backend, `kraft` + QEMU/KVM · [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
-| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 labs** real virtualization with QEMU, KVM, libvirt, cloud-init and `vm-manager` on Linux and WSL2 · [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
-| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux isolation：在声明策略下运行第三方代码、文件和 business models，并**输出签名证据说明实际应用的控制** · **36 cases** in two families —15 technical and 21 capital-markets— · experimental and educational, *not a security product* · [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
-| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 payment families** in local self-explaining demo：states、ledger、reconciliation、security、implementation guides · [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
-| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland social 3D experience：MVP + multi-game architecture with SDK7, ECS and TypeScript · Spanish docs · no payments or telemetry |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases，每个 case 增加一个 AWS service **以及**一个新的 GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
-
-## 🤖 应用 AI
-
-| Repo | 展示内容 |
-|---|---|
-| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 operational backends** — typed state、conditional routes、NDJSON streaming、DEMO/LIVE mode、8 security layers、SHA-256 chain of custody |
-| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 operational agents** for Claude Code and compatible runtimes：repo evolution、legacy modernization、curriculum design、portfolio publishing、security remediation、incident analysis · **39 deterministic evals** · 34 tests · zero-deps · Linux · macOS · Windows · [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
-| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | Local-first AI with MCP tools in sandbox · bind `127.0.0.1` · multilayer trust profile · honest about limits |
-| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 agentic plugins** installable in Claude Code, OpenAI/Codex, Copilot, Gemini and MCP from one source · **69 generated views without drift** · zero-deps · Linux · macOS · Windows · [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
-| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 agentic skills** for Claude Code · security audits、Bitcoin custody、repo gates、coherence、Docker、docs · zero-deps · cross-platform |
-| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 agentic skills** for Codex：security and supply chain、preflight、functional flows、resilience and state、release evidence、Python/YAML/Markdown gates、versioning、dependencies、Docker、documents · Python-first · `pnpm` · Linux · macOS · Windows · [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+👉 **[查看完整生态系统](docs/ECOSYSTEM.zh.md)** · [🍴 第三方项目的 fork](docs/ECOSYSTEM.zh.md#forks)
 
 ## 📚 完整技术课程
 
@@ -177,12 +133,6 @@ flowchart TD
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **363 tests** · Foundry and Slither in CI · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, 31 solutions— · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 training modules**, one per machine · **502 h 15 min** · systems、controls、physics、safety、simulation design with sources per class · *no executable simulator yet, and that is declared* |
-
-## 🔬 科学计算
-
-| Repo | 展示内容 |
-|---|---|
-| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | 可复现基因组平台：typed `ScientificResult<T>` contracts、FASTA/GFF3/VCF、modules with **explicit maturity and evidence**。极端诚实：*不进行临床诊断* · [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
 
 ## ⚡ 如果你有 10 分钟评估我
 
@@ -222,7 +172,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **Honesty about status** — 一个 repo 从 `Multisimulador` 改名为 `machine-operator-program`，避免承诺尚不存在的软件。
 - **Badges are signals, not evidence** — 每个 repo 也声明**它不做什么**。
 - **Model outward** — 先设计 domain，interface 只是 projection。
-- **外部作品会明确标注** — 账号的 70 个公共仓库中，64 个是自有作品。其余六个 —[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe)、[`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills)、[`erpnext`](https://github.com/vladimiracunadev-create/erpnext)、[`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive)、[`raptor`](https://github.com/vladimiracunadev-create/raptor)、[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)— 均为 forks，不计入自有作品指标。
+- **外部作品会明确标注** — 第三方项目的 [52 个 fork](docs/ECOSYSTEM.zh.md#forks) 逐一说明，并不计入本档案任何自有作品数字。
 
 ## ✅ 专业范围
 
@@ -247,26 +197,11 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 
 ## 🧭 管理、行政与无需编程的职业机会
 
-此扩展不声称我已担任所有这些职位。它优先展示能够结合信息技术、企业管理和公开证据创造价值，同时不以编程为核心工作的岗位。
+管理、行政与业务岗位：信息技术与管理学背景可以贡献价值，而编程并非核心任务；诚实分类（可迁移能力、可申请机会或未来目标），并标明每项的差距。涵盖领域：
 
-| 职业家族 | 常见职位名称 | 诚实分类 | 编程 | 证据与条件 |
-|---|---|---|---|---|
-| **技术管理** | Head of IT · IT Operations Manager · Digital Transformation Manager · CIO | **可申请 / 未来目标** | 无/偶尔 | 技术基础强；人员、预算、供应商和高管责任需另行证明 |
-| **项目管理** | IT Project Coordinator/Manager · PMO · Scrum Master · Agile Delivery | **可迁移 / 可申请** | 无/偶尔 | 有交付与 release 证据；正式团队、预算与 sponsor 责任仍是缺口 |
-| **企业行政** | Business Administrator · Administration/Operations Manager · Contract Administrator | **可申请** | 无 | 有学历与运营制品；真实资源、人员和供应商责任需证明 |
-| **战略与变革** | Strategy Consultant · Change Manager · Planning · Innovation/Transformation | **可迁移 / 可申请** | 无 | 有现代化和解决方案评估；组织采用成果需证明 |
-| **业务分析** | Business/Functional Analyst · Requirements · BPM · Continuous Improvement | **可迁移 / 可申请** | 无/偶尔 | 有领域建模和文档；外部 stakeholder 案例会加强可信度 |
-| **产品与服务** | Product Owner/Manager · Product Operations · Service Delivery · Customer Success | **可迁移 / 可申请** | 无/偶尔 | 有 roadmap 和生命周期；P&L、客户组合和 SLA 视职位而定 |
-| **GRC 与连续性** | GRC · IT Auditor · Technology Risk · Security/Continuity | **可申请** | 无/偶尔 | 有控制和 RootCause 证据；未声称组织审计与相关认证 |
-| **商业与销售** | Technology Presales · Solutions Consultant · Technical KAM · Business Development | **可迁移 / 可申请** | 无 | 能翻译解决方案价值；未声称 quota、客户组合和合同谈判 |
-| **财务与管理控制** | Budget/Cost · Project Evaluation · FP&A · Management Control | **可申请** | 无 | 有财务/FinOps 制品；需真实预算、财报和企业 KPI |
-| **质量** | Quality/Process Analyst · Auditor · Continuous Improvement | **可迁移 / 可申请** | 无/偶尔 | 有 gates、测试和指标；缺少正式质量体系责任 |
-| **教育** | Technical Trainer · Facilitator · Academic Coordinator · EdTech/Instructional Designer | **可迁移 / 可申请** | 无/偶尔 | 21 个项目、14,530 节课；正式教学与学习成果需单独证明 |
-| **物流与供应商** | Procurement · Supply/Operations Coordinator · Vendor/Contract Manager | **可申请** | 无 | 有流程基础；真实采购、库存和供应商绩效仍是缺口 |
-| **数据与 AI 治理** | Data Steward · Data Governance · AI Adoption/Governance | **可迁移 / 可申请** | 无/偶尔 | 有可审计数据集和人工 gates；组织政策与委员会仍是缺口 |
-| **公共部门** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **可申请** | 无 | 有智利场景和可追溯性；未声称公共采购和政府部门经验 |
+技术管理 · 项目管理 · 企业行政 · 战略与变革 · 业务分析 · 产品与服务 · GRC 与连续性 · 商业与销售 · 财务与管理控制 · 质量 · 教育 · 物流与供应商 · 数据与 AI 治理 · 公共部门
 
-[完整西班牙语职位矩阵](PROFESIONAL_ROLES.md)详细列出 14 个职业家族的目标、职责、市场经验、补充知识、证据、匹配度与差距。
+👉 **[查看完整机会矩阵](docs/MANAGEMENT.zh.md)**
 
 ## 🤖 AI 辅助开发流程
 

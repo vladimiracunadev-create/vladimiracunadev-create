@@ -1,0 +1,157 @@
+# 🗂️ Οικοσύστημα: προϊόντα, εργαστήρια, εφαρμοσμένη ΤΝ και επιστημονικοί υπολογισμοί
+
+[← Επιστροφή στο προφίλ](../README.el.md)
+
+**🌐** [Español](ECOSYSTEM.md) · [English](ECOSYSTEM.en.md) · [Português](ECOSYSTEM.pt.md) · [Italiano](ECOSYSTEM.it.md) · [Français](ECOSYSTEM.fr.md) · [简体中文](ECOSYSTEM.zh.md) · [繁體中文](ECOSYSTEM.zh-TW.md) · [日本語](ECOSYSTEM.ja.md) · [한국어](ECOSYSTEM.ko.md) · [Türkçe](ECOSYSTEM.tr.md) · [Русский](ECOSYSTEM.ru.md) · [Tiếng Việt](ECOSYSTEM.vi.md) · [ไทย](ECOSYSTEM.th.md) · [Deutsch](ECOSYSTEM.de.md) · [Українська](ECOSYSTEM.uk.md) · [Polski](ECOSYSTEM.pl.md) · [العربية](ECOSYSTEM.ar.md) · [فارسی](ECOSYSTEM.fa.md) · [Bahasa Indonesia](ECOSYSTEM.id.md) · [Nederlands](ECOSYSTEM.nl.md) · [हिन्दी](ECOSYSTEM.hi.md) · **Ελληνικά**
+
+Το πρακτικό έργο του προφίλ βρίσκεται σε ξεχωριστό έγγραφο: λογισμικό που κατεβάζεται και εγκαθίσταται, εργαστήρια μηχανικής, εφαρμοσμένη ΤΝ και επιστημονικοί υπολογισμοί, μαζί με την περιγραφή κάθε fork έργων τρίτων που υπάρχει στον λογαριασμό.
+
+## 📦Προϊόντα με πραγματική διανομή
+
+Λογισμικό που κατεβάζεται, εγκαθίσταται και χρησιμοποιείται — όχι μόνο κλωνοποιείται.
+
+| Προϊόν | Τι είναι αυτό; | Στοίβα | Παράδοση |
+|---|---|---|---|
+| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Εγκληματολογικό Cybersecurity: κάθε ανωμαλία των πόρων μπορεί να είναι το πρώτο σημάδι μιας απειλής. Πρώτα η διάγνωση, μετά η παρέμβαση | Ραπάνια🦀 ·ETW/WPR | **v0.19.0** · **16 εκδόσεις** · **5 εκδόσεις**: Γραφικό περιβάλλον·Φορητό·CLI·Εξουσία Shell·Κωδικός VS· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
+| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | Το κινητό αδελφάκι: ένας εγκληματολογικός αισθητήρας που συγκρίνει κάθε εφαρμογή με τον εαυτό του, σημαίες folkerware, και χωρίζει τις άδειες που παρέχονται από απλά ζητηθείσες | Φτερό·Κότλιν·Σουίφτ | **v0.8.0** ·επαληθεύσιμο Android APK·5 γλώσσες· **μηδενική τηλεμετρία** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
+| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | Έκδοση macOS:`launchd`επιμονή, Gatekeepper, SIP, FileVault, XProtect, άδειες TCC, υπογεγραμμένες διαδικασίες και γείτονες του δικτύου - κάθε επιφάνεια ελέγχεται κατά μια γνωστή-καλή κατάσταση | Ραπάνια🦀 ·macOS 13+ (Μακός 13+) | **v0.1.0** ·πρώτη δημοσίευση·Απάτσι-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
+| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | Ο αδελφός του εξυπηρετητή: συσχετίζει αυτό που δεν βλέπει κανένα ενιαίο ημερολόγιο μαζί — εκτεθειμένη επιφάνεια, εκρήξεις που επιτρέπουν την πρόσβαση, μια συνεδρία που χορηγείται στην ίδια διεύθυνση, κρίσιμη ακεραιότητα του αρχείου, και σιγή αισθητήρων — και τη μετατρέπει σε μια ενεργή πρόταση | Ραπάνια🦀 ·Παράθυρα·Linux·Μακός | **v0.2.0** · **18 κανόνες**με αποδεικτικά στοιχεία και βιβλίο εκτέλεσης·ποτέ δεν εκτελεί πράξεις από μόνη της·τοπική κονσόλα χωρίς εξαρτήσεις ιστού· **δεν έχει δημοσιευθεί ακόμα** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
+| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | Εγκληματολογικός αισθητήρας Browser: cookies, συνεδρίες ηλεκτρονικού ταχυδρομείου, επεκτάσεις, λήψεις, άδειες και σελίδες που μιμούνται ένα πραγματικό παράθυρο | JavaScript·Επέκταση MV3 | **v0.2.0** ·δεν έχει δημοσιευθεί ακόμα·πάνελ σε`127.0.0.1` ·μηδενικές εξαρτήσεις·μηδενική τηλεμετρία που επαληθεύτηκε στο CI· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
+| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Μόνο για άμυνα Bitcoin: καταγράφει την προέλευση του κάθε κλειδιού, το διασταυρώνει με δημοσιευμένες προειδοποιήσεις, και εξηγεί τη βασική αιτία με στοιχεία | JavaScript·Εφαρμογή Windows·τοπικό πάνελ | **v0.3.0** · **2 εκδόσεις** ·μηδενικές εξαρτήσεις·Ποτέ δεν ζητάει σπόρους·επαληθεύτηκε στο CI· [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
+| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | Πολυ-αλυσίδα μόνο ρολόι κονσόλα: συμβάσεις αποθεμάτων, πληρεξούσια, χρησμοί, γέφυρες, διακυβέρνηση, και εξαρτήσεις, και δημιουργεί ριζικά runbooks αιτία | JavaScript·Εφαρμογή Windows·τοπικό πάνελ | **v0.3.0**στο χώρο αποθήκευσης·δημοσιευμένη έκδοση:`v0.1.0` ·μηδενικές εξαρτήσεις·Ποτέ δεν ζητάει τα προσωπικά κλειδιά.·επαληθεύτηκε στο CI· [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
+| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | Τοπική εφαρμογή Android για την επιθεώρηση κωδικών QR πριν από την ενέργεια: εξηγεί 26 σήματα, διαχωρίζει τα γεγονότα από υποθέσεις, και τις εξαγωγές ανακλημένα αποδεικτικά στοιχεία | Φτερό·Βέλος | **v0.1.4** · **5 κυκλοφορίες** · **107 δοκιμές** ·δημοσιευμένο Android APK·επαληθεύσιμη SHA-256·τεχνική υπογραφή πακέτων APK· εμπορικές/υπογραφές καταστημάτων σε εξέλιξη·μηδενική τηλεμετρία· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
+| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | Η Επιτροπή θα πρέπει να ενημερώνει την Επιτροπή σχετικά με τις πληροφορίες που θα της παρέχονται. Κάθε κανόνας δείχνει την επίσημη πηγή του | JavaScript·Ραπάνια·PWA | **v1.5.0** ·Ανδροειδές·Παράθυρα·Περιηγητής· **158 δοκιμές** · **0 εξαρτήσεις παραγωγής** ·μηδενική τηλεμετρία· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
+| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | QR και αναγνώστης γραμμωτού κώδικα ότι**ερμηνεύει πριν από την υποκριτική**: 16 τοπικά σήματα κινδύνου URL και ρητή επιβεβαίωση | Φτερό·Βέλος | **v1.1.0** ·Ανδροειδές·iOS·Μακός·PWA·κρυπτογραφημένο ιστορικό**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
+| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Ενσωματωμένη βάση δεδομένων: single`.db`αρχείο, WAL, βελτιστοποιητής με βάση το κόστος, HTTP / JSON API | Ραπάνια🦀 | Παράθυρα·Μακός·Linux· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
+| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Τοπική ενορχηστρωτής: JSON ρέει που ανοίγουν πραγματικά παράθυρα, αλληλεπιδρούν με το DOM, και αφήνουν στοιχεία | Πάιθον·Παιχνιδάκια·προβολή pyweb | **v0.3.0** · **27 ροές** ·δημοσιευμένος και επαληθεύσιμος εγκαταστάτης· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
+| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Τοπικό-πρώτο εργοστάσιο που μετατρέπει PDF, Word, web, Git, JSON, και CSV σε ελεγχόμενα σύνολα δεδομένων για την προκατάρτιση, την εξομάλυνση, RAG, και την αξιολόγηση | Πάιθον | **v0.2.0** ·Windows + offline Android·πρώτη δημοσίευση· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
+| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Τοπική πρώτη εφαρμογή με 15 AWS ενσωμάτωση απογραφής, 20 φροντιστήρια, CLI/SSO, και μόνο ανάγνωσης προεπιλεγμένες? υλοποίηση σε εξέλιξη, όχι καθολική πρόσβαση | JavaScript·Παράθυρα | **v0.1.1** ·πρώτη δημοσίευση· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
+| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Οδηγός εννοιολογική επίδειξη των εμπορικών πράξεων: κατάλογος, απόθεμα, CRM, παραγγελίες, εικονικές πληρωμές, και ιχνηλασιμότητα | JavaScript·Ιστός·Παράθυρα·Ανδροειδές | **v0.3.0** · **2 εκδόσεις** ·δεν υπάρχουν πραγματικά χρήματα ή η ενσωμάτωση της φορολογικής αρχής της Χιλής· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
+| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-πρώτος τοπικός αναγνώστης μόνο ανάγνωσης, με ζουμ χωρίς crop, επαναλειτουργήσιμο ιστορικό, WhatsApp κοινή χρήση, και προεπιλεγμένη επιλογή-αναγνωστή | HTML·Ιστός·Ανδροειδές·Παράθυρα | **v0.3.3** ·υπογεγραμμένη APK·χωρίς λογαριασμούς, ευαίσθητες άδειες ή τηλεμετρία· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
+| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Ένα βίντεο, λίστα αναπαραγωγής, ή**ολόκληρο το κανάλι YouTube**να στείλει μήνυμα με χρονοσφραγίδες. Δεν βασίζεται σε υπάρχοντες υπότιτλους: Ο Ψίθυρος αναγνωρίζει τον ήχο**στο μηχάνημα σας**, χωρίς API, λογαριασμό, ή το κλειδί για τη ρύθμιση | Πάιθον·PySide6·Γρήγορο API·Πιο γρήγορα-ψιθύρισμα | **v0.2.0** ·Επιφάνεια εργασίας των Windows + τοπικός πίνακας`127.0.0.1`+ CLI,**κοινή χρήση της ίδιας ουράς** ·MD·PDF·TXT·SRT·VTT·JSON·MP3·OGG· **89 δοκιμές** ·Δεσμευμένο FFmpeg·μηδενική τηλεμετρία· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
+| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Τοπική δημιουργικός AI εκκινητής: ενορχηστρώνει Qwen3-TTS, shirt.cpp, FaceFusion, AceForge, και ComfyUI | Ταουρί 2·Ραπάνια·Αντιδράσεις | v0.5.1· **5/5 εργαλεία με πραγματικό συμπέρασμα** ·macOS Apple σιλικόνης·πειραματικά Windows· **δεν έχει δημοσιευθεί ακόμα** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
+| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Σουίτα γραφείου από το μηδέν: οι κανόνες εγγράφων δεν εξαρτώνται από το DOM - HTML είναι μόνο μια προβολή | Σπαθιά/WASM·Πήγαινε.·Αντιπαράσταση 19 | Εξελικτική μονορεπία κατά φάσεις· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
+| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | Εκπαιδευτική εφαρμογή για παιδιά: χρωματικός συντονιστής, μετρονόμος, τραγούδια με πραγματικό βιολί | Ταουρί 2·Αντιδράσεις·TS | **v1.3.0** ·Παράθυρα·Ανδροειδές·Linux·Μακός·PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
+| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | Το buded-string queil: 24 μαθήματα σε 6 κόσμους, 6-χορδή tuner, freed-free metronome, και 11 πραγματικές νότες κιθάρας | Ταουρί 2·Αντιδράσεις·TS | **v1.0.0** ·Παράθυρα·Ανδροειδές·Linux·Μακός·iOS·PWA·δεν λογαριασμούς, διαφημίσεις ή εξάρτηση από το διαδίκτυο· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
+| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca από την ηλικία 10: 24 τάξεις σε 8 επίπεδα, 72 δραστηριότητες, έξι-pulse εργαστήριο (3+3 και 2+2+2), και προσβάσιμα διαγράμματα δαπέδου. - Το λέει.**Συμπληρώματα, όχι αντικαταστάσεις**, καθηγητές και φορείς του πολιτισμού | Φτερό·Βέλος | **v0.2.0** ·Ανδροειδές 7+·Windows 10/11·APK·ΕΞ·MSI·φορητό· **29 δοκιμές + 2 επικυρωτές** ·χωρίς κάμερα, μικρόφωνο, λογαριασμό, διαφημίσεις ή internet· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+
+## 🧪Εργαστήρια Μηχανικών
+
+| Reπού | Τι δείχνει |
+|---|---|
+| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 πραγματικά προβλήματα**(γεμάτο υπό φορτίο, N+1, δοκιμή καταιγίδων, διαρροές, μονόλιθοι, λανθάνουσα σφράγιση, αντίθλιψη, μηδενική αποδημία, ξεχασμένη DLQ) με υψηλής πιστότητας εγχύσεις αστοχίες, λυθούν σε**7 στοίβα**: PHP 8·Πάιθον·Κόμβος.js·Ιάβα 21·.NET 8· **Πάμε 1.23** · **Ραστ.** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 περιπτώσεις**πηγή → n8n→ παραλήπτης**18+ κινητήρες DB** —**19 επιχειρησιακά**, ατομικά ελεγμένο με Docker—**8- στρώση**έλεγχος, idempotency wardrails, διακόπτης κυκλώματος, και DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 διαγνωστικές και εκσυγχρονιστικές μικροεφαρμογή**για PHP·τοπικός εξυπηρετητής MCP μόνο ανάγνωσης·σκλήρυνση σε 3 φάσεις· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
+| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 εργαστήρια**σε μια πλατφόρμα 4 υπηρεσιών + αυτοματοποιημένη`.exe`εγκαταστάτης με εκτοξευτή· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
+| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 περιπτώσεις**Εμπρός`wslc`, ο εγγενής κινητήρας WSL δοχείου —**χωρίς επιφάνεια εργασίας Docker** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
+| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | “Γιατρός επιφάνειας εργασίας για μονοκεράλες”: Έλεγχος των Windows πάνω από Unikraft με το σύστημα υποστήριξης WSL2,`kraft`+ QEMU/KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
+| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 εργαστήρια**πραγματική εικονικοποίηση με QEMU, KVM, libvirt, cloud-init, και`vm-manager`σε Linux και WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
+| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux απομόνωση: τρέχει τον κωδικό τρίτων, αρχεία, και επιχειρηματικά μοντέλα υπό δηλωμένες πολιτικές και**εκπομπές που έχουν υπογραφεί και έχουν υποβληθεί σε ελέγχους** · **36 περιπτώσεις**σε δύο οικογένειες —15 τεχνικές και 21 κεφαλαιαγορές—·δηλώθηκε πειραματικό και εκπαιδευτικό, * όχι προϊόν ασφάλειας*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
+| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 οικογένειες πληρωμών**σε μια τοπική αυτο-εξηγητική επίδειξη: κράτη, βιβλίο, συμφιλίωση, ασφάλεια, και οδηγούς υλοποίησης· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
+| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Ιθαγενής αποκεντρωμένη και κοινωνική 3D εμπειρία: ένα MVP και μια αρχιτεκτονική πολλαπλών παιχνιδιών με SDK7, ECS, και TypeScript·Ισπανική τεκμηρίωση·δεν έχει πληρωμές ή τηλεμετρία |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Προοδευτικές περιπτώσεις όπου ο καθένας προσθέτει μια υπηρεσία AWS**και**μια νέα ικανότητα ενεργειών GitHub·SAA-C03·DVA-C02·Κάλυψη SOA-C02 |
+
+## 🤖Εφαρμοσμένη ΤΝ
+
+| Reπού | Τι δείχνει |
+|---|---|
+| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **Λειτουργικά συστήματα υποστήριξης 25/25**— δακτυλογραφημένη κατάσταση, υπό όρους διαδρομές, NDJSON streaming, DEMO/LIVE mode, 8 επίπεδα ασφαλείας, SHA-256 αλυσίδα επιμέλειας |
+| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 επιχειρησιακοί παράγοντες**για τον κώδικα Claude και συμβατούς χρόνους λειτουργίας: κάθε μία λαμβάνει μια πλήρη αποστολή — εξέλιξη των υποθετικών, τον εκ νέου εκσυγχρονισμό, το σχεδιασμό του προγράμματος σπουδών, τη δημοσίευση χαρτοφυλακίου, την αποκατάσταση της ασφάλειας, την ανάλυση συμβάντων— στο πλαίσιο μιας δηλωθείσας σύμβασης, τις ανθρώπινες πύλες, και επαληθεύσιμα αποδεικτικά στοιχεία· **39 ντετερμινιστικές εκτιμήσεις** ·34 δοκιμές·0-deps (μόνο για strdlib)·Linux·Μακός·Παράθυρα· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
+| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | Τοπική πρώτη AI με εργαλεία MCP σε ένα αμμόκουτο· `127.0.0.1`δεσμεύει·προφίλ εμπιστοσύνης πολλαπλών στρωμάτων·Ειλικρινά για τα όριά του |
+| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 plugins agentic**δυνατότητα εγκατάστασης σε Claude Code, OpenAI/Codex, Copilot, Gemini, και MCP από μία πηγή:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`, και`rootcause-response` · **69 δημιουργημένες απόψεις χωρίς παρασυρόμενα**- κάθε χρόνος εκτέλεσης λαμβάνει τη μορφή της από την ίδια σύμβαση -·Μηδενικές μοίρες·Linux·Μακός·Παράθυρα· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
+| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 ικανότητες στην ατζέντια**για τον κώδικα Claude· **ασφάλεια**12 στρώσεις`security-audit`(ΟΟΣ)·ΚΕΒ·EPSS·ΝΑΤΟ·περιέκτης·μυστικά) και 14-στάδιο`bitcoin-custody-audit` · **πύλες repo**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **συνοχή**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **Ντόκερ**: `docker-cleanup`, `docker-compose-doctor` · **Γιατροί**: `md-to-doc` ·Μηδενικές μοίρες·cross-πλατφόρμιο |
+| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 ικανότητες στην ατζέντια**για τον Codex: αλυσίδα ασφάλειας και εφοδιασμού, προ πτήσης, λειτουργικές ροές, ανθεκτικότητα και κατάσταση, αποδεικτικά στοιχεία, πύλες Python/YAML/Markdown, έκδοση, εξαρτήσεις, Docker, και έγγραφα·Πρώτος ο Python· `pnpm` ·Linux·Μακός·Παράθυρα· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+
+## 🔬Επιστημονική Υπολογιστική
+
+| Reπού | Τι δείχνει |
+|---|---|
+| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Πλατφόρμα αναπαραγώγιμης γονιδιωματικής: δακτυλογραφημένη`ScientificResult<T>`συμβάσεις, FASTA/GFF3/VCF, ενότητες με**ρητή ωριμότητα και αποδεικτικά στοιχεία**. Ριζοσπαστική ειλικρίνεια: * δεν εκτελεί κλινική διάγνωση *· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
+
+<a id="forks"></a>
+
+## 🍴 Forks έργων τρίτων (52)
+
+Πρόκειται για forks έργων άλλων που φυλάσσονται σε αυτόν τον λογαριασμό. **Δεν είναι δικό μου έργο**: τα εύσημα ανήκουν στους αρχικούς δημιουργούς, δεν μετρούν σε κανένα νούμερο αυτού του προφίλ και κάθε περιγραφή συνοψίζει όσα δηλώνει το ίδιο το αρχικό έργο, χωρίς να υπονοεί υποστήριξη, έλεγχο ή δική μου εμπειρία παραγωγής. Περιγραφές σύμφωνα με το αρχικό έργο · 2026-11-09.
+
+### 🤖 Πράκτορες κώδικα και πλαίσια πρακτόρων (18)
+
+| Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
+|---|---|---|---|
+| [**OpenHands**](https://github.com/vladimiracunadev-create/OpenHands) | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | TypeScript | Πλατφόρμα πρακτόρων για ανάπτυξη λογισμικού με οδηγό την ΤΝ |
+| [**cline**](https://github.com/vladimiracunadev-create/cline) | [cline/cline](https://github.com/cline/cline) | TypeScript | Αυτόνομος πράκτορας κώδικα ως SDK, επέκταση IDE ή CLI |
+| [**opencode**](https://github.com/vladimiracunadev-create/opencode) | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | Πράκτορας κώδικα ανοικτού κώδικα |
+| [**qwen-code**](https://github.com/vladimiracunadev-create/qwen-code) | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | Πράκτορας κώδικα ΤΝ ανοικτού κώδικα για το τερματικό |
+| [**goose**](https://github.com/vladimiracunadev-create/goose) | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | Επεκτάσιμος πράκτορας που εγκαθιστά, εκτελεί, επεξεργάζεται και δοκιμάζει κώδικα με οποιοδήποτε LLM |
+| [**pi**](https://github.com/vladimiracunadev-create/pi) | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | Εργαλειοθήκη πρακτόρων: ενιαίο API LLM, βρόχος πράκτορα, TUI και CLI κώδικα |
+| [**hermes-agent**](https://github.com/vladimiracunadev-create/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | Ο πράκτορας που μεγαλώνει μαζί σας (NousResearch) |
+| [**deepagents**](https://github.com/vladimiracunadev-create/deepagents) | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | Harness πρακτόρων «με μπαταρίες» (LangChain) |
+| [**crewAI**](https://github.com/vladimiracunadev-create/crewAI) | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Python | Πλαίσιο ενορχήστρωσης αυτόνομων πρακτόρων με ρόλους |
+| [**agent-framework**](https://github.com/vladimiracunadev-create/agent-framework) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | Python | Πλαίσιο της Microsoft για δημιουργία και ανάπτυξη πρακτόρων και ροών πολλαπλών πρακτόρων σε Python και .NET |
+| [**deepseek-harness**](https://github.com/vladimiracunadev-create/deepseek-harness) | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | Harness πρακτόρων της DeepSeek όπου όλα είναι πρόσθετα |
+| [**agent-orchestrator**](https://github.com/vladimiracunadev-create/agent-orchestrator) | [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Go | Σχεδιάζει, εκτελεί και εποπτεύει στόλους πρακτόρων, από την εργασία έως το συγχωνευμένο PR |
+| [**orca**](https://github.com/vladimiracunadev-create/orca) | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | Χώρος εργασίας για έναν στόλο πρακτόρων κώδικα (επιτραπέζιο, κινητό και απομακρυσμένο) |
+| [**kander**](https://github.com/vladimiracunadev-create/kander) | [dualface/kander](https://github.com/dualface/kander) | Go | Πίνακας kanban που συντονίζει πράκτορες κώδικα με απομονωμένα git worktrees και πράκτορες αξιολογητές |
+| [**OpenBot**](https://github.com/vladimiracunadev-create/OpenBot) | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | Συνάδελφοι ΤΝ, ο καθένας με δικό του υπολογιστή· κάθε ενέργεια αποφασίζεται πριν και καταγράφεται μετά |
+| [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Βιβλιοθήκη Python για πράκτορες ΤΝ που χειρίζονται τον περιηγητή |
+| [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI computer use για πράκτορες ΤΝ |
+| [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter για εργαλεία πρακτόρων» |
+
+### 🧩 Skills, πρόσθετα και ροές εργασίας για πράκτορες (11)
+
+| Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
+|---|---|---|---|
+| [**claude-plugins-official**](https://github.com/vladimiracunadev-create/claude-plugins-official) | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | Επίσημος κατάλογος ποιοτικών πρόσθετων Claude Code υπό τη διαχείριση της Anthropic |
+| [**agentic-awesome-skills**](https://github.com/vladimiracunadev-create/agentic-awesome-skills) | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | Τοπικό επίπεδο ελέγχου για ανακάλυψη, επιλογή και επικύρωση μεγάλου καταλόγου agentic skills (CLI, τοπικό MCP, πρόσθετα) |
+| [**claude-review-all**](https://github.com/vladimiracunadev-create/claude-review-all) | [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) | Python | Αξιολόγηση κώδικα με πολλούς πράκτορες για το Claude Code |
+| [**blender-skills**](https://github.com/vladimiracunadev-create/blender-skills) | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | TypeScript | Εξειδικευμένα skills Blender για πράκτορες κώδικα, με pipeline βασισμένο σε MCP |
+| [**diagram-design**](https://github.com/vladimiracunadev-create/diagram-design) | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | Εκδοτικός σχεδιασμός διαγραμμάτων (HTML + SVG) για πράκτορες κώδικα |
+| [**elephant-goldfish-model**](https://github.com/vladimiracunadev-create/elephant-goldfish-model) | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Python | Ανοικτά skills της Google για σχεδιασμό και αξιολόγηση λογισμικού με πράκτορες ΤΝ |
+| [**Claude-Code-Game-Studios**](https://github.com/vladimiracunadev-create/Claude-Code-Game-Studios) | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Μετατρέπει το Claude Code σε στούντιο παιχνιδιών από συντονισμένους πράκτορες |
+| [**headcount**](https://github.com/vladimiracunadev-create/headcount) | [cbrock84/headcount](https://github.com/cbrock84/headcount) | Markdown | Οργάνωση πρακτόρων δομημένη σαν εταιρεία: τμήματα και εγκαταστάσιμα skills |
+| [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Ανοικτή πλατφόρμα QA/QE με πράκτορες και skills για όλο τον κύκλο ζωής του λογισμικού |
+| [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Εικονική εκτελεστική ομάδα: μία διευθυντική περσόνα με υποστήριξη 8 εξειδικευμένων πρακτόρων Claude |
+| [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Διακομιστής MCP ώστε το Claude, το Cursor ή το Windsurf να δημιουργούν ροές n8n |
+
+### 🛡️ Ασφάλεια και ανάλυση λογισμικού (8)
+
+| Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
+|---|---|---|---|
+| [**raptor**](https://github.com/vladimiracunadev-create/raptor) | [gadievron/raptor](https://github.com/gadievron/raptor) | Python | Μετατρέπει το Claude Code σε πράκτορα επιθετικής και αμυντικής ασφάλειας |
+| [**Cybersecurity-Projects**](https://github.com/vladimiracunadev-create/Cybersecurity-Projects) | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | Go | 70 έργα κυβερνοασφάλειας από αρχάριο έως προχωρημένο επίπεδο |
+| [**SkillSpector**](https://github.com/vladimiracunadev-create/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | Σαρωτής ασφάλειας της NVIDIA για skills πρακτόρων (prompt injection, διαρροή δεδομένων, εφοδιαστική αλυσίδα) |
+| [**Anthropic-Cybersecurity-Skills**](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills) | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | Εκατοντάδες skills κυβερνοασφάλειας για πράκτορες, αντιστοιχισμένα σε MITRE ATT&CK, NIST CSF και άλλα πλαίσια |
+| [**security-audit-skill**](https://github.com/vladimiracunadev-create/security-audit-skill) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | Skill της Cloudflare για πολυφασικούς ελέγχους ασφάλειας με ανεξάρτητα επαληθευμένα ευρήματα |
+| [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Crawler και αναλυτής ιστοτόπων για SEO, ασφάλεια, προσβασιμότητα και απόδοση |
+| [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Αντίστροφη μηχανική με πράκτορες, από τη συμπεριφορά μιας εφαρμογής έως εγγενή δυαδικά αρχεία |
+| [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Κατανόηση του πώς λειτουργεί οποιοδήποτε λογισμικό και δημιουργία του δικού σας |
+
+### 🧠 Μοντέλα ΤΝ και υποδομή (5)
+
+| Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
+|---|---|---|---|
+| [**marin**](https://github.com/vladimiracunadev-create/marin) | [marin-community/marin](https://github.com/marin-community/marin) | Python | Ανοικτό πλαίσιο για έρευνα και ανάπτυξη θεμελιωδών μοντέλων |
+| [**prime-rl**](https://github.com/vladimiracunadev-create/prime-rl) | [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) | Python | Εκπαίδευση ενισχυτικής μάθησης με πράκτορες σε μεγάλη κλίμακα |
+| [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Δομικά στοιχεία PyTorch για το οικοσύστημα OLMo |
+| [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Πλαίσιο συμπερασμού υψηλής απόδοσης και μεγάλης κλίμακας για μοντέλα DeepSeek |
+| [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Τροποποίηση γλωσσικών μοντέλων χωρίς επανεκπαίδευση (λογοκρισία, κολακεία κ.ά.) |
+
+### 🏢 Διοίκηση επιχειρήσεων και πλατφόρμες (6)
+
+| Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
+|---|---|---|---|
+| [**erpnext**](https://github.com/vladimiracunadev-create/erpnext) | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | Ελεύθερο ERP ανοικτού κώδικα |
+| [**odoo**](https://github.com/vladimiracunadev-create/odoo) | [odoo/odoo](https://github.com/odoo/odoo) | Python | Επιχειρησιακές εφαρμογές ανοικτού κώδικα |
+| [**mautic**](https://github.com/vladimiracunadev-create/mautic) | [mautic/mautic](https://github.com/mautic/mautic) | PHP | Αυτοματοποίηση μάρκετινγκ ανοικτού κώδικα |
+| [**crm**](https://github.com/vladimiracunadev-create/crm) | [trycompai/crm](https://github.com/trycompai/crm) | TypeScript | CRM ανοικτού κώδικα σχεδιασμένο για πράκτορες ΤΝ (Comp AI) |
+| [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | Ολοκληρωμένη πλατφόρμα ανάπτυξης: έλεγχος κώδικα, CI/CD, περιβάλλοντα και μητρώα αντικειμένων |
+| [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | Πλατφόρμα εντοπισμού GPS ανοικτού κώδικα, πάνω από 200 πρωτόκολλα συσκευών |
+
+### 🎓 Εκπαίδευση και αναφορά (4)
+
+| Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
+|---|---|---|---|
+| [**computer-science**](https://github.com/vladimiracunadev-create/computer-science) | [ossu/computer-science](https://github.com/ossu/computer-science) | HTML | Δωρεάν μονοπάτι αυτομόρφωσης στην Επιστήμη Υπολογιστών (OSSU) |
+| [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | Δωρεάν μονοπάτι αυτομόρφωσης στα Μαθηματικά (OSSU) |
+| [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | Πλαίσιο Python της κοινότητας για μαθηματικά animation |
+| [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Δείγματα πηγαίου κώδικα παιχνιδιών Atari 2600 σε assembly |

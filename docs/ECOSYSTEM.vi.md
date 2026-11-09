@@ -1,0 +1,157 @@
+# 🗂️ Hệ sinh thái: sản phẩm, phòng thí nghiệm, AI ứng dụng và tính toán khoa học
+
+[← Quay lại hồ sơ](../README.vi.md)
+
+**🌐** [Español](ECOSYSTEM.md) · [English](ECOSYSTEM.en.md) · [Português](ECOSYSTEM.pt.md) · [Italiano](ECOSYSTEM.it.md) · [Français](ECOSYSTEM.fr.md) · [简体中文](ECOSYSTEM.zh.md) · [繁體中文](ECOSYSTEM.zh-TW.md) · [日本語](ECOSYSTEM.ja.md) · [한국어](ECOSYSTEM.ko.md) · [Türkçe](ECOSYSTEM.tr.md) · [Русский](ECOSYSTEM.ru.md) · **Tiếng Việt** · [ไทย](ECOSYSTEM.th.md) · [Deutsch](ECOSYSTEM.de.md) · [Українська](ECOSYSTEM.uk.md) · [Polski](ECOSYSTEM.pl.md) · [العربية](ECOSYSTEM.ar.md) · [فارسی](ECOSYSTEM.fa.md) · [Bahasa Indonesia](ECOSYSTEM.id.md) · [Nederlands](ECOSYSTEM.nl.md) · [हिन्दी](ECOSYSTEM.hi.md) · [Ελληνικά](ECOSYSTEM.el.md)
+
+Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần mềm để tải về và cài đặt, phòng thí nghiệm kỹ thuật, AI ứng dụng và tính toán khoa học, cùng mô tả từng fork của các dự án bên thứ ba có trong tài khoản.
+
+## 📦Những sản phẩm có thật sự được phân phối
+
+Phần mềm được tải về, cài đặt và sử dụng — không chỉ là vô tính.
+
+| Sản phẩm | Cái gì đây? | Bộ | Giao hàng |
+|---|---|---|---|
+| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Giám sát an ninh mạng: mỗi sự méo mó tài nguyên gây rối loạn có thể là dấu hiệu đầu tiên của mối đe dọa. Chẩn đoán trước, sau đó mới can thiệp. | Rust🦀 ·ETW/WPR | **v0.19.0** · **16 bản phát hành** · **5 ấn bản**Giao diện·Cổng·CLI·Name·Mã hệ thống VS· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
+| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | Anh em di động: một cảm biến pháp lý so sánh mỗi ứng dụng với chính nó, cờ hiển thị phần mềm rình rập, và tách quyền hạn ra khỏi yêu cầu | Bóng·Kotlin·Xlô- venName | **v0.8.0** ·BAR ADNNADAPK·5 ngôn ngữ· **Không đo** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
+| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | & xuất macOS:`launchd`Kiên trì, giữ cổng, SIP, FileVault, XProtect, TCC cho phép, ký kết các tiến trình và các nước lân cận mạng lưới — mỗi bề mặt được kiểm tra chống lại một trạng thái tốt được biết đến | Rust🦀 ·MacOS 13+ | **v0. 1. 0** ·Bản phát hành đầu tiên·Apache-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
+| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | Anh em máy chủ: tương quan với những gì không có bản ghi nào thấy cùng nhau — bề mặt bị phơi bày, các vụ nổ không được truy cập, phiên chạy được chấp thuận cùng địa chỉ, sự toàn vẹn tập tin quan trọng, và sự im lặng của bộ cảm biến — và biến nó thành một câu có thể hành động | Rust🦀 ·Cửa sổ·Linux·McOS | **v0.2.0** · **18 quy tắc**với bằng chứng và sổ tay·Không bao giờ thực hiện hành động của mình·bàn giao tiếp cục bộ không có phụ thuộc trên mạng· **chưa xuất bản** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
+| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | Cảm biến pháp y duyệt: cookie, phiên chạy email, phần mở rộng, tải về, quyền hạn và trang có thể bắt chước một cửa sổ thật | JavaScript·Phần mở rộng MV3 | **v0.2.0** ·chưa xuất bản·bảng điều khiển trên`127.0.0.1` ·Không có phụ thuộc·Comment· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
+| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Chỉ phòng vệ cho sự giám sát của Bitcoin: phát minh ra nguồn gốc của mỗi phím, kiểm tra chéo nó với những cảnh báo được công bố, và giải thích nguyên nhân gốc với bằng chứng | JavaScript·Ứng dụng Windows·Bảng cục bộ | **v0.3.0** · **2 bản phát hành** ·Không có phụ thuộc·Không bao giờ hỏi thăm hạt giống·Comment· [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
+| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | Bàn giao tiếp đa kênh chỉ có xem: phát minh ra hợp đồng, ủy quyền, lời bói thẻ, cầu nối, quản trị và phụ thuộc, và tạo ra những cuốn sách chạy root | JavaScript·Ứng dụng Windows·Bảng cục bộ | **v0.3.0**trong kho·đã xuất:`v0.1.0` ·Không có phụ thuộc·không bao giờ yêu cầu chìa khóa riêng·Comment· [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
+| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | Ứng dụng ADro cục bộ để kiểm tra mã QR trước khi hành động: giải thích 26 tín hiệu, tách các dữ kiện từ giả thuyết, và xuất ra các bằng chứng bị sửa chữa | Bóng·Dart | **v0.1.4** · **5 Số lần phát hành** · **Thử ra 107** ·đã xuất bản ADrom APK·Tải- 26 có thể kiểm tra·Gửi tín hiệu đến gói AK kỹ thuật; đang tiến hành các tín hiệu thương mại/đồ thị·Không đo· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
+| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | Hướng dẫn một người từ trước khi kết hợp hàng tháng: kết hợp với bằng chứng, chuyển tiếp, F29, đóng cửa và kiểm toán. Mọi quy tắc đều chỉ ra nguồn gốc chính thức của nó | JavaScript·Rust·PWA | **v1. 5. 0** ·An- rô- a- rô- a- rô- a·Cửa sổ·Bộ duyệt· **Thử ra 158** · **0 sản xuất phụ thuộc** ·Không đo· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
+| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | QR và độc giả mã vạch mà**Giải nghĩa trước khi diễn**: 16 URL địa phương tín hiệu rủi ro và xác nhận rõ ràng | Bóng·Dart | **v1.0** ·An- rô- a- rô- a- rô- a·iOS·McOS·PWA·đã mã hóa lịch sử**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
+| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Cơ sở dữ liệu nhúng:`.db`Tập tin, WAL, tối ưu hóa dựa trên chi phí, HTTP/JSON API | Rust🦀 | Cửa sổ·McOS·Linux· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
+| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Bộ dàn nhạc địa phương: JSON chảy những dòng mở cửa sổ thật, tương tác với các hệ thống điện thoại và để lại bằng chứng | Python·Trình biên soạn·pywebview | **v0.3.0** · **27 luồng** ·đã xuất bản và kiểm tra bộ cài đặt có thể kiểm tra· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
+| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Nhà máy đầu tiên địa phương biến PDF, Word, web, Git, JSON, và CSV thành bộ dữ liệu có thể kiểm tra trước, chỉnh sửa, RAG, và đánh giá | Python | **v0.2.0** ·Windows + máy tính không hợp lệ·Bản phát hành đầu tiên· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
+| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Ứng dụng đầu tiên địa phương với 15 dữ liệu kiểm kê, 20 hướng dẫn, CLI/SSO, và chỉ đọc mặc định; thực hiện trong tiến trình, không truy cập phổ quát | JavaScript·Cửa sổ | **v0.1.1** ·Bản phát hành đầu tiên· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
+| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Bản đại diện khái niệm hướng dẫn của các hoạt động thương mại: catalog, cổ phiếu, CM, mệnh lệnh, thanh toán giả mạo và tính theo dõi | JavaScript·Mạng·Cửa sổ·An- rô- a- rô- a- rô- a | **v0.3.0** · **2 bản phát hành** ·Không có tiền thật hay sự hợp tác về thuế ở Chile· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
+| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Trình đọc chỉ máy tính người dùng i-one đầu tiên, với không phóng đại, lịch sử mở lại, chia sẻ Whats AppS share, và chọn lọc máy đọc mặc định | HTML·Mạng·An- rô- a- rô- a- rô- a·Cửa sổ | **v0.3.3** ·Đã ký AQ·không tài khoản, quyền hạn nhạy cảm, hay khả năng đo lường· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
+| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Một video, danh sách nhạc, hoặc**Toàn bộ kênh YouTube**để nhắn tin với nhãn thời gian. Nó không phụ thuộc vào phụ đề có sẵn: Thì thầm nhận ra âm thanh**trên máy tính của bạn**Không có hệ thống ADI, tài khoản hay phím để cấu hình | Python·PySide6·FastAPI·Nhanh hơn-whisper | **v0.2.0** ·Name`127.0.0.1`+ CLI,**chia sẻ cùng hàng đợi** ·MD·PDF·TXT·STT·VTT·JSON·MP3·OGG· **89 lần thử** ·FFmpe đã gói·Không đo· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
+| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Súng phóng tên lửa AI sáng tạo địa phương: dàn nhạc Qwen3-TTS, thì thầm.cpp, FaceFusion, AceForge, và ComfyUI | Tauri 2·Rust·Phản ứng | v0.5.1· **5 phần 5 công cụ có suy luận thật** ·Name·thử cửa sổ· **chưa xuất bản** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
+| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Phòng văn phòng từ đầu: luật tài liệu không phụ thuộc vào chất HTML — HTML chỉ là hình chiếu | Rust/WASM·Đi·Phản ứng 19 | Đơn điệu tiến hóa theo giai đoạn· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
+| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | Ứng dụng giáo dục cho trẻ em: sromatic musictor, sound-time chính xác nhịp điệu, các bài hát với violin thực | Tauri 2·Phản ứng·Ts | **v1.3. 0** ·Cửa sổ·An- rô- a- rô- a- rô- a·Linux·McOS·PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
+| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | Anh em ruột: 24 bài học trong 6 thế giới, 6 dây, nhịp điệu không bị trôi dạt, và 11 nốt guitar thật. | Tauri 2·Phản ứng·Ts | **v1.0. 0** ·Cửa sổ·An- rô- a- rô- a- rô- a·Linux·McOS·iOS·PWA·không tài khoản, quảng cáo, hay phụ thuộc trực tuyến· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
+| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca từ tuổi 10: 24 lớp trong 8 cấp độ, 72 hoạt động, phòng thí nghiệm 6 lớp (1 + 3 và 2 + 2 + 2) và biểu đồ sàn nhà có thể truy cập. Nó nói rằng nó**Phụ thêm, không thay thế**Giáo viên và người mang văn hóa | Bóng·Dart | **v0.2.0** ·An- rô- a- gát 7+·Cửa sổ 10/11Name·ApK·EXE·MRI·xách tay· **29 Thử + 2 chứng nhận** ·Không máy ảnh, micro, tài khoản, quảng cáo, hoặc internet· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+
+## 🧪Phòng thí nghiệm kỹ thuật
+
+| Ủy thác | Nó cho thấy gì? |
+|---|---|
+| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 vấn đề thật sự**(Tọa độ dưới tải, N + 1, thử lại bão, rò rỉ, khối đá, bãi rác, áp suất trở lại, di cư không-thời gian, bị lãng quên DLQ) với thất bại tiêm cao, được giải quyết trong**7 chồng**: PHP 8·Python·N thú y·Java 21·8 giờ tối.· **Đi 1.23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4. 10. 0** · **20 thùng**Bộ nhận mã nguồn 8n8n**18+B động cơ** —**19 Hoạt động**Từng cá nhân được kiểm toán với Docker**8- xan- xau**Kiểm tra, đường ray bảo vệ nhân sự, đột nhập và DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 Các vi rượu vi mạch chuẩn đoán và hiện đại hóa**cho PHP·Máy chủ chỉ đọc MCP cục bộ·Làm cứng lại 3 giai đoạn· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
+| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 Phòng thí nghiệm**trên một nền tảng 4 dịch vụ và tự động hoá`.exe`Bộ cài đặt có tên lửa· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
+| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 thùng**trên`wslc`Máy bán hàng bán hàng bán hàng bán tự động**Không có màn hình nền Docker** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
+| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | “ Màn hình nền cho unikernels: Windows điều khiển Unikraft với hậu phương của WSL2,`kraft`+ QEMU/KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
+| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 Phòng thí nghiệm**của sự ảo hóa thực với QEMU, KVM, libvirt, đám mây, và`vm-manager`trên Linux và WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
+| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Sự cô lập Linux: chạy mã số ba bên, tập tin và mô hình kinh doanh theo chính sách được công bố và**phát ra bằng chứng đã được ký mà điều khiển thực sự áp dụng** · **36 thùng**Trong hai gia đình, 15 nhân viên kỹ thuật và 21 thị trường chính·Phát biểu thực nghiệm và giáo dục, không phải một sản phẩm bảo mật.· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
+| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 Gia đình thanh toán**trong bản yêu cầu tự giải thích địa phương: các bang, sổ cái, hòa giải, an ninh và các hướng dẫn thực hiện· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
+| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Kinh nghiệm xã hội 3D thuộc địa: một phương pháp MVP và một kiến trúc đa trò chơi với SDK7, ECS và TypeS·Tài liệu hướng dẫn tiếng Tây Ban Nha·không thanh toán hay đo lường |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Những vụ án mà mỗi vụ thêm một dịch vụ AWS**và**Một khả năng hành động của GitHub mới·SaA-C03·DVA-C02·Trình tin SOA-C02 |
+
+## 🤖AI ứng dụng
+
+| Ủy thác | Nó cho thấy gì? |
+|---|---|
+| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **Hậu phương hoạt động 25/25**--- đánh máy, đường đi điều kiện, phát sóng NDJSON, chế độ DEMO/LVE, 8 lớp bảo mật, chia đôi 256 chuỗi giám sát |
+| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 đặc vụ hoạt động**Đối với luật Claude và các điều hành tương thích: mỗi người nhận được một nhiệm vụ hoàn chỉnh — sự tiến hóa được tổ chức, di sản hóa, thiết kế chương trình học, công bố danh mục, bảo hiểm, phân tích sự cố - dưới một hợp đồng đã được công bố, cổng con người, và bằng chứng có thể xác minh· **39 phép đánh giá xác định** ·34 lần thử·Không- deps (chỉ lib)·Linux·McOS·Cửa sổ· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
+| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | AI thứ nhất với công cụ MCP trong một hộp cát· `127.0.0.1`Buộc·Hồ sơ tin tưởng nhiều máy·Trung thực về giới hạn của nó |
+| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **Phần bổ sung 6 tác vụ**Có thể cài đặt trong mã Claude, OpenAI/Codex, Copitor, Song Tử và MCP từ một nguồn:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`, và`rootcause-response` · **69 tạo ra ô xem không bị trôi dạt**- Mỗi lần nhận được định dạng của nó từ cùng một hợp đồng·Không- deps·Linux·McOS·Cửa sổ· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
+| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 kỹ năng tác nhân**cho mã Claude· **Bảo mật**:: 12-acher`security-audit`(SÔI ĐÃ·Comment·EPSS·LAST·Hộp·Bí mật) và 14 giai đoạn`bitcoin-custody-audit` · **Mở cổng lại.**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **Sự đồng thuận**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **Docker**: `docker-cleanup`, `docker-compose-doctor` · **Các bác sĩ**: `md-to-doc` ·Không- deps·Stencils |
+| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 kỹ năng đặc biệt**Đối với Codex: an ninh và chuỗi cung ứng, trước khi bay, dòng chức năng, khả năng phục hồi và trạng thái, phát hành bằng chứng, Python/YAML/ Markdown Gate, phiên bản, phụ thuộc, Docker và tài liệu·Python- 1· `pnpm` ·Linux·McOS·Cửa sổ· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+
+## 🔬Tính toán khoa học
+
+| Ủy thác | Nó cho thấy gì? |
+|---|---|
+| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Nền tảng gen có khả năng bị thay đổi: đã gõ`ScientificResult<T>`hợp đồng, FASTA/GFF3/VCF, modules với**Sự thành thục và bằng chứng rõ ràng**Thành thật hoàn hảo: Nó không thực hiện chẩn đoán lâm sàng.· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
+
+<a id="forks"></a>
+
+## 🍴 Fork của dự án bên thứ ba (52)
+
+Đây là các fork của dự án người khác được lưu trong tài khoản này. **Không phải sản phẩm của riêng tôi**: công lao thuộc về tác giả gốc, không nằm trong bất kỳ con số nào của hồ sơ này, và mỗi mô tả chỉ tóm tắt những gì dự án gốc tuyên bố, không hàm ý hỗ trợ, kiểm toán hay kinh nghiệm vận hành thực tế của tôi. Mô tả theo dự án gốc · 2026-11-09.
+
+### 🤖 Agent lập trình và framework agent (18)
+
+| Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
+|---|---|---|---|
+| [**OpenHands**](https://github.com/vladimiracunadev-create/OpenHands) | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | TypeScript | Nền tảng agent cho phát triển phần mềm do AI dẫn dắt |
+| [**cline**](https://github.com/vladimiracunadev-create/cline) | [cline/cline](https://github.com/cline/cline) | TypeScript | Agent lập trình tự chủ dạng SDK, tiện ích IDE hoặc CLI |
+| [**opencode**](https://github.com/vladimiracunadev-create/opencode) | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | Agent lập trình mã nguồn mở |
+| [**qwen-code**](https://github.com/vladimiracunadev-create/qwen-code) | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | Agent lập trình AI mã nguồn mở cho terminal |
+| [**goose**](https://github.com/vladimiracunadev-create/goose) | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | Agent mở rộng được, cài đặt, chạy, sửa và kiểm thử mã với bất kỳ LLM nào |
+| [**pi**](https://github.com/vladimiracunadev-create/pi) | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | Bộ công cụ agent: API LLM hợp nhất, vòng lặp agent, TUI và CLI lập trình |
+| [**hermes-agent**](https://github.com/vladimiracunadev-create/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | Agent lớn lên cùng bạn (NousResearch) |
+| [**deepagents**](https://github.com/vladimiracunadev-create/deepagents) | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | Bộ khung agent «đầy đủ pin» (LangChain) |
+| [**crewAI**](https://github.com/vladimiracunadev-create/crewAI) | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Python | Framework điều phối các agent tự chủ có vai trò |
+| [**agent-framework**](https://github.com/vladimiracunadev-create/agent-framework) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | Python | Framework của Microsoft để xây dựng và triển khai agent và quy trình đa agent bằng Python và .NET |
+| [**deepseek-harness**](https://github.com/vladimiracunadev-create/deepseek-harness) | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | Bộ khung agent của DeepSeek nơi mọi thứ đều là plugin |
+| [**agent-orchestrator**](https://github.com/vladimiracunadev-create/agent-orchestrator) | [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Go | Lập kế hoạch, chạy và giám sát đội agent, từ tác vụ đến PR đã hợp nhất |
+| [**orca**](https://github.com/vladimiracunadev-create/orca) | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | Không gian làm việc với đội agent lập trình (máy tính, di động và từ xa) |
+| [**kander**](https://github.com/vladimiracunadev-create/kander) | [dualface/kander](https://github.com/dualface/kander) | Go | Bảng kanban điều phối agent lập trình với git worktree cô lập và agent rà soát |
+| [**OpenBot**](https://github.com/vladimiracunadev-create/OpenBot) | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | Đồng nghiệp AI, mỗi agent có máy tính riêng; mỗi hành động được quyết định trước và ghi lại sau |
+| [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Thư viện Python cho agent AI điều khiển trình duyệt |
+| [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI computer use cho agent AI |
+| [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter cho công cụ của agent» |
+
+### 🧩 Skill, plugin và quy trình cho agent (11)
+
+| Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
+|---|---|---|---|
+| [**claude-plugins-official**](https://github.com/vladimiracunadev-create/claude-plugins-official) | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | Thư mục chính thức do Anthropic quản lý gồm các plugin chất lượng cho Claude Code |
+| [**agentic-awesome-skills**](https://github.com/vladimiracunadev-create/agentic-awesome-skills) | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | Mặt phẳng điều khiển cục bộ để khám phá, chọn và xác thực danh mục lớn skill agentic (CLI, MCP cục bộ, plugin) |
+| [**claude-review-all**](https://github.com/vladimiracunadev-create/claude-review-all) | [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) | Python | Rà soát mã đa agent cho Claude Code |
+| [**blender-skills**](https://github.com/vladimiracunadev-create/blender-skills) | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | TypeScript | Skill Blender chuyên biệt cho agent lập trình, với pipeline dựa trên MCP |
+| [**diagram-design**](https://github.com/vladimiracunadev-create/diagram-design) | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | Thiết kế sơ đồ kiểu biên tập (HTML + SVG) cho agent lập trình |
+| [**elephant-goldfish-model**](https://github.com/vladimiracunadev-create/elephant-goldfish-model) | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Python | Skill mở của Google để thiết kế và rà soát phần mềm cùng agent AI |
+| [**Claude-Code-Game-Studios**](https://github.com/vladimiracunadev-create/Claude-Code-Game-Studios) | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Biến Claude Code thành studio game gồm các agent phối hợp |
+| [**headcount**](https://github.com/vladimiracunadev-create/headcount) | [cbrock84/headcount](https://github.com/cbrock84/headcount) | Markdown | Tổ chức agent dựng như một công ty: các phòng ban và skill cài được |
+| [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Nền tảng QA/QE mở với agent và skill cho toàn bộ vòng đời phần mềm |
+| [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Đội điều hành ảo: một nhân vật điều hành được 8 agent Claude chuyên biệt hỗ trợ |
+| [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Máy chủ MCP để Claude, Cursor hoặc Windsurf dựng quy trình n8n |
+
+### 🛡️ Bảo mật và phân tích phần mềm (8)
+
+| Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
+|---|---|---|---|
+| [**raptor**](https://github.com/vladimiracunadev-create/raptor) | [gadievron/raptor](https://github.com/gadievron/raptor) | Python | Biến Claude Code thành agent bảo mật tấn công và phòng thủ |
+| [**Cybersecurity-Projects**](https://github.com/vladimiracunadev-create/Cybersecurity-Projects) | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | Go | 70 dự án an ninh mạng từ cơ bản đến nâng cao |
+| [**SkillSpector**](https://github.com/vladimiracunadev-create/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | Trình quét bảo mật của NVIDIA cho skill của agent (chèn prompt, rò rỉ dữ liệu, chuỗi cung ứng) |
+| [**Anthropic-Cybersecurity-Skills**](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills) | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | Hàng trăm skill an ninh mạng cho agent, ánh xạ tới MITRE ATT&CK, NIST CSF và các khung khác |
+| [**security-audit-skill**](https://github.com/vladimiracunadev-create/security-audit-skill) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | Skill của Cloudflare cho kiểm toán bảo mật nhiều giai đoạn với phát hiện được xác minh độc lập |
+| [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Trình thu thập và phân tích website cho SEO, bảo mật, khả năng truy cập và hiệu năng |
+| [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Dịch ngược cùng agent, từ hành vi ứng dụng đến tệp nhị phân gốc |
+| [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Hiểu cách mọi phần mềm hoạt động và tự xây phần mềm của mình |
+
+### 🧠 Mô hình AI và hạ tầng (5)
+
+| Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
+|---|---|---|---|
+| [**marin**](https://github.com/vladimiracunadev-create/marin) | [marin-community/marin](https://github.com/marin-community/marin) | Python | Framework mở cho nghiên cứu và phát triển mô hình nền tảng |
+| [**prime-rl**](https://github.com/vladimiracunadev-create/prime-rl) | [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) | Python | Huấn luyện học tăng cường dạng agent quy mô lớn |
+| [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Khối xây dựng PyTorch cho hệ sinh thái OLMo |
+| [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Framework suy luận hiệu năng cao quy mô lớn cho các mô hình DeepSeek |
+| [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Sửa đổi mô hình ngôn ngữ không cần huấn luyện lại (kiểm duyệt, xu nịnh, v.v.) |
+
+### 🏢 Quản trị doanh nghiệp và nền tảng (6)
+
+| Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
+|---|---|---|---|
+| [**erpnext**](https://github.com/vladimiracunadev-create/erpnext) | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | ERP tự do mã nguồn mở |
+| [**odoo**](https://github.com/vladimiracunadev-create/odoo) | [odoo/odoo](https://github.com/odoo/odoo) | Python | Ứng dụng doanh nghiệp mã nguồn mở |
+| [**mautic**](https://github.com/vladimiracunadev-create/mautic) | [mautic/mautic](https://github.com/mautic/mautic) | PHP | Tự động hóa tiếp thị mã nguồn mở |
+| [**crm**](https://github.com/vladimiracunadev-create/crm) | [trycompai/crm](https://github.com/trycompai/crm) | TypeScript | CRM mã nguồn mở thiết kế cho agent AI (Comp AI) |
+| [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | Nền tảng phát triển trọn gói: quản lý mã nguồn, CI/CD, môi trường và kho artifact |
+| [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | Nền tảng theo dõi GPS mã nguồn mở, hơn 200 giao thức thiết bị |
+
+### 🎓 Giáo dục và tham khảo (4)
+
+| Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
+|---|---|---|---|
+| [**computer-science**](https://github.com/vladimiracunadev-create/computer-science) | [ossu/computer-science](https://github.com/ossu/computer-science) | HTML | Lộ trình tự học miễn phí về Khoa học Máy tính (OSSU) |
+| [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | Lộ trình tự học miễn phí về Toán học (OSSU) |
+| [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | Framework Python cộng đồng cho hoạt ảnh toán học |
+| [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Mã nguồn mẫu các trò chơi Atari 2600 bằng assembly |

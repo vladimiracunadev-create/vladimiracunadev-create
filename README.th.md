@@ -11,14 +11,21 @@
 [![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#ขอบเขตงาน)
-[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#ผลตภณฑทมการเผยแพรจรง)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#หลกสตรเทคนคฉบบสมบรณ)
+[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.th.md)
+[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
 
 <!-- STATS:START -->
+<<<<<<< HEAD
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนเวศ)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#หลกสตรเทคนคฉบบสมบรณ)
+=======
+[![Public repos](https://img.shields.io/badge/public%20repos-64-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-151-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนิเวศ)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-14530-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
+>>>>>>> 65bf18d (docs: separa ecosistema y gestión en documentos independientes por idioma)
 [![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 <!-- STATS:END -->
 
@@ -26,12 +33,12 @@
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
 [🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
-[🧩 Ecosystem](#ภาพรวมระบบนเวศ) ·
-[⚡ Evaluate me in 10 minutes](#หากคณมเวลา-10-นาทเพอประเมนผม) ·
+[🧩 Ecosystem](#ภาพรวมระบบนิเวศ) ·
+[⚡ Evaluate me in 10 minutes](#หากคุณมีเวลา-10-นาทีเพื่อประเมินผม) ·
 [✅ Professional scope](#ขอบเขตงาน) ·
-[🧭 Non-coding management](#การจดการ-การบรหาร-และโอกาสงานทไมประสบความสาเรจ) ·
+[🧭 Non-coding management](#การจัดการ-การบริหาร-และโอกาสงานที่ไม่ประสบความสําเร็จ) ·
 [📋 Role matrix](PROFESIONAL_ROLES.md) ·
-[📬 Contact](#ตดตอ)
+[📬 Contact](#ติดต่อ)
 
 **🌐 ฉบับเต็ม:** [Español](README.md) · [English](README.en.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Deutsch](README.de.md) · [Українська](README.uk.md) · [Polski](README.pl.md) · [العربية](README.ar.md) · [فارسی](README.fa.md) · [Bahasa Indonesia](README.id.md) · [Nederlands](README.nl.md) · [हिन्दी](README.hi.md) · [Ελληνικά](README.el.md)
 
@@ -93,61 +100,17 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 📦ผลิตภัณฑ์ที่มีการเผยแพร่จริง
+## 🗂️ ระบบนิเวศ: ผลิตภัณฑ์ ห้องปฏิบัติการ AI ประยุกต์ และการคำนวณเชิงวิทยาศาสตร์
 
-ซอฟต์แวร์ ที่ ถูก ดาวน์โหลด, ติดตั้ง, และ ใช้ — ไม่ เพียง แต่ โคลน เท่า นั้น.
+ผลงานเชิงปฏิบัติของโปรไฟล์นี้อยู่ในเอกสารแยกต่างหาก ได้แก่ ซอฟต์แวร์ที่ดาวน์โหลดและติดตั้งได้ ห้องปฏิบัติการวิศวกรรม AI ประยุกต์ และการคำนวณเชิงวิทยาศาสตร์ พร้อมคำอธิบายของ fork โปรเจกต์ของบุคคลที่สามทุกรายการในบัญชี
 
-| โพรดุก | ว่ามันคืออะไร | สแต็ก | บริการส่ง |
-|---|---|---|---|
-| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | นิติเวชไซเบอร์ การบิดเบือนของทรัพยากร ผิดปกติทุกรูปแบบ อาจเป็นสัญญาณแรกของภัยคุกคาม วินิจฉัยก่อน, แทรกแซงภายหลัง | แปรงทาสี🦀 ·ESW/ WPR | **v0.19. 0** · **16 ออกจําหน่าย** · **5 ฉบับ**ส่วนติดต่อผู้ใช้·ย้ายได้·CLI·เชลล์พลังงาน·รหัส VS· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | พี่น้องมือถือ: เซ็นเซอร์นิติเวชที่เปรียบเทียบโปรแกรมแต่ละกับตัวเอง, เว็บแท็กแวร์ธง, และแยกสิทธิ์ที่ได้รับจากเพียงหนึ่งที่ต้องการ | แปรงทาสี·ค็อตลิน·ไว | **v0. 0** ·แอนดรอยด์ APK ที่สามารถตรวจสอบได้·5 ภาษา· **ศูนย์โทรศัพท์** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
-| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | พิมพ์ MacOS:`launchd`ความพยายาม, ผู้รักษาประตู, SIP, fileVlod, XCL, สิทธิ์ในการใช้ TCC, โพรเซสที่ลงนาม, และเพื่อนบ้านของเครือข่าย — ทุกพื้นผิวตรวจสอบกับรัฐที่ดีที่รู้จักกัน | แปรงทาสี🦀 ·MacOS 13+ | **v0. 0** ·ออกครั้งแรก·Apache-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
-| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | พี่เซิฟเวอร์: เชื่อมสัมพันธ์กันในสิ่งที่ไม่มีบันทึกเดียวเห็นด้วยกัน — ผิวที่เปิดเผย, การระเบิดของเครื่องช่วยหายใจ, การแบ่งเวลาให้ที่อยู่เดิม, ความสมบูรณ์ของไฟล์ที่สําคัญ, และความเงียบของเซ็นเซอร์ — และเปลี่ยนให้เป็นประโยคเดียวที่สามารถทํางานได้ | แปรงทาสี🦀 ·หน้าต่าง·ลินุกซ์·มากอส | **v0.0.** · **18 กฎ**ด้วยหลักฐานและสมุด·ไม่ประมวลผลการกระทําด้วยตัวมันเอง·คอนโซลภายในโดยไม่ขึ้นต่อกันบนเว็บ· **ยังไม่มีการเผยแพร่** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
-| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | เซ็นเซอร์พิสูจน์หลักฐานของเบราว์เซอร์: คุกกี้, วาระงานอีเมล, ส่วนขยาย, ดาวน์โหลด, สิทธิ์การใช้งาน, และหน้าที่เลียนแบบหน้าต่างจริง | จาวาสคริปต์·ส่วนขยาย MV3 | **v0.0.** ·ยังไม่มีการเผยแพร่·แผงควบคุม`127.0.0.1` ·ไม่ขึ้นกับสิ่งใด·ตรวจความถูกต้องของโทรศัพท์เป็นศูนย์ใน CI· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
-| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | การป้องกันเฉพาะสําหรับบิตคอยควบคุม: ประดิษฐ์ที่มาของแต่ละคีย์, cross-ตรวจสอบด้วย แจ้งเตือนที่ตีพิมพ์และอธิบายสาเหตุรากกับหลักฐาน | จาวาสคริปต์·แอพพลิเคชันของวินโดวส์·แถบพาเนลภายใน | **v0.3. 0** · **2 เผยแพร่** ·ไม่ขึ้นกับสิ่งใด·ไม่เคยขอเมล็ด·ยืนยันใน CI· [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
-| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | คอนโซลหลายสายเท่านั้น: สัญญานักประดิษฐ์, พระราชทาน, คํา ทํานาย, สะพาน, การควบคุม, และความขึ้นต่อกัน, และสร้าง roots root-rofile scootbooks | จาวาสคริปต์·แอพพลิเคชันของวินโดวส์·แถบพาเนลภายใน | **v0.3. 0**ในคลังเก็บ·เผยแพร่เผยแพร่:`v0.1.0` ·ไม่ขึ้นกับสิ่งใด·ไม่เคยขอกุญแจส่วนตัว·ยืนยันใน CI· [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
-| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | International Android App for Incode QR ก่อนการดําเนินงาน: อธิบายสัญญาณ 26 อัน แยกข้อเท็จจริงจากสมมุติฐาน และส่งออกหลักฐานที่แก้ไข | แปรงทาสี·สีแดง | **v0. 4** · **5 เผยแพร่** · **ทดสอบ 107** ·จัด พิมพ์ แอนดรอยด์ เอพีเค·เปรียบเทียบ SHA-256 ได้·ลายเซ็นแพกเกจ April ของ APK; ลายเซ็น พาณิชย์/ slotation อยู่ระหว่างดําเนินการ·ศูนย์โทรศัพท์· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
-| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | กํากับ SSA จากก่อนที่จะมีการรวมกิจการ ใกล้เคียงกับแต่ละเดือน การรวมเข้ากับหลักฐาน, VAT ดําเนินการไปข้างหน้า, ฟอร์โมชั่น F29, การย้ายถิ่น, การติดตาม และการตรวจสอบบันทึก กฎเกณฑ์ทุกข้อชี้ไปยังแหล่งอย่างเป็นทางการ | จาวาสคริปต์·แปรงทาสี·ขนาด PWA | **v1.5. 0** ·แอนดรอยด์·หน้าต่าง·เบราว์เซอร์Comment· **158 ทดสอบ** · **การขึ้นต่อกันระหว่างการผลิต 0** ·ศูนย์โทรศัพท์· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
-| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | โปรแกรมอ่าน barcode ที่ QR และตัวอ่าน**แปลความหมายก่อนแสดง**สืบค้นเมื่อ: | แปรงทาสี·สีแดง | **v1. 0** ·แอนดรอยด์·ISO·มากอส·ขนาด PWA·ประวัติการเข้ารหัส**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
-| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | ฐานข้อมูลที่ฝังแนบมาด้วย:ซิงเกิล`.db`แฟ้ม, WAL, การปรับแต่งค่าใช้จ่าย, HTTP/Json API | แปรงทาสี🦀 | หน้าต่าง·มากอส·ลินุกซ์· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
-| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | วงออร์เคสตราท้องถิ่น: Json ไหลเวียนที่เปิดหน้าต่างจริง โต้ตอบกับ DOM และทิ้งหลักฐาน | Python·รายการเล่น·กราฟิกแบบไพวี | **v0.3. 0** · **27 ระดับความโปร่งแสง** ·ตัวติดตั้งแบบพิมพ์และตรวจสอบได้· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
-| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | โรงงานท้องถิ่นที่เปลี่ยน PDF, Word, web, web, Git, Json, และ CSV เป็นชุดข้อมูลการตรวจสอบสําหรับผลิต, ปรับละเอียด RAG และการประเมิน | Python | **v0.0.** ·วินโดวส์ + แอนดรอยด์ออฟไลน์·ออกครั้งแรก· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | apps ภายในระบบแรกที่มี 15 AWS การรวมรายการ, 20 ทิศทาง, CLI/SO และอ่านได้อย่างเดียว; การจัดทําในความคืบหน้าไม่ได้เข้าถึงสากล | จาวาสคริปต์·หน้าต่าง | **v0.1** ·ออกครั้งแรก· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
-| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | ตัวอย่างแนวคิดกํากับของการดําเนินการเชิงพาณิชย์: แคตตาล็อก, หุ้น, CRM, คําสั่งเยาะเย้ยการจ่ายเงินและสามารถติดตาม | จาวาสคริปต์·เว็บ·หน้าต่าง·แอนดรอยด์ | **v0.3. 0** · **2 เผยแพร่** ·ไม่มีส่วนร่วมของ อํานาจภาษีแบบจริงหรือชิลี· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | โปรแกรมอ่านแบบแอนดรอยด์แบบอ่านได้แบบท้องถิ่น (Android-round) รุ่นแรก โดยไม่มีขนาดย่อแบบย่อ, เปิดอ่านได้, แบ่งปันข้อมูล, และเลือกอ่านโดยปริยาย | HTML·เว็บ·แอนดรอยด์·หน้าต่าง | **v.3.** ·เซ็นชื่อ APK·ไม่มีส่วนบัญชีผู้ใช้, สิทธิ์ที่ละเอียดอ่อน, หรือตัวโทรคมนาคม· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
-| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | วีดีโอ, รายการเล่น, หรือ**ช่องสัญญาณทั้งหมดบน YouTube**ส่งข้อความด้วยเวลา ไม่ต้องใช้คําบรรยายที่มีอยู่: กระซิบจดจําเสียง**ในเครื่องของคุณ**สืบค้นเมื่อไม่มี API, บัญชี หรือกุญแจที่จะปรับแต่ง | Python·ไพย์·OCKI·หนวดเร็ว | **v0.0.** ·หน้าต่างหน้าจอของวินโดวส์ + แผงระบบบน`127.0.0.1`+ CLI**ใช้คิวเดียวกัน** ·MD·PDF·TXT·ขนาด SRT·วีทีที·เจ สัน·MP3·Oggy· **89 ทดสอบ** ·แพ็ค FPPeg·ศูนย์โทรศัพท์· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
-| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | AI ในท้องถิ่น: Partwards Qwen3-TTS, กระซิบ.cpp, Facefation, AceForge, และ ComfiUI | ทาอุรี 2·แปรงทาสี·ย้อนกลับ | v0.5. 1· **เครื่องมือ 5/5 ที่มีการอนุมานจริง** ·ภาพไอคอนแอปเปิล MacOS·การทดลองวินโดวส์· **ยังไม่มีการเผยแพร่** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
-| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | ห้อง ชุด สํานักงาน จาก ที่ ขีดข่วน: กฎ เอกสาร ไม่ ได้ ขึ้น อยู่ กับ DOM — HTML เป็น เพียง การ อนุมาน | Rust/ WASSM·ไป·ย้อนกลับ 19 | วิวัฒนาการ โมโนเรโป โดย เฟส· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
-| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | แอพเพื่อการศึกษาสําหรับเด็ก: เครื่องบันทึกเสียงโครมาติก, เครื่องเสียง-เวลาที่เหมาะสม, เพลงที่มีไวโอลินจริง | ทาอุรี 2·ย้อนกลับ·ขนาด TS | **v1.3.0** ·หน้าต่าง·แอนดรอยด์·ลินุกซ์·มากอส·ขนาด PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
-| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | พี่น้องเชือกตัด : 24 บทเรียนใน 6 โลก, เครื่องจูน 6 สาย, เมโทรนอมฟรี, และ 11 กีตาร์จริง | ทาอุรี 2·ย้อนกลับ·ขนาด TS | **v1. 0** ·หน้าต่าง·แอนดรอยด์·ลินุกซ์·มากอส·ISO·ขนาด PWA·ไม่ มี บัญชี, โฆษณา, หรือ การ ติด ต่อ สื่อสาร ทาง อินเทอร์เน็ต· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
-| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca ตั้งแต่อายุ 10: 24 ห้องเรียนใน 8 ระดับ กิจกรรม 72 อย่าง ห้องปฏิบัติการ 6 เพลา (3+3 และ 2+2+2) และแผนภาพพื้นที่เข้าถึงได้ มันกล่าวว่ามัน**คอมพลีเมนต์ ไม่แทนที่**ครูและผู้ถือวัฒนธรรม | แปรงทาสี·สีแดง | **v0.0.** ·แอนดรอยด์ 7+·วินโดวส์ 10/11·APK·ExE·MSI·เลือกแบบพกพา· **29 ทดสอบ + 2 ตัวตรวจความถูกต้อง** ·ไม่มีกล้อง ไมโครโฟน บัญชีธนาคาร โฆษณา หรืออินเตอร์เน็ต· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+- 📦 **ผลิตภัณฑ์ที่มีการเผยแพร่จริง** (22)
+- 🧪 **ห้องปฏิบัติการวิศวกรรม** (11)
+- 🤖 **ปรับใช้ AI** (6)
+- 🔬 **การประมวลผลเชิงวิทยาศาสตร์** (1)
+- 🍴 **Fork ของโปรเจกต์บุคคลที่สาม** (52)
 
-## 🧪ห้องปฏิบัติการวิศวกรรม
-
-| รีโป | สิ่งที่มันแสดงให้เห็น |
-|---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 ปัญหาจริง**(สายภายใต้การโหลด, N+1 พายุ retricing, รั่วไหล, ก้อนหิน, แคช ประทับ, หด, การย้ายที่ศูนย์เวลา, ลืม DLQ) กับความล้มเหลวใน การฉีดวัคซีนระดับสูง, แก้ปัญหาได้**สแต็ก 7 สแต็ก**PHP 8·Python·โหนด. js·ชวา 21·.NET 8· **ไป 1.23** · **Russt 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4. 10. 0** · **20 คดี**แหล่งที่มา 82000 – กว่า**18+ เครื่องยนต์ DB** —**19 ปฏิบัติการ**แต่ละคนตรวจสอบกับโดเกอร์**8 เลเยอร์**ตรวจ, ป้องกัน ตัว เอง, เบรกเกอร์, และ DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
-| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 การ วินิจฉัย และ การ ปรับ ปรุง ไมโคร แอ ป**สําหรับ PHP·เซิร์ฟเวอร์ MCP ภายในระบบแบบอ่านอย่างเดียว·แข็ง ตัว ใน สาม ช่วง· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
-| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 ห้อง แล็บ**บนแพลตฟอร์ม 4 บริการ + อัตโนมัติ`.exe`ตัวติดตั้งพร้อมตัวยิง· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
-| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 กรณี**บน`wslc`เครื่องบรรจุของ WSL พื้นเมือง**ไม่มีพื้นที่ทํางานของโดกเกอร์** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
-| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | "Dopker December for Unkernes": โปรแกรมควบคุมวินโดวส์เหนือยูนิเคียฟด้วยโปรแกรมเบื้องหลัง WSL2`kraft`+ QEMU/ KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
-| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 แลป**ของจริงการจําลองด้วย QEMU, KVM, libvert, เมฆ-idit, และ`vm-manager`บนลินุกซ์และ WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
-| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | การแยกลินุกซ์: ทํางานรหัสภาคที่สาม ไฟล์ และโมเดลธุรกิจภายใต้นโยบายประกาศและ**ส่งหลักฐานที่ลงนามว่าตัวควบคุมนั้นใช้จริง** · **36 กรณี**ในสองครอบครัว มีเทคนิค 15 อย่าง และตลาดทุน 21 แห่ง·ประกาศการทดลองและการศึกษา ไม่ใช่ผลิตภัณฑ์รักษาความปลอดภัย· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
-| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 ครอบครัวที่จ่ายเงิน**ในตัวอย่างการอธิบายตัวเองในท้องถิ่น: รัฐ, บัญชี, ประนีประนอม, ความ ปลอดภัย, และคู่มือการทํางาน· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
-| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | สืบค้นเมื่อ 3 มิติ จากประเทศไทย สถาปัตยกรรมของชาติไทยและชาติไทย โดยมี SDK7, ESC และประเภท Script·เอกสารภาษาสเปน·ไม่มีการชําระเงินหรือค่าโทรศัพท์ |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | เหตุการณ์ที่คืบหน้า ซึ่งแต่ละรายเพิ่มบริการ AWS**และ**ความสามารถในการประมวลผลกลุ่มผู้ใช้แบบ GitHub ใหม่·SAA- C03·DVA- C02·SOA-C02 ออกอากาศ |
-
-## 🤖ปรับใช้ AI
-
-| รีโป | สิ่งที่มันแสดงให้เห็น |
-|---|---|
-| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/ 25 โปรแกรมเบื้องหลังการทํางาน**- ชนิดของรัฐ เส้นทางสภาพ NDJson สตรีม, DEMO/LFFF ชั้นรักษาความปลอดภัย 8 ชั้น, cha256 สายของการดูแล |
-| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 เจ้าหน้าที่ปฏิบัติการ**สําหรับรหัสและเวลาที่เหมาะสมกับน้ําน้ําดี แต่ละคนจะได้รับภารกิจที่สมบูรณ์ — วิวัฒนาการแบบปรับปรุงใหม่, การรับมรดก การออกแบบหลักสูตร, ผลงานพิมพ์ชุดวงจรการรักษาความปลอดภัย วิเคราะห์เหตุการณ์ -- ภายใต้สัญญาประกาศประตูของมนุษย์และหลักฐานที่เชื่อถือได้· **39 การ ประเมิน โดย ไม่ มี เงื่อนไข** ·34 ทดสอบ·ไม่ใช้เอฟเฟ็คต์·ลินุกซ์·มากอส·หน้าต่าง· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
-| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | AI ภายในระบบแรกพร้อมเครื่องมือ MCP ในกล่องทราย· `127.0.0.1`แนบ·โพรไฟล์หลายชนิด·ความซื่อสัตย์เกี่ยวกับข้อจํากัดของมัน |
-| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 ส่วนเสริมตัวแทน**ติดตั้งได้ในรหัส Claude, OpenAI/Codex, Codex, Comor, Gemini, และ MCP จากแหล่งเดียว:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`และ`rootcause-response` · **69 มุมมองที่สร้างโดยไม่ลอย**- เวลาทํางานแต่ละรายการได้รับรูปแบบจากสัญญาเดียวกัน -·เฟรม% 1·ลินุกซ์·มากอส·หน้าต่าง· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
-| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 ทักษะการเป็นตัวแทน**สําหรับรหัสคล้าด· **ความปลอดภัย**12  ภูมิลําเนา`security-audit`(โอเอสวี)·เว็บ·ESMS·สคริปต์ SPN·กล่อง·2555) และ 14 ฤดูกาล พ.ศ.`bitcoin-custody-audit` · **เกตแบบรีโป**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **ความสอดคล้อง**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **ด็อกเกอร์**: `docker-cleanup`, `docker-compose-doctor` · **ด็อก**: `md-to-doc` ·เฟรม% 1·แบบตัดภาพ |
-| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 ทักษะการเป็นตัวแทน**สําหรับโคเด็กซ์: ห่วงโซ่ความปลอดภัยและอุปทาน, การไหล, การยืดหยุ่นและรัฐ, ปล่อยหลักฐาน, Python/YAML/GMLLLLFunkown เกต, การปรับโครงสร้าง, การขึ้นต่อกัน, Doker, และเอกสาร·Python- คนแรก· `pnpm` ·ลินุกซ์·มากอส·หน้าต่าง· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+👉 **[ดูระบบนิเวศทั้งหมด](docs/ECOSYSTEM.th.md)** · [🍴 Fork ของโปรเจกต์บุคคลที่สาม](docs/ECOSYSTEM.th.md#forks)
 
 ## 📚หลักสูตรเทคนิคฉบับสมบูรณ์
 
@@ -178,12 +141,6 @@ flowchart TD
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14. 0** ·จากศูนย์ถึงโปรแกรมโครงสร้างพื้นฐานการเงินและบนเครื่องมือวิเคราะห์· **91 กิจ.**และ**ทดสอบ 363** ·สัญญากับผู้ก่อตั้ง (การพ้องและ diversants) และการวิเคราะห์ความต่อเนื่องของสลิเธอร์ใน CI·แอพพลิเคชันที่ทํางานอยู่สําหรับตรวจสอบอัตโนมัติ โดยจะเปิดส่วนย่อยของข้อมูล (bign) และทําการนับเนื้อหา· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 มอดูล·≈214 ชั่วโมง· **สมุดบันทึก 93 เล่ม**-31 ห้องเรียน รุ่นนักเรียน 31 และทางออก 31 ฉบับ -·คํา ถาม, แผนที่ ภาพ, การ ปฏิบัติ, และ การ ประเมิน ด้วย ข้อมูล ของ ประชาชน จริง ๆ·พ.ศ.· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **มอดูลฝึก 41**หนึ่งเครื่อง· **502 h 15 นาที** ·ระบบ, การควบคุม, ฟิสิกส์, ความปลอดภัย, และแบบจําลองออกแบบกับแหล่งข้อมูลต่อชั้นเรียน·♪ยังไม่มีโปรแกรมจําลองการประมวลผลยังและมันก็ประกาศวิธีการที่♪ |
-
-## 🔬การประมวลผลเชิงวิทยาศาสตร์
-
-| รีโป | สิ่งที่มันแสดงให้เห็น |
-|---|---|
-| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | เวที genomics resroaducics residented: planguage`ScientificResult<T>`สัญญา, หน้าเว็บ, หน้าเว็บ, และบริการ FSA/ GFF3/ VCF, โมดูลร่วมกับ**ความ อาวุโส และ หลัก ฐาน ที่ ชัดเจน**ความซื่อสัตย์สุดโต่ง : * มันไม่ดําเนินการวินิจฉัยโรค*· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
 
 ## ⚡หากคุณมีเวลา 10 นาทีเพื่อประเมินผม
 
@@ -223,7 +180,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **ความซื่อสัตย์เกี่ยวกับสถานะ**— อีก หนึ่ง เรโป ถูก เปลี่ยน ชื่อ (ค.ศ.`Multisimulador` → `machine-operator-program`เพื่อหลีกเลี่ยงซอฟท์แวร์ที่ยังไม่มีอยู่
 - **แบดเจอร์เป็นสัญญาณ ไม่ใช่หลักฐาน**-การยึดทรัพย์สินของแต่ละฝ่ายยังประกาศ**สิ่งที่มันไม่ทํา**.
 - **โมเดลภายนอก**— โดเมน ถูก ออก แบบ มา ก่อน ส่วน ต่อ นี้ เป็น การ ฉาย ภาพ.
-- **งานภายนอกถูกประกาศเป็นภายนอก**— จาก การ จัด เตรียม ต่อ สาธารณชน 70 แห่ง 64 แห่ง ของ เรื่อง นี้ เป็น งาน ของ ผม เอง. อีก หก คน —[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe), [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), [`raptor`](https://github.com/vladimiracunadev-create/raptor)และ[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)-เป็นส้อมและถูกกีดกันจากตัวเลขทั้งหมด สําหรับงานของตัวเอง
+- **งานภายนอกถูกประกาศเป็นภายนอก** — [52 fork](docs/ECOSYSTEM.th.md#forks) ของโปรเจกต์บุคคลที่สามอธิบายทีละรายการ และไม่นับรวมในตัวเลขผลงานของตนเองใดๆ ในโปรไฟล์นี้
 
 ## ✅ขอบเขตงาน
 
@@ -248,26 +205,11 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 
 ## 🧭การจัดการ, การบริหาร, และโอกาสงานที่ไม่ประสบความสําเร็จ
 
-ขอบเขตนี้มิได้อ้างว่า ทุกชื่อมีชื่อดังกล่าวถูกจัดขึ้น การ ทํา เช่น นี้ มี ความ สําคัญ อย่าง ยิ่ง ต่อ งาน ที่ มี การ รวม กัน ของ การ คํานวณ, การ บริหาร ธุรกิจ, และ หลัก ฐาน ของ สาธารณชน สามารถ ก่อ ให้ เกิด คุณค่า โดย ไม่ ต้อง มี การ จํา รหัส เป็น หน้า ที่ หลัก.
+ตำแหน่งงานด้านการจัดการ การบริหาร และธุรกิจ ที่ความรู้ด้านสารสนเทศและการบริหารสร้างคุณค่าได้โดยการเขียนโปรแกรมไม่ใช่งานหลัก จัดประเภทอย่างตรงไปตรงมา (ทักษะที่ถ่ายโอนได้ โอกาสสมัครงาน หรือเป้าหมายในอนาคต) พร้อมช่องว่างของแต่ละตำแหน่ง ขอบเขตที่ครอบคลุม:
 
-| ตระกูลมืออาชีพ | บทบาทที่จดจํา | จําแนกประเภทได้ซื่อสัตย์ | การจับ | หลัก ฐาน และ สภาพ การณ์ |
-|---|---|---|---|---|
-| **ผู้นําเทคโนโลยี** | หัว เรื่อง·ตัวจัดการปฏิบัติการของ IT·ตัวจัดการการแปลงดิจิทัล·ไอโอ | **เป้าหมายของโปรแกรม / อนาคต** | ไม่มี/ เลือก | ฐาน ทาง เทคนิค ที่ เข้ม แข็ง; ผู้ คน, งบ ประมาณ, ผู้ ขาย, และ ผู้ บริหาร ต้อง ได้ รับ การ พิสูจน์ ว่า ต้อง แยก กัน อยู่ |
-| **การจัดการโครงการ** | โปรเจกต์ Cortignator/Manager·แบบ PMO·อาจารย์สแครตซ์·การ ช่วย ให้ รอด แบบ อัก เงิล | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี/ เลือก | การ ส่ง และ ปล่อย หลัก ฐาน; ทีม งาน ทางการ, งบ ประมาณ, และ ผู้ สนับสนุน ยัง คง เป็น ช่อง ว่าง |
-| **การ บริหาร ธุรกิจ** | ผู้บริหารธุรกิจ·ตัวจัดการระบบ/ OCPERSE (institute)·ผู้ดูแลระบบ | **มีศักยภาพในการโปรแกรม** | ไม่มี | ปริญญาธุรกิจและวัตถุที่ประกอบงาน ต้องการการรับรองการเป็นเจ้าของทรัพยากร, ประชาชน, และผู้ผลิต |
-| **วางแผนและเปลี่ยนแปลง** | ที่ปรึกษาด้านยุทธศาสตร์·เปลี่ยนตัวจัดการ·วางแผนจัดการขององค์กร·การ สร้าง สรรค์ และ การ เปลี่ยน แปลง | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี | มรดก การ ทํา ให้ ทัน สมัย และ การ ประเมิน ทาง แก้ ต้อง มี การ แสดง ให้ เห็น ผล แห่ง การ รับ เป็น บุตร ของ องค์การ |
-| **วิเคราะห์ธุรกิจ** | วิเคราะห์ธุรกิจ·การวิเคราะห์/ การถามซ้ํา·ขนาด BPM·ปรับ ปรุง อย่าง ต่อ เนื่อง | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี/ เลือก | การ จําลอง และ ข้อ เรียก ร้อง ของ โดเมน เป็น หลัก ฐาน; ผู้ ที่ เป็น ผู้ ถือ หลัก ฐาน ต่าง ประเทศ จะ ทํา ให้ ข้อ อ้าง นี้ เข้ม แข็ง ขึ้น |
-| **โปรดักต์และบริการ** | ผู้จัดจําหน่าย/ ผู้จัดจําหน่าย·ปฏิบัติการโปรดักต์·บริการ·สําเร็จเป็นเลิศของลูกค้า | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี/ เลือก | โรดแมป, รถ ชูชีพ, ปล่อย, และ ปฏิบัติ การ; พีแอนด์แอล, ชุด ของ ลูกค้า, และ หลัก ฐาน ของ เอส แอล แตก ต่าง กัน ไป ใน เรื่อง บทบาท |
-| **การจัดการความปลอดภัยทางไซเบอร์** | กราฟแสดงความถี่·หนังสือ นี้ ควบคุม ผู้ ดู แล·ความเสี่ยงทางเทคโนโลยี·ความปลอดภัยข้อมูล / ความต่อเนื่อง | **มีศักยภาพในการโปรแกรม** | ไม่มี/ เลือก | การ ควบคุม และ ราก เหง้า เป็น หลัก ฐาน; การ ตรวจ สอบ องค์การ และ หลัก ฐาน ที่ เกี่ยว ข้อง กัน นั้น ยัง คง อยู่ |
-| **การ ค้า และ การ ขาย** | พรีเซลเทคโนโลยี·วิธี แก้ ปัญหา·เทคนิก KAM·บี2B การพัฒนาธุรกิจ | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี | การ แปล แบบ แก้ไข และ ค่า นิยม ที่ เข้ม แข็ง; โควตา, ประมวล กฎหมาย บัญชี, และ สัญญา เจรจา ไม่ ได้ อ้าง ว่า เป็น การ เจรจา |
-| **การเงินและการจัดการควบคุม** | งบประมาณ/ การวิเคราะห์ความจุ·การแทนที่โครงการ·FP&A·การควบคุมการจัดการ | **มีศักยภาพในการโปรแกรม** | ไม่มี | สิ่งประดิษฐ์การเงิน/ phinos; งบประมาณจริง, บัญชีการเงิน, และบริษัท KPIs |
-| **คุณภาพ** | การวิเคราะห์โพรเซส/  Quecture·ตัวแบ่งส่วนโพรเซส·ปรับ ปรุง อย่าง ต่อ เนื่อง | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี/ เลือก | ประตู, การทดสอบ, เมตริก, และ ตอบโต้ได้; คุณภาพของระบบอย่างเป็นทางการยังคงช่องว่าง |
-| **การศึกษา** | ผู้ ฝึก อบรม ด้าน เทคนิค·ตัวนําทาง·ตัวผสมเสียงแบบอะคาเดมี·เอดเทค / ผู้ ออก แบบ ที่ มี ความ รู้ | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี/ เลือก | 21 โครงการ และ 14,530 คลาส การสอนอย่างเป็นทางการและผลการเรียนต้องปรากฏเป็นหลัก |
-| **ผู้ จัด จําหน่าย และ ผู้ ผลิต ไม้ ซุง** | การเกิดขึ้นอีก·ตัวคอมโพเนนท์/ ดําเนินการจัดการแพกเกจ·ตัวจัดการผู้จําหน่าย/ คอนแทรค | **มีศักยภาพในการโปรแกรม** | ไม่มี | กรรมวิธี และ ฐาน การ บริหาร; การ จัด หา ของ จริง, การ เก็บ ของ, และ การ จัด หา ของ ผู้ ซื้อ เป็น สิ่ง จําเป็น |
-| **ข้อมูล และ การ ควบคุม AI** | ประมวลผลข้อมูล·การ ปกครอง แบบ ราช อาณาจักร·การ รับ เป็น บุตร บุญธรรม / การ ปกครอง | **มีศักยภาพที่จะถ่ายโอน / แอพพลิเคชัน** | ไม่มี/ เลือก | ข้อมูลที่อ่านได้และตัวแทนที่มนุษย์เปิดรับ นโยบายองค์กรและคณะกรรมการยังคงช่องว่าง |
-| **ภาคต่อ** | การ ปรับ ปรุง ใหม่·ตัวจัดการระบบ ICT·โปรเจกต์ดิจิทัล·วางแผนสาธารณะ | **มีศักยภาพในการโปรแกรม** | ไม่มี | Offonan-context ระบบและติดตาม; ประชาธิปัตย์และประสบการณ์ส่วน |
+ผู้นําเทคโนโลยี · การจัดการโครงการ · การ บริหาร ธุรกิจ · วางแผนและเปลี่ยนแปลง · วิเคราะห์ธุรกิจ · โปรดักต์และบริการ · การจัดการความปลอดภัยทางไซเบอร์ · การ ค้า และ การ ขาย · การเงินและการจัดการควบคุม · คุณภาพ · การศึกษา · ผู้ จัด จําหน่าย และ ผู้ ผลิต ไม้ ซุง · ข้อมูล และ การ ควบคุม AI · ภาคต่อ
 
-เดอะ[full Spanish role matrix](PROFESIONAL_ROLES.md)ราย ละเอียด ที่ มี เป้า หมาย หน้า ที่ รับ ผิด ชอบ ประสบการณ์ ทาง การ ตลาด ความ รู้ เสริม สร้าง หลัก ฐาน ความ เข้า กัน ได้ และ ช่อง ว่าง ตลอด 14 ครอบครัว.
+👉 **[ดูเมทริกซ์โอกาสทั้งหมด](docs/MANAGEMENT.th.md)**
 
 ## 🤖กระบวนการพัฒนาที่มี AI ช่วย
 

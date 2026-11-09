@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-vladimir.acuna.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.acuna.dev@gmail.com)
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#beroepsterrein)
-[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](#producten-met-echte-distributie)
+[![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.nl.md)
 [![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#complete-technische-curricula)
 
 <!-- STATS:START -->
@@ -93,61 +93,17 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 📦Producten met echte distributie
+## 🗂️ Ecosysteem: producten, laboratoria, toegepaste AI en wetenschappelijk rekenen
 
-Software die wordt gedownload, geïnstalleerd en gebruikt ..niet alleen gekloond.
+Het praktische werk van dit profiel staat in een eigen document: software die je downloadt en installeert, engineeringlabs, toegepaste AI en wetenschappelijk rekenen, plus een beschrijving van elke fork van projecten van derden in het account.
 
-| Product | Wat het is. | Stack | Levering |
-|---|---|---|---|
-| [🔍 **RootCause Windows**](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) | Cybersecurity forensics: elke abnormale resource vervorming kan het eerste teken van een bedreiging zijn. Diagnose eerst, later ingrijpen | Roest🦀 ·ETW/WPR | **v0,19,0** · **16 releases** · **5 edities**: GUI·Draagbaar·CLI·PowerShell·VS-code· [landing](https://vladimiracunadev-create.github.io/rootcause-windows-inspector/) |
-| [📱 **RootCause Mobile**](https://github.com/vladimiracunadev-create/rootcause-mobile-inspector) | De mobiele broer en zus: een forensische sensor die elke app met zichzelf vergelijkt, vlaggen stalkerware, en onderscheidt verleend toestemmingen van slechts gevraagde | Flutter·Kotlin·Snel | **v0,8.0** ·verifieerbare Android APK·5 talen· **nul telemetrie** · [landing](https://vladimiracunadev-create.github.io/rootcause-mobile-inspector/) |
-| [🍎 **RootCause macOS**](https://github.com/vladimiracunadev-create/rootcause-macos-inspector) | macOS-editie:`launchd`persistentie, Gatekeeper, SIP, FileVault, XProtect, TCC machtigingen, ondertekende processen, en netwerk buren .. elk oppervlak gecontroleerd tegen een bekende-goede staat | Roest🦀 ·macOS 13+ | **v0,1.0** ·eerste uitgave·Apache-2.0· [landing](https://vladimiracunadev-create.github.io/rootcause-macos-inspector/) |
-| [🖥️ **RootCause Server**](https://github.com/vladimiracunadev-create/rootcause-server) | De server broers: correleert wat geen enkel log ziet samen .. blootgesteld oppervlak, toegang-verlichte barsten, een sessie toegekend aan datzelfde adres, kritieke bestand integriteit, en sensor stilte .. en verandert het in een actieerbare zin | Roest🦀 ·Vensters·Linux·macOS | **v0.2.0** · **18 regels**met bewijs en runbook·voert nooit acties uit op zichzelf·lokale console zonder web afhankelijkheden· **nog geen publicatie** · [landing](https://vladimiracunadev-create.github.io/rootcause-server/) |
-| [🌐 **RootCause Web**](https://github.com/vladimiracunadev-create/rootcause-web-inspector) | Forensische sensor van de browser: cookies, e-mailsessies, extensies, downloads, machtigingen en pagina's die een echt venster imiteren | JavaScript·MV3-uitbreiding | **v0.2.0** ·nog geen publicatie·paneel aan`127.0.0.1` ·nul afhankelijkheden·nul telemetrie geverifieerd in CI· [landing](https://vladimiracunadev-create.github.io/rootcause-web-inspector/) |
-| [₿ **RootCause Bitcoin Defense**](https://github.com/vladimiracunadev-create/rootcause-bitcoin-defense) | Watch-only verdediging voor Bitcoin bewaring: inventariseert de oorsprong van elke sleutel, kruis-checkt het met gepubliceerde waarschuwingen, en verklaart worteloorzaak met bewijs | JavaScript·Windows-app·lokaal paneel | **v0.3.0** · **2 releases** ·nul afhankelijkheden·nooit om zaden vraagt·geverifieerd in CI· [landing](https://vladimiracunadev-create.github.io/rootcause-bitcoin-defense/) |
-| [⛓️ **RootCause Blockchain Security**](https://github.com/vladimiracunadev-create/rootcause-blockchain-security) | Multi-keten horloge-alleen console: inventarissen contracten, proxies, orakels, bruggen, governance, en afhankelijkheden, en genereert root-cause runbooks | JavaScript·Windows-app·lokaal paneel | **v0.3.0**in het archief·Uitgegeven:`v0.1.0` ·nul afhankelijkheden·vraagt nooit om privésleutels·geverifieerd in CI· [landing](https://vladimiracunadev-create.github.io/rootcause-blockchain-security/) |
-| [📷 **RootCause QR Inspector**](https://github.com/vladimiracunadev-create/rootcause-qr-inspector) | Lokale Android-app voor het inspecteren van QR codes voordat u gaat handelen: legt 26 signalen uit, scheidt feiten van hypothesen, en exporteert geredigeerd bewijsmateriaal | Flutter·Dart | **v0.1.4** · **5 releases** · **107 tests** ·gepubliceerd Android APK·Verifieerbare SHA-256·technische handtekening van het APK-pakket; commerciële/store-ondertekeningen in uitvoering·nul telemetrie· [landing](https://vladimiracunadev-create.github.io/rootcause-qr-inspector/) |
-| [🏢 **Empresa Operativa Chile**](https://github.com/vladimiracunadev-create/empresa-operativa-chile) | Geeft een SpA van vóór de oprichting aan elke maandelijkse sluiting: verwerking met bewijsmateriaal, BTW-overschrijving, F29-ontwerp, onveranderlijk sluiten en auditlogboek. Elke regel wijst naar de officiële bron | JavaScript·Roest·PWA | **v1.5.0** ·Android·Vensters·browser· **158 tests** · **0 productieafhankelijkheden** ·nul telemetrie· [landing](https://vladimiracunadev-create.github.io/empresa-operativa-chile/) |
-| [🔍 **Universal Code Scanner**](https://github.com/vladimiracunadev-create/universal-code-scanner) | QR en barcode lezer dat**interpreteert voordat u handelt**: 16 lokale URL-risicosignalen en expliciete bevestiging | Flutter·Dart | **v11,0** ·Android·iOS·macOS·PWA·versleutelde geschiedenis**AES-256-GCM** · [landing](https://vladimiracunadev-create.github.io/universal-code-scanner/) |
-| [🗄️ **GabySQL**](https://github.com/vladimiracunadev-create/gabysql) | Ingebedde database: single`.db`bestand, WAL, kostengebaseerde optimalisatie, HTTP/JSON API | Roest🦀 | Vensters·macOS·Linux· [landing](https://vladimiracunadev-create.github.io/gabysql/) |
-| [🤖 **Automa PC**](https://github.com/vladimiracunadev-create/automa-pc) | Lokale orkestmeester: JSON stroomt door echte ramen, interageert met de DOM en laat bewijs achter | Python·Playwright·pywebview | **v0.3.0** · **27 stromen** ·gepubliceerd en controleerbare installateur· [landing](https://vladimiracunadev-create.github.io/automa-pc/) |
-| [🏭 **AI Dataset Foundry**](https://github.com/vladimiracunadev-create/ai-dataset-foundry) | Lokale-eerste fabriek die PDF, Word, web, Git, JSON en CSV verandert in auditeerbare datasets voor vooropleiding, fine-tuning, RAG en evaluatie | Python | **v0.2.0** ·Windows + offline Android·eerste uitgave· [landing](https://vladimiracunadev-create.github.io/ai-dataset-foundry/) |
-| [☁️ **AWS Desktop Studio**](https://github.com/vladimiracunadev-create/aws-desktop-studio) | Lokale-eerste app met 15 AWS inventaris integraties, 20 tutorials, CLI/SSO, en alleen-lezen standaards; implementatie in uitvoering, niet universele toegang | JavaScript·Vensters | **v0.1.1** ·eerste uitgave· [landing](https://vladimiracunadev-create.github.io/aws-desktop-studio/) |
-| [🧭 **Commerce OS**](https://github.com/vladimiracunadev-create/commerce-operating-system) | Begeleid conceptuele demo van commerciële operaties: catalogus, voorraad, CRM, bestellingen, spotbetalingen en traceerbaarheid | JavaScript·Web·Vensters·Android | **v0.3.0** · **2 releases** ·geen echt geld of Chileense belastingautoriteit integratie· [landing](https://vladimiracunadev-create.github.io/commerce-operating-system/) |
-| [📄 **PDF Reader**](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) | Android-eerste lokale alleen-lezen lezer, met no-crop zoom, heropenbare geschiedenis, WhatsApp delen, en standaard-lezer selectie | HTML·Web·Android·Vensters | **v0.3.3** ·ondertekend APK·geen rekeningen, gevoelige machtigingen of telemetrie· [landing](https://vladimiracunadev-create.github.io/pdf-reader-windows-android/) |
-| [🎙️ **Video Transcript Studio**](https://github.com/vladimiracunadev-create/video-transcript-studio) | Eén video, afspeellijst, of**gehele YouTube-kanaal**tekst met tijdstempels. Het is niet afhankelijk van bestaande ondertitels: Whisper herkent audio**op uw machine**, zonder API, account of sleutel om te configureren | Python·PySide6·FastAPI·sneller fluisteren | **v0.2.0** ·Windows-bureaublad + lokaal paneel op`127.0.0.1`+ CLI,**dezelfde wachtrij delen** ·MD·PDF·TXT·SRT·VTT·JSON·MP3·OGG· **89 tests** ·gebundelde FFmpeg·nul telemetrie· [landing](https://vladimiracunadev-create.github.io/video-transcript-studio/) |
-| [🎨 **ChofyAI Studio**](https://github.com/vladimiracunadev-create/chofyai-studio) | Lokale creatieve AI-lanceerder: orkesten Qwen3-TTS, whisper.cpp, FaceFusion, AceForge en ComfyUI | Tauri 2·Roest·Reageren | v05.1· **5/5 gereedschappen met echte gevolgtrekkingen** ·macOS Apple Silicium·experimentele vensters· **nog geen publicatie** · [site](https://vladimiracunadev-create.github.io/chofyai-studio/) |
-| [🦏 **Rhino Suite**](https://github.com/vladimiracunadev-create/rhino-suite) | Kantooruite vanaf nul: documentregels hangen niet af van de DOM . HTML is slechts een projectie | Rust/WASM·Ga.·Reageer 19 | Evolutionaire monorepo naar fasen· [landing](https://vladimiracunadev-create.github.io/rhino-suite/) |
-| [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | Educatieve app voor kinderen: chromatische tuner, audio-klok-accurate metronoom, liedjes met echte viool | Tauri 2·Reageren·TS | **v1.3.0** ·Vensters·Android·Linux·macOS·PWA· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
-| [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | De geplukte snaar broers en zussen: 24 lessen in 6 werelden, 6-snarige tuner, drift-free metronoom, en 11 echte gitaarnoten | Tauri 2·Reageren·TS | **v1.0.0** ·Vensters·Android·Linux·macOS·iOS·PWA·geen accounts, advertenties of online afhankelijkheid· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
-| [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca vanaf 10 jaar: 24 klassen in 8 niveaus, 72 activiteiten, zes-puls lab (3+3 en 2+2+2), en toegankelijke vloerdiagrammen. Het stelt dat het**aanvullingen, niet vervangen**, leerkrachten en cultuurdragers | Flutter·Dart | **v0.2.0** ·Android 7+·Windows 10/11·APK·EXE·MSI·draagbaar· **29 tests + 2 validatoren** ·geen camera, microfoon, account, advertenties of internet· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+- 📦 **Producten met echte distributie** (22)
+- 🧪 **Technische laboratoria** (11)
+- 🤖 **Toegepaste AI** (6)
+- 🔬 **Wetenschappelijke berekeningen** (1)
+- 🍴 **Forks van projecten van derden** (52)
 
-## 🧪Technische laboratoria
-
-| Repo | Wat het laat zien |
-|---|---|
-| [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 echte problemen**(laatteloosheid onder belasting, N+1, retry stormen, lekken, monolieten, cache stormloop, tegendruk, nul-downtime migratie, vergeten DLQ) met hoge betrouwbaarheid geïnjecteerde storingen, opgelost in**7 stapels**: PHP 8·Python·Node.js·Java 21·.NET 8· **Ga 1,23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.10.0** · **20 zaken**bron→n8n→ontvanger over**18+ DB motoren** —**19 operationeel**, individueel gecontroleerd met Docker**8-laag**audit, idempotency vangrails, circuit breker, en DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
-| [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **12 diagnostische en modernisering microapps**voor PHP·lokale alleen-lezen MCP-server·verharding in 3 fasen· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
-| [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **13 labs**op een 4-serviceplatform + geautomatiseerd`.exe`installatie met lanceerinstallatie· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
-| [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 zaken**op`wslc`, de oorspronkelijke WSL container motor . .**zonder Docker-bureaublad** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
-| [⚡ **Unikernel Labs**](https://github.com/vladimiracunadev-create/unikernel-labs) | Windows control over Unikraft met WSL2 backend,`kraft`+ QEMU/KVM· [landing](https://vladimiracunadev-create.github.io/unikernel-labs/) |
-| [🧰 **QEMU/KVM Labs**](https://github.com/vladimiracunadev-create/qemu-kvm-labs) | **12 labs**van echte virtualisatie met QEMU, KVM, libvirt, cloud-init, en`vm-manager`op Linux en WSL2· [landing](https://vladimiracunadev-create.github.io/qemu-kvm-labs/) |
-| [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux isolatie: draait code van derden, bestanden en bedrijfsmodellen onder aangegeven beleid en**zendt ondertekende bewijzen uit waarvan de controles daadwerkelijk zijn toegepast** · **36 zaken**in twee families ·experimenteel en educatief verklaard, *geen beveiligingsproduct*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
-| [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 betalingsgezinnen**in een lokale zelf-uitleg demo: staten, grootboek, verzoening, veiligheid en implementatie gidsen· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
-| [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Inheemse Decentrale en sociale 3D-ervaring: één MVP en een multi-game architectuur met SDK7, ECS en TypeScript·Spaanse documentatie·geen betalingen of telemetrie |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressieve gevallen waarin elk een AWS-dienst toevoegt**en**een nieuwe GitHub-actiesmogelijkheid·SAO-C03·DVA-C02·SOA-C02 dekking |
-
-## 🤖Toegepaste AI
-
-| Repo | Wat het laat zien |
-|---|---|
-| [🤖 **LangGraph RealWorld**](https://github.com/vladimiracunadev-create/langgraph-realworld) | **25/25 operationele backends** |
-| [🧭 **Operational AI Agents**](https://github.com/vladimiracunadev-create/operational-ai-agents) | **13 operationele functionarissen**voor Claude Code en compatibele looptijden: elk ontvangt een volledige missie . .repository evolutie, legacy modernisering, curriculum ontwerp, portfolio publiceren, security resupport, incident analyse . . . onder een aangegeven contract, menselijke poorten, en verifieerbare bewijs· **39 deterministische evaluaties** ·34 tests·nul-deps (alleen stdlib)·Linux·macOS·Vensters· [site](https://vladimiracunadev-create.github.io/operational-ai-agents/) |
-| [🧠 **MCP + Ollama Local**](https://github.com/vladimiracunadev-create/mcp-ollama-local) | Lokale eerste AI met MCP gereedschap in een zandbak· `127.0.0.1`binden·multilayer vertrouwensprofiel·eerlijk over de grenzen ervan |
-| [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 agentic plugins**te installeren in Claude Code, OpenAI/Codex, Copilot, Gemini en MCP uit één bron:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`, en`rootcause-response` · **69 gegenereerde weergaven zonder drift**·nuldiepten·Linux·macOS·Vensters· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
-| [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 technische vaardigheden**voor Claude Code· **beveiliging**: 12-layer`security-audit`(OSV·KEV·EPSS·SAST·container·geheimen) en 14-traps`bitcoin-custody-audit` · **repo-poorten**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **samenhang**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **Docker**: `docker-cleanup`, `docker-compose-doctor` · **docs**: `md-to-doc` ·nuldiepten·dwarsplatform |
-| [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 bekwame middelen**voor Codex: veiligheids- en toeleveringsketen, preflight, functionele stromen, veerkracht en staat, vrijgegeven bewijs, Python/YAML/Markdown poorten, versiering, afhankelijkheden, Docker, en documenten·Python-first· `pnpm` ·Linux·macOS·Vensters· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+👉 **[Bekijk het volledige ecosysteem](docs/ECOSYSTEM.nl.md)** · [🍴 Forks van projecten van derden](docs/ECOSYSTEM.nl.md#forks)
 
 ## 📚Complete technische Curricula
 
@@ -178,12 +134,6 @@ Sequentiële programma's in het Spaans, met status en toepassingsgebied die door
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14,0** ·van nul naar programmeerbare financiële infrastructuur en on-chain analytics· **91 praktijken**en**363 tests** ·contracten met Foundry (fuzzing en invarianten) en Slither statische analyse in CI·Offline apps geverifieerd door het openen van de binaire en het tellen van de inhoud· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules·≈214 uur· **93 notebooks**·vragen, visuele kaarten, praktijken en evaluatie met echte publieke gegevens·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 opleidingsmodules**, één per machine· **502 uur 15 min.** ·systemen, besturingen, natuurkunde, veiligheid en simulatieontwerp met bronnen per klasse·*nog geen uitvoerbare simulator, en het wordt die manier verklaard* |
-
-## 🔬Wetenschappelijke berekeningen
-
-| Repo | Wat het laat zien |
-|---|---|
-| [🧬 **Human Genome Labs**](https://github.com/vladimiracunadev-create/human-genome-labs) | Herroepbaar genomics platform: getypt`ScientificResult<T>`contracten, FASTA/GFF3/VCF, modules met**expliciete rijpheid en bewijs**. Radicale eerlijkheid: *het voert geen klinische diagnose uit*· [site](https://vladimiracunadev-create.github.io/human-genome-labs/) |
 
 ## ⚡Als je 10 minuten hebt om mij te evalueren
 
@@ -223,7 +173,7 @@ Download de installatie of CLI binair van[RootCause releases](https://github.com
 - **Eerlijkheid over status**`Multisimulador` → `machine-operator-program`) om veelbelovende software die nog niet bestaat te vermijden.
 - **Badges zijn signalen, geen bewijs.****wat het NIET doet**.
 - **Model naar buiten**. . het domein is eerst ontworpen; de interface is een projectie.
-- **Extern werk wordt als extern aangegeven**. . . van de rekening . 70 openbare repositories , 64 zijn mijn eigen werk . De andere zes .[`agentic-qe`](https://github.com/vladimiracunadev-create/agentic-qe), [`Anthropic-Cybersecurity-Skills`](https://github.com/vladimiracunadev-create/Anthropic-Cybersecurity-Skills), [`erpnext`](https://github.com/vladimiracunadev-create/erpnext), [`OpenExecutive`](https://github.com/vladimiracunadev-create/OpenExecutive), [`raptor`](https://github.com/vladimiracunadev-create/raptor), en[`security-audit-skill`](https://github.com/vladimiracunadev-create/security-audit-skill)
+- **Extern werk wordt als extern aangegeven** — de [52 forks](docs/ECOSYSTEM.nl.md#forks) van projecten van derden worden één voor één beschreven en vallen buiten alle cijfers van eigen werk in dit profiel.
 
 ## ✅Beroepsterrein
 
@@ -248,26 +198,11 @@ Platform ingenieur / IDP·DevOps / CI-CD·Cloud / AWS Engineer·Toepassing SRE·
 
 ## 🧭Management, administratie en niet-coding carrièremogelijkheden
 
-Deze reikwijdte stelt niet dat elke titel is gehouden. Het prioriteiten werk waar de combinatie van computer, bedrijfsadministratie en openbare bewijs kan waarde creëren zonder codering is de kerntaak.
+Management-, administratie- en businessfuncties waarin informatica en bedrijfskunde bijdragen zonder dat programmeren de kerntaak is, eerlijk ingedeeld (overdraagbare competentie, sollicitatiemogelijkheid of toekomstdoel) en met de kloof per functie. Behandelde gebieden:
 
-| Beroepsfamilie | Herkende rollen | Eerlijke classificatie | Codering | Bewijs en voorwaarde |
-|---|---|---|---|---|
-| **Technologieleiderschap** | Hoofd IT·IT-operations Manager·Digitale transformatiebeheer·CIO | **Toepassingspotentieel / toekomstige doelstelling** | Geen/soms | Sterke technische basis; mensen, budget, verkoper en uitvoerende verantwoordingsplicht moeten afzonderlijk worden aangetoond |
-| **Projectbeheer** | IT-projectcoördinator/manager·PMO·Scrum Master·Beweeglijke levering | **Overdraagbaar / toepassingspotentieel** | Geen/soms | Levering en vrijgave bewijs; formeel team, budget en sponsor verantwoordelijkheid blijft een kloof |
-| **Bedrijfsadministratie** | Bedrijfsbeheerder·Administratie/Bedieningsbeheer·Contractbeheerder | **Toepassingspotentieel** | Geen | Bedrijfsdiploma en operationele artefacten; moet geverifieerd eigendom van middelen, mensen en leveranciers |
-| **Strategie en verandering** | Strategieadviseur·Beheer wijzigen·Bedrijfsplanning·Innovatie / Transformatie | **Overdraagbaar / toepassingspotentieel** | Geen | De resultaten van de organisatorische adoptie moeten worden aangetoond. |
-| **Bedrijfsanalyse** | Bedrijfsanalist·Functioneel/Requirements Analyst·BPM·Continue verbetering | **Overdraagbaar / toepassingspotentieel** | Geen/soms | Domeinmodellering en vereisten-bewijs; externe belanghebbendenzaken zouden de claim versterken |
-| **Product en dienst** | Producteigenaar/manager·Productbewerkingen·Dienstverlening·Succes van de klant | **Overdraagbaar / toepassingspotentieel** | Geen/soms | Roadmaps, levenscyclus, releases en operaties; P&L, klantenportfolio en SLA-bewijs varieert per rol |
-| **Cybersecurity-beheer** | GRC·IT-controle-auditor·Technologierisico·Informatiebeveiliging / Continuïteit | **Toepassingspotentieel** | Geen/soms | Controles en RootCause bewijs; organisatie audits en relevante referenties zijn in behandeling |
-| **Handel en verkoop** | Technologie voorverkoop·Oplossingen Consultant·Technische KAM·B2B Business Development | **Overdraagbaar / toepassingspotentieel** | Geen | Sterke oplossing/waarde vertaling; quota, rekeningportefeuille en contractonderhandelingen worden niet aangevraagd |
-| **Financiën en beheerscontrole** | Budget/Kostenanalyse·Projectevaluatie·FP&A·Beheerscontrole | **Toepassingspotentieel** | Geen | Financiën/FinOps artefacten; reële budgetten, financiële overzichten en bedrijfs KPI's zijn nodig |
-| **Kwaliteit** | Proces/kwaliteitsanalyse·Procesauditor·Continue verbetering | **Overdraagbaar / toepassingspotentieel** | Geen/soms | Gates, tests, metrics en reproduceerbaarheid; formeel eigendom van kwaliteitssystemen blijft een kloof |
-| **Onderwijs** | Technische trainer·Facilitator·Academische coördinator·EdTech / Instructional Designer | **Overdraagbaar / toepassingspotentieel** | Geen/soms | 21 programma's en 14,530 lessen; de formele leerresultaten en de resultaten van de leerlingen moeten afzonderlijk worden aangetoond |
-| **Logistiek en leveranciers** | Aanbesteding·Coördinator leveringen/diensten·Verkoper/contractbeheerder | **Toepassingspotentieel** | Geen | Proces- en administratiebasis; echte inkoop, inventaris en prestaties van leveranciers zijn nodig |
-| **Gegevens en AI-governance** | Data Steward·Gegevensbeheer·AI-adoptie / governance | **Overdraagbaar / toepassingspotentieel** | Geen/soms | Auditable datasets en human-gated agents; organisatiebeleid en commissies blijven een kloof |
-| **Openbare sector** | Institutionele modernisering·ICT-coördinator·Digitale projecten·Openbare planning | **Toepassingspotentieel** | Geen | Chilianse contextsystemen en traceerbaarheid; er wordt geen ervaring opgedaan met overheidsopdrachten en sectoriële activiteiten |
+Technologieleiderschap · Projectbeheer · Bedrijfsadministratie · Strategie en verandering · Bedrijfsanalyse · Product en dienst · Cybersecurity-beheer · Handel en verkoop · Financiën en beheerscontrole · Kwaliteit · Onderwijs · Logistiek en leveranciers · Gegevens en AI-governance · Openbare sector
 
-De[full Spanish role matrix](PROFESIONAL_ROLES.md)Details van doelstellingen, verantwoordelijkheden, marktervaring, aanvullende kennis, bewijs, compatibiliteit en lacunes in alle 14 families.
+👉 **[Bekijk de volledige kansenmatrix](docs/MANAGEMENT.nl.md)**
 
 ## 🤖AI-geassisteerde ontwikkelingsstroom
 
