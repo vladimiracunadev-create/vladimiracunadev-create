@@ -76,6 +76,73 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🔒 **遙測** | 法證產品和智利企業的零遙測——在每個建築中都得到核實(無Android)`INTERNET`許可權) |
 | 🌐 **出版網站** | **56個基特胡佈網頁網站**-55次著陸,每件產品、程式或生態系統導航員一次,加上組合——從自己的儲存庫部署·全部56個已與HTTP核實`200` |
 
+## 🛠️ 技術堆疊
+
+在公開儲存庫中偵測到的技術（清單檔、相依套件、容器與程式碼），依領域分組。出現在某個儲存庫中——包括實驗室與課程——是使用的證據，而非多年正式環境經驗的聲明。
+
+**程式語言**
+
+![程式語言](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**框架、執行環境與函式庫**
+
+![框架、執行環境與函式庫](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**資料庫**
+
+![資料庫](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**雲端、容器與 DevOps**
+
+![雲端、容器與 DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**可觀測性與訊息**
+
+![可觀測性與訊息](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**AI、代理、技能與 MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**資安與供應鏈**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**目標平台**
+
+![目標平台](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️生態系統一一
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ 生態系統：產品、實驗室、應用 AI 與科學運算
+## 🗂️ 生態系統：產品、實驗室、應用 AI、課程與科學運算
 
 本檔案的實作成果集中在獨立文件中：可下載安裝的軟體、工程實驗室、應用 AI 與科學運算，以及帳號中每個第三方專案 fork 的說明。
 
 - 📦 **具有實際分佈的產品** (22)
 - 🧪 **工程實驗室** (11)
 - 🤖 **應用AI** (6)
+- 📚 **完成技術課程** (21)
 - 🔬 **科學計算** (1)
 - 🍴 **第三方專案的 fork** (52)
 
@@ -109,31 +177,7 @@ flowchart TD
 
 西班牙語序列程式,每個儲存器都宣告狀態和範圍. 21個方案加起來是:**14 530個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)是一個聯邦指南針,透過視覺地圖和影象圖連線6個地區的30個真實路徑[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);不計為附加程式。
-
-| 程式 | 類 | 範圍 |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | 從依靠手指到複製出紙· **360起在CI核實的決定性示威** ·1 080個筆記本·489個術語表· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534小時·金融數學和《國際財務報告準則》 ——信貸、風險、巴塞爾三號、公開金融、DLT、穩定幣和MICA· **27個案件** · **298次測試** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | 數學和C#/C++/GDScript → 陰影器,AI,多人遊戲,VR/AR·哥多特語·團結·虛幻· **在CI中核實的10個戈多實驗室**(301次檢查)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **編號: 1.3.0** ·20個部分·– 紅色團隊,DFIR,雲安全,開發dev,CTF,和遊戲安全·對映到**7份證書** ·離線Android/web app·PDF 手冊·核實了CI、安保和網頁· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24個部分,包括業務定義、計量單、可核查的參考書目和智利的監管背景· **千分之一.6.0 千分之一.** ·1.29M字數·17個基於角色的路徑· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | 在智利建立和經營一家真正的公司:從想法到成立、稅務當局、業務、危機和退出·360 個圖表·1 251個任期詞彙表·1 548頁手冊· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83個編·60屆綜合會議·34道路徑·可追蹤來源·下行、離線閱讀器和 GitHub Pages· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 1至12年級· **4 156次綜合跨課程經驗** · **2 823個學習目標** ·聯剛特派團的訊息來源·尚未提出待決提案和尚未進行專門人力審查· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40個部分和8個階段·基礎 → 產品、建築、安全、DevOps、SRE、SPEC、AI和多代理系統·資料庫宣佈的編輯地位· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 從一個人如何學習到如何培訓教師·25個部分· **每一類都宣告其證據狀態和限度** ·早期識字、比較方法、具體教育需要、共處、文化多樣性和國際證據·1 097個定期詞彙表、325個圖表和60個活動課堂庫·按角色分列的14個職業道路·LMS 可出口· **維基百科中的相關條目: 維基語錄連結:名人名言 - 分類** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | 自動取款機·阿蘇雷·GCP 常規·庫伯涅斯·地表·塞爾維亞·財務操作· **1 288小時** ·288個有JSON證據的實驗室·1 032個來源·2 884頁PDF手冊· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 從擁有第一個結果到領導一個公司和建立自己的團隊:團隊、KPI/OKR、金融、產品、風險、板子和併購·24個病例、96個實驗室和39個模板· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | 極地,ML+Optuna/SHAP,PyTorch/LLMS/LORA,MLOps·本地 Windows 應用程式 + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | 典型的 / 機率的 / 深層學習 / 法學碩士、 研究與培訓、代理、安全和邊境· **0.17.0 億** · **708個筆記本** · **148份基礎檔案** ·離線的 Windows, Android, 和 PWA 應用程式· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | 有個概念**10種語言**由CI核實 -**1 360項執行**+ 加上**1 632個方案**以活語言(COBOL、Fortran、Ada、RPG、MUPS......)和地圖集**15個家庭的60張卡片** ·維基百科中的相關條目: 維基語錄連結:名人名言 - 分類· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | 一份沒有介面卡的可執行合同,針對快遞、快活API、斯普林布特、ASP.NET、Django、Rails、Laravel、React、Vue、Svelte等·12個部分· **70個建築班級** · **397起在CI核實的案件** · **210 ISBN/DOI來源 網際網路檔案館的存檔,存檔日期2013-03-02.** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **單曲3. 0.0** ·15個部分的資料庫工程·230小時· **每項索賠的可核實來源**:120 有ISBN,DOI,或標準來源.·27個引擎破了同樣的案子·306個術語表·150個火試· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | 衡量工具如何構建、打分、驗證和審計·8個部分·可執行引擎, 使用**5項文書和344項,276項公共領域** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **0.14.0 維基百科** ·從零到可程式設計的金融基礎設施和鏈上分析· **91個做法**財務報告和已審計財務報表**363次測試** ·與開業公司(模糊和變化不定)和CI的Slither靜態分析的合同·開啟二進位制並計數其內容的離線應用程式· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41個培訓單元**,每臺一臺機器· **502小時15分鐘** ·系統、控制、物理、安全和模擬設計,每類源·*還沒有可執行模擬器,而且它被宣佈為這樣* |
+👉 **[查看全部 21 個課程](docs/ECOSYSTEM.zh-TW.md#curricula)**
 
 ## ⚡如果你有十分鐘的時間來評價我
 

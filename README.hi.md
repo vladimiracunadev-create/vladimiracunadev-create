@@ -76,6 +76,73 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🔒 **टेलीमेट्री** | फोरेंसिक उत्पादों और Empresa ओपेरा चिले में शून्य टेलीमेट्री - हर निर्माण में सत्यापित (कोई Android नहीं)`INTERNET`अनुमति |
 | 🌐 **प्रकाशित स्थल** | **56 GitHub पेज साइटें**-55 लैंडिंग, एक प्रति उत्पाद, कार्यक्रम, या पारिस्थितिकी तंत्र नेविगेटर, साथ ही पोर्टफोलियो- प्रत्येक अपने स्वयं के भंडार से तैनात·सभी 56 HTTP के साथ सत्यापित`200` |
 
+## 🛠️ टेक्नोलॉजी स्टैक
+
+सार्वजनिक रिपॉज़िटरी में पाई गई तकनीकें (मैनिफ़ेस्ट, निर्भरताएँ, कंटेनर और कोड), क्षेत्र के अनुसार समूहित। किसी रिपॉज़िटरी में दिखना —प्रयोगशालाओं और पाठ्यक्रमों सहित— उपयोग का प्रमाण है, वर्षों के प्रोडक्शन अनुभव का दावा नहीं।
+
+**भाषाएँ**
+
+![भाषाएँ](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**फ़्रेमवर्क, रनटाइम और लाइब्रेरी**
+
+![फ़्रेमवर्क, रनटाइम और लाइब्रेरी](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**डेटाबेस**
+
+![डेटाबेस](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**क्लाउड, कंटेनर और DevOps**
+
+![क्लाउड, कंटेनर और DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**ऑब्ज़र्वेबिलिटी और मैसेजिंग**
+
+![ऑब्ज़र्वेबिलिटी और मैसेजिंग](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**AI, एजेंट, स्किल और MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**सुरक्षा और सप्लाई चेन**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**लक्षित प्लेटफ़ॉर्म**
+
+![लक्षित प्लेटफ़ॉर्म](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️पारिस्थितिकी तंत्र एक झलक में
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ पारिस्थितिकी तंत्र: उत्पाद, प्रयोगशालाएँ, अनुप्रयुक्त AI और वैज्ञानिक कम्प्यूटिंग
+## 🗂️ पारिस्थितिकी तंत्र: उत्पाद, प्रयोगशालाएँ, अनुप्रयुक्त AI, पाठ्यक्रम और वैज्ञानिक कम्प्यूटिंग
 
 इस प्रोफ़ाइल का व्यावहारिक कार्य एक अलग दस्तावेज़ में है: डाउनलोड और इंस्टॉल होने वाला सॉफ़्टवेयर, इंजीनियरिंग प्रयोगशालाएँ, अनुप्रयुक्त AI और वैज्ञानिक कम्प्यूटिंग, साथ ही खाते में मौजूद तृतीय-पक्ष प्रोजेक्ट्स के हर fork का विवरण।
 
 - 📦 **उत्पाद रियल डिस्ट्रीब्यूशन के साथ** (22)
 - 🧪 **इंजीनियरिंग प्रयोगशाला** (11)
 - 🤖 **नुप्रयुक्त AI** (6)
+- 📚 **तकनीकी पाठ्यक्रम** (21)
 - 🔬 **वैज्ञानिक कम्प्यूटिंग** (1)
 - 🍴 **तृतीय-पक्ष प्रोजेक्ट्स के fork** (52)
 
@@ -109,31 +177,7 @@ flowchart TD
 
 स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 21 कार्यक्रम में शामिल हो गए**14,530 कक्षा**, द्वारा गिना[a workflow](.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)दृश्य मानचित्रों और एक के माध्यम से 6 क्षेत्रों में 30 वास्तविक पथों को जोड़ने वाला एक federated कम्पास है[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)इसे अतिरिक्त प्रोग्राम के रूप में नहीं गिना जाता है।
-
-| कार्यक्रम | कक्षा | स्कोप |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | उंगलियों पर गिनती से एक कागज को फिर से उत्पन्न करने के लिए· **CI में सत्यापित 360 नियतात्मक प्रदर्शन** ·1,080 नोटबुक·489-term शब्दावली· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h·वित्तीय गणित और IFRS → क्रेडिट, जोखिम, बेसल III, खुला वित्त, DLT, स्थिरcoins, और MiCA· **27 मामले** · **298 परीक्षण** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | गणित और C#/C++/GDScript → छायाकार, AI, बहु-player, VR/AR·गोडो·यूनिटी·अवास्तविक· **10 गॉडॉट लैब्स सीआई में सत्यापित**(301 चेक)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 भाग·नींव → रेड टीम, DFIR, क्लाउड सुरक्षा, dev, CTF और गेम सुरक्षा का फायदा उठाती है·नक्शा**7 प्रमाणन** ·ऑफ़लाइन Android / Web App·PDF·CI, सुरक्षा और पेज सत्यापित· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | परिचालन परिभाषाओं, माप पत्रों, सत्यापन योग्य ग्रंथ सूची और चिली नियामक संदर्भ के साथ 24 भागों· **v1.6.0** ·1.29M शब्द·17 भूमिका-आधारित पथ· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | चिली में एक वास्तविक कंपनी बनाएं और संचालित करें: विचार से लेकर निगमन, कर प्राधिकरण, संचालन, संकट और निकास तक·360 आरेख·1,251-term शब्दावली·1,548-पृष्ठ मैनुअल· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 भाग·60 एकीकृत सत्र·34 पथ·पता लगाने योग्य सूत्र·Markdown, ऑफ़लाइन रीडर, और गिटहब पेज· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | ग्रेड 1-12· **4,156 एकीकृत क्रॉस-करिकुलर अनुभवों** · **2,823 सीखने के उद्देश्य** ·Mineduc सूत्र·कोई लंबित प्रस्ताव और विशेष मानव समीक्षा अभी भी लंबित· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 भाग और 8 चरण·नींव → उत्पाद, वास्तुकला, सुरक्षा, देवोप्स, SRE, युक्ति, एआई और बहु-एजेंट सिस्टम·संपादकीय स्थिति को रिपोज़िटरी द्वारा घोषित किया गया· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares its evidence state and limits** · early literacy, comparative methods, specific educational needs, coexistence, cultural diversity, and international evidence · 1,097-term glossary, 325 diagrams, and a 60-activity classroom bank · 14 career paths by role · LMS-exportable · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·नीला·जीसीपी·कुबेरनेट्स·टेरेफॉर्म·SRE·फिनोप· **1,288 घंटे** ·JSON सबूत के साथ 288 लैब्स·1,032 ट्रेस स्रोत·2,884-page PDF मैनुअल· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | अपने पहले परिणाम के मालिक से एक कंपनी का नेतृत्व करने और अपने आप को ढूंढने के लिए: टीमों, KPI/OKR, वित्त, उत्पाद, जोखिम, बोर्ड और M&A·24 मामले, 96 लैब्स और 39 टेम्पलेट· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | ध्रुवीय, एमएल + ऑप्टुना / एसएचएपी, पाइटोर्च / एलएलएम / लोरा, एमएलओपी·Windows App + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | प्रतीकात्मक → probabilistic → गहरी शिक्षा → LLM, RAG, एजेंट, सुरक्षा, और फ्रंटियर· **v0.17.0** · **708 नोटबुक** · **148 आधार कागज** ·ऑफ़लाइन Windows, Android, and PWA Apps· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | एक अवधारणा,**10 भाषाओं**CI में सत्यापित**1,360 कार्यान्वयन**- प्लस**1,632 प्रोग्राम**अभी भी रहने वाली भाषाओं (COBOL, Fortran, Ada, RPG, MUMPS) में और एक atlas of the language of a s.**15 परिवारों में 60 कार्ड** ·v1.1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | एक निष्पादन योग्य अनुबंध, बिना एडाप्टर के, एक्सप्रेस, फास्टएपीआई, स्प्रिंग बूट, एएसपी.नेट, डीजेंगो, रेल, लारवेल, रिएक्ट, वीयू, स्वेल्ट और अधिक के खिलाफ·12 भागों· **70 निर्मित कक्षाएं** · **397 मामलों में CI में सत्यापित** · **210 ISBN/DOI स्रोत** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** ·15 भागों में डेटाबेस इंजीनियरिंग·230 घंटे· **हर दावे के लिए सत्यापन योग्य स्रोत**: ISBN, DOI, या मानक के साथ 120 स्रोत·उसी मामले में 27 इंजनों में हल हुआ·306-term शब्दावली·150 pytest· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | कैसे एक माप उपकरण बनाया गया है, स्कोर किया, मान्य, और लेखा परीक्षा·8 भाग·साथ में निष्पादन योग्य इंजन**5 उपकरण और 344 आइटम, 276 सार्वजनिक डोमेन** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·शून्य से प्रोग्राम करने योग्य वित्तीय बुनियादी ढांचे और ऑन-चेन एनालिटिक्स तक· **91 प्रथाओं**और**363 परीक्षण** ·सी.आई. में फाउंड्री (फ्यूज़िंग एंड इनवेरेंट्स) और स्लैट स्टेटिक विश्लेषण के साथ अनुबंध·ऑफ़लाइन ऐप द्विआधारी खोलने और इसकी सामग्री की गिनती करके सत्यापित· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 मॉड्यूल·≈214 घंटे· **93 नोटबुक**31 कक्षाएं, 31 छात्र संस्करण और 31 समाधान-·प्रश्न, दृश्य मानचित्र, प्रथाओं और वास्तविक सार्वजनिक डेटा के साथ आकलन·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 प्रशिक्षण मॉड्यूल**मशीन प्रति एक· **502 h 15 मिनट** ·सिस्टम, नियंत्रण, भौतिकी, सुरक्षा और सिमुलेशन डिजाइन प्रति वर्ग स्रोतों के साथ·अभी तक निष्पादन योग्य सिम्युलेटर नहीं है, और इसे उस तरह से घोषित किया गया है* |
+👉 **[सभी 21 पाठ्यक्रम देखें](docs/ECOSYSTEM.hi.md#curricula)**
 
 ## ⚡यदि आपके पास 10 मिनट हैं तो मुझे खाली करने के लिए
 

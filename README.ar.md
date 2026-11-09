@@ -76,6 +76,73 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🔒 **التلف** | عدم إجراء أي قياس عن بعد في منتجات الطب الشرعي والإمبريسا أوبيراتيفا شيلي - تحقق من كل بناء (لا أندرويد)`INTERNET`إذن) |
 | 🌐 **المواقع المنشورة** | **56 موقعاً لصفحة جيب**- 55 هبوطاً، واحد لكل منتج أو برنامج أو ملاح للنظم الإيكولوجية، بالإضافة إلى حافظة كل منها من مستودعها الخاص·جميع الـ 56 تم التحقق منها`200` |
 
+## 🛠️ المكدس التقني
+
+تقنيات رُصدت في المستودعات العامة (ملفات التعريف والاعتماديات والحاويات والشيفرة) ومجمّعة حسب المجال. الظهور في مستودع —بما في ذلك المختبرات والمناهج— دليل على الاستخدام وليس ادعاءً بسنوات من الخبرة الإنتاجية.
+
+**اللغات**
+
+![اللغات](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**الأطر وبيئات التشغيل والمكتبات**
+
+![الأطر وبيئات التشغيل والمكتبات](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**قواعد البيانات**
+
+![قواعد البيانات](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**السحابة والحاويات وDevOps**
+
+![السحابة والحاويات وDevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**المراقبة والمراسلة**
+
+![المراقبة والمراسلة](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**الذكاء الاصطناعي والوكلاء والمهارات وMCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**الأمن وسلسلة التوريد**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**المنصات المستهدفة**
+
+![المنصات المستهدفة](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️النظام الإيكولوجي في غلاف
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ المنظومة: المنتجات والمختبرات والذكاء الاصطناعي التطبيقي والحوسبة العلمية
+## 🗂️ المنظومة: المنتجات والمختبرات والذكاء الاصطناعي التطبيقي والمناهج والحوسبة العلمية
 
 العمل التطبيقي لهذا الملف الشخصي موجود في وثيقة مستقلة: برمجيات تُنزَّل وتُثبَّت، ومختبرات هندسية، وذكاء اصطناعي تطبيقي، وحوسبة علمية، إضافةً إلى وصف كل fork لمشاريع الأطراف الثالثة الموجودة في الحساب.
 
 - 📦 **المنتجات ذات التوزيع الحقيقي** (22)
 - 🧪 **المختبرات الهندسية** (11)
 - 🤖 **الذكاء الاصطناعي التطبيقي** (6)
+- 📚 **المناهج التقنية الكاملة** (21)
 - 🔬 **الحوسبة العلمية** (1)
 - 🍴 **forks لمشاريع أطراف ثالثة** (52)
 
@@ -109,31 +177,7 @@ flowchart TD
 
 برامج مستقلة باللغة الإسبانية، مع إعلان مركز كل مستودع ونطاقه. الـ 21 برنامج يضاف إلى**530 14 فصلا**"أعدّها"[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع؛ وتعيد الشارة أسبوعياً ولا تكتب باليد.
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)هو بوصلة اتحادية تربط 30 طريقا حقيقيا عبر 6 مناطق من خلال خرائط بصرية و[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); It is not counted as an additional program.
-
-| Program | الفصول | النطاق |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | من الاعتماد على الأصابع لإعادة إنتاج ورقة· **360 مظاهرة محددة تم التحقق منها في مركز التحقيقات الجنائية** ·080 1 دفتر ملاحظات·مسرد محدد المدة· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 ح·الرياضيات المالية والمعايير الدولية للإبلاغ المالي· **27 قضية** · **298 اختبارا** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | الرياضيات و C#/C++/GDScript → shaders, AI, multiplayer, VR/AR·يا إلهي·الوحدة·غير واقعي· **تم التحقق من 10 مختبرات غودو في مركز التحقيقات الجنائية**(301 شيك)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 جزءا·فريق أحمر، إدارة شؤون الإعلام، أمن السحاب، استغلال ديف، فرقة العمل المعنية بالقوارب، ولعبة الأمن·مجهزة**7 شهادات تصديق** ·خارج الشبكة الأندرويدية/البرنامج العالمي·دليل PDF·CI, Security, and Pages verified· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 جزءاً منها مع التعاريف التشغيلية، وصحائف القياس، وبيبليوغرافيا يمكن التحقق منها، والسياق التنظيمي الشيلي· **v1.6.0** ·١-٢٩ كلمات·17 مساراً قائماً على الدور· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | إنشاء وتشغيل شركة حقيقية في شيلي: من مرحلة التفكير إلى مرحلة التأسيس، والسلطة الضريبية، والعمليات، والأزمات، والخروج·360 رسما بيانيا·مسرد قصير الأجل قدره 251 1·دليل 548 1 صفحة· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 قطعة·60 دورة تكاملية·34 مسارا·المصادر القابلة للتعقب·مُعدّل، قارئ خارج الخط، وصحائف (جيت هوب)· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | الرتب ١-١٢· **156 4 تجربة متكاملة شاملة لعدة مناهج** · **823 2 هدفاً من أهداف التعلم** ·مصادر وزارة التعليم·لم يُبت بعد في المقترحات واستعراضات بشرية متخصصة· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 جزءا و 8 مراحل·:: المؤسسات → المنتج، والهيكل، والأمن، والأجهزة المعنية بالأجهزة، والبرمجيات، والصناعات، والصناعات، والصناعات، والصناعات، والصناعات، والنظم المتعددة العناصر·مركز التحرير الذي أعلنته الجهة الوديعة· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | من كيفية تعلم الشخص كيف يتم تدريب المعلمين·25 جزءا· **كل صنف يعلن أن الأدلة في حالة الحد** ·الإلمام المبكر، والأساليب المقارنة، والاحتياجات التعليمية المحددة، والتعايش، والتنوع الثقافي، والأدلة الدولية·097 1 مسرداً محدد المدة، 325 رسماً بيانياً، وبنك صف للنشاط 60·14 مسارا وظيفيا حسب الدور·LMS-exportable· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·Terraform·SRE·FinOps· **288 1 ساعة** ·288 مختبراً مع أدلة من شركة JSON·032 1 مصدراً متعقباً·884 2 صفحة دليل PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | من امتلاكك لنتيجة أولى لقيادة شركة وتأسيس فريقك الخاص: فريق "كولي" و"أوك ر" و"مال" و"نتوج" و"منتج" و"مركب" و"م.·24 حالة، و 96 مختبرا، و 39 نموذجا· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | القطبان، ML+Optuna/SHAP، Py Torch/LMs/LoRA، MLOps·برنامج النوافذ الأصلية + أندرويد· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | ترجمة:· **v0.17.0** · **708 دفتر ملاحظات** · **148 ورقة أساسية** ·(ويندوز) خارج (أندرويد) و (بيوا)· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | مفهوم واحد**10 لغات**تم التحقق منها في مركز التحقيقات الجنائية**360 1 تنفيذا**- مضافا إليه**632 1 برنامجاً**بلغات ما زالت موجودة (كوبول، فورتران، آدا، آر بي جي، إم بي إس) وزجاجة من**60 بطاقة في 15 أسرة** ·v1.1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | عقد واحد قابل للتنفيذ، بدون مكيفين، ضد شركة Express، وشركة FastAPI، وشركة سبرنغ بوت، وشركة ASP.NET، وDjango، وشركة رايلز، وشركة لارافل، وشركة React، وVue، وSvelte، وشركة أخرى·12 جزءا· **70 فصلاً من الفصول** · **397 حالة تم التحقق منها في التحقيق الجنائي** · **210 مصادر ISBN/DOI** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **ف-3-0.0** ·هندسة قواعد البيانات في 15 جزءا·230 ساعة· **المصدر القابل للتحقق لكل مطالبة**: 120 مصدرا مع ISBN أو DOI أو معيار·نفس القضية حُلّت في 27 محركاً·مسرد 306- الأجل·150 باوند· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | كيفية بناء أداة القياس، وسجلها، والتحقق منها، ومراجعة الحسابات·8 أجزاء·محرك قابل للتنفيذ**5 صكوك و 344 بندا، 276 من الأماكن العامة** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·من صفر إلى بنية أساسية مالية قابلة للبرمجة ومحلل في سلسلة· **91 ممارسة**و**363 اختبار** ·العقود المبرمة مع مؤسسة (التشويش والتجار) وتحليلات ثابتة للأخشاب في مركز الاستخبارات المركزية·تطبيقات خارج الإنترنت تم التحقق منها بفتح المخزن و عد محتوياته· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 وحدات نموذجية·▪ ▪214 ساعة· **93 دفتر ملاحظات**- ٣١ فصلا، و ٣١ نسخة للطلاب، و ٣١ حلا -·المسائل، والخرائط البصرية، والممارسات، والتقييم مع البيانات العامة الحقيقية·Py Torch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 وحدة تدريب**واحد لكل آلة· **502 h 15 min** ·النظم والضوابط والفيزياء والسلامة وتصميم المحاكاة مع مصادر لكل فئة·* لم يُنفذ أي مُحفز بعد، ويُعلن عن ذلك على هذا النحو* |
+👉 **[عرض البرامج الـ21 كاملة](docs/ECOSYSTEM.ar.md#curricula)**
 
 ## ⚡إذا كان لديك 10 دقائق لتقييمي
 

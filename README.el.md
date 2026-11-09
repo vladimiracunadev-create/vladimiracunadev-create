@@ -76,6 +76,73 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🔒 **Τηλεμετρία** | Μηδενική τηλεμετρία σε εγκληματολογικά προϊόντα και Empresa Operativa Χιλή — επαληθεύεται σε κάθε κατασκευή (όχι Android`INTERNET`άδεια) |
 | 🌐 **Δημοσιευμένοι ιστότοποι** | **56 GitHub Σελίδες ιστοσελίδες**—55 εκφορτώσεις, μία ανά προϊόν, πρόγραμμα ή οικοσύστημα, συν το χαρτοφυλάκιο— καθεμία από τις οποίες έχει αναπτυχθεί από το δικό της αποθετήριο·και τα 56 επαληθεύτηκαν με HTTP`200` |
 
+## 🛠️ Στοίβα τεχνολογιών
+
+Τεχνολογίες που εντοπίστηκαν στα δημόσια αποθετήρια (manifests, εξαρτήσεις, containers και κώδικας), ομαδοποιημένες ανά τομέα. Η εμφάνιση σε ένα αποθετήριο —συμπεριλαμβανομένων εργαστηρίων και προγραμμάτων σπουδών— αποτελεί ένδειξη χρήσης, όχι δήλωση ετών εμπειρίας παραγωγής.
+
+**Γλώσσες**
+
+![Γλώσσες](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**Πλαίσια, περιβάλλοντα εκτέλεσης και βιβλιοθήκες**
+
+![Πλαίσια, περιβάλλοντα εκτέλεσης και βιβλιοθήκες](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**Βάσεις δεδομένων**
+
+![Βάσεις δεδομένων](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**Cloud, containers και DevOps**
+
+![Cloud, containers και DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**Παρατηρησιμότητα και ανταλλαγή μηνυμάτων**
+
+![Παρατηρησιμότητα και ανταλλαγή μηνυμάτων](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**ΤΝ, πράκτορες, skills και MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**Ασφάλεια και εφοδιαστική αλυσίδα**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**Πλατφόρμες-στόχοι**
+
+![Πλατφόρμες-στόχοι](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️Ecosystem σε μια λάμψη
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ Οικοσύστημα: προϊόντα, εργαστήρια, εφαρμοσμένη ΤΝ και επιστημονικοί υπολογισμοί
+## 🗂️ Οικοσύστημα: προϊόντα, εργαστήρια, εφαρμοσμένη ΤΝ, προγράμματα σπουδών και επιστημονικοί υπολογισμοί
 
 Το πρακτικό έργο του προφίλ βρίσκεται σε ξεχωριστό έγγραφο: λογισμικό που κατεβάζεται και εγκαθίσταται, εργαστήρια μηχανικής, εφαρμοσμένη ΤΝ και επιστημονικοί υπολογισμοί, μαζί με την περιγραφή κάθε fork έργων τρίτων που υπάρχει στον λογαριασμό.
 
 - 📦 **Προϊόντα με πραγματική διανομή** (22)
 - 🧪 **Εργαστήρια Μηχανικών** (11)
 - 🤖 **Εφαρμοσμένη ΤΝ** (6)
+- 📚 **Πλήρης τεχνική επιμέλεια** (21)
 - 🔬 **Επιστημονική Υπολογιστική** (1)
 - 🍴 **Forks έργων τρίτων** (52)
 
@@ -109,31 +177,7 @@ flowchart TD
 
 Αλληλοσυσσωρεύσιμα προγράμματα στα ισπανικά, με κατάσταση και πεδίο εφαρμογής δηλωμένα από κάθε χώρο αποθήκευσης. Τα 21 προγράμματα προσθέτουν έως και**14.530 κατηγορίες**, μετρά με[a workflow](.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο· το σήμα ανανεώνεται κάθε εβδομάδα και δεν γράφεται με το χέρι.
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)είναι μια υποτροφιασμένη πυξίδα που συνδέει 30 πραγματικές διαδρομές σε 6 περιοχές μέσω οπτικών χαρτών και[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)· δεν υπολογίζεται ως ένα πρόσθετο πρόγραμμα.
-
-| Πρόγραμμα | Κλάσεις | Πεδίο εφαρμογής |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | Από την υπολόγιση στα δάχτυλα μέχρι την αναπαραγωγή ενός χαρτιού· **360 ντετερμινιστικές διαδηλώσεις επαληθεύτηκαν στο CI** ·1.080 σημειωματάρια·489-τερματικό γλωσσάριο· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 η·χρηματοοικονομικά μαθηματικά και ΔΠΧΠ → πίστωση, κίνδυνος, Βασιλεία ΙΙΙ, ανοικτή χρηματοδότηση, DLT, σταθερά νομίσματα, και MiCA· **27 περιπτώσεις** · **298 δοκιμές** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Μαθηματικά και C#/C++/GDScript → Σκιάστρα, AI, multiplayer, VR/AR·Γκοντό.·Ενότητα·Μη πραγματικό· **10 εργαστήρια Godot επαληθεύονται στο CI**(301 έλεγχοι)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 μέρη·θεμελίωση → Κόκκινη ομάδα, DFIR, ασφάλεια cloud, εκμετάλλευση dev, CTF, και ασφάλεια παιχνιδιών·χαρτογραφημένο σε**7 πιστοποιήσεις** ·offline Android / εφαρμογή ιστού·Εγχειρίδιο PDF·CI, Ασφάλεια και Σελίδες επαληθευμένες· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 μέρη με επιχειρησιακούς ορισμούς, δελτία μέτρησης, επαληθεύσιμη βιβλιογραφία και κανονιστικό πλαίσιο της Χιλής· **v1.6.0** ·1.29M λέξεις·17 διαδρομές με βάση το ρόλο· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Δημιουργία και λειτουργία μιας πραγματικής εταιρείας στη Χιλή: από την ιδέα στην ενσωμάτωση, φορολογική αρχή, επιχειρήσεις, κρίση, και έξοδος·360 διαγράμματα·1,251-τερματικό γλωσσάριο·Εγχειρίδιο 1.548 σελίδων· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 μέρη·60 ολοκληρωτικές συνεδρίες·34 μονοπάτια·ιχνηλάσιμες πηγές·Markdown, offline αναγνώστης, και GitHub Σελίδες· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | Βαθμοί 1–12· **4.156 ολοκληρωμένες διασχολικές εμπειρίες** · **2.823 μαθησιακοί στόχοι** ·Πηγές MINEDUC·δεν εκκρεμούν προτάσεις και εξειδικευμένη ανθρώπινη αναθεώρηση που εκκρεμεί ακόμη· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 μέρη και 8 στάδια·θεμέλια → προϊόν, αρχιτεκτονική, ασφάλεια, DevOps, SRE, SPEC, AI, και συστήματα πολλαπλών παραγόντων·συντακτική κατάσταση που δηλώνεται από το αποθετήριο· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Από το πώς μαθαίνει ένα άτομο μέχρι το πώς εκπαιδεύονται οι δάσκαλοι·25 μέρη· **κάθε τάξη δηλώνει την κατάσταση και τα όρια των αποδείξεων της** ·Πρώιμη παιδεία, συγκριτικές μέθοδοι, ειδικές εκπαιδευτικές ανάγκες, συνύπαρξη, πολιτιστική πολυμορφία και διεθνή στοιχεία·1,097-τερματικό γλωσσάριο, 325 διαγράμματα, και μια 60-δραστηριότητα τράπεζα τάξη·14 πορείες σταδιοδρομίας ανά ρόλο·LMS-εξαγώγιμο· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS (ΣΥΜ)·Αζούρ·GCP·Κουμπερνέτες·Τεραμόμορφο·ΣΡΕ·Φινόπς· **1.288 ώρες** ·288 εργαστήρια με στοιχεία JSON·1,032 πηγές που εντοπίστηκαν·2,884-σελίδα εγχειρίδιο PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Από την ιδιοκτησία του πρώτου αποτελέσματος σας να ηγηθεί μια εταιρεία και την ίδρυση της δικής σας: ομάδες, KPI / OKR, χρηματοδότηση, προϊόν, κίνδυνος, διοικητικό συμβούλιο, και M&A·24 περιπτώσεις, 96 εργαστήρια, και 39 πρότυπα· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Πολικοί, ML+Optuna/SHAP, PyTorch/LLMs/LORA, MLOps·εγγενής εφαρμογή Windows + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolic → probabilistic → deep learning → LLMs, RAG, agents, safety, and frontier · **v0.17.0** · **708 notebooks** · **148 foundational papers** · offline Windows, Android, and PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Μια ιδέα,**10 γλώσσες**επαληθεύτηκε στο CI —**1.360 υλοποιήσεις**— συν**1.632 προγράμματα**σε ακίνητες γλώσσες (COBOL, Fortran, Ada, RPG, MUMPS...) και έναν άτλαντα**60 κάρτες σε 15 οικογένειες** ·v1.1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Ένα εκτελέσιμο συμβόλαιο, χωρίς προσαρμογείς, εναντίον Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte, και πολλά άλλα·12 μέρη· **70 οικοδομημένες τάξεις** · **397 περιπτώσεις που επαληθεύτηκαν σε ΚΚΠ** · **210 ISBN/DOI πηγές** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** ·μηχανική βάσεων δεδομένων σε 15 μέρη·230 ώρες· **την επαληθεύσιμη πηγή για κάθε ισχυρισμό**120 πηγές με ISBN, DOI, ή πρότυπο·Η ίδια περίπτωση λύθηκε σε 27 κινητήρες·306-τερματικό γλωσσάριο·150 pytest (πυόδοντας)· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Πώς ένα όργανο μέτρησης κατασκευάζεται, βαθμολογείται, επικυρώνεται και ελέγχεται·8 μέρη·Εκτελέσιμος κινητήρας με**5 μέσα και 344 αντικείμενα, 276 δημόσια** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·από μηδέν έως προγραμματιζόμενη οικονομική υποδομή και ανάλυση της αλυσίδας· **91 πρακτικές**και**363 δοκιμές** ·συμβάσεις με το Χυτήριο (fuzzing και indariants) και τη στατική ανάλυση Slither σε CI·offline εφαρμογές επαληθεύονται με το άνοιγμα του δυαδικού και μετρώντας τα περιεχόμενά του· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 ενότητες·≈214 ώρες· **93 σημειωματάρια**— 31 τάξεις, 31 φοιτητικές εκδόσεις και 31 λύσεις·ερωτήσεις, οπτικούς χάρτες, πρακτικές και αξιολόγηση με πραγματικά δημόσια δεδομένα·Πάιτορτς· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 ενότητες κατάρτισης**, ένα ανά μηχανή· **502 h 15 λεπτά** ·συστήματα, έλεγχοι, φυσική, ασφάλεια και σχεδιασμός προσομοίωσης με πηγές ανά κατηγορία·* Δεν εκτελέσιμος προσομοιωτής ακόμα, και δηλώνεται με αυτόν τον τρόπο* |
+👉 **[Δείτε και τα 21 προγράμματα](docs/ECOSYSTEM.el.md#curricula)**
 
 ## ⚡Αν έχετε 10 λεπτά για να με αξιολογήσετε
 

@@ -76,6 +76,73 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 | 🔒 **Telemetri** | Zero telemetry in forensic products and Empresa operativa Chile - verified in every build (no Android`INTERNET`ijin) |
 | 🌐 **Situs yang dipublikasikan** | **56 Situs Halaman GitHub**- 55 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 56 diverifikasi dengan HTTP`200` |
 
+## 🛠️ Tumpukan teknologi
+
+Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, dan kode), dikelompokkan per area. Muncul di sebuah repositori —termasuk laboratorium dan kurikulum— adalah bukti penggunaan, bukan klaim pengalaman produksi bertahun-tahun.
+
+**Bahasa**
+
+![Bahasa](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**Framework, runtime, dan pustaka**
+
+![Framework, runtime, dan pustaka](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**Basis data**
+
+![Basis data](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**Cloud, kontainer, dan DevOps**
+
+![Cloud, kontainer, dan DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**Observabilitas dan pesan**
+
+![Observabilitas dan pesan](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**AI, agen, skill, dan MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**Keamanan dan rantai pasok**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**Platform target**
+
+![Platform target](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️Ekosistem Pada A Glance
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ Ekosistem: produk, laboratorium, AI terapan, dan komputasi ilmiah
+## 🗂️ Ekosistem: produk, laboratorium, AI terapan, kurikulum, dan komputasi ilmiah
 
 Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh dan dipasang, laboratorium rekayasa, AI terapan, dan komputasi ilmiah, beserta deskripsi setiap fork proyek pihak ketiga yang ada di akun.
 
 - 📦 **Produk Dengan Distribusi Nyata** (22)
 - 🧪 **Laboratorium Teknik** (11)
 - 🤖 **AI Terapan** (6)
+- 📚 **Curricula Teknis Lengkap** (21)
 - 🔬 **Komputer Ilmiah** (1)
 - 🍴 **Fork proyek pihak ketiga** (52)
 
@@ -109,31 +177,7 @@ Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh
 
 Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 21 program ditambahkan ke**Kelas 14,530**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)adalah kompas federasi menghubungkan 30 jalur nyata di 6 daerah melalui peta visual dan[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); ini tidak dihitung sebagai sebuah program tambahan.
-
-| Program | Kelas | Scope |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | Dari mengandalkan jari untuk mereproduksi kertas· **360 deterministik demonstrasi diverifikasi dalam CI** ·1.080 notebook·489- istilah glossary· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h·matematika keuangan dan kredit IFRS, risiko, Basel III, keuangan terbuka, DLT, stalecoins, dan MiCA· **27 kasus** · **298 tes** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Matematika dan C # / C + + / GDScript penggeser, Al, multiplayer, VR / AR·Titik·Persatuan·Tidak nyata· **10 laboratorium Godot diverifikasi dalam CI**(301 cek)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 bagian·fondasi Tim Merah, DFIR, keamanan awan, explodev, CTF, dan keamanan permainan·dipetakan ke**7 sertifikat** ·aplikasi Android / web luring·Manual PDF·CI, Keamanan, dan Halaman diverifikasi· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 bagian dengan definisi operasional, lembar pengukuran, bibliografi yang dapat diverifikasi, dan konteks regulasi Chili· **v1.6.0** ·1.29M kata·17 jalur berbasis· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Membuat dan mengoperasikan perusahaan nyata di Chili: dari ide untuk memasukkan, otoritas pajak, operasi, krisis, dan keluar·Metagram 360·1,251-term glossary·1.548- halaman manual· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 bagian·60 sesi integratif·34 path·sumber terlacak·Markdown, pembaca luring, dan Halaman GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | Kelas 1-12· **4.156 pengalaman terintegrasi.** · **2,823 belajar tujuan** ·Sumber MINEDUC·tidak ada proposal yang tertunda dan tinjauan khusus manusia masih tertunda· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 bagian dan 8 tahap·fondasi produk strenk, arsitektur, keamanan, DevOps, SRE, SPEC, AI, dan multi- sistem agen·status editorial dideklarasikan oleh repositori· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Dari bagaimana seseorang belajar bagaimana guru dilatih·25 bagian· **setiap kelas menyatakan bukti negara dan batas** ·literasi awal, metode komparatif, kebutuhan pendidikan spesifik, koeksistensi, keragaman budaya, dan bukti internasional·1,097- istilah Glossary, 325 diagram, dan 60-aktivitas bank kelas·14 jalur karir oleh peran·LMS-exportable· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·Terraform·SRE·FinOps· **1.288 jam** ·288 laboratorium dengan bukti JSON·1,032 sumber dilacak·Manual 2.884- halaman PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Dari memiliki hasil pertama Anda untuk memimpin perusahaan dan mendirikan tim Anda sendiri: tim, KPI / OKR, keuangan, produk, risiko, papan, dan M & A·24 kasus, 96 lab, dan 39 contoh· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML + Optuna / SHAP, PyTorch / LLM / LoRA, MLOps·native Windows app + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolic → probabilistic → deep learning → LLMs, RAG, agents, safety, and frontier · **v0.17.0** · **708 notebooks** · **148 foundational papers** · offline Windows, Android, and PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Satu konsep,**10 bahasa**Diverifikasi dalam CI -**1.360 implementasi**- Plus**1.632 program**dalam bahasa yang masih hidup (COBOL, Fortran, Ada, RPG, MUMPS...) dan atlas**60 kartu dalam 15 keluarga** ·v1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Satu kontrak executable, tanpa adaptor, melawan Express, FastAPI, Spring Boot, ASP.NET, Django, Rail, Laravel, React, Vue, Svelte, dan banyak lagi·12 bagian· **70 kelas yang dibangun** · **397 kasus diverifikasi dalam CI** · **Sumber ISBN / DOI 210** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** ·basis data rekayasa dalam 15 bagian·230 jam· **sumber yang dapat diverifikasi untuk setiap klaim**: 120 sumber dengan ISBN, DOI, atau standar·kasus yang sama diselesaikan dalam 27 mesin·306 istilah glossary·150 pytest· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Bagaimana alat pengukuran dibangun, mencetak, memvalidasi, dan diaudit·8 bagian·mesin dapat dieksekusi dengan**5 instrumen dan 344 item, 276 public-domain** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·dari nol ke pemrograman infrastruktur keuangan dan analytics on-chain· **91 praktek**dan**363 tes** ·kontrak dengan Foundry (fuzzing and invariants) dan analisis statis Slither dalam CI·aplikasi offline diverifikasi dengan membuka biner dan menghitung isinya· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modul·214 jam· **93 buku catatan**- 31 kelas, 31 versi mahasiswa, dan 31 solusi -·pertanyaan, peta visual, praktek, dan penilaian dengan data publik yang nyata·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 modul pelatihan**, satu per mesin· **502 j 15 menit** ·sistem, kontrol, fisika, keselamatan, dan desain simulasi dengan sumber per kelas·* tidak ada simulator executable belum, dan itu dideklarasikan seperti itu * |
+👉 **[Lihat 21 program lengkap](docs/ECOSYSTEM.id.md#curricula)**
 
 ## ⚡Jika kau memiliki 10 menit untuk mengevaluasi aku
 

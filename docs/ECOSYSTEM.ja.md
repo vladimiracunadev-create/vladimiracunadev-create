@@ -1,4 +1,4 @@
-# 🗂️ エコシステム：プロダクト、ラボ、応用AI、科学計算
+# 🗂️ エコシステム：プロダクト、ラボ、応用AI、カリキュラム、科学計算
 
 [← プロフィールに戻る](../README.ja.md)
 
@@ -61,6 +61,38 @@
 | [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6 の有剤のプラグイン**ロードコード、OpenAI/Codex、Copilot、Gemini、MCP に 1 つのソースからインストール可能:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`と と と と 、`rootcause-response` · **69 ドリフトなしの生成されたビュー**—各ランタイムは、同じ契約からその形式を受け取ります。·ゼロデプス·リリース·マックオース·ウィンドウズ· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
 | [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **15 代理スキル**クラウデコード· **セキュリティー**: 12層`security-audit`ログアウト·ケベック·EPSS(エプス)·ツイート·コンテナ·秘密)14段`bitcoin-custody-audit` · **リポジトリゲート**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **カンファレンス**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **ドッカー**: `docker-cleanup`, `docker-compose-doctor` · **ドキュメント**: `md-to-doc` ·ゼロデプス·クロスプラットフォーム |
 | [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19 代理スキル**Codex: セキュリティとサプライチェーン、プレッライト、機能フロー、レジリエンス、状態、リリースの証拠、Python/YAML/Markdownゲート、バージョン管理、依存関係、ドッカー、ドキュメント·Python 優先· `pnpm` ·リリース·マックオース·ウィンドウズ· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+
+<a id="curricula"></a>
+
+## 📚完全な技術的なカリキュラム
+
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 21プログラムが最大で追加**14,530 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+
+🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)ビジュアルマップと6つの領域を横断して30の実パスを接続するフェデレーションコンパスです。[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); 追加プログラムとしてカウントされません。
+
+| 参加プログラム | レッスン | スコープ |
+|---|---:|---|
+| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | 指のカウントから紙を再現· **360 の決定的なデモは CI で検証しました** ·1,080 ノート·489 用語集· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
+| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 日 時: 534 分·金融数学とIFRS → クレジット、リスク、バーゼルIII、オープンファイナンス、DLT、安定コイン、およびMICA· **27 件** · **298 試験** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
+| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | 数学とC#/C++/GDScript →シェーダー、AI、マルチプレイ、VR/AR·ゴルゴット·ユニバース·ユレアル· **CIで検証された10のGodotラボ**(301件のチェック)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
+| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **.3.0 の v1.3.0** ·20 部·基盤 → レッドチーム、DFIR、クラウドセキュリティ、開発、CTF、ゲームセキュリティ·地図を**7 認証** ·オフライン Android/web アプリ·PDFマニュアル·CI、セキュリティ、およびページ検証· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
+| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 運用定義、測定シート、検証可能なバイブリグラフィー、チリ規制のコンテキストを持つ24部品· **..6.0 の v1.6.0** ·1.29M の言葉·17 のロールベースのパス· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
+| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | チリの会社を創出し、運営する: 設立、税務当局、運用、危機、出退社を考え、·360 の図·1,251 用語集·1,548ページマニュアル· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
+| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 パーツ·60の統合セッション·34 パス·トレーサブルなソース·マークダウン、オフラインリーダー、GitHubページ· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | グレード 1～12· **4,156 統合されたクロスカリキュラムの経験** · **2,823 学習目的** ·MINEDUC ソース·未完成の提案や専門的ヒューマンレビューはまだ終わらない· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 部・8 段·基礎 → 製品・アーキテクチャ・セキュリティ・デベロッパー・SRE・SPEC・AI・マルチエージェント・システム·リポジトリによって宣言される編集状態· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 教師が訓練される方法を学ぶ人から·25 部· **各クラスは、証拠状態と限界を宣言します。** ·初期のリテラシー、比較方法、特定の教育ニーズ、共存性、文化的多様性、および国際的証拠·1,097 用語集、325 図、60 アクティビティの教室銀行·役割による14のキャリアパス·LMS エクスポート可能· **.1.0 の** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
+| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS の·リファレンス·ギガシー·クーベルネ·テラフォーム·プレステージ·フィンオプス· **1,288時間** ·JSON 証拠による 288 件のラボ·1,032 個のトレースされたソース·2,884ページ PDFマニュアル· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
+| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 貴社の第一次成果を保有し、自社をリードし、チーム、KPI/OKR、ファイナンス、製品、リスク、ボード、M&A·24 ケース、96 ラボ、39 テンプレート· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
+| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | 極度、ML+Optuna/SHAP、PyTorch/LLMs/LoRA、MLOps·ネイティブWindowsアプリ + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
+| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolic → probabilistic → deep learning → LLMs, RAG, agents, safety, and frontier · **v0.17.0** · **708 notebooks** · **148 foundational papers** · offline Windows, Android, and PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
+| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | ひとつのコンセプト**10 の言語**CIで検証 —**1,360 の実装**プラス**1,632 のプログラム**静止言語(COBOL、Fortran、Ada、RPG、MUMPS...)、アトラス**15人の家族で60枚のカード** ·.1.0 の v1.1.0 の· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
+| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | アダプターなしで、Express、FastAPI、Spring Boot、ASP.NET、Django、Rails、Laravel、React、Vue、Svelte、その他多くの機能が搭載されている、一つの実行可能契約·12 部· **70組クラス** · **CIで検証された397件** · **210 ISBN/DOI ソース** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
+| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **.0.0 の** ·15 部のデータベースエンジニアリング·お電話でのお問い合わせ· **すべてのクレームの検証可能なソース**: ISBN、DOI、または標準の120ソース·27エンジンで解決する同じ場合·306 用語集·150 ピテスト· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
+| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | 測定器が構築、評価、検証、監査される方法·8 部·実行可能なエンジンと**5 楽器と344 アイテム、276 パブリックドメイン** |
+| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **363 tests** · contracts with Foundry (fuzzing and invariants) and Slither static analysis in CI · offline apps verified by opening the binary and counting its contents · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
+| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 モジュール·≈214時間· **93 ノートブック**—31クラス、31の学生バージョン、31のソリューション·実際のパブリックデータに関する質問、ビジュアルマップ、慣行、評価·ピートーチ· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
+| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 トレーニングモジュール**、機械ごとの1· **502 h 15 分** ·システムの制御、物理、安全、およびクラスごとのソースとのシミュレーション設計·※実行可能シミュレータは未だ、その方法が宣言されていない* |
 
 ## 🔬科学コンピューティング
 

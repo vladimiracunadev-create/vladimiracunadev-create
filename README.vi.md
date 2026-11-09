@@ -76,6 +76,73 @@ Phân tích tiến trình và yêu cầu·Đánh giá giải pháp·phối hợp
 | 🔒 **Kính viễn vọng** | Không có máy đo trong sản phẩm pháp y và Empresa Operativa Chile — được kiểm tra trong mỗi tòa nhà (không có người máy)`INTERNET`Cho phép |
 | 🌐 **Xuất ra các trang** | **56 trang GitHub**-55 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 56 được kiểm tra với HTTP`200` |
 
+## 🛠️ Ngăn xếp công nghệ
+
+Các công nghệ được phát hiện trong kho mã công khai (tệp manifest, phụ thuộc, container và mã nguồn), nhóm theo lĩnh vực. Xuất hiện trong một kho mã — kể cả phòng thí nghiệm và giáo trình — là bằng chứng về việc sử dụng, không phải tuyên bố về nhiều năm kinh nghiệm vận hành thực tế.
+
+**Ngôn ngữ**
+
+![Ngôn ngữ](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**Framework, môi trường chạy và thư viện**
+
+![Framework, môi trường chạy và thư viện](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**Cơ sở dữ liệu**
+
+![Cơ sở dữ liệu](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**Đám mây, container và DevOps**
+
+![Đám mây, container và DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**Khả năng quan sát và nhắn tin**
+
+![Khả năng quan sát và nhắn tin](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**AI, agent, skill và MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**Bảo mật và chuỗi cung ứng**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**Nền tảng đích**
+
+![Nền tảng đích](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️Hệ thống sinh thái đang hưng thịnh
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ Hệ sinh thái: sản phẩm, phòng thí nghiệm, AI ứng dụng và tính toán khoa học
+## 🗂️ Hệ sinh thái: sản phẩm, phòng thí nghiệm, AI ứng dụng, giáo trình và tính toán khoa học
 
 Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần mềm để tải về và cài đặt, phòng thí nghiệm kỹ thuật, AI ứng dụng và tính toán khoa học, cùng mô tả từng fork của các dự án bên thứ ba có trong tài khoản.
 
 - 📦 **Những sản phẩm có thật sự được phân phối** (22)
 - 🧪 **Phòng thí nghiệm kỹ thuật** (11)
 - 🤖 **AI ứng dụng** (6)
+- 📚 **Máy tính trình duyệt kỹ thuật toàn bộ** (21)
 - 🔬 **Tính toán khoa học** (1)
 - 🍴 **Fork của dự án bên thứ ba** (52)
 
@@ -109,31 +177,7 @@ Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần 
 
 Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,530 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)là một la bàn liên kết 30 con đường thật trên 6 khu vực thông qua bản đồ thị giác và một[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); nó không được tính là một chương trình bổ sung.
-
-| Chương trình | Hạng | Phạm vị |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | Từ việc đếm trên ngón tay đến việc tái sản xuất một tờ giấy· **Đã kiểm tra 360 cuộc biểu tình xác định trong CN** ·1. 080 cuốn sổ·Bản chú giải 489- hạn· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h · financial mathematics and IFRS → credit, risk, Basel III, open finance, DLT, stablecoins, and MiCA · **27 cases** · **298 tests** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Toán học và C#/C++/GDGD maker  lushers, Al, đa người chơi, VR/AR·Godot·Hợp nhất·Không thật· **10 Phòng thí nghiệm Godot được xác nhận ở CI**(301 Kiểm tra)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3. 0** ·20 phần·Tổ chức nhóm đỏ, DFIR, an ninh đám mây, khai thác dev, CTF, và bảo mật trò chơi·Bản đồ**7 xác thực** ·Name·Sổ tay PDF·Đã kiểm tra các trang, CI, Security và Pages· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 phần với định nghĩa hoạt động, bảng đo đạc, tính toán bản thảo, và ngữ cảnh điều chỉnh Chile· **v1. 6. 0** ·1.29M từ·17 đường đi dựa trên vai trò· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Tạo và điều hành một công ty thực sự ở Chile: từ ý tưởng đến hợp tác, quyền thuế, hoạt động, khủng hoảng và thoát·360 sơ đồ·1, 251 hạn·Sổ tay 1, 548 trang· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 phần·60 phiên chạy không có tính chất cao·34 đường·Nguồn có thể theo dõi·Đánh dấu, đọc ngoài và trang GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | Lớp 1–12· **4.156 kinh nghiệm kết hợp giữa các chu kỳ** · **2. 823 mục tiêu học tập** ·Nguồn của Jimmy·Không có đề nghị chờ đợi và phê bình chuyên môn của con người vẫn còn chờ· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 phần và 8 giai đoạn·Nền tảng sản phẩm, kiến trúc, an ninh, DevOps, SRE, SPEC, Al và nhiều hệ thống đa tác nhân·Trạng thái biên tập được tuyên bố bởi kho· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Từ cách một người học hỏi đến cách giáo viên được huấn luyện·25 phần· **Mỗi lớp tuyên bố trạng thái và giới hạn của mình** ·Việc biết chữ sớm, phương pháp so sánh, nhu cầu giáo dục cụ thể, sự tồn tại, đa dạng văn hóa và bằng chứng quốc tế·1,097 năm bóng loáng, 325 biểu đồ, và một ngân hàng lớp học 60 hoạt động·14 con đường sự nghiệp·Name· **v2.1. 0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·Name·SRE·FinOps· **1,288 giờ** ·288 phòng thí nghiệm với bằng chứng JSON·1,032 nguồn theo dõi·Sổ tay PDF 2. 884 trang· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Từ việc sở hữu kết quả đầu tiên của bạn đến việc lãnh đạo một công ty và thành lập các nhóm riêng của bạn: các nhóm, KPI/OKR, tài chính, sản phẩm, rủi ro, bảng điều khiển và M&A·24 vụ án, 96 phòng thí nghiệm và 39 mẫu vật· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Hình cực, ML+Optuna/SHAP, PyTorch/LMs/LoRA, MLOps·Ứng dụng Windows bản địa + An- mô- sin A- ven· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Tính xác suất tượng trưng cho việc học sâu sắc LM, RAG, đặc vụ, an toàn và biên giới· **v0.17.0** · **778 sổ ghi chép** · **Giấy có nền tảng 148** ·Name· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Một khái niệm,**10 ngôn ngữ**Xác nhận bằng CI —**1.360 lượt thực hiện**--và**1. 632 chương trình**trong ngôn ngữ vẫn còn sống (COBOL, Forran, Ada, RPG, MUPS...) và một atlas của**60 lá bài trong 15 gia đình** ·v1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Một hợp đồng thực hiện được, không có người thích nghi, không có tốc độ cao, không có tốc độ cao, không có tốc độ, không có tốc độ, không có tốc độ, mùa xuân, AP.NET, Django, Rails, Laravel, Phản ứng, Vue, Svelte, và nhiều hơn nữa·12 phần· **70 lớp đã xây dựng** · **397 vụ án được xác nhận ở CIA** · **210 ISBN/DOI Nguồn** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0** ·Công nghệ cơ sở dữ liệu trong 15 phần·230 giờ· **nguồn có thể kiểm tra cho mỗi yêu cầu**: 120 nguồn có ISBN, DOI, hoặc tiêu chuẩn·Cùng một trường hợp được giải quyết trong 27 động cơ·Bản chú giải 30- 6- nhiệm kỳ·150 py thử· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Làm thế nào để chế tạo, ghi điểm, xác nhận và kiểm toán·8 phần·Cơ chế thực hiện với**5 nhạc cụ và 334 mục, 276 công- làm việc chung** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·từ 0 đến cơ sở hạ tầng tài chính có thể lập trình được và trên máy tính phân tích· **91 thực hành**và**Thử 333** ·Hợp đồng với Nhà phát hiện (tiếng va chạm và tiếng Ý) và phân tích tĩnh Slither ở CIA·Comment· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 Mô- đun·214 tiếng· **93 cuốn sổ tay**31 lớp học, 31 bản dịch sinh viên, và 31 giải pháp·câu hỏi, bản đồ thị giác, thực hành và đánh giá với dữ liệu công cộng thực tế·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 mô- đun huấn luyện**, mỗi máy một người· **502 H 15 phút** ·hệ thống, điều khiển, vật lý, an toàn và mô phỏng thiết kế với các nguồn trên mỗi lớp·Chưa có trình mô phỏng thực hiện được, và nó được công bố như vậy. |
+👉 **[Xem đầy đủ 21 chương trình](docs/ECOSYSTEM.vi.md#curricula)**
 
 ## ⚡Nếu anh có 10 phút để đánh giá tôi
 

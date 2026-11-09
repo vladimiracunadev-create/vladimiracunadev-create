@@ -76,6 +76,73 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🔒 **เส้นพริ้วไหว** | ซีโร่โทรเมชันในผลิตภัณฑ์นิติเวช และเอ็มพริซา โอเปราตีวา ชิลี — ได้รับการยืนยันในทุกอาคาร (โน อันดรอยด์)`INTERNET`อนุญาต |
 | 🌐 **เผยแพร่เว็บไซต์** | **56 เว็บไซต์ GitHub Pages**-55 เครื่องลงจอด 1 เครื่อง ต่อผลิตภัณฑ์ โปรแกรม หรือระบบนําทางระบบนิเวศ รวมกับชุดผลงาน แต่ละอันใช้จากคลังเก็บ·ทั้ง 56 คนตรวจสอบกับ HTTP`200` |
 
+## 🛠️ เทคโนโลยีสแตก
+
+เทคโนโลยีที่ตรวจพบในคลังสาธารณะ (ไฟล์ manifest, ไลบรารีที่พึ่งพา, คอนเทนเนอร์ และโค้ด) จัดกลุ่มตามด้าน การปรากฏในคลังใด ๆ — รวมห้องปฏิบัติการและหลักสูตร — เป็นหลักฐานการใช้งาน ไม่ใช่การอ้างประสบการณ์ใช้งานจริงหลายปี
+
+**ภาษา**
+
+![ภาษา](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**เฟรมเวิร์ก รันไทม์ และไลบรารี**
+
+![เฟรมเวิร์ก รันไทม์ และไลบรารี](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**ฐานข้อมูล**
+
+![ฐานข้อมูล](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**คลาวด์ คอนเทนเนอร์ และ DevOps**
+
+![คลาวด์ คอนเทนเนอร์ และ DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**การสังเกตการณ์ระบบและการส่งข้อความ**
+
+![การสังเกตการณ์ระบบและการส่งข้อความ](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**AI เอเจนต์ สกิล และ MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**ความปลอดภัยและห่วงโซ่อุปทาน**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**แพลตฟอร์มเป้าหมาย**
+
+![แพลตฟอร์มเป้าหมาย](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️ภาพรวมระบบนิเวศ
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ ระบบนิเวศ: ผลิตภัณฑ์ ห้องปฏิบัติการ AI ประยุกต์ และการคำนวณเชิงวิทยาศาสตร์
+## 🗂️ ระบบนิเวศ: ผลิตภัณฑ์ ห้องปฏิบัติการ AI ประยุกต์ หลักสูตร และการคำนวณเชิงวิทยาศาสตร์
 
 ผลงานเชิงปฏิบัติของโปรไฟล์นี้อยู่ในเอกสารแยกต่างหาก ได้แก่ ซอฟต์แวร์ที่ดาวน์โหลดและติดตั้งได้ ห้องปฏิบัติการวิศวกรรม AI ประยุกต์ และการคำนวณเชิงวิทยาศาสตร์ พร้อมคำอธิบายของ fork โปรเจกต์ของบุคคลที่สามทุกรายการในบัญชี
 
 - 📦 **ผลิตภัณฑ์ที่มีการเผยแพร่จริง** (22)
 - 🧪 **ห้องปฏิบัติการวิศวกรรม** (11)
 - 🤖 **ปรับใช้ AI** (6)
+- 📚 **หลักสูตรเทคนิคฉบับสมบูรณ์** (21)
 - 🔬 **การประมวลผลเชิงวิทยาศาสตร์** (1)
 - 🍴 **Fork ของโปรเจกต์บุคคลที่สาม** (52)
 
@@ -109,31 +177,7 @@ flowchart TD
 
 รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 21 โครงการรวมกันเป็น**14,530 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)เป็นเข็มทิศที่ดูดซึม เชื่อมต่อ 30 เส้นทางจริงผ่านพื้นที่ 6 ผ่านแผนที่และ[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);; ไม่ ได้ ถือ ว่า เป็น รายการ อื่น ๆ.
-
-| โปรแกรม | คลาส | ขอบเขต |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | จากการนับนิ้วเพื่อสร้างกระดาษ· **360 การสาธิตแบบระบุตัวตน ยืนยันใน CI** ·สมุด บันทึก 1,080 เล่ม·เคลือบด้วยน้ํามัน 489 ภาค· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h·สืบค้นเมื่อ 3 ปีก่อน สืบค้นเมื่อ 3 มิถุนายน พ.ศ.· **27 กรณี** · **298 ทดสอบ** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | คณิตศาสตร์และ C#/C+/GDScript paraders, AI, multipleplayer, VR/AR·พระเจ้า·เอกภาพ·ไม่ใช้เอฟเฟ็คต์· **10 ห้อง ปฏิบัติ การ ของ โก โดต ที่ ตรวจ สอบ ใน ซี ไอ**(301 เช็ค)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 ส่วน·→ ทีมแดง, DFIR, ความปลอดภัยเมฆ, ใช้ประโยชน์จากเดวอน, CTF และความปลอดภัยในเกม·ผังแป้นพิมพ์**7 การ รับรอง** ·แอพพลิเคชันของแอนดรอยด์/ web ออฟไลน์·คู่มือ PDF·CI, รักษาความปลอดภัย และเพจตรวจสอบ· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 ส่วนที่มีนิยามการทํางาน, แผ่นวัด, ชีวประวัติแบบวัดได้, และบริบทควบคุมชิลี· **v1.6. 0** ·1. 29M คํา·เส้นทางบนบทบาท 17· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | สร้างและดําเนินกิจการจริงในชิลี : จากความคิดไปในทางการเข้าครอบครอง, อํานาจภาษี, การดําเนินงาน, วิกฤตการณ์และออก·แผนภูมิ 360·อภิธานศัพท์ 1,2111 ระยะเวลา·คู่มือ 1,548 หน้า· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 ส่วน·วาระงานของส่วนท้าย 60·34 เส้นทาง·แหล่งข้อมูลที่แกะรอยได้·พิมพ์แบบ Countดาวน์, โปรแกรมอ่านแบบออฟไลน์, และหน้าแบบ GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | คะแนน 1–12· **4,156 ผนวกประสบการณ์การข้ามห้อง** · **2,823 วัตถุประสงค์การเรียนรู้** ·แหล่ง ที่ มา ของ ความ สําเร็จ·ไม่มีการเสนองานและวิจารณ์มนุษย์เป็นพิเศษ ที่ยังคงอยู่· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 ส่วน และ 8 ขั้น ตอน·ฐานราก → ผลิตภัณฑ์ สถาปัตยกรรม ความปลอดภัย เดวิสส์ เอสรี เอสพีซี ไอ และระบบหลาย ๆ หน่วยงาน·สถานะส่วนแก้ไขข้อความประกาศโดยคลังเก็บ· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | จากวิธีที่คนเรียนรู้ ถึงวิธีสอนครู·25 ส่วน· **แต่ ละ ชั้น ประกาศ สภาพ และ ขีด จํากัด ของ หลัก ฐาน** ·การ อ่าน หนังสือ, วิธี การ ที่ ไม่ มี การ ควบคุม ใน ตอน แรก, ความ ต้องการ ทาง การ ศึกษา เฉพาะ อย่าง, การ อยู่ ร่วม กัน, ความ หลาก หลาย ทาง วัฒนธรรม, และ หลัก ฐาน จาก นานา ชาติ·1,097 แว่นขยาย 325 แผนภาพ และธนาคารห้องเรียน 60 มาตรา·14 เส้นทางอาชีพตามบทบาท·นําเข้าได้โดย LMM· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | ขนาด AWS·เสน่ห์·เข้ารหัสแบบ GCP·คูแบร์เน็ตส์·เทอร์ราฟอร์ม·ครี·ฟอสเฟต· **1,288 ชั่วโมง** ·288 ห้องแล็ปพร้อมหลักฐาน Json·1,032 แกะรอยแหล่ง·ขนาด 2,884 หน้าคู่มือ PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | จากการเป็นเจ้าของผลลัพธ์แรกของคุณ เพื่อเป็นผู้นําบริษัท และก่อตั้งบริษัทของคุณเอง: ทีม, PDF/OKR, การเงิน, ผลิตภัณฑ์, ความเสี่ยง, คณะกรรมการและ M&A·24 คดี, 96 ห้องปฏิบัติการ และเอกสาร 39 ฉบับ· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | โพลาส, ML+Optuna/SHAP, Py Torch/LLM/LORA, MLLps·แอพพลิเคชันของวินโดวส์ + แอนดรอยด์ APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolic → probabilistic → deep learning → LLMs, RAG, agents, safety, and frontier · **v0.17.0** · **708 notebooks** · **148 foundational papers** · offline Windows, Android, and PWA apps · [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | หนึ่งแนวคิด**10 ภาษา**การ ตรวจ สอบ ใน ซี ไอ —**1,360 อุปกรณ์**-บวก**1,62 โปรแกรม**ในภาษายังคงมีชีวิตอยู่ (Cobol, Fortran, Ada, RGB, MAMMMS...) และ atlas of**60 ใบใน 15 ครอบครัว** ·v1. 0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | หนึ่งสัญญาประมวลผลโดยไม่ต้องปรับกับ Express, SportAPI, Spring Boot, AP.NET, Jangle, Rail, Laravel, React, Vue, Sevelte, และอื่น ๆ·12 ส่วน· **70 คลาสที่สร้าง** · **397 คดีตรวจสอบใน CI** · **210 ISBN/ DOI แหล่งที่มา** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3. 0** ·วิศวกรรมฐานข้อมูลใน 15 ส่วน·230 ชั่วโมง· **แหล่งที่มาที่เชื่อถือได้สําหรับทุกคําอ้าง**120 แหล่งที่มาจาก ISBN, ดอยดี หรือมาตรฐาน·ตัวพิมพ์เดียวกันได้ในเครื่องยนต์ 27 ตัว·เคลือบด้วยน้ํามัน 306 ภาค·ไพย์ 150· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | วิธี ที่ เครื่อง วัด ถูก สร้าง ขึ้น, ได้ คะแนน, ได้ รับ การ ตรวจ สอบ, และ ตรวจ สอบ·8 ส่วน·กลไกประมวลผลด้วย**5 เครื่องดนตรี 344 ชิ้น 276 ชิ้นสาธารณะ-มหาชน พ.ศ.** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14. 0** ·จากศูนย์ถึงโปรแกรมโครงสร้างพื้นฐานการเงินและบนเครื่องมือวิเคราะห์· **91 กิจ.**และ**ทดสอบ 363** ·สัญญากับผู้ก่อตั้ง (การพ้องและ diversants) และการวิเคราะห์ความต่อเนื่องของสลิเธอร์ใน CI·แอพพลิเคชันที่ทํางานอยู่สําหรับตรวจสอบอัตโนมัติ โดยจะเปิดส่วนย่อยของข้อมูล (bign) และทําการนับเนื้อหา· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 มอดูล·≈214 ชั่วโมง· **สมุดบันทึก 93 เล่ม**-31 ห้องเรียน รุ่นนักเรียน 31 และทางออก 31 ฉบับ -·คํา ถาม, แผนที่ ภาพ, การ ปฏิบัติ, และ การ ประเมิน ด้วย ข้อมูล ของ ประชาชน จริง ๆ·พ.ศ.· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **มอดูลฝึก 41**หนึ่งเครื่อง· **502 h 15 นาที** ·ระบบ, การควบคุม, ฟิสิกส์, ความปลอดภัย, และแบบจําลองออกแบบกับแหล่งข้อมูลต่อชั้นเรียน·♪ยังไม่มีโปรแกรมจําลองการประมวลผลยังและมันก็ประกาศวิธีการที่♪ |
+👉 **[ดูทั้ง 21 หลักสูตร](docs/ECOSYSTEM.th.md#curricula)**
 
 ## ⚡หากคุณมีเวลา 10 นาทีเพื่อประเมินผม
 

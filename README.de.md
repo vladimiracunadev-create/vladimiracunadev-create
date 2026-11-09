@@ -76,6 +76,73 @@ Dies ist kein „One Repo: Es ist ein Ökosystem mit gemeinsamen Standards.
 | 🔒 **Telemetrie** | Null Telemetrie in forensischen Produkten und Empresa Operativa Chile - in jedem Build verifiziert (kein Android)`INTERNET`Erlaubnis |
 | 🌐 **Veröffentlichte Websites** | **56 GitHub Seiten**55 Landungen, eine pro Produkt, Programm oder Ökosystem-Navigator, plus das Portfolio - jede aus ihrem eigenen Repository bereitgestellt·alle 56 verifiziert mit HTTP`200` |
 
+## 🛠️ Technologie-Stack
+
+In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkeiten, Container und Code), nach Bereichen gruppiert. Das Auftauchen in einem Repository – auch in Laboren und Lehrplänen – ist ein Nutzungsnachweis, keine Behauptung jahrelanger Produktionserfahrung.
+
+**Sprachen**
+
+![Sprachen](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
+
+<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
+
+**Frameworks, Laufzeitumgebungen und Bibliotheken**
+
+![Frameworks, Laufzeitumgebungen und Bibliotheken](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
+
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+
+**Datenbanken**
+
+![Datenbanken](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
+
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (propio · own · Rust)</sub>
+
+**Cloud, Container und DevOps**
+
+![Cloud, Container und DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+
+<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**Observability und Messaging**
+
+![Observability und Messaging](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+
+**KI, Agenten, Skills und MCP**
+
+![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
+![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
+![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
+![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
+
+**Sicherheit und Lieferkette**
+
+![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
+![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
+![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
+
+**Zielplattformen**
+
+![Zielplattformen](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
+
+<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
+
 ## 🗺️Ökosystem auf einen Blick
 
 ```mermaid
@@ -93,13 +160,14 @@ flowchart TD
     F --> F1["Human Genome Labs<br/>My Violin Adventure · My Guitar Adventure<br/>Pañuelo al Viento"]
 ```
 
-## 🗂️ Ökosystem: Produkte, Labore, angewandte KI und wissenschaftliches Rechnen
+## 🗂️ Ökosystem: Produkte, Labore, angewandte KI, Lehrpläne und wissenschaftliches Rechnen
 
 Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum Herunterladen und Installieren, Engineering-Labore, angewandte KI und wissenschaftliches Rechnen – dazu die Beschreibung jedes Forks von Drittprojekten im Konto.
 
 - 📦 **Produkte mit realer Distribution** (22)
 - 🧪 **Technische Laboratorien** (11)
 - 🤖 **Angewandte KI** (6)
+- 📚 **Komplette technische Lehrpläne** (21)
 - 🔬 **Wissenschaftliche Datenverarbeitung** (1)
 - 🍴 **Forks von Drittprojekten** (52)
 
@@ -109,31 +177,7 @@ Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum 
 
 Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 21 Programme addieren sich zu**14.530 Klassen**, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
 
-🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)ist ein föderierter Kompass, der 30 reale Pfade über 6 Bereiche durch visuelle Karten und eine[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); es wird nicht als zusätzliches Programm gezählt.
-
-| Programm | Klassen | Anwendungsbereich |
-|---|---:|---|
-| [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | Vom Zählen auf den Fingern bis zur Reproduktion eines Papiers· **360 deterministische Nachweise in CI verifiziert** ·1.080 Notebooks·489-Term-Glossar· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
-| [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534 h·Finanzmathematik und IFRS → Kredit, Risiko, Basel III, Open Finance, DLT, Stablecoins und MiCA· **27 Fälle** · **298 Prüfungen** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
-| [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | Mathematik und C#/C++/GDScript → Shader, AI, Multiplayer, VR/AR·Godot·Einheit·Unwirklich· **10 Godot-Labors in CI verifiziert**(301 Kontrollen)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 360 | **v1.3.0** ·20 Teile·foundations → Red Team, DFIR, Cloud Security, Exploit Dev, CTF und Game Security·kartographiert auf**7 Zertifizierungen** ·Offline-Android/Web-App·PDF Handbuch·CI, Sicherheit und Seiten verifiziert· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
-| [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 Teile mit operativen Definitionen, Messblättern, überprüfbarer Bibliographie und chilenischem regulatorischen Kontext· **v1.6.0** ·1.29M Wörter·17 Rollenbasierte Pfade· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
-| [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Erstellen und betreiben Sie ein echtes Unternehmen in Chile: von der Idee über die Gründung, die Steuerbehörde, den Betrieb, die Krise und den Ausstieg·360 Diagramme·1.251-Term-Glossar·1.548-seitiges Handbuch· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
-| [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 830 | 83 Teile·60 integrative Sitzungen·34 Wege·Rückverfolgbare Quellen·Markdown, Offline-Reader und GitHub Pages· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | Klassen 1–12· **4.156 integrierte lehrplanübergreifende Erfahrungen** · **2.823 Lernziele** ·MINEDUC-Quellen·Keine anhängigen Vorschläge und spezialisierte menschliche Überprüfung noch anhängig· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 Teile und 8 Bühnen·foundations → Produkt-, Architektur-, Sicherheits-, DevOps-, SRE-, SPEC-, AI- und Multiagentensysteme·Redaktioneller Status, der vom Repository erklärt wird· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
-| [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Von wie eine Person lernt, wie Lehrer ausgebildet werden·25 Teile· **Jede Klasse erklärt ihren Beweiszustand und ihre Grenzen** ·Frühe Alphabetisierung, vergleichende Methoden, spezifische Bildungsbedürfnisse, Koexistenz, kulturelle Vielfalt und internationale Evidenz·1.097-Term-Glossar, 325 Diagramme und eine 60-Aktivitäts-Klassenzimmerbank·14 Karrierewege nach Rolle·LMS exportierbar· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
-| [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | A. A.·Azure·GCP·Kubernets·Terraform·SRE·FinOps· **1.288 Stunden** ·288 Labore mit JSON-Beweis·1.032 nachverfolgte Quellen·2884 Seiten PDF Handbuch· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
-| [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Vom Besitz Ihres ersten Ergebnisses bis hin zur Führung eines Unternehmens und der Gründung Ihres eigenen: Teams, KPI / OKR, Finanzen, Produkt, Risiko, Board und M & A·24 Fälle, 96 Labore und 39 Vorlagen· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
-| [🐍 **Python Data Science**](https://github.com/vladimiracunadev-create/python-data-science-program) | 232 | Polars, ML+Optuna/SHAP, PyTorch/LLMs/LoRA, MLOps·native Windows App + Android APK· [site](https://vladimiracunadev-create.github.io/python-data-science-program/) |
-| [🧠 **AI Evolution**](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program) | 184 | Symbolisch → probabilistisch → Deep Learning → LLMs, RAG, Agenten, Sicherheit und Grenze· **v0.17.0** · **708 Notebooks** · **148 Grundlagenpapiere** ·Offline-Windows, Android und PWA-Apps· [site](https://vladimiracunadev-create.github.io/artificial-intelligence-evolution-program/) |
-| [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | Ein Konzept,**10 Sprachen**geprüft in CI —**1.360 Implementierungen**— plus**1.632 Programme**in noch lebenden Sprachen (COBOL, Fortran, Ada, RPG, MUMPS...) und einem Atlas von**60 Karten in 15 Familien** ·v1.1.0· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
-| [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | Ein ausführbarer Vertrag, ohne Adapter, gegen Express, FastAPI, Spring Boot, ASP.NET, Django, Rails, Laravel, React, Vue, Svelte und mehr·12 Teile· **70 gebaute Klassen** · **397 Fälle überprüft in CI** · **210 ISBN/DOI-Quellen** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
-| [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **v3.0.0** ·Datenbank-Engineering in 15 Teilen·230 Stunden· **die überprüfbare Quelle für jeden Anspruch**: 120 Quellen mit ISBN, DOI oder Standard·Der gleiche Fall wurde in 27 Motoren gelöst·306-Term-Glossar·150 pytest· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | Wie ein Messgerät gebaut, bewertet, validiert und auditiert wird·8 Teile·ausführbarer Motor mit**5 Instrumente und 344 Positionen, 276 Public-Domain** |
-| [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.14.0** ·Von null auf programmierbare Finanzinfrastruktur und On-Chain-Analyse· **91 Praktiken**und**363 Prüfungen** ·Verträge mit Foundry (Fuzzing und Invarianten) und Slither statische Analyse in CI·Offline-Apps verifiziert, indem sie die Binärdatei öffnen und deren Inhalt zählen· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
-| [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 Module·≈214 Stunden· **93 Notizbücher**31 Klassen, 31 Studentenversionen und 31 Lösungen -·Fragen, visuelle Karten, Praktiken und Bewertungen mit echten öffentlichen Daten·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
-| [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 Schulungsmodule**eine pro Maschine· **502 h 15 min** ·Systeme, Steuerungen, Physik, Sicherheit und Simulationsdesign mit Quellen pro Klasse·*noch kein ausführbarer Simulator, und es wird so deklariert* |
+👉 **[Alle 21 vollständigen Programme ansehen](docs/ECOSYSTEM.de.md#curricula)**
 
 ## ⚡Wenn Sie 10 Minuten Zeit haben, mich zu bewerten
 
