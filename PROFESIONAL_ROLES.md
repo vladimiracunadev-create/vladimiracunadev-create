@@ -4,7 +4,7 @@
 
 **Formación declarada:** Ingeniería en Informática y Computación + Administración de Empresas
 
-**Corte de evidencia:** 9 de octubre de 2026
+**Corte de evidencia:** 9 de noviembre de 2026
 
 Esta matriz amplía el campo profesional sin convertir formación, proyectos personales o conocimientos documentados en experiencia laboral no demostrada. La experiencia técnica de +16 años y los repositorios públicos sostienen la base tecnológica; la responsabilidad formal sobre personas, presupuesto, ventas, contratos, auditorías o políticas corporativas solo se considera acreditada cuando existe evidencia específica.
 
@@ -24,12 +24,12 @@ Esta matriz amplía el campo profesional sin convertir formación, proyectos per
 ## Evidencia reutilizable
 
 - **E1 — trayectoria técnica:** Arquitecto de Soluciones, modernización de legado, Senior Full-Stack / Tech Lead y automatización de IA; +16 años declarados en el perfil.
-- **E2 — entrega y operación:** 64 repositorios públicos propios, 148 releases, CI/CD, observabilidad, runbooks, seguridad de cadena de suministro y artefactos instalables.
+- **E2 — entrega y operación:** 65 repositorios públicos propios, 158 releases, CI/CD, observabilidad, runbooks, seguridad de cadena de suministro y artefactos instalables.
 - **E3 — negocio y operación:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [creación de empresas](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing y ventas](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) y [liderazgo ejecutivo](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Son productos y contenidos verificables, no sustituyen experiencia gerencial.
 - **E4 — proyectos, procesos y calidad:** roadmaps, issues, especificaciones, pruebas, gates, métricas y documentación por audiencia distribuidos en el ecosistema.
 - **E5 — seguridad y continuidad:** familia RootCause, controles, SBOM, análisis de riesgos, resiliencia, incidentes y evidencia reproducible.
 - **E6 — datos e IA:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) y trazabilidad/gates humanos.
-- **E7 — educación:** 21 programas, 14.500 clases, rutas por rol, laboratorios, manuales, portales offline y contenido multiformato. Esto acredita diseño y producción educativa; la docencia formal y los resultados de aprendizaje requieren evidencia separada.
+- **E7 — educación:** 21 programas, 14.550 clases, rutas por rol, laboratorios, manuales, portales offline y contenido multiformato. Esto acredita diseño y producción educativa; la docencia formal y los resultados de aprendizaje requieren evidencia separada.
 - **E8 — finanzas y control:** [Finanzas y Banca](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, métricas y trazabilidad. Son evidencia de conocimiento aplicado en artefactos, no responsabilidad financiera corporativa.
 
 ## 1. Dirección tecnológica

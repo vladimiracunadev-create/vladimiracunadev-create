@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![公共仓库](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![已发布版本](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![已发布版本](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
 [![课程数](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#-完整技术课程)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![已收到的 Fork](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![第三方 Fork](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.zh.md#forks)
+[![提交数](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PR](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issue](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 作品集（6 种语言）](https://vladimiracunadev-create.github.io/) ·
+[🌐 作品集（22 种语言）](https://vladimiracunadev-create.github.io/) ·
 [🧩 生态系统](#-生态系统概览) ·
 [⚡ 10 分钟评估我](#-如果你有-10-分钟评估我) ·
 [✅ 专业范围](#-专业范围) ·
@@ -58,22 +62,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **可观测性** — `/health`、`/ready`、`/metrics`、dashboard 和可追踪性。
 - 📚 **面向不同读者的文档** — 招聘方、初学者、DevOps 或安全人员，按仓库定位。
 - 📦 **产品级分发** — 可下载 release、checksum、build 证据；商业签名/商店发布在适用时标注为进行中。
-- 🌍 **国际化** — 作品集支持 6 种语言（ES · EN · PT · IT · FR · ZH）。
+- 🌍 **国际化** — 本档案以 22 种语言发布，作品集提供 154 份公开 PDF（7 个系列 × 22 种语言） (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **技术诚实** — 每个案例标注为 `OPERATIONAL`、`DOCUMENTED/SCAFFOLD` 或 `PLANNED`。
 
 ## ✅ 可验证状态
 
 | 范围 | 具体证据 |
 |---|---|
-| 🧪 **测试覆盖** | GabySQL **828 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **158 tests** · Automa **150 pytest** · multi-OS CI |
+| 🧪 **测试覆盖** | GabySQL **828 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **217 tests** · Automa **150 pytest** · multi-OS CI |
 | 🤖 **生产级 Agent** | LangGraph RealWorld **25/25 operational backends**（cases 01–25，100% 覆盖）· Operational AI Agents **13 agents** 和 **39 deterministic evals** |
 | 🔗 **多语言集成** | **20 cases** sender→n8n→receiver —**19 operational**，逐一用 Docker 审计— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **分发** | 在 **64 个自有公共仓库**生态中发布 **151 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
+| 📦 **分发** | 在 **65 个自有公共仓库**生态中发布 **158 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
 | 🛡️ **供应链** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · CycloneDX SBOM · Scorecard |
-| 📚 **课程** | **14,530 classes**，覆盖 21 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
-| 🌐 **作品集** | 可安装 PWA · **6 种语言** · pipeline 生成 **36 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
+| 📚 **课程** | **14,550 classes**，覆盖 21 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
+| 🌐 **作品集** | 可安装 PWA · **22 种语言** · pipeline 生成 **154 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **遥测** | 取证产品和 Empresa Operativa Chile 中为零 — 每次 build 验证（Android 无 `INTERNET` 权限） |
-| 🌐 **已发布站点** | **56 个 GitHub Pages 站点** —55 个产品、项目或生态导航 landing 加主作品集— 每个都从自己的仓库部署 · 56 个均验证 HTTP `200` |
+| 🌐 **已发布站点** | **57 个 GitHub Pages 站点** —56 个产品、项目或生态导航 landing 加主作品集— 每个都从自己的仓库部署 · 57 个均验证 HTTP `200` |
 
 ## 🛠️ 技术栈
 
@@ -111,7 +115,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **AI、代理、技能与 MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -174,7 +178,7 @@ flowchart TD
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。21 个项目共 **14,530 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。21 个项目共 **14,550 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
 
 👉 **[查看全部 21 个课程](docs/ECOSYSTEM.zh.md#curricula)**
 

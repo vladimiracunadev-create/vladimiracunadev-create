@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Dépôts publics](https://img.shields.io/badge/d%C3%A9p%C3%B4ts%20publics-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publiées](https://img.shields.io/badge/releases%20publi%C3%A9es-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publiées](https://img.shields.io/badge/releases%20publi%C3%A9es-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Langages](https://img.shields.io/badge/langages%20principaux-10-0366d6?style=for-the-badge)](#-lécosystème-en-un-coup-dœil)
 [![Classes](https://img.shields.io/badge/classes%20de%20cursus-14550-3fb950?style=for-the-badge)](#-cursus-techniques-complets)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks reçus](https://img.shields.io/badge/forks%20re%C3%A7us-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks tiers](https://img.shields.io/badge/forks%20tiers-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.fr.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PR](https://img.shields.io/badge/PR-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Étoiles](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=%C3%A9toiles&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Abonnés](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=abonn%C3%A9s&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 langues)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 langues)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Écosystème](#-lécosystème-en-un-coup-dœil) ·
 [⚡ Évaluez-moi en 10 minutes](#-si-vous-avez-10-minutes-pour-mévaluer) ·
 [✅ Périmètre professionnel](#-périmètre-professionnel) ·
@@ -58,22 +62,22 @@ Ce n’est pas « un repo » : c’est un écosystème avec des standards commun
 - 📈 **Observabilité** — `/health`, `/ready`, `/metrics`, dashboards et traçabilité.
 - 📚 **Documentation par audience** — recruteur, débutant, DevOps ou sécurité selon le dépôt.
 - 📦 **Distribution comme produit** — releases téléchargeables, checksums et preuves de build ; signatures commerciales/store indiquées comme en cours quand applicable.
-- 🌍 **Internationalisation** — portfolio en 6 langues (ES · EN · PT · IT · FR · ZH).
+- 🌍 **Internationalisation** — ce profil est publié en 22 langues et le portfolio propose 154 PDF publics (7 familles × 22 langues) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **Honnêteté technique** — chaque cas marqué `OPÉRATIONNEL`, `DOCUMENTÉ/SCAFFOLD` ou `PLANIFIÉ`.
 
 ## ✅ État Vérifiable
 
 | Surface | Preuve concrète |
 |---|---|
-| 🧪 **Couverture de tests** | GabySQL **828 tests** + fuzz de **503,8 M requêtes** (0 panic) · Empresa Operativa Chile **158 tests** · Automa **150 pytest** · CI multi-OS |
+| 🧪 **Couverture de tests** | GabySQL **828 tests** + fuzz de **503,8 M requêtes** (0 panic) · Empresa Operativa Chile **217 tests** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agents en production** | LangGraph RealWorld **25/25 backends opérationnels** (cas 01–25, couverture 100 %) · Operational AI Agents **13 agents** avec **39 evals déterministes** |
 | 🔗 **Intégration polyglotte** | **20 cas** émetteur→n8n→récepteur —**19 opérationnels**, audités un par un avec Docker— · **18+ moteurs BD** · **20+ conteneurs** · 11 patterns |
-| 📦 **Distribution** | **151 releases** publiées dans un écosystème de **64 dépôts publics propres** · installateurs et artefacts `.exe` · `.msi` · `.dmg` · `.apk` avec checksums et preuves de build ; signatures commerciales/store en cours quand applicable |
+| 📦 **Distribution** | **158 releases** publiées dans un écosystème de **65 dépôts publics propres** · installateurs et artefacts `.exe` · `.msi` · `.dmg` · `.apk` avec checksums et preuves de build ; signatures commerciales/store en cours quand applicable |
 | 🛡️ **Supply chain** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Cursus** | **14 530 classes** vérifiables dans 21 programmes, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt —pas écrites à la main— · chaque programme déclare son état éditorial et ses limites |
-| 🌐 **Portfolio** | PWA installable · **6 langues** · **36 PDF** par pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
+| 📚 **Cursus** | **14 550 classes** vérifiables dans 21 programmes, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt —pas écrites à la main— · chaque programme déclare son état éditorial et ses limites |
+| 🌐 **Portfolio** | PWA installable · **22 langues** · **154 PDF** par pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Télémétrie** | Zéro dans les produits forensiques et Empresa Operativa Chile — vérifié à chaque build (aucune permission Android `INTERNET`) |
-| 🌐 **Sites publiés** | **56 sites** GitHub Pages —55 landings, une par produit, programme ou navigateur de l'écosystème, plus le portfolio— chacun déployé depuis son propre dépôt · les 56 vérifiés avec réponse `200` |
+| 🌐 **Sites publiés** | **57 sites** GitHub Pages —56 landings, une par produit, programme ou navigateur de l'écosystème, plus le portfolio— chacun déployé depuis son propre dépôt · les 57 vérifiés avec réponse `200` |
 
 ## 🛠️ Stack technologique
 
@@ -111,7 +115,7 @@ Technologies détectées dans les dépôts publics (manifestes, dépendances, co
 
 **IA, agents, skills et MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -174,7 +178,7 @@ Le travail concret du profil vit dans un document à part : logiciels à téléc
 
 ## 📚 Cursus Techniques Complets
 
-Programmes séquentiels en espagnol, avec état et périmètre déclarés par chaque dépôt. Les 21 programmes totalisent **14 530 classes**, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt ; le badge est actualisé chaque semaine et n’est pas écrit à la main.
+Programmes séquentiels en espagnol, avec état et périmètre déclarés par chaque dépôt. Les 21 programmes totalisent **14 550 classes**, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt ; le badge est actualisé chaque semaine et n’est pas écrit à la main.
 
 👉 **[Voir les 21 programmes complets](docs/ECOSYSTEM.fr.md#curricula)**
 

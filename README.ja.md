@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#地球の環境システム)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#完全な技術的なカリキュラム)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ja.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#地球の環境システム) ·
 [⚡ Evaluate me in 10 minutes](#自分を評価するために10分を持っている場合) ·
 [✅ Professional scope](#プロフェッショナルスコープ) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **観察性** — `/health`, `/ready`, `/metrics`、ダッシュボードおよびトレーサビリティ。
 - 📚 **オーディエンス・アウェアのドキュメント**— リポジトリに応じて、リクルーター、初心者、DevOps、またはセキュリティ。
 - 📦 **製品の流通**— ダウンロード可能なリリース、チェックサム、および証拠のビルド。 該当する場合、商業/ストアのシグネチャは保留中のものとして宣言しました。
-- 🌍 **国際的なサービス**— 6つの言語のポートフォリオ(ES)·エントリー·ツイート·インフォメーション·フリガナ·ZH)。
+- 🌍 **国際的なサービス** — このプロフィールは22言語で公開され、ポートフォリオは154点の公開PDFを提供しています（7系列 × 22言語） (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **技術的な正直者**— ラベルを貼る全てのケース`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`, または`PLANNED`.
 
 ## ✅検証可能なステータス
 
 | 表面を覆う | コンクリート証拠 |
 |---|---|
-| 🧪 **試験カバレッジ** | ガビーSQL**828 件のテスト**+ 上でのしゃべり**503.8M のクエリ**(0 パンク)·Empresa Operativa チリ**158 件のテスト** ·オートマチック**150 ピテスト** ·マルチOS CI |
+| 🧪 **試験カバレッジ** | ガビーSQL**828 件のテスト**+ 上でのしゃべり**503.8M のクエリ**(0 パンク)·Empresa Operativa チリ**217 件のテスト** ·オートマチック**150 ピテスト** ·マルチOS CI |
 | 🤖 **生産等級の代理店** | LangGraph リアルワールド**25/25 操作バックエンド**(ケース 01–25、100% のカバレッジ)·運用AIエージェント**13 代理店**とりあえず**39 の決定的な楕円** |
 | 🔗 **Polyglotの統合** | **20件**sender→n8n→receiver — の**19 業務**, 個別にドッカーで監査· **18 + DBエンジン** · **20以上のコンテナ** ·11パターン |
-| 📦 **流通販売** | **151 リリース**生態系全体**64 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
+| 📦 **流通販売** | **158 リリース**生態系全体**65 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
 | 🛡️ **サプライチェーン** | コードQL·セルムレプ·バンドイト·トリビー·グリペ·ジトルク·トラッフルホッグ·CycloneDX SBOM(サイクロンDX SBOM)·スコアカード |
-| 📚 **カリキュラム** | **14,530 クラス**21プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
-| 🌐 **ポートフォリオ** | インストール可能なPWA· **6 の言語** · **PDF36枚**パイプラインによって生成される·CVデータAPI·コンデンサーのアンドロイド·灯台 100 |
+| 📚 **カリキュラム** | **14,550 クラス**21プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
+| 🌐 **ポートフォリオ** | インストール可能なPWA· **22 の言語** · **PDF154枚**パイプラインによって生成される·CVデータAPI·コンデンサーのアンドロイド·灯台 100 |
 | 🔒 **テレメトリー** | フォレンジック製品とエンドレスバ・オペラティバ・チリのゼロテレメトリー — あらゆるビルドで検証 (Android なし)`INTERNET`許可) |
-| 🌐 **公開サイト** | **56 GitHub ページサイト**—55 のランディング、製品、プログラム、またはエコシステム・ナビゲーター、およびポートフォリオごとに1つ、それぞれが独自のリポジトリから展開·全て 56 検証済み HTTP で検証済み`200` |
+| 🌐 **公開サイト** | **57 GitHub ページサイト**—56 のランディング、製品、プログラム、またはエコシステム・ナビゲーター、およびポートフォリオごとに1つ、それぞれが独自のリポジトリから展開·全て 57 検証済み HTTP で検証済み`200` |
 
 ## 🛠️ 技術スタック
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **AI・エージェント・スキル・MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ flowchart TD
 
 ## 📚完全な技術的なカリキュラム
 
-スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 21プログラムが最大で追加**14,530 クラス**, カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 21プログラムが最大で追加**14,550 クラス**, カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
 
 👉 **[21のプログラムをすべて見る](docs/ECOSYSTEM.ja.md#curricula)**
 

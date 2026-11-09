@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ekosistem-pada-a-glance)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#curricula-teknis-lengkap)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.id.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ekosistem-pada-a-glance) ·
 [⚡ Evaluate me in 10 minutes](#jika-kau-memiliki-10-menit-untuk-mengevaluasi-aku) ·
 [✅ Professional scope](#scope-profesional) ·
@@ -59,22 +63,22 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 - 📈 **Observasi** — `/health`, `/ready`, `/metrics`, dasbor, dan traceability.
 - 📚 **Dokumentasi audiencearenalitentment**- perekrut, pemula, DevOps, atau keamanan, tergantung pada repositori.
 - 📦 **Pemrograman distribusi**- bisa diunduh rilis, checksums, dan membuat bukti; tanda tangan komersial / store dideklarasikan sebagai tertunda ketika berlaku.
-- 🌍 **Internasionalisasi**- Portofolio dalam 6 bahasa (ES·EN·PT·IT·FR·ZH).
+- 🌍 **Internasionalisasi** — profil ini diterbitkan dalam 22 bahasa dan portofolio menyediakan 154 PDF publik (7 keluarga × 22 bahasa) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **Kejujuran teknis**- setiap kasus berlabel`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`, atau`PLANNED`.
 
 ## ✅Status Dapat Diverifikasi
 
 | Permukaan | Bukti beton |
 |---|---|
-| 🧪 **Uji cakupan** | GabySQL**828 tes**+ fuzzing over**Kueri 503.8M**(0 panik)·Empresa Operativa Chile**158 tests** ·Automa**150 pytest** ·multi- OS CI |
+| 🧪 **Uji cakupan** | GabySQL**828 tes**+ fuzzing over**Kueri 503.8M**(0 panik)·Empresa Operativa Chile**217 tests** ·Automa**150 pytest** ·multi- OS CI |
 | 🤖 **Agen-kelas-produksi** | LangGrafik RealWorld**25 / 25 backend operasional**(kasus 01- 25, 100% cakupan)·Agen AI Operasional**13 agen**dengan**39 deterministik eval** |
 | 🔗 **Integrasi Polyglot** | **20 kasus**- = Sender Avern8n Penerima = -**19 operasional**, secara individual diaudit dengan Docker -· **18 + mesin DB** · **20 + kontainer** ·11 pola |
-| 📦 **Distribusi** | **151 rilis**di seluruh ekosistem**64 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
+| 📦 **Distribusi** | **158 rilis**di seluruh ekosistem**65 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
 | 🛡️ **Rantai Supply** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **Kelas 14,530**diverifikasi di seluruh 21 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
-| 🌐 **Portfolio** | PWA yang dapat dipasang· **6 bahasa** · **36 PDFs**dihasilkan oleh pipeline·API Data CV·Capacitor Android·Lighthouse 100 |
+| 📚 **Curricula** | **Kelas 14,550**diverifikasi di seluruh 21 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
+| 🌐 **Portfolio** | PWA yang dapat dipasang· **22 bahasa** · **154 PDFs**dihasilkan oleh pipeline·API Data CV·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Zero telemetry in forensic products and Empresa operativa Chile - verified in every build (no Android`INTERNET`ijin) |
-| 🌐 **Situs yang dipublikasikan** | **56 Situs Halaman GitHub**- 55 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 56 diverifikasi dengan HTTP`200` |
+| 🌐 **Situs yang dipublikasikan** | **57 Situs Halaman GitHub**- 56 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 57 diverifikasi dengan HTTP`200` |
 
 ## 🛠️ Tumpukan teknologi
 
@@ -112,7 +116,7 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 **AI, agen, skill, dan MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh
 
 ## 📚Curricula Teknis Lengkap
 
-Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 21 program ditambahkan ke**Kelas 14,530**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
+Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 21 program ditambahkan ke**Kelas 14,550**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
 
 👉 **[Lihat 21 program lengkap](docs/ECOSYSTEM.id.md#curricula)**
 

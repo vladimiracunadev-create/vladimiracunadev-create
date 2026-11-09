@@ -18,7 +18,7 @@
 | **상업 및 판매** | 기술 Presales·Solutions 컨설턴트·기술 KAM·B2B 사업 개발 | **Transferable / 응용 분야** | ᄋᄋᄋ | 강력한 솔루션/값 번역; 할당량, 계정 포트폴리오, 계약 협상은 주장하지 않습니다 |
 | **금융 및 관리 제어** | 예산/비용 분석·프로젝트 평가·FP&A의 특징·관리제어 | **적용 분야** | ᄋᄋᄋ | 금융/금융의 자; 실제 예산, 금융 문, 기업 KPIs 필요 |
 | **Quality** | Process/Quality Analyst · Process Auditor · Continuous Improvement | **Transferable / application potential** | None/occasional | Gates, tests, metrics, and reproducibility; formal quality-system ownership remains a gap |
-| **교육과정** | 기술 트레이너·관련 제품·학술대회·EdTech / 교육 디자이너 | **Transferable / 응용 분야** | 없음/occasional | 21 프로그램과 14,530 클래스; 공식 교육 및 학습자 결과는 별도로 증거해야합니다 |
+| **교육과정** | 기술 트레이너·관련 제품·학술대회·EdTech / 교육 디자이너 | **Transferable / 응용 분야** | 없음/occasional | 21 프로그램과 14,550 클래스; 공식 교육 및 학습자 결과는 별도로 증거해야합니다 |
 | **물류 및 공급 업체** | 회사연혁·공급/운영 조정기·Vendor/Contract 관리자 | **적용 분야** | ᄋᄋᄋ | 공정 및 관리 기초; 실제 조달, 재고, 및 공급 업체 성능이 필요합니다. |
 | **데이터 및 AI 관리** | 데이터 스튜어드·데이터 Governance·AI Adoption / 정부 | **Transferable / 응용 분야** | 없음/occasional | 감사 데이터셋 및 인적자원; 조직 정책 및 위원회는 격차를 유지 |
 | **공공 부문** | 기관 현대화·ICT 코디네이터·디지털 프로젝트·공공 계획 | **적용 분야** | ᄋᄋᄋ | Chilean-context 시스템 및 추적성; 공공 조달 및 부문 경험은 주장하지 않습니다 |

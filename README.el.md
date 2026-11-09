@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ecosystem-σε-μια-λάμψη)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#πλήρης-τεχνική-επιμέλεια)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.el.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ecosystem-σε-μια-λάμψη) ·
 [⚡ Evaluate me in 10 minutes](#αν-έχετε-10-λεπτά-για-να-με-αξιολογήσετε) ·
 [✅ Professional scope](#επαγγελματικό-πεδίο-εφαρμογής) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **Παρατηρησιμότητα** — `/health`, `/ready`, `/metrics`, ταμπλό και ιχνηλασιμότητα.
 - 📚 **Τεκμηρίωση για το κοινό**— στρατολογητή, αρχάριο, DevOps ή ασφάλεια, ανάλογα με το χώρο αποθήκευσης.
 - 📦 **Κατανομή προϊόντων**— τις εκδόσεις, τα ληφθέντα έγγραφα και τα αποδεικτικά στοιχεία,
-- 🌍 **Διεθνοποίηση**— χαρτοφυλάκιο σε 6 γλώσσες (ES)·ΕΝ·PT·ΤΙ·FR·ΖΗ).
+- 🌍 **Διεθνοποίηση** — αυτό το προφίλ δημοσιεύεται σε 22 γλώσσες και το χαρτοφυλάκιο προσφέρει 154 δημόσια PDF (7 οικογένειες × 22 γλώσσες) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **Τεχνική ειλικρίνεια**— κάθε περίπτωση με ετικέτα`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`, ή`PLANNED`.
 
 ## ✅Επαληθευμένη κατάσταση
 
 | Επιφάνεια | Συγκεκριμένα αποδεικτικά στοιχεία |
 |---|---|
-| 🧪 **Κάλυψη δοκιμής** | GabySQL (Γαβριέλλα)**828 δοκιμές**+ fuzzing over (στα Αγγλικά)**503.8M ερωτήματα**(0 πανικό)·Εμπρέσα Operativa Χιλή**158 δοκιμές** ·Αυτόματο**150 pytest (πυόδοντας)** ·CI πολλών OS |
+| 🧪 **Κάλυψη δοκιμής** | GabySQL (Γαβριέλλα)**828 δοκιμές**+ fuzzing over (στα Αγγλικά)**503.8M ερωτήματα**(0 πανικό)·Εμπρέσα Operativa Χιλή**217 δοκιμές** ·Αυτόματο**150 pytest (πυόδοντας)** ·CI πολλών OS |
 | 🤖 **Παράγωγα** | Πραγματικό κόσμο LangGraph**Λειτουργικά συστήματα υποστήριξης 25/25**(περιπτώσεις 01-25, κάλυψη 100%)·Επιχειρησιακοί πράκτορες AI**13 παράγοντες**με**39 ντετερμινιστικές εκτιμήσεις** |
 | 🔗 **Ενσωμάτωση πολυσφαιρίου** | **20 περιπτώσεις**αποστολέας →n8n→ παραλήπτης —**19 επιχειρησιακά**, ατομικά ελεγμένο με Docker—· **18+ κινητήρες DB** · **20+ δοχεία** ·11 μοτίβα |
-| 📦 **Κατανομή** | **151 εκδόσεις**σε ένα οικοσύστημα**64 δημόσια αρχεία καταγραφής ιδιοκτησίας** ·εγκαταστάτες και τεχνουργήματα`.exe` · `.msi` · `.dmg` · `.apk`με τα ληξιαρχικά και αποδεικτικά στοιχεία· εμπορικές/αποθήκες υπογραφές σε εξέλιξη, όπου απαιτείται |
+| 📦 **Κατανομή** | **158 εκδόσεις**σε ένα οικοσύστημα**65 δημόσια αρχεία καταγραφής ιδιοκτησίας** ·εγκαταστάτες και τεχνουργήματα`.exe` · `.msi` · `.dmg` · `.apk`με τα ληξιαρχικά και αποδεικτικά στοιχεία· εμπορικές/αποθήκες υπογραφές σε εξέλιξη, όπου απαιτείται |
 | 🛡️ **Εφοδιαστική αλυσίδα** | ΚωδικόςQL·Σεμγκρέπ·Ληστής·Τριβάκι·Γρύπα·Γκιτλακά·Τροφός·ΚυκλώναςDX SBOM·Κάρτα βαθμολογίας |
-| 📚 **Κουρκουμά** | **14.530 κατηγορίες**επαληθεύσιμο σε 21 προγράμματα, με βάση[a workflow](.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο —μη γραμμένη με το χέρι—·κάθε πρόγραμμα δηλώνει την συντακτική του κατάσταση και τους περιορισμούς του |
-| 🌐 **Χαρτοφυλάκιο** | Εγκαταστατέα PWA· **6 γλώσσες** · **36 PDFs**παραγόμενη από αγωγό·CV Data API·Πυκνωτής Android·Φάρος 100 |
+| 📚 **Κουρκουμά** | **14.550 κατηγορίες**επαληθεύσιμο σε 21 προγράμματα, με βάση[a workflow](.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο —μη γραμμένη με το χέρι—·κάθε πρόγραμμα δηλώνει την συντακτική του κατάσταση και τους περιορισμούς του |
+| 🌐 **Χαρτοφυλάκιο** | Εγκαταστατέα PWA· **22 γλώσσες** · **154 PDFs**παραγόμενη από αγωγό·CV Data API·Πυκνωτής Android·Φάρος 100 |
 | 🔒 **Τηλεμετρία** | Μηδενική τηλεμετρία σε εγκληματολογικά προϊόντα και Empresa Operativa Χιλή — επαληθεύεται σε κάθε κατασκευή (όχι Android`INTERNET`άδεια) |
-| 🌐 **Δημοσιευμένοι ιστότοποι** | **56 GitHub Σελίδες ιστοσελίδες**—55 εκφορτώσεις, μία ανά προϊόν, πρόγραμμα ή οικοσύστημα, συν το χαρτοφυλάκιο— καθεμία από τις οποίες έχει αναπτυχθεί από το δικό της αποθετήριο·και τα 56 επαληθεύτηκαν με HTTP`200` |
+| 🌐 **Δημοσιευμένοι ιστότοποι** | **57 GitHub Σελίδες ιστοσελίδες**—56 εκφορτώσεις, μία ανά προϊόν, πρόγραμμα ή οικοσύστημα, συν το χαρτοφυλάκιο— καθεμία από τις οποίες έχει αναπτυχθεί από το δικό της αποθετήριο·και τα 57 επαληθεύτηκαν με HTTP`200` |
 
 ## 🛠️ Στοίβα τεχνολογιών
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **ΤΝ, πράκτορες, skills και MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ flowchart TD
 
 ## 📚Πλήρης τεχνική επιμέλεια
 
-Αλληλοσυσσωρεύσιμα προγράμματα στα ισπανικά, με κατάσταση και πεδίο εφαρμογής δηλωμένα από κάθε χώρο αποθήκευσης. Τα 21 προγράμματα προσθέτουν έως και**14.530 κατηγορίες**, μετρά με[a workflow](.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο· το σήμα ανανεώνεται κάθε εβδομάδα και δεν γράφεται με το χέρι.
+Αλληλοσυσσωρεύσιμα προγράμματα στα ισπανικά, με κατάσταση και πεδίο εφαρμογής δηλωμένα από κάθε χώρο αποθήκευσης. Τα 21 προγράμματα προσθέτουν έως και**14.550 κατηγορίες**, μετρά με[a workflow](.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο· το σήμα ανανεώνεται κάθε εβδομάδα και δεν γράφεται με το χέρι.
 
 👉 **[Δείτε και τα 21 προγράμματα](docs/ECOSYSTEM.el.md#curricula)**
 

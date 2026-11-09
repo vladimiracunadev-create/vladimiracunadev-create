@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#한눈에-보는-생태계)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#완전한-기술-교육과정)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ko.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#한눈에-보는-생태계) ·
 [⚡ Evaluate me in 10 minutes](#저를-평가할-시간이-10분이라면) ·
 [✅ Professional scope](#전문-범위) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **옵션 정보** — `/health`, `/ready`, `/metrics`, 대쉬보드 및 추적성.
 - 📚 **Audience-aware 문서**- 채용자, 초급자, DevOps, 또는 보안, 저장소에 따라.
 - 📦 **제품 유통**— 다운로드 가능한 릴리즈, 체크섬, 그리고 증거를 구축; 상업/스토어 서명은 적용할 때 보류로 선언.
-- 🌍 **국제화**— 6개국의 포트폴리오 (ES)·₢ 킹·유형: pt·...·담당자: Mr. wang·ZH).
+- 🌍 **국제화** — 이 프로필은 22개 언어로 공개되며 포트폴리오는 154개의 공개 PDF(7개 계열 × 22개 언어)를 제공합니다 (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **기술 정직**— 각 케이스 라벨`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`, 또는`PLANNED`.
 
 ## ✅검증된 상태
 
 | Surface | Concrete evidence |
 |---|---|
-| 🧪 **시험 적용** | 프로젝트**828 테스트**+ 훈제 이상**503.8M 쿼리**(0개의 판)·Empresa, 칠레**158 테스트** ·오토마**150 파이트** ·멀티OS CI |
+| 🧪 **시험 적용** | 프로젝트**828 테스트**+ 훈제 이상**503.8M 쿼리**(0개의 판)·Empresa, 칠레**217 테스트** ·오토마**150 파이트** ·멀티OS CI |
 | 🤖 **생산 급료 대리인** | 랭그라프 RealWorld**25/25 운영한 후원**(케이스 01-25, 100% 적용)·운영 AI 에이전트**13 대리인**으로**39개의 신중한 evals** |
 | 🔗 **Polyglot 통합** | **20 건**sender→n8n→receiver —**19 운영**, 독수리로 개별적으로 감사-· **18+ DB 엔진** · **20 + 용기** ·11 패턴 |
-| 📦 **의 특징** | **151 릴리스**생태계의 전반**64개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
+| 📦 **의 특징** | **158 릴리스**생태계의 전반**65개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
 | 🛡️ **공급 체인** | 코드QL·뚱 베어·팟캐스트·팟캐스트·뚱 베어·팟캐스트·TruffleHog의 특징·사이클론디X SBOM·팟캐스트 |
-| 📚 **의약** | **14,530 클래스**21개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
-| 🌐 **의논하기** | PWA 설치· **6 개 언어** · **36 PDF의**생성물 : 파이프라인·CV 자료 API·축전기 인조 인간·등대 100 |
+| 📚 **의약** | **14,550 클래스**21개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
+| 🌐 **의논하기** | PWA 설치· **22 개 언어** · **154 PDF의**생성물 : 파이프라인·CV 자료 API·축전기 인조 인간·등대 100 |
 | 🔒 **원격 측정** | forensic 제품 및 Empresa Operativa Chile의 Zero telemetry - 모든 빌드에서 확인 (안드로이드 없음)`INTERNET`(주) |
-| 🌐 **관련 사이트** | **56 GitHub 페이지 사이트**—55 착륙, 제품, 프로그램, 또는 생태계 항해자 당 하나, 포트폴리오 플러스 - 각각 자체 저장소에서 배치·모든 56 HTTP로 확인`200` |
+| 🌐 **관련 사이트** | **57 GitHub 페이지 사이트**—56 착륙, 제품, 프로그램, 또는 생태계 항해자 당 하나, 포트폴리오 플러스 - 각각 자체 저장소에서 배치·모든 57 HTTP로 확인`200` |
 
 ## 🛠️ 기술 스택
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **AI, 에이전트, 스킬, MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ flowchart TD
 
 ## 📚완전한 기술 교육과정
 
-스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 21개의 프로그램 추가**14,530 클래스**, 으로 계산[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
+스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 21개의 프로그램 추가**14,550 클래스**, 으로 계산[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
 
 👉 **[21개 프로그램 전체 보기](docs/ECOSYSTEM.ko.md#curricula)**
 

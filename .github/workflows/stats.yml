@@ -140,12 +140,29 @@ jobs:
                     --jq '.[] | select(.private == false and .fork == false) | .forks_count' \
                   | awk '{s += $1} END {print s + 0}')
 
+          # Forks de proyectos ajenos que viven en la cuenta: no son obra propia,
+          # pero se cuentan aparte para que el perfil los declare.
+          forks_terceros=$(gh api "users/$USUARIO/repos?type=owner&per_page=100" --paginate \
+                    --jq '.[] | select(.private == false and .fork == true) | .name' \
+                  | wc -l | tr -d ' ')
+
+          # Actividad en repositorios propios: commits, PRs e issues creados por
+          # la cuenta. La búsqueda de GitHub devuelve el total sin paginar.
+          buscar() { gh api "$1" --jq '.total_count' 2>/dev/null || echo 0; }
+          commits=$(buscar "search/commits?q=author:$USUARIO+user:$USUARIO&per_page=1")
+          prs=$(buscar "search/issues?q=author:$USUARIO+user:$USUARIO+type:pr&per_page=1")
+          issues=$(buscar "search/issues?q=author:$USUARIO+user:$USUARIO+type:issue&per_page=1")
+
           echo "repos=$repos"         >> "$GITHUB_OUTPUT"
           echo "lenguajes=$lenguajes" >> "$GITHUB_OUTPUT"
           echo "releases=$releases"   >> "$GITHUB_OUTPUT"
           echo "clases=$clases"       >> "$GITHUB_OUTPUT"
           echo "forks=$forks"         >> "$GITHUB_OUTPUT"
-          echo "Repos: $repos · Releases: $releases · Lenguajes: $lenguajes · Clases: $clases · Forks: $forks"
+          echo "forks_terceros=$forks_terceros" >> "$GITHUB_OUTPUT"
+          echo "commits=$commits"     >> "$GITHUB_OUTPUT"
+          echo "prs=$prs"             >> "$GITHUB_OUTPUT"
+          echo "issues=$issues"       >> "$GITHUB_OUTPUT"
+          echo "Repos: $repos · Releases: $releases · Lenguajes: $lenguajes · Clases: $clases · Forks: $forks · Forks de terceros: $forks_terceros · Commits: $commits · PRs: $prs · Issues: $issues"
 
       - name: Reescribir el bloque del README
         env:
@@ -155,6 +172,10 @@ jobs:
           LENGUAJES: ${{ steps.contar.outputs.lenguajes }}
           CLASES: ${{ steps.contar.outputs.clases }}
           FORKS: ${{ steps.contar.outputs.forks }}
+          FORKS_TERCEROS: ${{ steps.contar.outputs.forks_terceros }}
+          COMMITS: ${{ steps.contar.outputs.commits }}
+          PRS: ${{ steps.contar.outputs.prs }}
+          ISSUES: ${{ steps.contar.outputs.issues }}
         run: |
           python - <<'PY'
           import os, re
@@ -166,6 +187,39 @@ jobs:
           lenguajes = os.environ["LENGUAJES"]
           clases = os.environ["CLASES"]
           forks = os.environ["FORKS"]
+          forks_terceros = os.environ["FORKS_TERCEROS"]
+          commits = os.environ["COMMITS"]
+          prs = os.environ["PRS"]
+          issues = os.environ["ISSUES"]
+
+          # Insignias adicionales de los perfiles con etiquetas propias:
+          # (alt, etiqueta, valor, color, logo, enlace) por README. Los demás
+          # idiomas conservan las etiquetas en inglés y solo se actualiza el número.
+          def extras(sfx, recibidos, terceros, commits_l, prs_l, issues_l, alt):
+              rep = f"https://github.com/{usuario}?tab=repositories"
+              docs = f"docs/ECOSYSTEM{sfx}.md#forks"
+              return [
+                  (alt[0], recibidos, forks, "8957e5", "github", rep),
+                  (alt[1], terceros, forks_terceros, "6e7681", "github", docs),
+                  (alt[2], commits_l, commits, "238636", "git", rep),
+                  (alt[3], prs_l, prs, "1f6feb", "github", f"https://github.com/pulls?q=author%3A{usuario}+type%3Apr"),
+                  (alt[4], issues_l, issues, "d29922", "github", f"https://github.com/issues?q=author%3A{usuario}+type%3Aissue"),
+              ]
+
+          extras_perfil = {
+              "README.md": extras("", "forks%20recibidos", "forks%20de%20terceros", "commits", "PRs", "issues",
+                                  ("Forks recibidos", "Forks de terceros", "Commits", "PRs", "Issues")),
+              "README.en.md": extras(".en", "forks%20received", "third-party%20forks", "commits", "PRs", "issues",
+                                     ("Forks received", "Third-party forks", "Commits", "PRs", "Issues")),
+              "README.pt.md": extras(".pt", "forks%20recebidos", "forks%20de%20terceiros", "commits", "PRs", "issues",
+                                     ("Forks recebidos", "Forks de terceiros", "Commits", "PRs", "Issues")),
+              "README.it.md": extras(".it", "fork%20ricevuti", "fork%20di%20terzi", "commit", "PR", "issue",
+                                     ("Fork ricevuti", "Fork di terzi", "Commit", "PR", "Issue")),
+              "README.fr.md": extras(".fr", "forks%20re%C3%A7us", "forks%20tiers", "commits", "PR", "issues",
+                                     ("Forks reçus", "Forks tiers", "Commits", "PR", "Issues")),
+              "README.zh.md": extras(".zh", "forks%20received", "third-party%20forks", "commits", "PRs", "issues",
+                                     ("已收到的 Fork", "第三方 Fork", "提交数", "PR", "Issue")),
+          }
 
           perfiles = {
               "README.md": [
@@ -215,7 +269,11 @@ jobs:
                       f"[![{alt}](https://img.shields.io/badge/{label}-{valor}-{color}"
                       f"?style=for-the-badge{logo_qs})]({href})"
                   )
-              bloque.append(f"[![Forks](https://img.shields.io/badge/forks-{forks}-8957e5?style=for-the-badge&logo=github)](https://github.com/{usuario}?tab=repositories)")
+              for alt, label, valor, color, logo, href in extras_perfil[ruta]:
+                  bloque.append(
+                      f"[![{alt}](https://img.shields.io/badge/{label}-{valor}-{color}"
+                      f"?style=for-the-badge&logo={logo})]({href})"
+                  )
               bloque.append("<!-- STATS:END -->")
               bloque = "\n".join(bloque)
 
@@ -234,7 +292,11 @@ jobs:
               r"(published%20releases-)\d+(?=-f39c12)": rf"\g<1>{releases}",
               r"(main%20languages-)\d+(?=-0366d6)": rf"\g<1>{lenguajes}",
               r"(curriculum%20classes-)\d+(?=-3fb950)": rf"\g<1>{clases}",
-              r"(forks-)\d+(?=-8957e5)": rf"\g<1>{forks}",
+              r"(forks%20received-)\d+(?=-8957e5)": rf"\g<1>{forks}",
+              r"(third-party%20forks-)\d+(?=-6e7681)": rf"\g<1>{forks_terceros}",
+              r"(commits-)\d+(?=-238636)": rf"\g<1>{commits}",
+              r"(PRs-)\d+(?=-1f6feb)": rf"\g<1>{prs}",
+              r"(issues-)\d+(?=-d29922)": rf"\g<1>{issues}",
           }
           for ruta in sorted(Path(".").glob("README.*.md")):
               if ruta.name in perfiles:

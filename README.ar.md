@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#النظام-الإيكولوجي-في-غلاف)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#المناهج-التقنية-الكاملة)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ar.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#النظام-الإيكولوجي-في-غلاف) ·
 [⚡ Evaluate me in 10 minutes](#إذا-كان-لديك-10-دقائق-لتقييمي) ·
 [✅ Professional scope](#النطاق-المهني) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **القابلية للاحترام** — `/health`, `/ready`, `/metrics`لوحات الـ (داش) و (التعقب)
 - 📚 **وثائق التوعية بالسمعة**- المجند، المبتدئ، الفيروس، أو الأمن، حسب المستودع.
 - 📦 **توزيع المنتجات**- الإطلاقات القابلة للحمل، والخصوم، وبناء الأدلة؛ والتوقيعات التجارية/التاريخية التي يُعلن أنها معلقة عند الاقتضاء.
-- 🌍 **التدنيس**- حافظة بست لغات )الإيسا(·EN·PT·هو·FR·ZH.
+- 🌍 **التدنيس** — يُنشر هذا الملف الشخصي بـ22 لغة ويقدّم الملف التعريفي للأعمال 154 ملف PDF عامًا (7 عائلات × 22 لغة) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **الأمانة التقنية**- كل حالة تحمل اسما`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`أو`PLANNED`.
 
 ## ✅الحالة التي يمكن التحقق منها
 
 | الوجه السطحي | أدلة ملموسة |
 |---|---|
-| 🧪 **التغطية بالاختبارات** | GabySQL**828 اختبارا**"و تذمر"**503.8M queries**(0 ذعر)·Empresa Operativa Chile**158 اختبارا** ·Automa**150 باوند** ·منظمة العفو الدولية المتعددة الأطراف |
+| 🧪 **التغطية بالاختبارات** | GabySQL**828 اختبارا**"و تذمر"**503.8M queries**(0 ذعر)·Empresa Operativa Chile**217 اختبارا** ·Automa**150 باوند** ·منظمة العفو الدولية المتعددة الأطراف |
 | 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **13 agents** with **39 deterministic evals** |
 | 🔗 **الاندماج في المجتمع المحلي** | **20 حالة**مرسل**19 تشغيلية**"مراجعة بشكل فردي مع "دوكر· **18+ محركات ثنائي الفينيل متعدد البروم** · **20+ حاويات** ·11 نمطا |
-| 📦 **التوزيع** | **151 بلاغا**عبر نظام إيكولوجي**64 مستودعاً عمومياً** ·المثبتات والقطع الأثرية`.exe` · `.msi` · `.dmg` · `.apk`مع إجراء فحصات وإثباتات؛ وتوقيعات تجارية/موقعة جارية حيثما ينطبق ذلك |
+| 📦 **التوزيع** | **158 بلاغا**عبر نظام إيكولوجي**65 مستودعاً عمومياً** ·المثبتات والقطع الأثرية`.exe` · `.msi` · `.dmg` · `.apk`مع إجراء فحصات وإثباتات؛ وتوقيعات تجارية/موقعة جارية حيثما ينطبق ذلك |
 | 🛡️ **سلسلة الإمداد** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·بطاقة الإسكوار |
 | 📚 **المناهج** | **530 14 فصلا**يمكن التحقق منها عبر 21 برنامجاً، حسب ما يُحسب[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع - غير مكتوب باليد -·كل برنامج يعلن عن مركزه التحريري ومحدوديةه |
-| 🌐 **Portfolio** | PWA غير القابلة للتركيب· **6 لغات** · **36 PDFs**منشأ خط أنابيب·CV Data API·Capacitor Android·Lighthouse 100 |
+| 🌐 **Portfolio** | PWA غير القابلة للتركيب· **22 لغات** · **154 PDFs**منشأ خط أنابيب·CV Data API·Capacitor Android·Lighthouse 100 |
 | 🔒 **التلف** | عدم إجراء أي قياس عن بعد في منتجات الطب الشرعي والإمبريسا أوبيراتيفا شيلي - تحقق من كل بناء (لا أندرويد)`INTERNET`إذن) |
-| 🌐 **المواقع المنشورة** | **56 موقعاً لصفحة جيب**- 55 هبوطاً، واحد لكل منتج أو برنامج أو ملاح للنظم الإيكولوجية، بالإضافة إلى حافظة كل منها من مستودعها الخاص·جميع الـ 56 تم التحقق منها`200` |
+| 🌐 **المواقع المنشورة** | **57 موقعاً لصفحة جيب**- 56 هبوطاً، واحد لكل منتج أو برنامج أو ملاح للنظم الإيكولوجية، بالإضافة إلى حافظة كل منها من مستودعها الخاص·جميع الـ 57 تم التحقق منها`200` |
 
 ## 🛠️ المكدس التقني
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **الذكاء الاصطناعي والوكلاء والمهارات وMCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)

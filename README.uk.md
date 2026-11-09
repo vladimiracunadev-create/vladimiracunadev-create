@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#екосистема-на-погляді)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#повний-технічний-навчальний-план)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.uk.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#екосистема-на-погляді) ·
 [⚡ Evaluate me in 10 minutes](#якщо-ви-маєте-10-хвилин-щоб-оцінити-мене) ·
 [✅ Professional scope](#професійний-scope) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **Відповідальність** — `/health`, `/ready`, `/metrics`, прилади, прилади,
 - 📚 **Аудиторія-програма**— рекрутер, початківця, DevOps, або безпека, в залежності від репозиторій.
 - 📦 **Розподіл продуктів**— завантажувальні релізи, контрольні та складові докази; підписи комерційного/магазину, заявлені у разі необхідності.
-- 🌍 **Інтернаціоналізація**— портфоліо 6 мов (ES)·СЕРЕДОВИЩА·ПТ·ЦЕНА ЗА ЧАС:·ФОП·ЗХ.
+- 🌍 **Інтернаціоналізація** — цей профіль опубліковано 22 мовами, а портфоліо пропонує 154 публічні PDF (7 родин × 22 мови) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **Технічна чесність**— кожен випадок, позначений`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`або`PLANNED`.
 
 ## ✅Вигідний статус
 
 | Промисловість | Бетонні докази |
 |---|---|
-| 🧪 **Тестове покриття** | ДЖИС**828 тести**+ знезадувається над**503.8M запитів**(0 каструлі)·Оператив Чилі**158 тести** ·Автоматика**150 пітест** ·мульти-OS CI |
+| 🧪 **Тестове покриття** | ДЖИС**828 тести**+ знезадувається над**503.8M запитів**(0 каструлі)·Оператив Чилі**217 тести** ·Автоматика**150 пітест** ·мульти-OS CI |
 | 🤖 **Продукція-градусний агент** | Універсальні інженерні рішення**25/25 оперативних запобіжників**(кейси 01–25, 100% покриття)·Операційні агенти AI**13 агентів**з**39 детермінативних ОВД** |
 | 🔗 **Інтеграція поліглоту** | **20 випадків**Надсилання на сайті: http://n8n→receiver**19 операцій**, індивідуально аудитовані Docker-· **18+ ДБ-двигуни** · **20+ контейнерів** ·11 візерунки |
-| 📦 **Розсилка** | **151 релізи**через екосистему**64 державних репозиторіїв** ·монтажники та артефакти`.exe` · `.msi` · `.dmg` · `.apk`з контрольними та будівельними доказами; комерційні / зберігати підписи в процесі, де це можливо |
+| 📦 **Розсилка** | **158 релізи**через екосистему**65 державних репозиторіїв** ·монтажники та артефакти`.exe` · `.msi` · `.dmg` · `.apk`з контрольними та будівельними доказами; комерційні / зберігати підписи в процесі, де це можливо |
 | 🛡️ **Мережа поставок** | КодQL·Семгреп·бензо·Триває·Гріпе·ГІДЛІКИ·Трьох·ЦП-Р·укр |
-| 📚 **Культура** | **14530 класи**в порівнянні з 21 програм, підраховані[a workflow](.github/workflows/stats.yml)з реальної репозиторійної структури або в'єтнамського джерела, заявленого в репозиторію, не письмово вручну -·Кожна програма оголошує про своє редакційне становище та обмеження |
-| 🌐 **Портфоліо** | Установлений PWA· **6 мов** · **36 PDF-файлів**генерується трубопроводом·API даних CV·конденсатор Android·Маяк 100 |
+| 📚 **Культура** | **14550 класи**в порівнянні з 21 програм, підраховані[a workflow](.github/workflows/stats.yml)з реальної репозиторійної структури або в'єтнамського джерела, заявленого в репозиторію, не письмово вручну -·Кожна програма оголошує про своє редакційне становище та обмеження |
+| 🌐 **Портфоліо** | Установлений PWA· **22 мов** · **154 PDF-файлів**генерується трубопроводом·API даних CV·конденсатор Android·Маяк 100 |
 | 🔒 **Телеметрія** | Телеметрія Zero в судових продуктах і Empresa Operativa Chile — перевірена в кожній збудові (без Android`INTERNET`дозвіл |
-| 🌐 **Оприлюднено сайт** | **56 GitHub Веб-сайти**—55 посадок, один за продукт, програму, або екосистемний навігатор, плюс портфель — кожен розгорнутий з власної репозиторій·всі 56 перевірені з HTTP`200` |
+| 🌐 **Оприлюднено сайт** | **57 GitHub Веб-сайти**—56 посадок, один за продукт, програму, або екосистемний навігатор, плюс портфель — кожен розгорнутий з власної репозиторій·всі 57 перевірені з HTTP`200` |
 
 ## 🛠️ Технологічний стек
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **ШІ, агенти, навички та MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ flowchart TD
 
 ## 📚Повний технічний навчальний план
 
-Напрями діяльності іспанської мови, з статусом та сферою, що засвідчує кожну репозиторію. 21 програми додано**14530 класи**, підрахунок[a workflow](.github/workflows/stats.yml)з реальної структури репозиторій або в'єтнамського джерела, заявленого в репозиторію; значок освіжає щотижневий і не письмовий вручну.
+Напрями діяльності іспанської мови, з статусом та сферою, що засвідчує кожну репозиторію. 21 програми додано**14550 класи**, підрахунок[a workflow](.github/workflows/stats.yml)з реальної структури репозиторій або в'єтнамського джерела, заявленого в репозиторію; значок освіжає щотижневий і не письмовий вручну.
 
 👉 **[Переглянути всі 21 програму](docs/ECOSYSTEM.uk.md#curricula)**
 

@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนิเวศ)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.th.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ภาพรวมระบบนิเวศ) ·
 [⚡ Evaluate me in 10 minutes](#หากคุณมีเวลา-10-นาทีเพื่อประเมินผม) ·
 [✅ Professional scope](#ขอบเขตงาน) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **ความไวแสง** — `/health`, `/ready`, `/metrics`หนวดและรอยขีดข่วน
 - 📚 **เอกสารที่ปรากฏแก่ผู้ชม**-คนรับสมัคร มือใหม่ เดวอป หรือ รปภ. ขึ้นอยู่กับคลังสินค้า
 - 📦 **การกระจายตัวของโปรดักต์**— เปิดตัวแบบดาวน์โหลดได้, Checksums, และสร้างหลักฐาน; ลายเซ็นการค้า/สโตร์ ที่ประกาศว่าใช้ได้ชั่วคราว
-- 🌍 **การแบ่งเขตการปกครอง**— ประวัติ ย่อ ใน 6 ภาษา (ส.·เอ็น·ขนาด PT·มัน·ฟิล์ม FR·ZH).
+- 🌍 **การแบ่งเขตการปกครอง** — โปรไฟล์นี้เผยแพร่ใน 22 ภาษา และพอร์ตโฟลิโอมี PDF สาธารณะ 154 ไฟล์ (7 กลุ่ม × 22 ภาษา) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **ความซื่อสัตย์เชิงเทคนิค**-ทุกคดีที่ถูกติดป้าย`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`หรือ`PLANNED`.
 
 ## ✅สถานะที่ใช้ได้
 
 | พื้นผิว | หลักฐานที่สรุปได้ |
 |---|---|
-| 🧪 **นําเสนอผลการตรวจสอบ** | แกบบีเอสQL**828 ทดสอบ**# พ่นน้ําออกมา**สี่เหลี่ยม**(0 ความตื่นตระหนก)·ชิลี**158 ทดสอบ** ·อัตโนมัติ**ไพย์ 150** ·CI หลายแบบ |
+| 🧪 **นําเสนอผลการตรวจสอบ** | แกบบีเอสQL**828 ทดสอบ**# พ่นน้ําออกมา**สี่เหลี่ยม**(0 ความตื่นตระหนก)·ชิลี**217 ทดสอบ** ·อัตโนมัติ**ไพย์ 150** ·CI หลายแบบ |
 | 🤖 **ตัวแสดงเกรดของการผลิต** | ลังกราฟเรียลเวิลด์**25/ 25 โปรแกรมเบื้องหลังการทํางาน**(เคสที่ 01–25, 100% ออกอากาศ)·ปฏิบัติการเอไอเอเจ้นท์**13 เจ้าหน้าที่**ด้วย**39 การ ประเมิน โดย ไม่ มี เงื่อนไข** |
 | 🔗 **การรวมพาราเมทริก** | **20 คดี**ผู้ ส่ง ส่ง (Transs Itter) —**19 ปฏิบัติการ**แต่ละคนตรวจสอบกับโดเกอร์· **18+ เครื่องยนต์ DB** · **ภาชนะบรรจุ 20+** ·11 รูปแบบ |
-| 📦 **การกระจายตัว** | **151 เผยแพร่**ไปทั่วระบบนิเวศของ**การประชุมมหาชน 64 แห่ง** ·ตัวติดตั้งและวัตถุ`.exe` · `.msi` · `.dmg` · `.apk`ด้วย checksums และการสร้างหลักฐาน; ลายเซ็นพาณิชย์/ storition ในความคืบหน้าที่นําไปใช้ |
+| 📦 **การกระจายตัว** | **158 เผยแพร่**ไปทั่วระบบนิเวศของ**การประชุมมหาชน 65 แห่ง** ·ตัวติดตั้งและวัตถุ`.exe` · `.msi` · `.dmg` · `.apk`ด้วย checksums และการสร้างหลักฐาน; ลายเซ็นพาณิชย์/ storition ในความคืบหน้าที่นําไปใช้ |
 | 🛡️ **ห่วงโซ่อุปทาน** | รหัสQL·เซ ม รี ป·แบนดิต·ไตรวี่·กราฟแสดงความถี่·กิตติม จิ·สับปะรด·CyloonDX SBOM·ไพ่คะแนน |
-| 📚 **เคอร์ริคูลา** | **14,530 คลาสเรียน พ.ศ.**ตรวจสอบได้ทั้ง 21 โปรแกรม นับด้วย[a workflow](.github/workflows/stats.yml)จากโครงสร้างของคลังสินค้า หรือแหล่งที่รับรองได้ ที่ถูกประกาศไว้ในคลังสินค้า·ทุกโปรแกรมประกาศสถานะและข้อจํากัดของรายการ |
-| 🌐 **พอร์ตโฟลิโอ้** | โปรแกรม PWA ที่ติดตั้งได้· **6 ภาษา** · **36 PDF**สร้างโดยท่อส่งแก๊ส·API ข้อมูล CV·แคปซิเตอร์ แอนดรอยด์·ไลท์เฮาส์ 100 |
+| 📚 **เคอร์ริคูลา** | **14,550 คลาสเรียน พ.ศ.**ตรวจสอบได้ทั้ง 21 โปรแกรม นับด้วย[a workflow](.github/workflows/stats.yml)จากโครงสร้างของคลังสินค้า หรือแหล่งที่รับรองได้ ที่ถูกประกาศไว้ในคลังสินค้า·ทุกโปรแกรมประกาศสถานะและข้อจํากัดของรายการ |
+| 🌐 **พอร์ตโฟลิโอ้** | โปรแกรม PWA ที่ติดตั้งได้· **22 ภาษา** · **154 PDF**สร้างโดยท่อส่งแก๊ส·API ข้อมูล CV·แคปซิเตอร์ แอนดรอยด์·ไลท์เฮาส์ 100 |
 | 🔒 **เส้นพริ้วไหว** | ซีโร่โทรเมชันในผลิตภัณฑ์นิติเวช และเอ็มพริซา โอเปราตีวา ชิลี — ได้รับการยืนยันในทุกอาคาร (โน อันดรอยด์)`INTERNET`อนุญาต |
-| 🌐 **เผยแพร่เว็บไซต์** | **56 เว็บไซต์ GitHub Pages**-55 เครื่องลงจอด 1 เครื่อง ต่อผลิตภัณฑ์ โปรแกรม หรือระบบนําทางระบบนิเวศ รวมกับชุดผลงาน แต่ละอันใช้จากคลังเก็บ·ทั้ง 56 คนตรวจสอบกับ HTTP`200` |
+| 🌐 **เผยแพร่เว็บไซต์** | **57 เว็บไซต์ GitHub Pages**-56 เครื่องลงจอด 1 เครื่อง ต่อผลิตภัณฑ์ โปรแกรม หรือระบบนําทางระบบนิเวศ รวมกับชุดผลงาน แต่ละอันใช้จากคลังเก็บ·ทั้ง 57 คนตรวจสอบกับ HTTP`200` |
 
 ## 🛠️ เทคโนโลยีสแตก
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **AI เอเจนต์ สกิล และ MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ flowchart TD
 
 ## 📚หลักสูตรเทคนิคฉบับสมบูรณ์
 
-รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 21 โครงการรวมกันเป็น**14,530 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
+รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 21 โครงการรวมกันเป็น**14,550 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
 
 👉 **[ดูทั้ง 21 หลักสูตร](docs/ECOSYSTEM.th.md#curricula)**
 

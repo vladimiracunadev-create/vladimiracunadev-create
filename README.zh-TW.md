@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#生態系統一一)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#完成技術課程)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.zh-TW.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#生態系統一一) ·
 [⚡ Evaluate me in 10 minutes](#如果你有十分鐘的時間來評價我) ·
 [✅ Professional scope](#專業範圍) ·
@@ -59,22 +63,22 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📈 **觀察性** — `/health`, `/ready`, `/metrics`儀表板 和可追蹤性
 - 📚 **觀眾認識檔案**——根據暫存器的不同,招募者,初學者,DevOps,或安全性.
 - 📦 **產品銷售**可下載的釋出、核對和建立證據;酌情宣佈商業/儲存簽名待決。
-- 🌍 **國際化**——以6種語文編寫的教材(ES)·EN 語·常規·資訊科技·法語·) ,"中國共產黨黨史人物彙編"(第1輯).
+- 🌍 **國際化** — 本檔案以 22 種語言發布，作品集提供 154 份公開 PDF（7 個系列 × 22 種語言） (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **技術誠實**- 每一個案件都標註在標籤上`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`,或 ,或 ,`PLANNED`.
 
 ## ✅可核實狀態
 
 | 表面 | 具體證據 |
 |---|---|
-| 🧪 **測試覆蓋率** | 蓋比SQL**828個測試**+ 模糊過**503.8M次查詢**(0恐慌) (笑聲)·智利企業**158次試驗** ·自動**150個火試** ·多作業系統分類 |
+| 🧪 **測試覆蓋率** | 蓋比SQL**828個測試**+ 模糊過**503.8M次查詢**(0恐慌) (笑聲)·智利企業**217次試驗** ·自動**150個火試** ·多作業系統分類 |
 | 🤖 **生產級製劑** | 朗格勒真實世界**25/25 業務後端**(病例01-25,100%覆蓋)·業務助理**13名特工人員**與**39個確定性評估** |
 | 🔗 **多塊塊融合** | **20個案件**傳送者 n8n 收發者-**19起業務**,個人審計 與多克 -· **18+ DB 發動機** · **20個以上集裝箱** ·11種模式 |
-| 📦 **分發** | **151次釋放**跨越生態系統的**64個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
+| 📦 **分發** | **158次釋放**跨越生態系統的**65個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
 | 🛡️ **供應鏈** | 程式碼QL·衛星·匪幫·特里維·格萊普·巨頭·旋轉木偶·旋風DX SBOM·計分卡 |
-| 📚 **課程** | **14 530個班級**21個方案可核查,按[a workflow](.github/workflows/stats.yml)或可核查的來源,·每個節目都宣佈其編輯地位和限制 |
-| 🌐 **組合** | 可安裝的 PWA· **6種語言** · **36個PDF**管道產生的·CV 資料 API·電容安卓·燈塔 100 |
+| 📚 **課程** | **14 550個班級**21個方案可核查,按[a workflow](.github/workflows/stats.yml)或可核查的來源,·每個節目都宣佈其編輯地位和限制 |
+| 🌐 **組合** | 可安裝的 PWA· **22種語言** · **154個PDF**管道產生的·CV 資料 API·電容安卓·燈塔 100 |
 | 🔒 **遙測** | 法證產品和智利企業的零遙測——在每個建築中都得到核實(無Android)`INTERNET`許可權) |
-| 🌐 **出版網站** | **56個基特胡佈網頁網站**-55次著陸,每件產品、程式或生態系統導航員一次,加上組合——從自己的儲存庫部署·全部56個已與HTTP核實`200` |
+| 🌐 **出版網站** | **57個基特胡佈網頁網站**-56次著陸,每件產品、程式或生態系統導航員一次,加上組合——從自己的儲存庫部署·全部57個已與HTTP核實`200` |
 
 ## 🛠️ 技術堆疊
 
@@ -112,7 +116,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **AI、代理、技能與 MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ flowchart TD
 
 ## 📚完成技術課程
 
-西班牙語序列程式,每個儲存器都宣告狀態和範圍. 21個方案加起來是:**14 530個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
+西班牙語序列程式,每個儲存器都宣告狀態和範圍. 21個方案加起來是:**14 550個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
 👉 **[查看全部 21 個課程](docs/ECOSYSTEM.zh-TW.md#curricula)**
 

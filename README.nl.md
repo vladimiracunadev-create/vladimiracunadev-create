@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ecosysteem-bij-een-glance)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#complete-technische-curricula)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.nl.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ecosysteem-bij-een-glance) ·
 [⚡ Evaluate me in 10 minutes](#als-je-10-minuten-hebt-om-mij-te-evalueren) ·
 [✅ Professional scope](#beroepsterrein) ·
@@ -59,22 +63,22 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 - 📈 **Waarneming** — `/health`, `/ready`, `/metrics`, dashboards, en traceerbaarheid.
 - 📚 **Documentatie van het publiek**
 - 📦 **Productdistributie**
-- 🌍 **Internationalisering**. Portfolio in 6 talen (ES·NL·PT·IT·FR·ZH).
+- 🌍 **Internationalisering** — dit profiel is gepubliceerd in 22 talen en het portfolio biedt 154 openbare pdf's (7 families × 22 talen) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **Technische eerlijkheid**`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`, of`PLANNED`.
 
 ## ✅Verifieerbare status
 
 | Oppervlakte | Concrete bewijzen |
 |---|---|
-| 🧪 **Testdekking** | GabySQL**828 tests**+ fuzzing over**503.8M queries**(0 paniek)·Empresa Operativa Chili**158 tests** ·Automatisch**150 pytest** ·multi-OS CI |
+| 🧪 **Testdekking** | GabySQL**828 tests**+ fuzzing over**503.8M queries**(0 paniek)·Empresa Operativa Chili**217 tests** ·Automatisch**150 pytest** ·multi-OS CI |
 | 🤖 **Productie-kwaliteitsagenten** | LangGraph RealWorld**25/25 operationele backends**(gevallen 01·Operationele AI-agenten**13 agentia**met**39 deterministische evaluaties** |
 | 🔗 **Integratie van polygloten** | **20 zaken**afzender→n8n→ ontvanger **19 operationeel**, individueel gecontroleerd met Docker· **18+ DB motoren** · **20+ containers** ·11 patronen |
-| 📦 **Distributie** | **151 releases**over een ecosysteem van**64 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
+| 📦 **Distributie** | **158 releases**over een ecosysteem van**65 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
 | 🛡️ **Leveringsketen** | CodeQL·Semgrep·Bandiet·Trivy·GrypeCity in New Jersey USA·Gitleaks·Truffelhog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **14,530 klassen**controleerbare in 21 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
-| 🌐 **Portefeuille** | Installeerbare PWA· **6 talen** · **36 PDF's**door pijpleiding gegenereerd·CV Data API·Android-condensator·Vuurtoren 100 |
+| 📚 **Curricula** | **14,550 klassen**controleerbare in 21 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
+| 🌐 **Portefeuille** | Installeerbare PWA· **22 talen** · **154 PDF's**door pijpleiding gegenereerd·CV Data API·Android-condensator·Vuurtoren 100 |
 | 🔒 **Telemetrie** | Zero telemetrie in forensische producten en Empresa Operativa Chili `INTERNET`toestemming) |
-| 🌐 **Gepubliceerde sites** | **56 GitHub Pagina's sites**·alle 56 geverifieerd met HTTP`200` |
+| 🌐 **Gepubliceerde sites** | **57 GitHub Pagina's sites**·alle 57 geverifieerd met HTTP`200` |
 
 ## 🛠️ Technologiestack
 
@@ -112,7 +116,7 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 **AI, agents, skills en MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ Het praktische werk van dit profiel staat in een eigen document: software die je
 
 ## 📚Complete technische Curricula
 
-Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 21 programma's tellen samen tot**14,530 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
+Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 21 programma's tellen samen tot**14,550 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
 
 👉 **[Bekijk de 21 volledige programma's](docs/ECOSYSTEM.nl.md#curricula)**
 

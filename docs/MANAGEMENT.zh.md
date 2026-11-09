@@ -18,7 +18,7 @@
 | **商业与销售** | Technology Presales · Solutions Consultant · Technical KAM · Business Development | **可迁移 / 可申请** | 无 | 能翻译解决方案价值；未声称 quota、客户组合和合同谈判 |
 | **财务与管理控制** | Budget/Cost · Project Evaluation · FP&A · Management Control | **可申请** | 无 | 有财务/FinOps 制品；需真实预算、财报和企业 KPI |
 | **质量** | Quality/Process Analyst · Auditor · Continuous Improvement | **可迁移 / 可申请** | 无/偶尔 | 有 gates、测试和指标；缺少正式质量体系责任 |
-| **教育** | Technical Trainer · Facilitator · Academic Coordinator · EdTech/Instructional Designer | **可迁移 / 可申请** | 无/偶尔 | 21 个项目、14,530 节课；正式教学与学习成果需单独证明 |
+| **教育** | Technical Trainer · Facilitator · Academic Coordinator · EdTech/Instructional Designer | **可迁移 / 可申请** | 无/偶尔 | 21 个项目、14,550 节课；正式教学与学习成果需单独证明 |
 | **物流与供应商** | Procurement · Supply/Operations Coordinator · Vendor/Contract Manager | **可申请** | 无 | 有流程基础；真实采购、库存和供应商绩效仍是缺口 |
 | **数据与 AI 治理** | Data Steward · Data Governance · AI Adoption/Governance | **可迁移 / 可申请** | 无/偶尔 | 有可审计数据集和人工 gates；组织政策与委员会仍是缺口 |
 | **公共部门** | Institutional Modernization · ICT Coordinator · Digital Projects · Public Planning | **可申请** | 无 | 有智利场景和可追溯性；未声称公共采购和政府部门经验 |

@@ -16,16 +16,20 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-158-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#hệ-thống-sinh-thái-đang-hưng-thịnh)
 [![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#máy-tính-trình-duyệt-kỹ-thuật-toàn-bộ)
-[![Forks](https://img.shields.io/badge/forks-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.vi.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4178-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-133-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
 [![Stars](https://img.shields.io/github/stars/vladimiracunadev-create?style=for-the-badge&logo=github&label=stars&color=e3b341)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/vladimiracunadev-create?style=for-the-badge&logo=github&label=followers&color=58a6ff)](https://github.com/vladimiracunadev-create?tab=followers)
 
-[🌐 Portfolio (6 languages)](https://vladimiracunadev-create.github.io/) ·
+[🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#hệ-thống-sinh-thái-đang-hưng-thịnh) ·
 [⚡ Evaluate me in 10 minutes](#nếu-anh-có-10-phút-để-đánh-giá-tôi) ·
 [✅ Professional scope](#phạm-vi-chuyên-nghiệp) ·
@@ -59,22 +63,22 @@ Phân tích tiến trình và yêu cầu·Đánh giá giải pháp·phối hợp
 - 📈 **Khả năng quan sát** — `/health`, `/ready`, `/metrics`Bảng điều khiển, và khả năng truy tìm.
 - 📚 **Tài liệu hướng dẫn khán giả- ý thức**— Người tuyển dụng, người mới bắt đầu, người bị giam giữ, hay người bảo vệ, tùy thuộc vào kho tàng.
 - 📦 **Phân phối sản phẩm**— Những chương trình phát hành, kiểm tra và xây dựng bằng chứng; những ký hiệu thương mại/ hàng hóa được công bố là đang chờ khi được áp dụng.
-- 🌍 **Quốc tế hoá**— Danh mục đầu tư trong 6 ngôn ngữ (ES·EN·PT·IT·FR·ZH).
+- 🌍 **Quốc tế hoá** — hồ sơ này được xuất bản bằng 22 ngôn ngữ và portfolio cung cấp 154 tệp PDF công khai (7 nhóm × 22 ngôn ngữ) (ES · EN · PT · IT · FR · ZH · ZH-TW · JA · KO · TR · RU · VI · TH · DE · UK · PL · AR · FA · ID · NL · HI · EL).
 - 🧭 **Thành thật với kỹ thuật viên**- mọi trường hợp được dán nhãn`OPERATIONAL`, `DOCUMENTED/SCAFFOLD`, hoặc`PLANNED`.
 
 ## ✅Trạng thái có thể truy cập
 
 | Bề mặt | Bằng chứng cụ thể |
 |---|---|
-| 🧪 **Kiểm tra tin tức** | GabySQUL**Thử ra 828**+ fuzzing trên**503. 8M truy vấn**(0 hoảng loạn)·Empresa Operativa Chile**Thử ra 158** ·Automa**150 py thử** ·Thông tin đa MSName |
+| 🧪 **Kiểm tra tin tức** | GabySQUL**Thử ra 828**+ fuzzing trên**503. 8M truy vấn**(0 hoảng loạn)·Empresa Operativa Chile**Thử ra 217** ·Automa**150 py thử** ·Thông tin đa MSName |
 | 🤖 **Các tác vụ cấp sản xuất** | Thế giới thật LangGraph**Hậu phương hoạt động 25/25**(case 01–25, 100% tin tức)·Đặc vụ AI hoạt động**13 đặc vụ**có**39 phép đánh giá xác định** |
 | 🔗 **Sự kết hợp của bản sắc** | **20 thùng**Trình gửi ảnh cho người nhận thư —**19 Hoạt động**Từng cá nhân được kiểm toán với Docker· **18+B động cơ** · **20+ container** ·11 mẫu |
-| 📦 **Phân phối** | **151 bản phát hành**xuyên qua hệ sinh thái của**64 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
+| 📦 **Phân phối** | **158 bản phát hành**xuyên qua hệ sinh thái của**65 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
 | 🛡️ **Chuỗi cung cấp** | CodeQL·Semgrep·Cướp·Trivy·Grype·Gitleaks·TruffleHog·CM SBOM CcconeDX·Điểm |
-| 📚 **Curricula** | **14.530 lớp**có thể kiểm tra trên 21 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
-| 🌐 **Portfolio** | PWA có thể cài đặt· **6 ngôn ngữ** · **36 PDFs**tạo bởi ống dẫn·Name·Bộ tạo tích hợp a- rô- bốt·Căn nhà sáng 100 |
+| 📚 **Curricula** | **14.550 lớp**có thể kiểm tra trên 21 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
+| 🌐 **Portfolio** | PWA có thể cài đặt· **22 ngôn ngữ** · **154 PDFs**tạo bởi ống dẫn·Name·Bộ tạo tích hợp a- rô- bốt·Căn nhà sáng 100 |
 | 🔒 **Kính viễn vọng** | Không có máy đo trong sản phẩm pháp y và Empresa Operativa Chile — được kiểm tra trong mỗi tòa nhà (không có người máy)`INTERNET`Cho phép |
-| 🌐 **Xuất ra các trang** | **56 trang GitHub**-55 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 56 được kiểm tra với HTTP`200` |
+| 🌐 **Xuất ra các trang** | **57 trang GitHub**-56 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 57 được kiểm tra với HTTP`200` |
 
 ## 🛠️ Ngăn xếp công nghệ
 
@@ -112,7 +116,7 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 **AI, agent, skill và MCP**
 
-![Claude Code 15 skills](https://img.shields.io/badge/Claude%20Code-15%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
 ![Operational AI Agents 13 agents](https://img.shields.io/badge/Operational%20AI%20Agents-13%20agents-7c5cff?style=flat-square)
 ![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
@@ -175,7 +179,7 @@ Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần 
 
 ## 📚Máy tính trình duyệt kỹ thuật toàn bộ
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,530 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,550 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
 👉 **[Xem đầy đủ 21 chương trình](docs/ECOSYSTEM.vi.md#curricula)**
 
