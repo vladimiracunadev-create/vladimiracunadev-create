@@ -2,7 +2,7 @@
 
 # 👋Vladimir Acuña
 
-## **Oplossingsarchitect·Senior Full-Stack·Digitale transformatie·Beheer en operaties**
+## **AI-ingenieur·Oplossingsarchitect·Senior Full-Stack·Digitale transformatie·Beheer en operaties**
 
 **Professioneel opgeleid in Computer Science en Computing Engineering en Business Administration, met 16+ jaar bouw- en besturingssoftware in echte omgevingen. Ik sluit zaken, mensen, processen en technologie aan op het ontwerpen, evalueren, leveren en ondersteunen van oplossingen met technisch oordeel en een operationele visie .. ondersteund door verifieerbaar bewijs in deze GitHub account.**
 
@@ -162,6 +162,25 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI-geassisteerde ontwikkelingsstroom**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Hulpmiddel | Voornaamste gebruik |
+|---|---|
+| **Claude Code** | Architectenonderzoek, uitvoering en technische documentatie |
+| **ChatGPT Plus** | Analyse, architectuur en iteratie (sinds 2023) |
+| **Codex** | Codegeneratie en refactoring |
+| **Antizwaartekracht** | Versnelling van de ontwikkeling en automatiseringsstromen |
+| **VS Code / OpenCode** | Milieu met geïntegreerde AI-bijstand |
+
+> Ik combineer mijn eigen technische beoordeling, menselijke validatie en architectuur richting. AI versterkt capaciteit, snelheid en bereik .. het vervangt geen ervaring.
+
 **Beveiliging en toeleveringsketen**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Management-, administratie- en businessfuncties waarin informatica en bedrijfsku
 Technologieleiderschap · Projectbeheer · Bedrijfsadministratie · Strategie en verandering · Bedrijfsanalyse · Product en dienst · Cybersecurity-beheer · Handel en verkoop · Financiën en beheerscontrole · Kwaliteit · Onderwijs · Logistiek en leveranciers · Gegevens en AI-governance · Openbare sector
 
 👉 **[Bekijk de volledige kansenmatrix](docs/MANAGEMENT.nl.md)**
-
-## 🤖AI-geassisteerde ontwikkelingsstroom
-
-| Hulpmiddel | Voornaamste gebruik |
-|---|---|
-| **Claude Code** | Architectenonderzoek, uitvoering en technische documentatie |
-| **ChatGPT Plus** | Analyse, architectuur en iteratie (sinds 2023) |
-| **Codex** | Codegeneratie en refactoring |
-| **Antizwaartekracht** | Versnelling van de ontwikkeling en automatiseringsstromen |
-| **VS Code / OpenCode** | Milieu met geïntegreerde AI-bijstand |
-
-> Ik combineer mijn eigen technische beoordeling, menselijke validatie en architectuur richting. AI versterkt capaciteit, snelheid en bereik .. het vervangt geen ervaring.
 
 ## 📌Beschikbaarheid
 

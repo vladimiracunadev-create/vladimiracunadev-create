@@ -2,7 +2,7 @@
 
 # 👋व्लादिमीर Acuña
 
-## **समाधान वास्तुकार·वरिष्ठ पूर्ण-स्टैक·डिजिटल रूपांतरण·प्रबंधन और संचालन**
+## **AI इंजीनियर·समाधान वास्तुकार·वरिष्ठ पूर्ण-स्टैक·डिजिटल रूपांतरण·प्रबंधन और संचालन**
 
 **Professionally trained in Computer Science and Computing Engineering and Business Administration, with 16+ years building and operating software in real environments. I connect business, people, processes, and technology to design, evaluate, deliver, and sustain solutions with technical judgment and an operational view — backed by verifiable evidence in this GitHub account.**
 
@@ -162,6 +162,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**एआई-एसिस्टेड डेवलपमेंट फ्लो**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| उपकरण | मुख्य उपयोग |
+|---|---|
+| **क्लाउड कोड** | वास्तु समीक्षा, कार्यान्वयन और तकनीकी प्रलेखन |
+| **ChatGPT Plus** | विश्लेषण, वास्तुकला और पुनरावृत्ति (२०२३ से) |
+| **कोडेक्स** | कोड जनरेशन और रिफैक्टरिंग |
+| **Antigravity** | विकास और स्वचालन प्रवाह का त्वरण |
+| **VS कोड / OpenCode** | एकीकृत एआई सहायता के साथ वातावरण |
+
+> मैं अपने तकनीकी निर्णय, मानव सत्यापन और वास्तुशिल्प दिशा को जोड़ती हूं। एआई क्षमता, गति और पहुंच को बढ़ाता है - यह अनुभव की जगह नहीं लेता है।
+
 **सुरक्षा और सप्लाई चेन**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 प्रौद्योगिकी नेतृत्व · परियोजना प्रबंधन · व्यवसाय प्रशासन · रणनीति और परिवर्तन · व्यापार विश्लेषण · उत्पाद और सेवा · साइबर सुरक्षा प्रबंधन · वाणिज्यिक और बिक्री · वित्त और प्रबंधन नियंत्रण · गुणवत्ता · शिक्षा · रसद और आपूर्तिकर्ता · डेटा और एआई शासन · Public sector
 
 👉 **[अवसरों का पूरा मैट्रिक्स देखें](docs/MANAGEMENT.hi.md)**
-
-## 🤖एआई-एसिस्टेड डेवलपमेंट फ्लो
-
-| उपकरण | मुख्य उपयोग |
-|---|---|
-| **क्लाउड कोड** | वास्तु समीक्षा, कार्यान्वयन और तकनीकी प्रलेखन |
-| **ChatGPT Plus** | विश्लेषण, वास्तुकला और पुनरावृत्ति (२०२३ से) |
-| **कोडेक्स** | कोड जनरेशन और रिफैक्टरिंग |
-| **Antigravity** | विकास और स्वचालन प्रवाह का त्वरण |
-| **VS कोड / OpenCode** | एकीकृत एआई सहायता के साथ वातावरण |
-
-> मैं अपने तकनीकी निर्णय, मानव सत्यापन और वास्तुशिल्प दिशा को जोड़ती हूं। एआई क्षमता, गति और पहुंच को बढ़ाता है - यह अनुभव की जगह नहीं लेता है।
 
 ## 📌उपलब्धता
 

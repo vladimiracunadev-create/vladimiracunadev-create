@@ -2,7 +2,7 @@
 
 # 👋 Vladimir Acuña
 
-## **Solution Architect · Senior Full-Stack · Digital Transformation · Management & Operations**
+## **AI Engineer · Solution Architect · Senior Full-Stack · Digital Transformation · Management & Operations**
 
 **Professionally trained in Computer Science and Computing Engineering and Business Administration, with 16+ years building and operating software in real environments. I connect business, people, processes, and technology to design, evaluate, deliver, and sustain solutions with technical judgment and an operational view — backed by verifiable evidence in this GitHub account.**
 
@@ -162,6 +162,25 @@ Technologies detected in the public repositories (manifests, dependencies, conta
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI-Assisted Development Flow**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Tool | Main use |
+|---|---|
+| **Claude Code** | Architectural review, implementation, and technical documentation |
+| **ChatGPT Plus** | Analysis, architecture, and iteration (since 2023) |
+| **Codex** | Code generation and refactoring |
+| **Antigravity** | Acceleration of development and automation flows |
+| **VS Code / OpenCode** | Environments with integrated AI assistance |
+
+> I combine my own technical judgment, human validation, and architectural direction. AI amplifies capacity, speed, and reach — it does not replace experience.
+
 **Security and supply chain**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Management, administration and business roles where computing and administration
 Technology leadership · Project management · Business administration · Strategy and change · Business analysis · Product and service · Cybersecurity management · Commercial and sales · Finance and management control · Quality · Education · Logistics and suppliers · Data and AI governance · Public sector
 
 👉 **[See the full opportunities matrix](docs/MANAGEMENT.en.md)**
-
-## 🤖 AI-Assisted Development Flow
-
-| Tool | Main use |
-|---|---|
-| **Claude Code** | Architectural review, implementation, and technical documentation |
-| **ChatGPT Plus** | Analysis, architecture, and iteration (since 2023) |
-| **Codex** | Code generation and refactoring |
-| **Antigravity** | Acceleration of development and automation flows |
-| **VS Code / OpenCode** | Environments with integrated AI assistance |
-
-> I combine my own technical judgment, human validation, and architectural direction. AI amplifies capacity, speed, and reach — it does not replace experience.
 
 ## 📌 Availability
 

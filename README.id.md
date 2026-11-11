@@ -2,7 +2,7 @@
 
 # 👋Vladimir Acuña
 
-## **Arsitek Solusi·Senior Full- Stack·Transformasi Digital·Manajemen & Operasi**
+## **Insinyur AI·Arsitek Solusi·Senior Full- Stack·Transformasi Digital·Manajemen & Operasi**
 
 **Secara profesional terlatih dalam Ilmu Komputer dan Teknik Komputer dan Administrasi Bisnis, dengan 16 tahun membangun dan perangkat lunak operasi di lingkungan nyata. Saya menghubungkan bisnis, orang, proses, dan teknologi untuk merancang, mengevaluasi, memberikan, dan mempertahankan solusi dengan penilaian teknis dan pandangan operasional - didukung oleh bukti yang dapat diverifikasi dalam akun GitHub ini.**
 
@@ -162,6 +162,25 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**Alur pengembangan berbantuan AI**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Alat | Penggunaan utama |
+|---|---|
+| **Kode Claude** | Review arsitektur, implementasi, dan dokumentasi teknis |
+| **CATGPT Plus** | Analisis, arsitektur, dan iterasi (sejak 2023) |
+| **Codex** | Pembuatan kode dan memfaktorkan ulang |
+| **Antigravity** | Percepatan pengembangan dan otomatisasi mengalir |
+| **Kode VS / OpenCode** | Lingkungan dengan bantuan AI terintegrasi |
+
+> Aku menggabungkan penilaian teknisku sendiri, validasi manusia, dan arah arsitektur. AI memperkuat kapasitas, kecepatan, dan jangkauan - tidak menggantikan pengalaman.
+
 **Keamanan dan rantai pasok**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Peran manajemen, administrasi, dan bisnis di mana informatika dan administrasi m
 Teknologi kepemimpinan · Manajemen projek · Administrasi bisnis · Strategi dan perubahan · Analisis bisnis · Produk dan layanan · Manajemen keamanan cyber · Komersial dan penjualan · Keuangan dan kontrol manajemen · Kualitas · Pendidikan · Penyontrolan dan pemasok · Pemerintahan Data dan AI · Sektor publik
 
 👉 **[Lihat matriks peluang lengkap](docs/MANAGEMENT.id.md)**
-
-## 🤖Alur pengembangan berbantuan AI
-
-| Alat | Penggunaan utama |
-|---|---|
-| **Kode Claude** | Review arsitektur, implementasi, dan dokumentasi teknis |
-| **CATGPT Plus** | Analisis, arsitektur, dan iterasi (sejak 2023) |
-| **Codex** | Pembuatan kode dan memfaktorkan ulang |
-| **Antigravity** | Percepatan pengembangan dan otomatisasi mengalir |
-| **Kode VS / OpenCode** | Lingkungan dengan bantuan AI terintegrasi |
-
-> Aku menggabungkan penilaian teknisku sendiri, validasi manusia, dan arah arsitektur. AI memperkuat kapasitas, kecepatan, dan jangkauan - tidak menggantikan pengalaman.
 
 ## 📌Ketersediaan
 

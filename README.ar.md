@@ -2,7 +2,7 @@
 
 # 👋فلاديمير أكونيا
 
-## **Solution Architect·أقدم مجموعة كاملة·التحول الرقمي·العمليات الإدارية**
+## **مهندس ذكاء اصطناعي·Solution Architect·أقدم مجموعة كاملة·التحول الرقمي·العمليات الإدارية**
 
 **تدريب مهني في مجال علوم الحاسوب والهندسة الحاسوبية وإدارة الأعمال، مع بناء 16 سنة وبرمجيات تشغيلية في بيئات حقيقية. وأربط الأعمال التجارية، والناس، والعمليات، والتكنولوجيا بتصميم وتقييم الحلول وتقديمها والمحافظة عليها مع الحكم التقني ونظرة تنفيذية - مدعومة بأدلة يمكن التحقق منها في حساب غيت هوب هذا.**
 
@@ -162,6 +162,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**سير التطوير بمساعدة الذكاء الاصطناعي**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Tool | الاستخدام الرئيسي |
+|---|---|
+| **مدونة قواعد السلوك** | استعراض المحفوظات وتنفيذها والوثائق التقنية |
+| **ChatGPT Plus** | التحليل والهيكل والتكرار (منذ 2023) |
+| **الرمز** | إنتاج المواد وإعادة تصنيعها |
+| **Antigravity** | التعجيل بتدفقات التنمية والتشغيل الآلي |
+| **VS Code / OpenCode** | البيئات التي تقدم فيها المساعدة المتكاملة في مجال التنفيذ |
+
+> أنا أجمع بين حكمي التقني، وإثبات صحة الإنسان، وتوجهي المعماري. إن منظمة العفو الدولية تُكمِّل القدرات والسرعة والوصول - فهي لا تحل محل الخبرة.
+
 **الأمن وسلسلة التوريد**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 قيادة التكنولوجيا · إدارة المشروع · إدارة الأعمال · الاستراتيجية والتغيير · تحليل الأعمال · المنتجات والخدمات · إدارة أمن الفضاء الإلكتروني · التجارة والمبيعات · الرقابة المالية والإدارية · النوعية · التعليم · السوقيات والموردون · إدارة البيانات والمبادرة · القطاع العام
 
 👉 **[عرض مصفوفة الفرص كاملة](docs/MANAGEMENT.ar.md)**
-
-## 🤖سير التطوير بمساعدة الذكاء الاصطناعي
-
-| Tool | الاستخدام الرئيسي |
-|---|---|
-| **مدونة قواعد السلوك** | استعراض المحفوظات وتنفيذها والوثائق التقنية |
-| **ChatGPT Plus** | التحليل والهيكل والتكرار (منذ 2023) |
-| **الرمز** | إنتاج المواد وإعادة تصنيعها |
-| **Antigravity** | التعجيل بتدفقات التنمية والتشغيل الآلي |
-| **VS Code / OpenCode** | البيئات التي تقدم فيها المساعدة المتكاملة في مجال التنفيذ |
-
-> أنا أجمع بين حكمي التقني، وإثبات صحة الإنسان، وتوجهي المعماري. إن منظمة العفو الدولية تُكمِّل القدرات والسرعة والوصول - فهي لا تحل محل الخبرة.
 
 ## 📌توافر
 

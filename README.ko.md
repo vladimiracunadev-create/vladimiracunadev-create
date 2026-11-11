@@ -2,7 +2,7 @@
 
 # 👋블라디미르 Acuña
 
-## **솔루션 Architect·수석 풀-스택·디지털 전환·관리 및 운영**
+## **AI 엔지니어·솔루션 Architect·수석 풀-스택·디지털 전환·관리 및 운영**
 
 **16년 이상의 건물과 운영 소프트웨어를 갖춘 컴퓨터 과학 및 컴퓨팅 공학 및 비즈니스 관리 분야에서 전문적으로 훈련. I Connect Business, people, process, and technology to design, assessment, Deliver, and keep solution with technical resolution and operational view — 이 GitHub 계정에서 검증 가능한 증거로 백업.**
 
@@ -162,6 +162,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI-Assisted 개발 흐름**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| 의 특징 | 제품정보 |
+|---|---|
+| **Claude 코드** | 건축 검토, 구현 및 기술 문서 |
+| **ChatGPT 플러스** | 분석, 건축, 그리고 이행 (since 2023) |
+| **암호** | Code 생성 및 재발견 |
+| **품질 관리** | 개발 및 자동화의 가속도 |
+| **VS 코드 / OpenCode** | 통합 AI 지원 환경 |
+
+> 나는 내 자신의 기술 판정, 인간 검증, 건축 방향을 결합. AI는 용량, 속도 및 도달을 증폭합니다. - 그것은 경험을 대체하지 않습니다.
+
 **보안과 공급망**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ installer 또는 CLI 바이너리를 다운로드[RootCause releases](https://gi
 기술 리더십 · 사업소개 · 사업 관리 · 전략 및 변화 · 사업 분석 · 제품 및 서비스 · Cybersecurity 관리 · 상업 및 판매 · 금융 및 관리 제어 · Quality · 교육과정 · 물류 및 공급 업체 · 데이터 및 AI 관리 · 공공 부문
 
 👉 **[전체 기회 매트릭스 보기](docs/MANAGEMENT.ko.md)**
-
-## 🤖AI-Assisted 개발 흐름
-
-| 의 특징 | 제품정보 |
-|---|---|
-| **Claude 코드** | 건축 검토, 구현 및 기술 문서 |
-| **ChatGPT 플러스** | 분석, 건축, 그리고 이행 (since 2023) |
-| **암호** | Code 생성 및 재발견 |
-| **품질 관리** | 개발 및 자동화의 가속도 |
-| **VS 코드 / OpenCode** | 통합 AI 지원 환경 |
-
-> 나는 내 자신의 기술 판정, 인간 검증, 건축 방향을 결합. AI는 용량, 속도 및 도달을 증폭합니다. - 그것은 경험을 대체하지 않습니다.
 
 ## 📌가용성
 

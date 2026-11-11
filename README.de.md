@@ -2,7 +2,7 @@
 
 # 👋Wladimir Acuña
 
-## **Lösungsarchitekt·Senior Full-Stack·Digitale Transformation·Management & Operations**
+## **KI-Ingenieur·Lösungsarchitekt·Senior Full-Stack·Digitale Transformation·Management & Operations**
 
 **Professionell ausgebildet in Informatik und Computing Engineering und Business Administration, mit 16+ Jahren Bau und Betrieb von Software in realen Umgebungen. Ich verbinde Unternehmen, Mitarbeiter, Prozesse und Technologien, um Lösungen mit technischem Urteilsvermögen und einer operativen Sichtweise zu entwerfen, zu bewerten, zu liefern und zu erhalten - unterstützt durch überprüfbare Beweise in diesem GitHub-Konto.**
 
@@ -162,6 +162,25 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI-unterstützter Entwicklungsfluss**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Werkzeug | Hauptverwendung |
+|---|---|
+| **Claude Code** | Architekturprüfung, Implementierung und technische Dokumentation |
+| **ChatGPT Plus** | Analyse, Architektur und Iteration (seit 2023) |
+| **Codex** | Codegenerierung und Refactoring |
+| **Antigravitation** | Beschleunigung von Entwicklungs- und Automatisierungsflüssen |
+| **VS-Code / OpenCode** | Umgebungen mit integrierter KI-Unterstützung |
+
+> Ich kombiniere mein eigenes technisches Urteil, menschliche Validierung und architektonische Richtung. KI verstärkt Kapazität, Geschwindigkeit und Reichweite – sie ersetzt nicht die Erfahrung.
+
 **Sicherheit und Lieferkette**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Management-, Verwaltungs- und Business-Rollen, in denen Informatik und Betriebsw
 Technologieführerschaft · Projektmanagement · Betriebswirtschaftslehre · Strategie und Wandel · Geschäftsanalyse · Produkt und Dienstleistung · Cybersecurity Management · Handels- und Verkaufsgeschäfte · Finanz- und Managementkontrolle · Qualität · Bildung · Logistik und Lieferanten · Data und AI Governance · Öffentlicher Sektor
 
 👉 **[Die vollständige Chancenmatrix ansehen](docs/MANAGEMENT.de.md)**
-
-## 🤖AI-unterstützter Entwicklungsfluss
-
-| Werkzeug | Hauptverwendung |
-|---|---|
-| **Claude Code** | Architekturprüfung, Implementierung und technische Dokumentation |
-| **ChatGPT Plus** | Analyse, Architektur und Iteration (seit 2023) |
-| **Codex** | Codegenerierung und Refactoring |
-| **Antigravitation** | Beschleunigung von Entwicklungs- und Automatisierungsflüssen |
-| **VS-Code / OpenCode** | Umgebungen mit integrierter KI-Unterstützung |
-
-> Ich kombiniere mein eigenes technisches Urteil, menschliche Validierung und architektonische Richtung. KI verstärkt Kapazität, Geschwindigkeit und Reichweite – sie ersetzt nicht die Erfahrung.
 
 ## 📌Verfügbarkeit
 

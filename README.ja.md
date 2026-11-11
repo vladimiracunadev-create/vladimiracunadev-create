@@ -2,7 +2,7 @@
 
 # 👋ヴラディミール・アカニャ
 
-## **ソリューションアーキテクト·シニアフルスタック·デジタル変革·経営・運営**
+## **AIエンジニア·ソリューションアーキテクト·シニアフルスタック·デジタル変革·経営・運営**
 
 **コンピューターサイエンスとコンピューティング工学および経営管理の専門的訓練を受け、16年以上のビルトおよび実際の環境でソフトウェアを操作する。 業務、人、プロセス、技術を接続し、技術的な判断と運用状況を把握し、ソリューションを設計、評価、提供、および持続可能なものにします。このGitHubアカウントの検証を裏返しました。**
 
@@ -162,6 +162,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI-Assisted Development Flow(AI-Assisted Development Flow) 開発実績**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| ツール | 主な用途 |
+|---|---|
+| **クラウデコード** | 建築レビュー、実装、および技術文書 |
+| **ChatGPT Plus とチャット** | 分析・アーキテクチャ・反復(2023)年以降 |
+| **コードx** | コード生成と再ファクタリング |
+| **アンチグラビティ** | 開発・自動化の流れの加速 |
+| **VSコード/OpenCode** | 統合AI支援による環境 |
+
+> 独自の技術判断、人的検証、建築的方向を組み合わせる。 AIは能力、スピード、リーチを増幅します。経験を交換しません。
+
 **セキュリティとサプライチェーン**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 テクノロジーのリーダーシップ · プロジェクト管理 · 経営管理 · 戦略・変更 · 業務分析 · 製品・サービス · サイバーセキュリティ管理 · 商用・販売 · 財務・管理管理 · 品質保証 · Education · 物流・サプライヤー · データとAIのガバナンス · 公共部門
 
 👉 **[機会マトリクス全体を見る](docs/MANAGEMENT.ja.md)**
-
-## 🤖AI-Assisted Development Flow(AI-Assisted Development Flow) 開発実績
-
-| ツール | 主な用途 |
-|---|---|
-| **クラウデコード** | 建築レビュー、実装、および技術文書 |
-| **ChatGPT Plus とチャット** | 分析・アーキテクチャ・反復(2023)年以降 |
-| **コードx** | コード生成と再ファクタリング |
-| **アンチグラビティ** | 開発・自動化の流れの加速 |
-| **VSコード/OpenCode** | 統合AI支援による環境 |
-
-> 独自の技術判断、人的検証、建築的方向を組み合わせる。 AIは能力、スピード、リーチを増幅します。経験を交換しません。
 
 ## 📌利用条件
 

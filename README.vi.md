@@ -2,7 +2,7 @@
 
 # 👋Vladimir Acuña
 
-## **Kiến trúc giải quyết·Người đầy đủ cao cấp·Biến hình số·Quản lý & thao tác**
+## **Kỹ sư AI · Kiến trúc giải quyết·Người đầy đủ cao cấp·Biến hình số·Quản lý & thao tác**
 
 **Professionally trained in Computer Science and Computing Engineering and Business Administration, with 16+ years building and operating software in real environments. I connect business, people, processes, and technology to design, evaluate, deliver, and sustain solutions with technical judgment and an operational view — backed by verifiable evidence in this GitHub account.**
 
@@ -162,6 +162,25 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**Quy trình phát triển có AI hỗ trợ**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Công cụ | Dùng chính |
+|---|---|
+| **Mã Claude** | Xem xét kiến trúc, thực hiện và tài liệu kỹ thuật |
+| **ChatGPT Plus** | Phân tích, kiến trúc và lặp lại (từ năm 2023) |
+| **Cổ bản** | Name |
+| **Phản trọng** | Gia tốc dòng chảy phát triển và tự động hóa |
+| **Mã VS / OpenCode** | Môi trường có hỗ trợ AI tích hợp |
+
+> Tôi kết hợp những nhận định kỹ thuật của mình, sự xác nhận của con người và sự hướng dẫn kiến trúc. Khả năng, tốc độ và đạt của trí tuệ của AI được phóng đại lên — không thay thế được kinh nghiệm.
+
 **Bảo mật và chuỗi cung ứng**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Các vị trí quản lý, hành chính và kinh doanh mà tin học và quản 
 Lãnh đạo công nghệ · Quản lý dự án · Bộ quản lý kinh doanh · Chiến thuật và thay đổi · Phân tích kinh doanh · Sản phẩm và dịch vụ · Quản lý an ninh mạng · Commercial and sales · Quản lý tài chính và quản lý · Chất lượng · Giáo dục · Hậu cần và cung cấp · Bộ quản lý dữ liệu và AI · Khu vực công cộng
 
 👉 **[Xem ma trận cơ hội đầy đủ](docs/MANAGEMENT.vi.md)**
-
-## 🤖Quy trình phát triển có AI hỗ trợ
-
-| Công cụ | Dùng chính |
-|---|---|
-| **Mã Claude** | Xem xét kiến trúc, thực hiện và tài liệu kỹ thuật |
-| **ChatGPT Plus** | Phân tích, kiến trúc và lặp lại (từ năm 2023) |
-| **Cổ bản** | Name |
-| **Phản trọng** | Gia tốc dòng chảy phát triển và tự động hóa |
-| **Mã VS / OpenCode** | Môi trường có hỗ trợ AI tích hợp |
-
-> Tôi kết hợp những nhận định kỹ thuật của mình, sự xác nhận của con người và sự hướng dẫn kiến trúc. Khả năng, tốc độ và đạt của trí tuệ của AI được phóng đại lên — không thay thế được kinh nghiệm.
 
 ## 📌Tính khả năng
 

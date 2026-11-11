@@ -2,7 +2,7 @@
 
 # 👋Vladimir Acuña
 
-## **Çözüm Mimarı·Senior Full-Stack·Dijital Dönüşüm·Yönetim ve Operasyonlar**
+## **Yapay Zekâ Mühendisi · Çözüm Mimarı·Senior Full-Stack·Dijital Dönüşüm·Yönetim ve Operasyonlar**
 
 **Bilgisayar Bilimi ve Bilişim Mühendisliği ve İşletmesinde profesyonel olarak eğitilmiş, 16+ yıl bina ve gerçek ortamlarda işletim yazılımı ile. İşi, insanları, süreçleri ve teknolojiyi tasarım, değerlendirme, teslim etmek ve teknik yargı ve operasyonel bir görüşle çözümler sürdürmek için birleştiriyorum - bu GitHub hesabında doğrulanabilir kanıtlarla desteklendi.**
 
@@ -162,6 +162,25 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**Yapay zekâ destekli geliştirme akışı**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Tool | Main use |
+|---|---|
+| **Claude Code** | Mimari inceleme, uygulama ve teknik dokümantasyon |
+| **ChatGPT Plus** | Analiz, mimarlık ve iterasyon ( 2023'ten beri) |
+| **Kod** | Kod nesli ve yeniden faktörleme |
+| **Antika** | Geliştirme ve otomasyon akışlarının hızlandırılması |
+| **VS Code / OpenKo** | Entegre AI yardımı ile çevreler |
+
+> Kendi teknik yargıımı, insan doğrulamasını ve mimari yönünü birleştiriyorum. AI kapasiteyi, hızı ve ulaşmak - deneyimi değiştirmiyor.
+
 **Güvenlik ve tedarik zinciri**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Bilişim ile işletmenin, programlama temel görev olmadan katkı sağladığı 
 Technology leadership · Proje Yönetimi · Business administration · Strateji ve değişim · Business analysis · Ürün ve hizmet · Cybersecurity management · Ticari ve satış · Finance and management control · Quality · Education · Logistics and suppliers · Data and AI Governance · Public sector
 
 👉 **[Fırsat matrisinin tamamını gör](docs/MANAGEMENT.tr.md)**
-
-## 🤖Yapay zekâ destekli geliştirme akışı
-
-| Tool | Main use |
-|---|---|
-| **Claude Code** | Mimari inceleme, uygulama ve teknik dokümantasyon |
-| **ChatGPT Plus** | Analiz, mimarlık ve iterasyon ( 2023'ten beri) |
-| **Kod** | Kod nesli ve yeniden faktörleme |
-| **Antika** | Geliştirme ve otomasyon akışlarının hızlandırılması |
-| **VS Code / OpenKo** | Entegre AI yardımı ile çevreler |
-
-> Kendi teknik yargıımı, insan doğrulamasını ve mimari yönünü birleştiriyorum. AI kapasiteyi, hızı ve ulaşmak - deneyimi değiştirmiyor.
 
 ## 📌Kullanılabilirlik
 

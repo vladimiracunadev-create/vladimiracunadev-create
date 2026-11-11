@@ -2,7 +2,7 @@
 
 # 👋ولادیمیر آیسینا
 
-## **راه حل معماری·پیر Full-Stack·تحول دیجیتال·مدیریت و عملیات**
+## **مهندس هوش مصنوعی·راه حل معماری·پیر Full-Stack·تحول دیجیتال·مدیریت و عملیات**
 
 **حرفه ای در علوم کامپیوتر و مهندسی محاسبات و مدیریت کسب و کار آموزش دیده است، با 16 سال ساخت و ساز و نرم افزار عملیاتی در محیط های واقعی. من کسب و کار، افراد، فرآیندها و تکنولوژی را به طراحی، ارزیابی، تحویل و حفظ راه حل با قضاوت فنی و یک دیدگاه عملیاتی متصل می کنم - با حمایت شواهد قابل راستی آزمایی در این حساب GitHub.**
 
@@ -162,6 +162,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**جریان توسعه AI-Assisted Development Flow**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Tool | Main use |
+|---|---|
+| **کد کلود** | بررسی معماری، پیاده سازی و مستندات فنی |
+| **ChatGPT Plus** | تجزیه و تحلیل، معماری و تکرار (از سال 2023) |
+| **Codex** | تولید کد و بازسازی |
+| **ضد جاذبه** | افزایش پیشرفت و جریان اتوماسیون |
+| **VS Code / OpenCode** | محیط های با کمک AI یکپارچه |
+
+> من قضاوت فنی خودم، اعتبار انسانی و جهت معماری را ترکیب می کنم. هوش مصنوعی ظرفیت، سرعت و دستیابی را تقویت می کند – جایگزین تجربه نمی شود.
+
 **امنیت و زنجیرهٔ تأمین**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 رهبری تکنولوژی · مدیریت پروژه · مدیریت کسب و کار · استراتژی و تغییر · تحلیل کسب و کار · محصول و خدمات · مدیریت امنیت سایبری · تجارت و فروش · مدیریت و مدیریت کنترل · Quality · Education · تدارکات و تامین کنندگان · داده ها و مدیریت AI · بخش عمومی
 
 👉 **[مشاهدهٔ ماتریس کامل فرصت‌ها](docs/MANAGEMENT.fa.md)**
-
-## 🤖جریان توسعه AI-Assisted Development Flow
-
-| Tool | Main use |
-|---|---|
-| **کد کلود** | بررسی معماری، پیاده سازی و مستندات فنی |
-| **ChatGPT Plus** | تجزیه و تحلیل، معماری و تکرار (از سال 2023) |
-| **Codex** | تولید کد و بازسازی |
-| **ضد جاذبه** | افزایش پیشرفت و جریان اتوماسیون |
-| **VS Code / OpenCode** | محیط های با کمک AI یکپارچه |
-
-> من قضاوت فنی خودم، اعتبار انسانی و جهت معماری را ترکیب می کنم. هوش مصنوعی ظرفیت، سرعت و دستیابی را تقویت می کند – جایگزین تجربه نمی شود.
 
 ## 📌در دسترس بودن
 

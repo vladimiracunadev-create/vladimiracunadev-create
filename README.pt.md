@@ -2,7 +2,7 @@
 
 # 👋 Vladimir Acuña
 
-## **Arquiteto de Soluções · Senior Full-Stack · Transformação Digital · Gestão e Operações**
+## **Engenheiro de IA · Arquiteto de Soluções · Senior Full-Stack · Transformação Digital · Gestão e Operações**
 
 **Engenheiro em Informática e Computação e Administrador de Empresas, com mais de 16 anos construindo e operando software em ambientes reais. Conecto negócios, pessoas, processos e tecnologia para desenhar, avaliar, entregar e sustentar soluções — com evidência verificável neste GitHub.**
 
@@ -161,6 +161,25 @@ Tecnologias detectadas nos repositórios públicos (manifestos, dependências, c
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**Fluxo De Desenvolvimento Assistido Por IA**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Ferramenta | Uso principal |
+|---|---|
+| **Claude Code** | Revisão arquitetônica, implementação e documentação técnica |
+| **ChatGPT Plus** | Análise, arquitetura e iteração (desde 2023) |
+| **Codex** | Geração e refatoração de código |
+| **Antigravity** | Aceleração de fluxos de desenvolvimento e automação |
+| **VS Code / OpenCode** | Ambientes com assistência IA integrada |
+
+> Combino critério técnico próprio, validação humana e direção arquitetônica. A IA amplia capacidade, velocidade e alcance — não substitui experiência.
+
 **Segurança e cadeia de suprimentos**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -273,18 +292,6 @@ Cargos de gestão, administração e negócios em que a informática e a adminis
 Direção tecnológica · Projetos · Administração · Estratégia · Análise empresarial · Produto e serviço · GRC e continuidade · Comercial · Finanças e controle · Qualidade · Educação · Logística · Dados e IA · Setor público
 
 👉 **[Ver a matriz completa de oportunidades](docs/MANAGEMENT.pt.md)**
-
-## 🤖 Fluxo De Desenvolvimento Assistido Por IA
-
-| Ferramenta | Uso principal |
-|---|---|
-| **Claude Code** | Revisão arquitetônica, implementação e documentação técnica |
-| **ChatGPT Plus** | Análise, arquitetura e iteração (desde 2023) |
-| **Codex** | Geração e refatoração de código |
-| **Antigravity** | Aceleração de fluxos de desenvolvimento e automação |
-| **VS Code / OpenCode** | Ambientes com assistência IA integrada |
-
-> Combino critério técnico próprio, validação humana e direção arquitetônica. A IA amplia capacidade, velocidade e alcance — não substitui experiência.
 
 ## 📌 Disponibilidade
 

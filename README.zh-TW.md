@@ -2,7 +2,7 @@
 
 # 👋弗拉基米爾·阿庫尼亞
 
-## **解決方案架構·高階全速板·數字轉換·管理和業務**
+## **AI 工程師·解決方案架構·高階全速板·數字轉換·管理和業務**
 
 **專業接受電腦科學與計算工程與工商管理專業培訓,擁有16年以上在真實環境下的建設和操作軟體. 我將商業、人、流程和技術與技術判斷和業務觀點聯絡起來,以設計、評價、交付和維持解決方案,並在GitHub賬戶中以可核實的證據作為後盾。**
 
@@ -162,6 +162,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI-輔助發展流動**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| 工具 | 主要用途 |
+|---|---|
+| **克勞德程式碼** | 建築審查、實施和技術檔案 |
+| **聊天GPT 附加軟體** | 分析、結構和迭代(自2023年起) |
+| **程式碼** | 程式碼生成和重構 |
+| **反重力** | 加快發展和自動化流動 |
+| **VS 程式碼/ 開啟程式碼** | 綜合AI援助的環境 |
+
+> 我綜合了自己的技術判斷,人性驗證,建築方向. AI能增強能力,速度,以及達到——它不會取代經驗.
+
 **資安與供應鏈**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 技術領導 · 專案管理 · 工商管理 · 戰略和改革 · 業務分析 · 產品和服務 · 網路安全管理 · 商業和銷售 · 財務和管理控制 · 質量 · 學歷 · 後勤和供應商 · 資料和人工智慧治理 · 公共部門
 
 👉 **[查看完整機會矩陣](docs/MANAGEMENT.zh-TW.md)**
-
-## 🤖AI-輔助發展流動
-
-| 工具 | 主要用途 |
-|---|---|
-| **克勞德程式碼** | 建築審查、實施和技術檔案 |
-| **聊天GPT 附加軟體** | 分析、結構和迭代(自2023年起) |
-| **程式碼** | 程式碼生成和重構 |
-| **反重力** | 加快發展和自動化流動 |
-| **VS 程式碼/ 開啟程式碼** | 綜合AI援助的環境 |
-
-> 我綜合了自己的技術判斷,人性驗證,建築方向. AI能增強能力,速度,以及達到——它不會取代經驗.
 
 ## 📌可用性
 

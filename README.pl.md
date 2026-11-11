@@ -2,7 +2,7 @@
 
 # 👋Vladimir Acuña
 
-## **Architekt rozwiązania·Senior Full- Stack·Transformacja cyfrowa·Zarządzanie i operacje**
+## **Inżynier AI·Architekt rozwiązania·Senior Full- Stack·Transformacja cyfrowa·Zarządzanie i operacje**
 
 **Profesjonalnie przeszkolony w informatyce i komputerach Inżynierii i Administracji Biznesu, z 16 + lat budowy i oprogramowania operacyjnego w rzeczywistych środowiskach. Łączę biznes, ludzi, procesy i technologię z projektowaniem, oceną, dostarczaniem i podtrzymywaniem rozwiązań z oceną techniczną i widokiem operacyjnym - poparte sprawdzalnymi dowodami na tym koncie GitHub.**
 
@@ -162,6 +162,25 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**Proces rozwoju wspomagany przez AI**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| Narzędzie | Główne zastosowanie |
+|---|---|
+| **Kod Claude 'a** | Przegląd architektoniczny, wdrożenie i dokumentacja techniczna |
+| **ChatGPT Plus** | analiza, architektura i iteracja (od 2023) |
+| **Kodeks** | Wytwarzanie i refakturowanie kodów |
+| **Przeciwgrawitacyjne** | Przyspieszenie rozwoju i automatyzacji przepływu |
+| **Kod VS / OpenCode** | Środowisko ze zintegrowaną pomocą w zakresie ptasiej grypy |
+
+> Łączę mój własny osąd techniczny, ludzkie potwierdzenie i kierunek architektoniczny. AI wzmacnia pojemność, szybkość i zasięg - nie zastępuje doświadczenia.
+
 **Bezpieczeństwo i łańcuch dostaw**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -274,18 +293,6 @@ Role w zarządzaniu, administracji i biznesie, w których informatyka i administ
 Liderem technologicznym · Zarządzanie projektami · Administracja biznesowa · Strategia i zmiany · Analiza biznesowa · Produkt i usługi · Zarządzanie bezpieczeństwem cybernetycznym · Sprzedaż i sprzedaż · Kontrola finansów i zarządzania · Jakość · Edukacja · Logistyka i dostawcy · Zarządzanie danymi i ptasimi zwierzętami i ptasimi zwierzętami · Sektor publiczny
 
 👉 **[Zobacz pełną macierz możliwości](docs/MANAGEMENT.pl.md)**
-
-## 🤖Proces rozwoju wspomagany przez AI
-
-| Narzędzie | Główne zastosowanie |
-|---|---|
-| **Kod Claude 'a** | Przegląd architektoniczny, wdrożenie i dokumentacja techniczna |
-| **ChatGPT Plus** | analiza, architektura i iteracja (od 2023) |
-| **Kodeks** | Wytwarzanie i refakturowanie kodów |
-| **Przeciwgrawitacyjne** | Przyspieszenie rozwoju i automatyzacji przepływu |
-| **Kod VS / OpenCode** | Środowisko ze zintegrowaną pomocą w zakresie ptasiej grypy |
-
-> Łączę mój własny osąd techniczny, ludzkie potwierdzenie i kierunek architektoniczny. AI wzmacnia pojemność, szybkość i zasięg - nie zastępuje doświadczenia.
 
 ## 📌Dostępność
 

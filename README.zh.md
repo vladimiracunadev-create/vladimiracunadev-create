@@ -2,7 +2,7 @@
 
 # 👋 Vladimir Acuña
 
-## **解决方案架构师 · Senior Full-Stack · 数字化转型 · 管理与运营**
+## **AI 工程师·解决方案架构师 · Senior Full-Stack · 数字化转型 · 管理与运营**
 
 **拥有信息与计算机工程和企业管理双重教育背景，以及 16 年以上真实软件建设与运维经验。我连接业务、人员、流程与技术，以设计、评估、交付并持续运营解决方案 — 相关证据均可在此 GitHub 验证。**
 
@@ -161,6 +161,25 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
 
+**AI 辅助开发流程**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+
+| 工具 | 主要用途 |
+|---|---|
+| **Claude Code** | 架构审查、实现与技术文档 |
+| **ChatGPT Plus** | 分析、架构和迭代（自 2023） |
+| **Codex** | 代码生成与重构 |
+| **Antigravity** | 加速开发与自动化流程 |
+| **VS Code / OpenCode** | 带集成 AI 辅助的环境 |
+
+> 我结合自身技术判断、人工验证和架构方向。AI 放大能力、速度和覆盖范围 — 但不替代经验。
+
 **安全与供应链**
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
@@ -273,18 +292,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 技术管理 · 项目管理 · 企业行政 · 战略与变革 · 业务分析 · 产品与服务 · GRC 与连续性 · 商业与销售 · 财务与管理控制 · 质量 · 教育 · 物流与供应商 · 数据与 AI 治理 · 公共部门
 
 👉 **[查看完整机会矩阵](docs/MANAGEMENT.zh.md)**
-
-## 🤖 AI 辅助开发流程
-
-| 工具 | 主要用途 |
-|---|---|
-| **Claude Code** | 架构审查、实现与技术文档 |
-| **ChatGPT Plus** | 分析、架构和迭代（自 2023） |
-| **Codex** | 代码生成与重构 |
-| **Antigravity** | 加速开发与自动化流程 |
-| **VS Code / OpenCode** | 带集成 AI 辅助的环境 |
-
-> 我结合自身技术判断、人工验证和架构方向。AI 放大能力、速度和覆盖范围 — 但不替代经验。
 
 ## 📌 可合作方向
 
