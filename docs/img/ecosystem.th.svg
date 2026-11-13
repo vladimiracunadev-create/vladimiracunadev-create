@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 412" width="1000" height="412" role="img" aria-labelledby="t d" font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Noto Sans','Noto Sans CJK SC','Noto Sans Arabic','Noto Sans Thai','Noto Sans Devanagari',Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 631" width="1000" height="631" role="img" aria-labelledby="t d" font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Noto Sans','Noto Sans CJK SC','Noto Sans Arabic','Noto Sans Thai','Noto Sans Devanagari',Arial,sans-serif">
 <title id="t">🧠 Technical judgment — architecture · modernization · operations</title>
 <desc id="d">ผลิตภัณฑ์ที่มีการเผยแพร่จริง 23 · ห้องปฏิบัติการวิศวกรรม 11 · ปรับใช้ AI 6 · หลักสูตรเทคนิคฉบับสมบูรณ์ 22 · การประมวลผลเชิงวิทยาศาสตร์ 1 · Fork ของโปรเจกต์บุคคลที่สาม 52</desc>
-<rect x="0.7" y="0.7" width="998.6" height="410.6" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.7" y="0.7" width="998.6" height="629.6" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <rect x="16" y="16" width="968" height="40" rx="8" fill="#1f2328"/>
 <text x="32" y="41" font-size="14" font-weight="bold" fill="#ffffff">🧠 Technical judgment — architecture · modernization · operations</text>
 <rect x="16" y="68" width="312" height="162" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="1.4"/>
@@ -35,11 +35,24 @@
 <text x="30" y="337" font-size="12" font-weight="normal" fill="#1f2328">🎖️ Leadership · 🎓 Pedagogy · 🔢 Math · 📐 Psychometrics · 🏛️ Architecture</text>
 <text x="30" y="354" font-size="12" font-weight="normal" fill="#1f2328">🕹️ Machine Operator · 🏫 Chilean School Path · 🌌 Astronomy &amp; Aerospace</text>
 <text x="30" y="371" font-size="12" font-weight="normal" fill="#1f2328">🧭 Lifelong Learning Ecosystem</text>
-<rect x="672" y="242" width="312" height="62" rx="8" fill="#ffeff7" stroke="#bf3989" stroke-width="1.4"/>
+<rect x="672" y="242" width="312" height="158" rx="8" fill="#ffeff7" stroke="#bf3989" stroke-width="1.4"/>
 <text x="686" y="264" font-size="13" font-weight="bold" fill="#5c1541">🔬 การประมวลผลเชิงวิทยาศาสตร์ · 1</text>
 <text x="686" y="286" font-size="12" font-weight="normal" fill="#1f2328">🧬 Human Genome Labs</text>
-<rect x="672" y="314" width="312" height="86" rx="8" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5 4"/>
-<text x="686" y="336" font-size="13" font-weight="bold" fill="#24292f">🍴 Fork ของโปรเจกต์บุคคลที่สาม · 52</text>
-<text x="686" y="358" font-size="12" font-weight="normal" fill="#1f2328">🤖 18 · 🧩 11 · 🛡️ 8</text>
-<text x="686" y="375" font-size="12" font-weight="normal" fill="#1f2328">🧠 5 · 🏢 6 · 🎓 4</text>
+<rect x="16" y="412" width="968" height="211" rx="8" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="30" y="434" font-size="13" font-weight="bold" fill="#24292f">🍴 Fork ของโปรเจกต์บุคคลที่สาม · 52</text>
+<text x="970" y="434" text-anchor="end" font-size="11" font-weight="normal" fill="#57606a" font-style="italic">เพื่ออ้างอิงและศึกษา · ไม่ใช่ผลงานของตนเอง</text>
+<text x="30" y="458" font-size="12" font-weight="bold" fill="#24292f">🤖 18</text>
+<text x="100" y="458" font-size="11" font-weight="normal" fill="#1f2328">OpenHands · cline · opencode · qwen-code · goose · pi · hermes-agent · deepagents · crewAI · agent-framework · deepseek-harness · agent-orchestrator · orca</text>
+<text x="100" y="473" font-size="11" font-weight="normal" fill="#1f2328">kander · OpenBot · browser-use · agent-desktop · treg</text>
+<text x="30" y="495" font-size="12" font-weight="bold" fill="#24292f">🧩 11</text>
+<text x="100" y="495" font-size="11" font-weight="normal" fill="#1f2328">claude-plugins-official · agentic-awesome-skills · claude-review-all · blender-skills · diagram-design · elephant-goldfish-model · Claude-Code-Game-Studios</text>
+<text x="100" y="510" font-size="11" font-weight="normal" fill="#1f2328">headcount · agentic-qe · OpenExecutive · n8n-mcp</text>
+<text x="30" y="532" font-size="12" font-weight="bold" fill="#24292f">🛡️ 8</text>
+<text x="100" y="532" font-size="11" font-weight="normal" fill="#1f2328">raptor · Cybersecurity-Projects · SkillSpector · Anthropic-Cybersecurity-Skills · security-audit-skill · siteone-crawler · rea · craft-anything</text>
+<text x="30" y="554" font-size="12" font-weight="bold" fill="#24292f">🧠 5</text>
+<text x="100" y="554" font-size="11" font-weight="normal" fill="#1f2328">marin · prime-rl · Olmo-core · DeepInfer · heretic</text>
+<text x="30" y="576" font-size="12" font-weight="bold" fill="#24292f">🏢 6</text>
+<text x="100" y="576" font-size="11" font-weight="normal" fill="#1f2328">erpnext · odoo · mautic · crm · harness · traccar</text>
+<text x="30" y="598" font-size="12" font-weight="bold" fill="#24292f">🎓 4</text>
+<text x="100" y="598" font-size="11" font-weight="normal" fill="#1f2328">computer-science · math · manim · asm-atari-2600</text>
 </svg>
