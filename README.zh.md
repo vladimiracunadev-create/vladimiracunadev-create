@@ -201,7 +201,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️ 生态系统概览
 
-![🧠 技术判断 — architecture · modernization · operations](docs/img/ecosystem.svg)
+![🧠 技术判断 — architecture · modernization · operations](docs/img/ecosystem.zh.svg)
 
 ## 🗂️ 生态系统：产品、实验室、应用 AI、课程与科学计算
 

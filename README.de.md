@@ -202,7 +202,7 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 ## 🗺️Ökosystem auf einen Blick
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.de.svg)
 
 ## 🗂️ Ökosystem: Produkte, Labore, angewandte KI, Lehrpläne und wissenschaftliches Rechnen
 
