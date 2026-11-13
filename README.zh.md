@@ -15,14 +15,14 @@
 [![课程](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
 
 <!-- STATS:START -->
-[![公共仓库](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![已发布版本](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![公共仓库](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![已发布版本](https://img.shields.io/badge/published%20releases-156-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
-[![课程数](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程数](https://img.shields.io/badge/curriculum%20classes-16798-3fb950?style=for-the-badge)](#-完整技术课程)
 [![已收到的 Fork](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![第三方 Fork](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.zh.md#forks)
-[![提交数](https://img.shields.io/badge/commits-3983-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![PR](https://img.shields.io/badge/PRs-127-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![提交数](https://img.shields.io/badge/commits-4513-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PR](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issue](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
@@ -316,6 +316,6 @@ Platform Engineer / IDP · DevOps / CI-CD · Cloud / AWS Engineer · Application
 [🛡️ 安全](SECURITY.zh.md) ·
 [⚖️ 行为准则](CODE_OF_CONDUCT.zh.md)
 
-<sub>README 已与公共仓库的可验证状态同步 —数字和变更通过 API 读取— · 最后验证：<!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->。</sub>
+<sub>README 已与公共仓库的可验证状态同步 —数字和变更通过 API 读取— · 最后验证：<!-- VERIFIED:START -->2026-11-13<!-- VERIFIED:END -->。</sub>
 
 </div>

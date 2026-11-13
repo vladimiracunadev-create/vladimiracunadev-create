@@ -15,14 +15,14 @@
 [![Currículos](https://img.shields.io/badge/currículos-21%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-156-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-14550-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-16798-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks recibidos](https://img.shields.io/badge/forks%20recibidos-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Forks de terceros](https://img.shields.io/badge/forks%20de%20terceros-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.md#forks)
-[![Commits](https://img.shields.io/badge/commits-3983-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![PRs](https://img.shields.io/badge/PRs-127-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Commits](https://img.shields.io/badge/commits-4513-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
@@ -317,6 +317,6 @@ Análisis de negocio y procesos · Gestión de proyectos tecnológicos · Produc
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END -->.</sub>
+<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: <!-- VERIFIED:START -->2026-11-13<!-- VERIFIED:END -->.</sub>
 
 </div>

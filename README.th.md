@@ -15,14 +15,14 @@
 [![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
 
 <!-- STATS:START -->
-[![Public repos](https://img.shields.io/badge/public%20repos-65-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-155-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-156-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนิเวศ)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-14550-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-16798-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.th.md#forks)
-[![Commits](https://img.shields.io/badge/commits-3983-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![PRs](https://img.shields.io/badge/PRs-127-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
+[![Commits](https://img.shields.io/badge/commits-4513-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
 
@@ -317,6 +317,6 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 [🛡️ Security](SECURITY.th.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.th.md)
 
-<sub>README ซิงก์กับสถานะที่ตรวจสอบได้ของคลังสาธารณะ —ตัวเลขและการเปลี่ยนแปลงอ่านผ่าน API— · ตรวจสอบล่าสุด: <!-- VERIFIED:START -->2026-11-09<!-- VERIFIED:END --></sub>
+<sub>README ซิงก์กับสถานะที่ตรวจสอบได้ของคลังสาธารณะ —ตัวเลขและการเปลี่ยนแปลงอ่านผ่าน API— · ตรวจสอบล่าสุด: <!-- VERIFIED:START -->2026-11-13<!-- VERIFIED:END --></sub>
 
 </div>
