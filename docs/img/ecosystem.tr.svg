@@ -15,7 +15,7 @@
 <text x="30" y="214" font-size="12" font-weight="normal" fill="#1f2328">🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo</text>
 <rect x="344" y="68" width="312" height="162" rx="8" fill="#fff1e5" stroke="#bc4c00" stroke-width="1.4"/>
 <text x="358" y="90" font-size="13" font-weight="bold" fill="#5c2200">🧪 Mühendislik Laboratuvarları · 11</text>
-<text x="358" y="112" font-size="12" font-weight="normal" fill="#1f2328">🐳 Docker · WSL · Unikernel Labs</text>
+<text x="358" y="112" font-size="12" font-weight="normal" fill="#1f2328">🐳 Docker · 🐧 WSL · ⚡ Unikernel Labs</text>
 <text x="358" y="129" font-size="12" font-weight="normal" fill="#1f2328">🧰 QEMU/KVM · 🛡️ Sandbox Labs</text>
 <text x="358" y="146" font-size="12" font-weight="normal" fill="#1f2328">🧪 Problem-Driven · 📆 Social Bot</text>
 <text x="358" y="163" font-size="12" font-weight="normal" fill="#1f2328">🧰 Microsistemas · 💳 Payments</text>
