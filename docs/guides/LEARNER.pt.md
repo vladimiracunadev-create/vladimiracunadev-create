@@ -4,7 +4,7 @@
 
 ## Em uma linha
 
-21 programas sequenciais em espanhol, com 14.550 aulas contadas por um workflow, cada um com seu estado editorial e seus limites declarados.
+22 programas sequenciais em espanhol, com 16.798 aulas contadas por um workflow, cada um com seu estado editorial e seus limites declarados.
 
 ## Escolha conforme o objetivo
 
@@ -32,7 +32,7 @@ Não sabe por onde ir? O [Lifelong Learning Ecosystem](https://github.com/vladim
 - **Psicometria:** 40 aulas previstas, 5 redigidas.
 - **Frameworks comparados:** 149 aulas previstas, 70 construídas.
 - **Machine Operator:** ainda sem simulador executável.
-- **Astronomia e aeroespacial:** programa em planejamento, fora da contagem; [Currículos Técnicos Completos](../ECOSYSTEM.pt.md#curricula).
+- **Astronomia e aeroespacial:** programa completo, agora incluído na contagem; [Currículos Técnicos Completos](../ECOSYSTEM.pt.md#curricula).
 - Os programas são formação independente; não concedem títulos nem certificações.
 
 ## Próximo passo

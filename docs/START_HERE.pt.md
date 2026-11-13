@@ -13,13 +13,13 @@ Escolha o seu caso e vá direto ao que precisa. Cada guia leva 1–2 minutos par
 | 🛠️ **Liderança técnica, CTO ou par** | Avaliar critério e qualidade de engenharia em 10 minutos | [Avaliação técnica](guides/TECH_LEAD.pt.md) |
 | 🏢 **Negócios, gestão ou setor público** | Cargos sem programação e produtos voltados à gestão | [Negócios e gestão](guides/BUSINESS.pt.md) |
 | 🤝 **Colaboração, open source ou segurança** | Contribuir, reportar uma vulnerabilidade, licenças | [Colaboração e segurança](guides/COLLABORATOR.pt.md) |
-| 🎓 **Aprender ou ensinar** | Escolher entre os 21 programas conforme o objetivo | [Aprender ou ensinar](guides/LEARNER.pt.md) |
+| 🎓 **Aprender ou ensinar** | Escolher entre os 22 programas conforme o objetivo | [Aprender ou ensinar](guides/LEARNER.pt.md) |
 
 ## ⏱️ Se você só tem 60 segundos
 
 - **Quem:** Engenheiro em Informática e Computação e Administrador de Empresas, mais de 16 anos construindo e operando software.
 - **O que faço:** arquitetura de soluções, modernização de sistemas legados, automação e IA aplicada, além de sua entrega e operação.
-- **Evidência:** 65 repositórios públicos próprios, 155 releases, testes e CI nos produtos, e cada repositório declara também o que **não** faz.
+- **Evidência:** 66 repositórios públicos próprios, 156 releases, testes e CI nos produtos, e cada repositório declara também o que **não** faz.
 - **Modalidade:** remoto ou híbrido, conforme o projeto.
 - **Contato:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfólio](https://vladimiracunadev-create.github.io/)
 

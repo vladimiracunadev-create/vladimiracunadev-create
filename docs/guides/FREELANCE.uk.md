@@ -16,7 +16,7 @@
 | 📱 **Кросплатформні застосунки** | Android, Windows, macOS і PWA на Flutter чи Tauri, з релізами та контрольними сумами | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Безпека та ланцюг постачання** | Перевірки CI, сканування секретів і залежностей, SBOM, аудит репозиторіїв | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Відтворювана інфраструктура** | Docker/Compose, WSL, віртуалізація, AWS і Terraform, готові до запуску | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Технічне навчання** | Програми та матеріали для команд, зі шляхами за ролями | [21 програма](../ECOSYSTEM.uk.md#curricula) |
+| 🎓 **Технічне навчання** | Програми та матеріали для команд, зі шляхами за ролями | [22 програма](../ECOSYSTEM.uk.md#curricula) |
 
 ## Як я працюю
 

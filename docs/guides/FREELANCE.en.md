@@ -16,7 +16,7 @@ I solve software problems end to end: diagnosis first, reproducible delivery aft
 | 📱 **Cross-platform apps** | Android, Windows, macOS and PWA with Flutter or Tauri, with releases and checksums | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Security and supply chain** | CI gates, secret and dependency scanning, SBOM, repository audits | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Reproducible infrastructure** | Docker/Compose, WSL, virtualization, AWS and Terraform ready to launch | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Technical training** | Programs and material for teams, with role-based paths | [21 programs](../ECOSYSTEM.en.md#curricula) |
+| 🎓 **Technical training** | Programs and material for teams, with role-based paths | [22 programs](../ECOSYSTEM.en.md#curricula) |
 
 ## How I work
 

@@ -26,12 +26,12 @@ Cette matrice élargit le champ professionnel sans transformer la formation, les
 ## Preuves réutilisables
 
 - **E1 — parcours technique :** Architecte de Solutions, modernisation de l'existant, Senior Full-Stack / Tech Lead et automatisation par l'IA ; plus de 16 ans déclarés dans le profil.
-- **E2 — livraison et exploitation :** 65 dépôts publics propres, 155 releases, CI/CD, observabilité, runbooks, sécurité de la chaîne d'approvisionnement et artefacts installables.
+- **E2 — livraison et exploitation :** 66 dépôts publics propres, 156 releases, CI/CD, observabilité, runbooks, sécurité de la chaîne d'approvisionnement et artefacts installables.
 - **E3 — métier et exploitation :** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [création d'entreprise](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing et ventes](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) et [leadership exécutif](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Ce sont des produits et contenus vérifiables, qui ne remplacent pas une expérience de direction.
 - **E4 — projets, processus et qualité :** roadmaps, issues, spécifications, tests, gates, métriques et documentation par public répartis dans l'écosystème.
 - **E5 — sécurité et continuité :** famille RootCause, contrôles, SBOM, analyse des risques, résilience, incidents et preuves reproductibles.
 - **E6 — données et IA :** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) et traçabilité/gates humains.
-- **E7 — éducation :** 21 programmes, 14 550 classes, parcours par rôle, laboratoires, manuels, portails hors ligne et contenu multiformat. Cela atteste une conception et une production pédagogiques ; l'enseignement formel et les résultats d'apprentissage exigent une preuve distincte.
+- **E7 — éducation :** 22 programmes, 16 798 classes, parcours par rôle, laboratoires, manuels, portails hors ligne et contenu multiformat. Cela atteste une conception et une production pédagogiques ; l'enseignement formel et les résultats d'apprentissage exigent une preuve distincte.
 - **E8 — finance et contrôle :** [Finance et Banque](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, métriques et traçabilité. Ce sont des preuves de connaissances appliquées dans des artefacts, non une responsabilité financière en entreprise.
 
 ## 1. Direction technologique

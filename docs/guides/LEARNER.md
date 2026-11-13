@@ -4,7 +4,7 @@
 
 ## En una línea
 
-21 programas secuenciales en español, con 14.550 clases contadas por un workflow, cada uno con su estado editorial y sus límites declarados.
+22 programas secuenciales en español, con 16.798 clases contadas por un workflow, cada uno con su estado editorial y sus límites declarados.
 
 ## Elige según tu objetivo
 
@@ -32,7 +32,7 @@
 - **Psicometría:** 40 clases previstas, 5 redactadas.
 - **Frameworks comparados:** 149 clases previstas, 70 construidas.
 - **Machine Operator:** sin simulador ejecutable todavía.
-- **Astronomía y aeroespacial:** programa en planificación y fuera del conteo; [ver detalle](../ECOSYSTEM.md#curricula).
+- **Astronomía y aeroespacial:** programa completo, ya incluido en el conteo; [ver detalle](../ECOSYSTEM.md#curricula).
 - Los programas son formación independiente; no otorgan títulos ni certificaciones.
 
 ## Siguiente paso

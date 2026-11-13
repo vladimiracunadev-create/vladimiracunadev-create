@@ -26,12 +26,12 @@
 ## أدلة قابلة لإعادة الاستخدام
 
 - **E1 — السجل التقني:** مهندس حلول، وتحديث الأنظمة القديمة، وSenior Full-Stack / Tech Lead، وأتمتة بالذكاء الاصطناعي؛ يُعلن الملف الشخصي أكثر من 16 عامًا.
-- **E2 — التسليم والتشغيل:** 65 مستودعًا عامًا خاصًا، و155 إصدارًا، وCI/CD، وقابلية المراقبة، وأدلة التشغيل، وأمن سلسلة التوريد، ومخرجات قابلة للتثبيت.
+- **E2 — التسليم والتشغيل:** 66 مستودعًا عامًا خاصًا، و156 إصدارًا، وCI/CD، وقابلية المراقبة، وأدلة التشغيل، وأمن سلسلة التوريد، ومخرجات قابلة للتثبيت.
 - **E3 — الأعمال والعمليات:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile) و[Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system) و[تأسيس الأعمال](https://github.com/vladimiracunadev-create/modern-business-creation-program) و[التسويق والمبيعات](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) و[القيادة التنفيذية](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). هي منتجات ومحتويات قابلة للتحقق؛ ولا تحل محل الخبرة الإدارية.
 - **E4 — المشاريع والعمليات والجودة:** خرائط طريق، وissues، ومواصفات، واختبارات، وبوابات، ومقاييس، وتوثيق موجّه لكل فئة من القراء منتشر في أنحاء المنظومة.
 - **E5 — الأمن والاستمرارية:** عائلة RootCause، وضوابط، وSBOM، وتحليل المخاطر، والمرونة، والحوادث، وأدلة قابلة لإعادة الإنتاج.
 - **E6 — البيانات والذكاء الاصطناعي:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry) و[LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld) و[Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) وقابلية التتبع/البوابات البشرية.
-- **E7 — التعليم:** 21 برنامجًا و14,550 درسًا ومسارات حسب الدور ومختبرات وأدلة ومنافذ دون اتصال ومحتوى متعدد الصيغ. يثبت هذا تصميم المحتوى التعليمي وإنتاجه؛ أما التدريس الرسمي ونتائج التعلم فتتطلب أدلة منفصلة.
+- **E7 — التعليم:** 22 برنامجًا و16,798 درسًا ومسارات حسب الدور ومختبرات وأدلة ومنافذ دون اتصال ومحتوى متعدد الصيغ. يثبت هذا تصميم المحتوى التعليمي وإنتاجه؛ أما التدريس الرسمي ونتائج التعلم فتتطلب أدلة منفصلة.
 - **E8 — المالية والرقابة:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) وFinOps والمقاييس وقابلية التتبع. هي أدلة على معرفة مطبّقة في المخرجات، وليست مسؤولية مالية مؤسسية.
 
 ## 1. القيادة التقنية

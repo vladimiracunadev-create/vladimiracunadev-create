@@ -4,7 +4,7 @@
 
 ## In una riga
 
-21 programmi sequenziali in spagnolo, con 14.550 lezioni contate da un workflow, ciascuno con stato editoriale e limiti dichiarati.
+22 programmi sequenziali in spagnolo, con 16.798 lezioni contate da un workflow, ciascuno con stato editoriale e limiti dichiarati.
 
 ## Scegli in base all'obiettivo
 
@@ -32,7 +32,7 @@ Non sai da dove cominciare? Il [Lifelong Learning Ecosystem](https://github.com/
 - **Psicometria:** 40 lezioni previste, 5 scritte.
 - **Framework a confronto:** 149 lezioni previste, 70 costruite.
 - **Machine Operator:** ancora nessun simulatore eseguibile.
-- **Astronomia e aerospaziale:** programma in pianificazione, fuori dal conteggio; [Curricula Tecnici Completi](../ECOSYSTEM.it.md#curricula).
+- **Astronomia e aerospaziale:** programma completo, ora incluso nel conteggio; [Curricula Tecnici Completi](../ECOSYSTEM.it.md#curricula).
 - I programmi sono formazione indipendente; non rilasciano titoli né certificazioni.
 
 ## Passo successivo

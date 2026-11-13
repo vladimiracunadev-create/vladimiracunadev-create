@@ -16,7 +16,7 @@
 | 📱 **تطبيقات متعددة المنصات** | Android وWindows وmacOS وPWA باستخدام Flutter أو Tauri، مع إصدارات وقيم تحقق | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **الأمن وسلسلة التوريد** | بوابات CI، وفحص الأسرار والاعتماديات، وSBOM، وتدقيق المستودعات | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **بنية تحتية قابلة لإعادة الإنتاج** | Docker/Compose وWSL والمحاكاة الافتراضية وAWS وTerraform جاهزة للتشغيل | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **التدريب التقني** | برامج ومواد للفرق مع مسارات حسب الدور | [21 برنامجًا](../ECOSYSTEM.ar.md#curricula) |
+| 🎓 **التدريب التقني** | برامج ومواد للفرق مع مسارات حسب الدور | [22 برنامجًا](../ECOSYSTEM.ar.md#curricula) |
 
 ## كيف أعمل
 

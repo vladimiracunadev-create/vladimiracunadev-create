@@ -26,12 +26,12 @@
 ## 再利用できるエビデンス
 
 - **E1 — 技術的な実績:** ソリューションアーキテクト、レガシー刷新、シニアフルスタック / Tech Lead、AI 自動化。プロフィールでは16年以上と申告。
-- **E2 — デリバリーと運用:** 自作の公開リポジトリ65件、リリース155件、CI/CD、可観測性、ランブック、サプライチェーンセキュリティ、インストール可能な成果物。
+- **E2 — デリバリーと運用:** 自作の公開リポジトリ66件、リリース156件、CI/CD、可観測性、ランブック、サプライチェーンセキュリティ、インストール可能な成果物。
 - **E3 — ビジネスと運営:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile)、[Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system)、[起業](https://github.com/vladimiracunadev-create/modern-business-creation-program)、[マーケティングと営業](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program)、[エグゼクティブ・リーダーシップ](https://github.com/vladimiracunadev-create/executive-leadership-founder-program)。検証可能なプロダクトとコンテンツであり、マネジメント経験の代わりにはなりません。
 - **E4 — プロジェクト・プロセス・品質:** ロードマップ、issue、仕様書、テスト、ゲート、指標、そしてエコシステム全体に散らばる読者別のドキュメント。
 - **E5 — セキュリティと継続性:** RootCause ファミリー、統制、SBOM、リスク分析、レジリエンス、インシデント、再現可能なエビデンス。
 - **E6 — データと AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry)、[LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld)、[Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents)、トレーサビリティと人間による承認ゲート。
-- **E7 — 教育:** 21プログラム、14,550クラス、役割別の学習パス、ラボ、マニュアル、オフラインポータル、マルチフォーマットのコンテンツ。教育設計と制作の裏付けにはなりますが、正式な授業や学習成果には別のエビデンスが必要です。
+- **E7 — 教育:** 22プログラム、16,798クラス、役割別の学習パス、ラボ、マニュアル、オフラインポータル、マルチフォーマットのコンテンツ。教育設計と制作の裏付けにはなりますが、正式な授業や学習成果には別のエビデンスが必要です。
 - **E8 — 財務と統制:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program)、FinOps、指標、トレーサビリティ。成果物に表れた応用知識のエビデンスであり、企業の財務責任ではありません。
 
 ## 1. テクノロジーリーダーシップ

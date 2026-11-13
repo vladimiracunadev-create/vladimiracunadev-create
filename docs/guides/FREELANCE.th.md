@@ -16,7 +16,7 @@
 | 📱 **แอปข้ามแพลตฟอร์ม** | Android, Windows, macOS และ PWA ด้วย Flutter หรือ Tauri พร้อมรีลีสและเช็กซัม | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **ความปลอดภัยและห่วงโซ่อุปทาน** | ด่าน CI การสแกนความลับและไลบรารีที่พึ่งพา SBOM การตรวจสอบคลัง | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **โครงสร้างพื้นฐานที่ทำซ้ำได้** | Docker/Compose, WSL, การจำลองเสมือน, AWS และ Terraform พร้อมใช้งาน | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **การฝึกอบรมทางเทคนิค** | โปรแกรมและเอกสารสำหรับทีม พร้อมเส้นทางตามบทบาท | [21 โปรแกรม](../ECOSYSTEM.th.md#curricula) |
+| 🎓 **การฝึกอบรมทางเทคนิค** | โปรแกรมและเอกสารสำหรับทีม พร้อมเส้นทางตามบทบาท | [22 โปรแกรม](../ECOSYSTEM.th.md#curricula) |
 
 ## วิธีที่ฉันทำงาน
 

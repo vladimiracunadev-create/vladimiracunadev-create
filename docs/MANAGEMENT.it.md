@@ -18,7 +18,7 @@ Questa estensione non afferma che tutti i ruoli siano stati ricoperti. Prioritiz
 | **Commerciale** | Presales · Solutions Consultant · Technical KAM · Business Development | **Trasferibile / possibilità** | Nessuno | Traduzione del valore; quota, account e contratti non sono dichiarati |
 | **Finanza e controllo** | Budget/Cost · Valutazione · FP&A · Management Control | **Possibilità** | Nessuno | Finanza e FinOps; servono budget e bilanci reali |
 | **Qualità** | Quality/Process Analyst · Auditor · Continuous Improvement | **Trasferibile / possibilità** | Nessuno/occasionale | Gate, test e metriche; manca ownership formale del sistema qualità |
-| **Educazione** | Technical Trainer · Facilitatore · Coordinatore accademico · EdTech/Instructional Design | **Trasferibile / possibilità** | Nessuno/occasionale | 21 programmi e 14.550 classi; la docenza formale va provata separatamente |
+| **Educazione** | Technical Trainer · Facilitatore · Coordinatore accademico · EdTech/Instructional Design | **Trasferibile / possibilità** | Nessuno/occasionale | 22 programmi e 16.798 classi; la docenza formale va provata separatamente |
 | **Logistica** | Procurement · Supply · Vendor/Contract · Operations Coordination | **Possibilità** | Nessuno | Base di processo; acquisti, inventario e fornitori reali sono lacune |
 | **Dati e IA** | Data Steward · Data Governance · AI Adoption/Governance | **Trasferibile / possibilità** | Nessuno/occasionale | Dataset auditabili e gate umani; politiche e comitati organizzativi sono lacune |
 | **Settore pubblico** | Modernizzazione · ICT Coordinator · Digital Projects · Public Planning | **Possibilità** | Nessuno | Contesto cileno e tracciabilità; procurement pubblico ed esperienza settoriale non sono dichiarati |

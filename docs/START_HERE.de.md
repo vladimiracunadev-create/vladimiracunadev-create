@@ -13,13 +13,13 @@ Wählen Sie Ihren Fall und gehen Sie direkt zum Wesentlichen. Jeder Leitfaden is
 | 🛠️ **Technische Leitung, CTO oder Peer** | Ingenieursurteil und Qualität in 10 Minuten beurteilen | [Technische Bewertung](guides/TECH_LEAD.de.md) |
 | 🏢 **Business, Management oder öffentlicher Sektor** | Rollen ohne Programmierung und managementorientierte Produkte | [Business und Management](guides/BUSINESS.de.md) |
 | 🤝 **Zusammenarbeit, Open Source oder Sicherheit** | Beitragen, eine Schwachstelle melden, Lizenzen | [Zusammenarbeit und Sicherheit](guides/COLLABORATOR.de.md) |
-| 🎓 **Lernen oder lehren** | Unter den 21 Programmen nach Ziel wählen | [Lernen oder lehren](guides/LEARNER.de.md) |
+| 🎓 **Lernen oder lehren** | Unter den 22 Programmen nach Ziel wählen | [Lernen oder lehren](guides/LEARNER.de.md) |
 
 ## ⏱️ Wenn Sie nur 60 Sekunden haben
 
 - **Wer:** Ingenieur für Informatik und Computing sowie Betriebswirt, über 16 Jahre Erfahrung im Bauen und Betreiben von Software.
 - **Was ich tue:** Lösungsarchitektur, Modernisierung von Altsystemen, Automatisierung und angewandte KI sowie deren Auslieferung und Betrieb.
-- **Belege:** 65 eigene öffentliche Repositories, 155 Releases, Tests und CI in den Produkten, und jedes Repo nennt auch, was es **nicht** leistet.
+- **Belege:** 66 eigene öffentliche Repositories, 156 Releases, Tests und CI in den Produkten, und jedes Repo nennt auch, was es **nicht** leistet.
 - **Modus:** remote oder hybrid, je nach Projekt.
 - **Kontakt:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

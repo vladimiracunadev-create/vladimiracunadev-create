@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#beroepsterrein)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.nl.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#complete-technische-curricula)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#complete-technische-curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 | 🧪 **Testdekking** | GabySQL**850 tests**+ fuzzing over**503.8M queries**(0 paniek)·Empresa Operativa Chili**230 tests** ·Automatisch**150 pytest** ·multi-OS CI |
 | 🤖 **Productie-kwaliteitsagenten** | LangGraph RealWorld**25/25 operationele backends**(gevallen 01·Operationele AI-agenten**23 agentia**met**69 deterministische evaluaties** |
 | 🔗 **Integratie van polygloten** | **20 zaken**afzender→n8n→ ontvanger **19 operationeel**, individueel gecontroleerd met Docker· **18+ DB motoren** · **20+ containers** ·11 patronen |
-| 📦 **Distributie** | **155 releases**over een ecosysteem van**65 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
+| 📦 **Distributie** | **156 releases**over een ecosysteem van**66 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
 | 🛡️ **Leveringsketen** | CodeQL·Semgrep·Bandiet·Trivy·GrypeCity in New Jersey USA·Gitleaks·Truffelhog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **14,550 klassen**controleerbare in 21 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
+| 📚 **Curricula** | **16,798 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
 | 🌐 **Portefeuille** | Installeerbare PWA· **22 talen** · **154 PDF's**door pijpleiding gegenereerd·CV Data API·Android-condensator·Vuurtoren 100 |
 | 🔒 **Telemetrie** | Zero telemetrie in forensische producten en Empresa Operativa Chili `INTERNET`toestemming) |
 | 🌐 **Gepubliceerde sites** | **57 GitHub Pagina's sites**·alle 57 geverifieerd met HTTP`200` |
@@ -208,10 +208,10 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 Het praktische werk van dit profiel staat in een eigen document: software die je downloadt en installeert, engineeringlabs, toegepaste AI, complete technische curricula en wetenschappelijk rekenen, plus een beschrijving van elke fork van projecten van derden in het account.
 
-- 📦 **Producten met echte distributie** (22)
+- 📦 **Producten met echte distributie** (23)
 - 🧪 **Technische laboratoria** (11)
 - 🤖 **Toegepaste AI** (6)
-- 📚 **Complete technische Curricula** (21)
+- 📚 **Complete technische Curricula** (22)
 - 🔬 **Wetenschappelijke berekeningen** (1)
 - 🍴 **Forks van projecten van derden** (52)
 
@@ -219,11 +219,11 @@ Het praktische werk van dit profiel staat in een eigen document: software die je
 
 ## 📚Complete technische Curricula
 
-Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 21 programma's tellen samen tot**14,550 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
+Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 22 programma's tellen samen tot**16,798 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
 
-🌌 **In planning, buiten de telling:** [Sterrenkunde, astrofysica, ruimtewetenschappen en ruimtevaarttechniek](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 geplande lessen in 12 gebieden en 133 blokken; 397 met uitgewerkte tekst en alle nog in status E0. Onafhankelijke opleiding, geen beroepsbevoegdheid · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Meegeteld:** [Sterrenkunde, astrofysica, ruimtewetenschappen en ruimtevaarttechniek](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 lessen in 12 gebieden en 133 blokken; allemaal met uitgewerkte tekst en nog in status E0 (in afwachting van vakinhoudelijke review en goedkeuring van de auteur). Onafhankelijke opleiding, geen beroepsbevoegdheid · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[Bekijk de 21 volledige programma's](docs/ECOSYSTEM.nl.md#curricula)**
+👉 **[Bekijk de 22 volledige programma's](docs/ECOSYSTEM.nl.md#curricula)**
 
 ## ⚡Als je 10 minuten hebt om mij te evalueren
 

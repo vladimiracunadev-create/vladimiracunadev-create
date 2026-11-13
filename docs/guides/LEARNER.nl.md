@@ -4,7 +4,7 @@
 
 ## In één regel
 
-21 opeenvolgende programma's in het Spaans, met 14.550 lessen geteld door een workflow; elk vermeldt zijn redactionele status en zijn grenzen.
+22 opeenvolgende programma's in het Spaans, met 16.798 lessen geteld door een workflow; elk vermeldt zijn redactionele status en zijn grenzen.
 
 ## Kies op basis van je doel
 
@@ -32,7 +32,7 @@ Weet je niet waar te beginnen? Het [Lifelong Learning Ecosystem](https://github.
 - **Psychometrie:** 40 lessen gepland, 5 geschreven.
 - **Vergeleken frameworks:** 149 lessen gepland, 70 gebouwd.
 - **Machine Operator:** nog geen uitvoerbare simulator.
-- **Sterrenkunde en ruimtevaart:** een programma in planning, buiten de telling; [Complete technische Curricula](../ECOSYSTEM.nl.md#curricula).
+- **Sterrenkunde en ruimtevaart:** een compleet programma, nu meegeteld; [Complete technische Curricula](../ECOSYSTEM.nl.md#curricula).
 - De programma's zijn onafhankelijke opleidingen; ze verlenen geen diploma's of certificeringen.
 
 ## Volgende stap

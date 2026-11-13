@@ -34,6 +34,7 @@
 | [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | 子供のための教育アプリ: クロマチックチューナー、オーディオクロック-正確メトロノーム、本物のバイオリンと曲 | 田栗 2·反応する·ツイート | **.3.0 の v1.3.0** ·ウィンドウズ·アンドロイド·リリース·マックオース·プワワ· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | plucked-string の兄弟: 6 の世界の 24 のレッスン、6 弦のチューナー、漂流なしのメトロノーム、および 11 実質のギターのノート | 田栗 2·反応する·ツイート | **.0.0 の** ·ウィンドウズ·アンドロイド·リリース·マックオース·スマートフォン·プワワ·口座、広告、またはオンラインの依存関係なし· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 10歳からCueca: 8レベル、24クラス、72アクティビティ、6パルスラボ(3 + 3、2 + 2 + 2)、およびアクセス可能なフロア図。 それを述べる**補完、置換しない**, 教師と文化のベアラー | フラッタ·ダーツ | **.2.0 の** ·アンドロイド 7+·ウィンドウズ 10/11·ツイート·エクスクルーシブ·エムシー·ポータブル· **29 個のテスト + 2 個のバリデータ** ·カメラ、マイク、アカウント、広告、インターネットなし· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+| [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI製のマルチチャネルゲートウェイ：13サービス・69操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHubなど）を REST、GraphQL、SOAP、gRPC で提供。暗号化OAuth、署名付きWebhook、照合可能な冪等性。参照は送信の許可を意味しません | Python · FastAPI | **v0.3.0** · リリース未公開 · 模擬トランスポートによる**162件のテスト**、実アカウントの使用やメッセージ送信なし · MIT · Linux · macOS · Windows |
 
 ## 🧪エンジニアリング研究所
 
@@ -66,7 +67,7 @@
 
 ## 📚完全な技術的なカリキュラム
 
-スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 21プログラムが最大で追加**14,550 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**16,798 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)ビジュアルマップと6つの領域を横断して30の実パスを接続するフェデレーションコンパスです。[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); 追加プログラムとしてカウントされません。
 
@@ -75,7 +76,7 @@
 | [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | 指のカウントから紙を再現· **360 の決定的なデモは CI で検証しました** ·1,080 ノート·489 用語集· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
 | [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 日 時: 534 分·金融数学とIFRS → クレジット、リスク、バーゼルIII、オープンファイナンス、DLT、安定コイン、およびMICA· **27 件** · **298 試験** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
 | [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | 数学とC#/C++/GDScript →シェーダー、AI、マルチプレイ、VR/AR·ゴルゴット·ユニバース·ユレアル· **CIで検証された10のGodotラボ**(301件のチェック)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 370 | **.3.0 の v1.3.0** ·21 部·基盤 → レッドチーム、DFIR、クラウドセキュリティ、開発、CTF、ゲームセキュリティ·地図を**7 認証** ·オフライン Android/web アプリ·PDFマニュアル·CI、セキュリティ、およびページ検証· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
+| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 381 | **.3.0 の v1.3.0** ·22 部·基盤 → レッドチーム、DFIR、クラウドセキュリティ、開発、CTF、ゲームセキュリティ·地図を**7 認証** ·オフライン Android/web アプリ·PDFマニュアル·CI、セキュリティ、およびページ検証· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 運用定義、測定シート、検証可能なバイブリグラフィー、チリ規制のコンテキストを持つ24部品· **..6.0 の v1.6.0** ·1.29M の言葉·17 のロールベースのパス· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | チリの会社を創出し、運営する: 設立、税務当局、運用、危機、出退社を考え、·360 の図·1,251 用語集·1,548ページマニュアル· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 パーツ·60の統合セッション·35 パス·トレーサブルなソース·マークダウン、オフラインリーダー、GitHubページ· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
@@ -89,11 +90,11 @@
 | [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | ひとつのコンセプト**10 の言語**CIで検証 —**1,360 の実装**プラス**1,632 のプログラム**静止言語(COBOL、Fortran、Ada、RPG、MUMPS...)、アトラス**15人の家族で60枚のカード** ·.1.0 の v1.1.0 の· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
 | [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | アダプターなしで、Express、FastAPI、Spring Boot、ASP.NET、Django、Rails、Laravel、React、Vue、Svelte、その他多くの機能が搭載されている、一つの実行可能契約·12 部· **70組クラス** · **CIで検証された397件** · **210 ISBN/DOI ソース** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **.0.0 の** ·15 部のデータベースエンジニアリング·お電話でのお問い合わせ· **すべてのクレームの検証可能なソース**: ISBN、DOI、または標準の120ソース·27エンジンで解決する同じ場合·306 用語集·150 ピテスト· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | 測定器が構築、評価、検証、監査される方法·8 部·実行可能なエンジンと**5 楽器と344 アイテム、276 パブリックドメイン** · ✍️ **5/40** 執筆済み |
+| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 200 | 測定器が構築、評価、検証、監査される方法·20 部·実行可能なエンジンと**5 楽器と344 アイテム、216 パブリックドメイン** · ✍️ **200/200** 執筆済み |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **508 tests** · contracts with Foundry (fuzzing and invariants) and Slither static analysis in CI · offline apps verified by opening the binary and counting its contents · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 モジュール·≈214時間· **93 ノートブック**—31クラス、31の学生バージョン、31のソリューション·実際のパブリックデータに関する質問、ビジュアルマップ、慣行、評価·ピートーチ· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 トレーニングモジュール**、機械ごとの1· **502 h 15 分** ·システムの制御、物理、安全、およびクラスごとのソースとのシミュレーション設計·※実行可能シミュレータは未だ、その方法が宣言されていない* |
-| [🌌 **天文学・天体物理学・宇宙科学・航空宇宙工学**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | — | **計画中・集計対象外：**12領域・133ブロックにわたる計画済み2,077クラス。うち397クラスは本文執筆済みで、すべて状態E0のままです。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+| [🌌 **天文学・天体物理学・宇宙科学・航空宇宙工学**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **集計対象に含む：**12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬科学コンピューティング
 

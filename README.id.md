@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#scope-profesional)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.id.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#curricula-teknis-lengkap)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#curricula-teknis-lengkap)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 | 🧪 **Uji cakupan** | GabySQL**850 tes**+ fuzzing over**Kueri 503.8M**(0 panik)·Empresa Operativa Chile**230 tests** ·Automa**150 pytest** ·multi- OS CI |
 | 🤖 **Agen-kelas-produksi** | LangGrafik RealWorld**25 / 25 backend operasional**(kasus 01- 25, 100% cakupan)·Agen AI Operasional**23 agen**dengan**69 deterministik eval** |
 | 🔗 **Integrasi Polyglot** | **20 kasus**- = Sender Avern8n Penerima = -**19 operasional**, secara individual diaudit dengan Docker -· **18 + mesin DB** · **20 + kontainer** ·11 pola |
-| 📦 **Distribusi** | **155 rilis**di seluruh ekosistem**65 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
+| 📦 **Distribusi** | **156 rilis**di seluruh ekosistem**66 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
 | 🛡️ **Rantai Supply** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **Kelas 14,550**diverifikasi di seluruh 21 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
+| 📚 **Curricula** | **Kelas 16,798**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
 | 🌐 **Portfolio** | PWA yang dapat dipasang· **22 bahasa** · **154 PDFs**dihasilkan oleh pipeline·API Data CV·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Zero telemetry in forensic products and Empresa operativa Chile - verified in every build (no Android`INTERNET`ijin) |
 | 🌐 **Situs yang dipublikasikan** | **57 Situs Halaman GitHub**- 56 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 57 diverifikasi dengan HTTP`200` |
@@ -208,10 +208,10 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh dan dipasang, laboratorium rekayasa, AI terapan, kurikulum teknis lengkap, dan komputasi ilmiah, beserta deskripsi setiap fork proyek pihak ketiga yang ada di akun.
 
-- 📦 **Produk Dengan Distribusi Nyata** (22)
+- 📦 **Produk Dengan Distribusi Nyata** (23)
 - 🧪 **Laboratorium Teknik** (11)
 - 🤖 **AI Terapan** (6)
-- 📚 **Curricula Teknis Lengkap** (21)
+- 📚 **Curricula Teknis Lengkap** (22)
 - 🔬 **Komputer Ilmiah** (1)
 - 🍴 **Fork proyek pihak ketiga** (52)
 
@@ -219,11 +219,11 @@ Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh
 
 ## 📚Curricula Teknis Lengkap
 
-Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 21 program ditambahkan ke**Kelas 14,550**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
+Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 22 program ditambahkan ke**Kelas 16,798**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
 
-🌌 **Dalam perencanaan, di luar hitungan:** [Astronomi, astrofisika, ilmu antariksa, dan teknik dirgantara](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 kelas yang direncanakan dalam 12 area dan 133 blok; 397 sudah bertulis dan semuanya masih berstatus E0. Pelatihan mandiri, bukan sertifikasi profesional · [situs](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Termasuk dalam hitungan:** [Astronomi, astrofisika, ilmu antariksa, dan teknik dirgantara](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 kelas dalam 12 area dan 133 blok; semuanya sudah bertulis dan masih berstatus E0 (menunggu tinjauan disiplin dan persetujuan penulis). Pelatihan mandiri, bukan sertifikasi profesional · [situs](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[Lihat 21 program lengkap](docs/ECOSYSTEM.id.md#curricula)**
+👉 **[Lihat 22 program lengkap](docs/ECOSYSTEM.id.md#curricula)**
 
 ## ⚡Jika kau memiliki 10 menit untuk mengevaluasi aku
 

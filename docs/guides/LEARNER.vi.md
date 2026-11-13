@@ -4,7 +4,7 @@
 
 ## Trong một dòng
 
-21 chương trình tuần tự bằng tiếng Tây Ban Nha, với 14.550 bài học do workflow đếm, mỗi chương trình nêu trạng thái biên tập và giới hạn của mình.
+22 chương trình tuần tự bằng tiếng Tây Ban Nha, với 16.798 bài học do workflow đếm, mỗi chương trình nêu trạng thái biên tập và giới hạn của mình.
 
 ## Chọn theo mục tiêu
 
@@ -32,7 +32,7 @@ Chưa biết đi đâu? [Lifelong Learning Ecosystem](https://github.com/vladimi
 - **Đo lường tâm lý:** dự kiến 40 bài, đã viết 5.
 - **So sánh framework:** dự kiến 149 bài, đã xây 70.
 - **Machine Operator:** chưa có trình mô phỏng chạy được.
-- **Thiên văn học và hàng không vũ trụ:** chương trình đang lên kế hoạch, ngoài số đếm; [Máy tính trình duyệt kỹ thuật toàn bộ](../ECOSYSTEM.vi.md#curricula).
+- **Thiên văn học và hàng không vũ trụ:** chương trình hoàn chỉnh, nay đã tính vào số đếm; [Máy tính trình duyệt kỹ thuật toàn bộ](../ECOSYSTEM.vi.md#curricula).
 - Các chương trình là đào tạo độc lập; không cấp bằng hay chứng chỉ.
 
 ## Bước tiếp theo

@@ -4,7 +4,7 @@
 
 ## Tek satırda
 
-İspanyolca 21 ardışık program; bir workflow ile sayılan 14.550 ders; her biri editoryal durumunu ve sınırlarını beyan eder.
+İspanyolca 22 ardışık program; bir workflow ile sayılan 16.798 ders; her biri editoryal durumunu ve sınırlarını beyan eder.
 
 ## Hedefe göre seçin
 
@@ -32,7 +32,7 @@ Nereye gideceğinizden emin değil misiniz? [Lifelong Learning Ecosystem](https:
 - **Psikometri:** 40 ders planlı, 5'i yazılmış.
 - **Karşılaştırmalı framework'ler:** 149 ders planlı, 70'i inşa edilmiş.
 - **Machine Operator:** henüz çalıştırılabilir simülatör yok.
-- **Astronomi ve havacılık-uzay:** planlama aşamasında bir program, sayım dışı; [Eksiksiz teknik müfredatlar](../ECOSYSTEM.tr.md#curricula).
+- **Astronomi ve havacılık-uzay:** tamamlanmış program, artık sayıma dâhil; [Eksiksiz teknik müfredatlar](../ECOSYSTEM.tr.md#curricula).
 - Programlar bağımsız eğitimdir; diploma veya sertifika vermez.
 
 ## Sonraki adım

@@ -16,7 +16,7 @@
 | 📱 **크로스 플랫폼 앱** | Flutter 또는 Tauri 기반 Android·Windows·macOS·PWA, 릴리스와 체크섬 포함 | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **보안과 공급망** | CI 게이트, 시크릿·의존성 스캔, SBOM, 저장소 감사 | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **재현 가능한 인프라** | 바로 띄울 수 있는 Docker/Compose, WSL, 가상화, AWS, Terraform | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **기술 교육** | 팀을 위한 프로그램과 자료, 역할별 학습 경로 | [21개 프로그램](../ECOSYSTEM.ko.md#curricula) |
+| 🎓 **기술 교육** | 팀을 위한 프로그램과 자료, 역할별 학습 경로 | [22개 프로그램](../ECOSYSTEM.ko.md#curricula) |
 
 ## 일하는 방식
 

@@ -4,7 +4,7 @@
 
 ## En une ligne
 
-21 programmes séquentiels en espagnol, avec 14 550 classes comptées par un workflow, chacun déclarant son état éditorial et ses limites.
+22 programmes séquentiels en espagnol, avec 16 798 classes comptées par un workflow, chacun déclarant son état éditorial et ses limites.
 
 ## Choisissez selon votre objectif
 
@@ -32,7 +32,7 @@ Pas sûr de la direction ? Le [Lifelong Learning Ecosystem](https://github.com/v
 - **Psychométrie :** 40 classes prévues, 5 rédigées.
 - **Frameworks comparés :** 149 classes prévues, 70 construites.
 - **Machine Operator :** pas encore de simulateur exécutable.
-- **Astronomie et aérospatial :** programme en planification, hors décompte ; [Cursus Techniques Complets](../ECOSYSTEM.fr.md#curricula).
+- **Astronomie et aérospatial :** programme complet, désormais inclus dans le décompte ; [Cursus Techniques Complets](../ECOSYSTEM.fr.md#curricula).
 - Les programmes sont des formations indépendantes ; ils ne délivrent ni diplômes ni certifications.
 
 ## Prochaine étape

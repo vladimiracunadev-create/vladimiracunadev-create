@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#profesyonel-kapsam)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.tr.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#eksiksiz-teknik-müfredatlar)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#eksiksiz-teknik-müfredatlar)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 | 🧪 **Test kapsamı** | GabySQL**850 test testleri**+ söndürücü**503.8M sorguları**(0 Panik)·Empresa Operativa Chile**230 Test testleri** ·Automa**150 pytest** ·multi-OS CI |
 | 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **Polyglot integration** | **20 cases** sender→n8n→receiver —**19 operational**, individually audited with Docker— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **Distribution** | **155 releases** across an ecosystem of **65 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **156 releases** across an ecosystem of **66 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **Tedarik zinciri** | KodQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **14,550 classes** verifiable across 21 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **16,798 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **Portföy Portföyü** | Yükleme edilebilir PWA· **22 dil dili** · **154 PDFs**Boru hattı tarafından üretilen·CV Data API·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Adli ürünler ve Empresa Operativa Chile'de Sıfır telemetri - her binada doğrulandı (no Android`INTERNET`İzin) |
 | 🌐 **Yayınlanmış siteleri** | **57 GitHub Pages siteleri**-56 iniş, bir ürün, program veya ekosistem navigator, artı portföy - her biri kendi depolarından dağıtıldı·57 kişi HTTP ile doğrulandı`200` |
@@ -208,10 +208,10 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yazılımlar, mühendislik laboratuvarları, uygulamalı yapay zekâ, eksiksiz teknik müfredatlar ve bilimsel hesaplama ile hesaptaki üçüncü taraf projelerin her bir fork'unun açıklaması.
 
-- 📦 **Gerçek Dağıtım ile Ürünler** (22)
+- 📦 **Gerçek Dağıtım ile Ürünler** (23)
 - 🧪 **Mühendislik Laboratuvarları** (11)
 - 🤖 **Uygulamalı yapay zekâ** (6)
-- 📚 **Eksiksiz teknik müfredatlar** (21)
+- 📚 **Eksiksiz teknik müfredatlar** (22)
 - 🔬 **Bilimsel Bilgi** (1)
 - 🍴 **Üçüncü taraf projelerin fork'ları** (52)
 
@@ -219,11 +219,11 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 
 ## 📚Eksiksiz teknik müfredatlar
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,550 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **16,798 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
-🌌 **Planlama aşamasında, sayımın dışında:** [Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 alanda ve 133 blokta 2.077 planlanmış ders; 397'sinin metni yazılmış, hepsi hâlâ E0 durumunda. Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Sayıma dâhil:** [Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 alanda ve 133 blokta 2.077 ders; hepsinin metni yazılmış, hepsi hâlâ E0 durumunda (alan incelemesi ve yazar onayı bekliyor). Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[21 programın tamamını gör](docs/ECOSYSTEM.tr.md#curricula)**
+👉 **[22 programın tamamını gör](docs/ECOSYSTEM.tr.md#curricula)**
 
 ## ⚡Beni değerlendirmek için 10 dakikanız varsa
 

@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#berufsumfang)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.de.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#komplette-technische-lehrpläne)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#komplette-technische-lehrpläne)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ Dies ist kein „One Repo: Es ist ein Ökosystem mit gemeinsamen Standards.
 | 🧪 **Testabdeckung** | GabySQL**850 Prüfungen**+ Fuzzing over**503,8 Mio. Abfragen**(0 Paniken)·Empresa Operativa Chile**230 Prüfungen** ·Automa**150 pytest** ·Mehrfach-OS-KI |
 | 🤖 **Mittel zur Herstellung** | LangGraph RealWorld**25/25 operative Backends**(Fälle 01-25, 100% Abdeckung)·Operationelle KI-Agenten**23 Agenten**mit**69 deterministische Evals** |
 | 🔗 **Polyglotte** | **20 Fälle**Sender → n8n → Empfänger —**19 Einsatzkräfte**, einzeln mit Docker auditiert -· **18+ DB-Motoren** · **20+ Container** ·11 Muster |
-| 📦 **Verteilung** | **155 Releases**In einem Ökosystem von**65 im Eigentum stehende öffentliche Datenspeicher** ·Installateure und Artefakte`.exe` · `.msi` · `.dmg` · `.apk`mit Prüfsummen und Baunachweisen; ggf. laufende Signaturen von Geschäfts-/Ladengeschäften |
+| 📦 **Verteilung** | **156 Releases**In einem Ökosystem von**66 im Eigentum stehende öffentliche Datenspeicher** ·Installateure und Artefakte`.exe` · `.msi` · `.dmg` · `.apk`mit Prüfsummen und Baunachweisen; ggf. laufende Signaturen von Geschäfts-/Ladengeschäften |
 | 🛡️ **Lieferkette** | CodeQL·Semgrep·Bandit·Triviolett·Grype·Gitleaks·TrüffelHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **14.550 Klassen**über 21 Programme nachprüfbar, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist – nicht von Hand geschrieben –·Jedes Programm erklärt seinen redaktionellen Status und seine Einschränkungen |
+| 📚 **Curricula** | **16.798 Klassen**über 22 Programme nachprüfbar, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist – nicht von Hand geschrieben –·Jedes Programm erklärt seinen redaktionellen Status und seine Einschränkungen |
 | 🌐 **Portfolio** | Installierbare PWA· **22 Sprachen** · **154 PDFs**erzeugt durch Pipeline·CV Daten-API·Kondensator Android·Lighthouse 100 |
 | 🔒 **Telemetrie** | Null Telemetrie in forensischen Produkten und Empresa Operativa Chile - in jedem Build verifiziert (kein Android)`INTERNET`Erlaubnis |
 | 🌐 **Veröffentlichte Websites** | **57 GitHub Seiten**56 Landungen, eine pro Produkt, Programm oder Ökosystem-Navigator, plus das Portfolio - jede aus ihrem eigenen Repository bereitgestellt·alle 57 verifiziert mit HTTP`200` |
@@ -208,10 +208,10 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum Herunterladen und Installieren, Engineering-Labore, angewandte KI, vollständige technische Lehrpläne und wissenschaftliches Rechnen – dazu die Beschreibung jedes Forks von Drittprojekten im Konto.
 
-- 📦 **Produkte mit realer Distribution** (22)
+- 📦 **Produkte mit realer Distribution** (23)
 - 🧪 **Technische Laboratorien** (11)
 - 🤖 **Angewandte KI** (6)
-- 📚 **Komplette technische Lehrpläne** (21)
+- 📚 **Komplette technische Lehrpläne** (22)
 - 🔬 **Wissenschaftliche Datenverarbeitung** (1)
 - 🍴 **Forks von Drittprojekten** (52)
 
@@ -219,11 +219,11 @@ Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum 
 
 ## 📚Komplette technische Lehrpläne
 
-Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 21 Programme addieren sich zu**14.550 Klassen**, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
+Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 22 Programme addieren sich zu**16.798 Klassen**, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
 
-🌌 **In Planung, nicht mitgezählt:** [Astronomie, Astrophysik, Raumfahrtwissenschaften und Luft- und Raumfahrttechnik](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 geplante Lektionen in 12 Bereichen und 133 Blöcken; 397 mit ausgearbeitetem Text, alle noch im Status E0. Unabhängige Weiterbildung, keine berufliche Zulassung · [Website](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Mitgezählt:** [Astronomie, Astrophysik, Raumfahrtwissenschaften und Luft- und Raumfahrttechnik](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 Lektionen in 12 Bereichen und 133 Blöcken; alle mit ausgearbeitetem Text und noch im Status E0 (ausstehend: fachliche Prüfung und Freigabe durch den Autor). Unabhängige Weiterbildung, keine berufliche Zulassung · [Website](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[Alle 21 vollständigen Programme ansehen](docs/ECOSYSTEM.de.md#curricula)**
+👉 **[Alle 22 vollständigen Programme ansehen](docs/ECOSYSTEM.de.md#curricula)**
 
 ## ⚡Wenn Sie 10 Minuten Zeit haben, mich zu bewerten
 

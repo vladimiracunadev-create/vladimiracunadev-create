@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#النطاق-المهني)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.ar.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#المناهج-التقنية-الكاملة)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#المناهج-التقنية-الكاملة)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **التغطية بالاختبارات** | GabySQL**850 اختبارا**"و تذمر"**503.8M queries**(0 ذعر)·Empresa Operativa Chile**230 اختبارا** ·Automa**150 باوند** ·منظمة العفو الدولية المتعددة الأطراف |
 | 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **الاندماج في المجتمع المحلي** | **20 حالة**مرسل**19 تشغيلية**"مراجعة بشكل فردي مع "دوكر· **18+ محركات ثنائي الفينيل متعدد البروم** · **20+ حاويات** ·11 نمطا |
-| 📦 **التوزيع** | **155 بلاغا**عبر نظام إيكولوجي**65 مستودعاً عمومياً** ·المثبتات والقطع الأثرية`.exe` · `.msi` · `.dmg` · `.apk`مع إجراء فحصات وإثباتات؛ وتوقيعات تجارية/موقعة جارية حيثما ينطبق ذلك |
+| 📦 **التوزيع** | **156 بلاغا**عبر نظام إيكولوجي**66 مستودعاً عمومياً** ·المثبتات والقطع الأثرية`.exe` · `.msi` · `.dmg` · `.apk`مع إجراء فحصات وإثباتات؛ وتوقيعات تجارية/موقعة جارية حيثما ينطبق ذلك |
 | 🛡️ **سلسلة الإمداد** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·بطاقة الإسكوار |
-| 📚 **المناهج** | **530 14 فصلا**يمكن التحقق منها عبر 21 برنامجاً، حسب ما يُحسب[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع - غير مكتوب باليد -·كل برنامج يعلن عن مركزه التحريري ومحدوديةه |
+| 📚 **المناهج** | **16,798 فصلا**يمكن التحقق منها عبر 22 برنامجاً، حسب ما يُحسب[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع - غير مكتوب باليد -·كل برنامج يعلن عن مركزه التحريري ومحدوديةه |
 | 🌐 **Portfolio** | PWA غير القابلة للتركيب· **22 لغات** · **154 PDFs**منشأ خط أنابيب·CV Data API·Capacitor Android·Lighthouse 100 |
 | 🔒 **التلف** | عدم إجراء أي قياس عن بعد في منتجات الطب الشرعي والإمبريسا أوبيراتيفا شيلي - تحقق من كل بناء (لا أندرويد)`INTERNET`إذن) |
 | 🌐 **المواقع المنشورة** | **57 موقعاً لصفحة جيب**- 56 هبوطاً، واحد لكل منتج أو برنامج أو ملاح للنظم الإيكولوجية، بالإضافة إلى حافظة كل منها من مستودعها الخاص·جميع الـ 57 تم التحقق منها`200` |
@@ -208,10 +208,10 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 العمل التطبيقي لهذا الملف الشخصي موجود في وثيقة مستقلة: برمجيات تُنزَّل وتُثبَّت، ومختبرات هندسية، وذكاء اصطناعي تطبيقي، ومناهج تقنية كاملة، وحوسبة علمية، إضافةً إلى وصف كل fork لمشاريع الأطراف الثالثة الموجودة في الحساب.
 
-- 📦 **المنتجات ذات التوزيع الحقيقي** (22)
+- 📦 **المنتجات ذات التوزيع الحقيقي** (23)
 - 🧪 **المختبرات الهندسية** (11)
 - 🤖 **الذكاء الاصطناعي التطبيقي** (6)
-- 📚 **المناهج التقنية الكاملة** (21)
+- 📚 **المناهج التقنية الكاملة** (22)
 - 🔬 **الحوسبة العلمية** (1)
 - 🍴 **forks لمشاريع أطراف ثالثة** (52)
 
@@ -219,11 +219,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 📚المناهج التقنية الكاملة
 
-برامج مستقلة باللغة الإسبانية، مع إعلان مركز كل مستودع ونطاقه. الـ 21 برنامج يضاف إلى**530 14 فصلا**"أعدّها"[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع؛ وتعيد الشارة أسبوعياً ولا تكتب باليد.
+برامج مستقلة باللغة الإسبانية، مع إعلان مركز كل مستودع ونطاقه. الـ 22 برنامج يضاف إلى**16,798 فصلا**"أعدّها"[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع؛ وتعيد الشارة أسبوعياً ولا تكتب باليد.
 
-🌌 **قيد التخطيط، خارج العدّ:** [علم الفلك والفيزياء الفلكية وعلوم الفضاء وهندسة الطيران والفضاء](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 درسًا مخططًا في 12 مجالًا و133 كتلة؛ 397 منها بنص مكتوب وكلها ما تزال في الحالة E0. تدريب مستقل وليس ترخيصًا مهنيًا · [الموقع](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **مُدرَج في العدّ:** [علم الفلك والفيزياء الفلكية وعلوم الفضاء وهندسة الطيران والفضاء](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 درسًا في 12 مجالًا و133 كتلة؛ جميعها بنص مكتوب وما تزال في الحالة E0 (بانتظار المراجعة التخصصية وموافقة المؤلف). تدريب مستقل وليس ترخيصًا مهنيًا · [الموقع](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[عرض البرامج الـ21 كاملة](docs/ECOSYSTEM.ar.md#curricula)**
+👉 **[عرض البرامج الـ22 كاملة](docs/ECOSYSTEM.ar.md#curricula)**
 
 ## ⚡إذا كان لديك 10 دقائق لتقييمي
 

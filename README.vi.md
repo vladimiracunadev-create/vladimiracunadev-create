@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#phạm-vi-chuyên-nghiệp)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.vi.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#máy-tính-trình-duyệt-kỹ-thuật-toàn-bộ)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#máy-tính-trình-duyệt-kỹ-thuật-toàn-bộ)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 | 🧪 **Kiểm tra tin tức** | GabySQUL**Thử ra 850**+ fuzzing trên**503. 8M truy vấn**(0 hoảng loạn)·Empresa Operativa Chile**Thử ra 230** ·Automa**150 py thử** ·Thông tin đa MSName |
 | 🤖 **Các tác vụ cấp sản xuất** | Thế giới thật LangGraph**Hậu phương hoạt động 25/25**(case 01–25, 100% tin tức)·Đặc vụ AI hoạt động**23 đặc vụ**có**69 phép đánh giá xác định** |
 | 🔗 **Sự kết hợp của bản sắc** | **20 thùng**Trình gửi ảnh cho người nhận thư —**19 Hoạt động**Từng cá nhân được kiểm toán với Docker· **18+B động cơ** · **20+ container** ·11 mẫu |
-| 📦 **Phân phối** | **155 bản phát hành**xuyên qua hệ sinh thái của**65 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
+| 📦 **Phân phối** | **156 bản phát hành**xuyên qua hệ sinh thái của**66 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
 | 🛡️ **Chuỗi cung cấp** | CodeQL·Semgrep·Cướp·Trivy·Grype·Gitleaks·TruffleHog·CM SBOM CcconeDX·Điểm |
-| 📚 **Curricula** | **14.550 lớp**có thể kiểm tra trên 21 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
+| 📚 **Curricula** | **16.798 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
 | 🌐 **Portfolio** | PWA có thể cài đặt· **22 ngôn ngữ** · **154 PDFs**tạo bởi ống dẫn·Name·Bộ tạo tích hợp a- rô- bốt·Căn nhà sáng 100 |
 | 🔒 **Kính viễn vọng** | Không có máy đo trong sản phẩm pháp y và Empresa Operativa Chile — được kiểm tra trong mỗi tòa nhà (không có người máy)`INTERNET`Cho phép |
 | 🌐 **Xuất ra các trang** | **57 trang GitHub**-56 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 57 được kiểm tra với HTTP`200` |
@@ -208,10 +208,10 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần mềm để tải về và cài đặt, phòng thí nghiệm kỹ thuật, AI ứng dụng, giáo trình kỹ thuật đầy đủ và tính toán khoa học, cùng mô tả từng fork của các dự án bên thứ ba có trong tài khoản.
 
-- 📦 **Những sản phẩm có thật sự được phân phối** (22)
+- 📦 **Những sản phẩm có thật sự được phân phối** (23)
 - 🧪 **Phòng thí nghiệm kỹ thuật** (11)
 - 🤖 **AI ứng dụng** (6)
-- 📚 **Máy tính trình duyệt kỹ thuật toàn bộ** (21)
+- 📚 **Máy tính trình duyệt kỹ thuật toàn bộ** (22)
 - 🔬 **Tính toán khoa học** (1)
 - 🍴 **Fork của dự án bên thứ ba** (52)
 
@@ -219,11 +219,11 @@ Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần 
 
 ## 📚Máy tính trình duyệt kỹ thuật toàn bộ
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 21 programs add up to **14,550 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **16,798 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
-🌌 **Đang lên kế hoạch, ngoài số đếm:** [Thiên văn học, vật lý thiên văn, khoa học vũ trụ và kỹ thuật hàng không vũ trụ](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 bài học dự kiến trong 12 lĩnh vực và 133 khối; 397 bài đã có văn bản, tất cả vẫn ở trạng thái E0. Đào tạo độc lập, không phải chứng chỉ hành nghề · [trang web](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Đã tính vào số đếm:** [Thiên văn học, vật lý thiên văn, khoa học vũ trụ và kỹ thuật hàng không vũ trụ](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 bài học trong 12 lĩnh vực và 133 khối; tất cả đã có văn bản và vẫn ở trạng thái E0 (chờ rà soát chuyên môn và tác giả phê duyệt). Đào tạo độc lập, không phải chứng chỉ hành nghề · [trang web](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[Xem đầy đủ 21 chương trình](docs/ECOSYSTEM.vi.md#curricula)**
+👉 **[Xem đầy đủ 22 chương trình](docs/ECOSYSTEM.vi.md#curricula)**
 
 ## ⚡Nếu anh có 10 phút để đánh giá tôi
 

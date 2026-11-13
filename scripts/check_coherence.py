@@ -84,6 +84,34 @@ else:
                     if re.search(r"clas|class|aula|lesson|lez|leç|课|課|クラス|수업|ders|урок|занят|bài|คาบ|Unterricht|урок|zajęć|حص|kelas|les|कक्ष|μαθ", ctx, re.I):
                         err(f"{f}: cifra de clases {n} distinta de {clases}")
 
+# 6) la tabla de currículos de cada ECOSYSTEM debe sumar las clases del contador y tener tantas filas como programas declara la insignia
+if ref and len(ref) > 3:
+    PERS = str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")
+    badge_prog = re.search(r"img\.shields\.io/badge/[^)?]*?-(\d+)%20(?:programs|programas|programmes|programmi)-3fb950", read("README.md"))
+    for lg in [""] + LANGS:
+        p = f"docs/ECOSYSTEM{'.' + lg if lg else ''}.md"
+        if not os.path.exists(p):
+            continue
+        sec = re.search(r"\n## 📚(.*?)\n## ", read(p), re.S)
+        if not sec:
+            err(f"{p}: no se encontró la sección de currículos")
+            continue
+        total, filas = 0, 0
+        for l in sec.group(1).split("\n"):
+            if not l.startswith("| ["):
+                continue
+            cells = [c.strip() for c in l.split("|")]
+            num = re.sub(r"[^\d]", "", cells[2].translate(PERS)) if len(cells) > 2 else ""
+            if not num:
+                err(f"{p}: fila de currículo sin número de clases: {cells[1][:50]}")
+                continue
+            total += int(num)
+            filas += 1
+        if total != int(ref[3]):
+            err(f"{p}: la tabla de currículos suma {total} clases y el contador dice {ref[3]}")
+        if badge_prog and filas != int(badge_prog.group(1)):
+            err(f"{p}: {filas} programas en la tabla y la insignia dice {badge_prog.group(1)}")
+
 if errors:
     print(f"{len(errors)} problema(s):")
     for e in errors[:80]:

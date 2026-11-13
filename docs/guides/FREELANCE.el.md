@@ -16,7 +16,7 @@
 | 📱 **Εφαρμογές πολλαπλών πλατφορμών** | Android, Windows, macOS και PWA με Flutter ή Tauri, με εκδόσεις και checksums | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Ασφάλεια και εφοδιαστική αλυσίδα** | Πύλες CI, σάρωση μυστικών και εξαρτήσεων, SBOM, έλεγχοι αποθετηρίων | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Αναπαραγώγιμη υποδομή** | Docker/Compose, WSL, εικονικοποίηση, AWS και Terraform έτοιμα για εκκίνηση | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Τεχνική κατάρτιση** | Προγράμματα και υλικό για ομάδες, με διαδρομές ανά ρόλο | [21 προγράμματα](../ECOSYSTEM.el.md#curricula) |
+| 🎓 **Τεχνική κατάρτιση** | Προγράμματα και υλικό για ομάδες, με διαδρομές ανά ρόλο | [22 προγράμματα](../ECOSYSTEM.el.md#curricula) |
 
 ## Πώς δουλεύω
 

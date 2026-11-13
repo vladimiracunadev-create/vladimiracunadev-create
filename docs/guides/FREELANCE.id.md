@@ -16,7 +16,7 @@ Saya menyelesaikan masalah perangkat lunak dari ujung ke ujung: diagnosis dahulu
 | 📱 **Aplikasi lintas platform** | Android, Windows, macOS, dan PWA dengan Flutter atau Tauri, dengan rilis dan checksum | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Keamanan dan rantai pasok** | Gerbang CI, pemindaian rahasia dan dependensi, SBOM, audit repositori | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Infrastruktur yang dapat direproduksi** | Docker/Compose, WSL, virtualisasi, AWS, dan Terraform siap dijalankan | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Pelatihan teknis** | Program dan materi untuk tim, dengan jalur berdasarkan peran | [21 program](../ECOSYSTEM.id.md#curricula) |
+| 🎓 **Pelatihan teknis** | Program dan materi untuk tim, dengan jalur berdasarkan peran | [22 program](../ECOSYSTEM.id.md#curricula) |
 
 ## Cara saya bekerja
 

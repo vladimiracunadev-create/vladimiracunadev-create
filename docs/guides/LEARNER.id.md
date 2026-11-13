@@ -4,7 +4,7 @@
 
 ## Dalam satu baris
 
-21 program berurutan dalam bahasa Spanyol, dengan 14.550 kelas yang dihitung oleh workflow, masing-masing menyatakan status editorial dan batasannya.
+22 program berurutan dalam bahasa Spanyol, dengan 16.798 kelas yang dihitung oleh workflow, masing-masing menyatakan status editorial dan batasannya.
 
 ## Pilih sesuai tujuan
 
@@ -32,7 +32,7 @@ Bingung harus ke mana? [Lifelong Learning Ecosystem](https://github.com/vladimir
 - **Psikometri:** 40 kelas direncanakan, 5 ditulis.
 - **Framework yang dibandingkan:** 149 kelas direncanakan, 70 dibangun.
 - **Machine Operator:** belum ada simulator yang dapat dijalankan.
-- **Astronomi dan dirgantara:** program dalam perencanaan, di luar hitungan; [Curricula Teknis Lengkap](../ECOSYSTEM.id.md#curricula).
+- **Astronomi dan dirgantara:** program lengkap, kini termasuk dalam hitungan; [Curricula Teknis Lengkap](../ECOSYSTEM.id.md#curricula).
 - Program adalah pelatihan mandiri; tidak memberikan gelar atau sertifikasi.
 
 ## Langkah berikutnya

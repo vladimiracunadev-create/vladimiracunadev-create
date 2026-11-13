@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#व्यावसायिक-क्षेत्र)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.hi.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#तकनीकी-पाठ्यक्रम)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#तकनीकी-पाठ्यक्रम)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **टेस्ट कवरेज** | GabySQL**850 टेस्ट**+ फ्यूज़िंग ओवर**503.8M क्वेरीज़**(0 panics)·Empresa ओपेरा चिल**230 परीक्षण** ·ऑटोमा**150 pytest** ·बहु-OS CI |
 | 🤖 **उत्पादन ग्रेड एजेंट** | लैंग्वेज रियलवर्ल्ड**25/25 परिचालन परिवर्धन**(मामसूम 01-25, 100% कवरेज)·ऑपरेशनल एआई एजेंट**23 एजेंट**साथ**69 नियतिवादी evals** |
 | 🔗 **Polyglot एकीकरण** | **20 मामले**प्रेषक → n8n → receiver —**19 परिचालन**व्यक्तिगत रूप से डॉकर के साथ लेखा परीक्षा· **18+ DB इंजन** · **20+ कंटेनर** ·11 पैटर्न |
-| 📦 **वितरण** | **155 रिलीज़**एक पारिस्थितिकी तंत्र के पार**65 स्वामित्व वाली सार्वजनिक भंडार** ·संस्थापक और कलाकृतियों`.exe` · `.msi` · `.dmg` · `.apk`चेकसम और साक्ष्य का निर्माण; प्रगति पर वाणिज्यिक / स्टोर हस्ताक्षर जहां लागू हो |
+| 📦 **वितरण** | **156 रिलीज़**एक पारिस्थितिकी तंत्र के पार**66 स्वामित्व वाली सार्वजनिक भंडार** ·संस्थापक और कलाकृतियों`.exe` · `.msi` · `.dmg` · `.apk`चेकसम और साक्ष्य का निर्माण; प्रगति पर वाणिज्यिक / स्टोर हस्ताक्षर जहां लागू हो |
 | 🛡️ **आपूर्ति श्रृंखला** | कोड·Semgrep·बंदी·त्रिवी·Grype·गिटलाक·TruffleHog·चक्रवातDX SBOM·स्कोरकार्ड |
-| 📚 **Curricula** | **14,550 classes** verifiable across 21 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **16,798 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **पोर्टफोलियो** | इंस्टॉल करने योग्य PWA· **22 भाषाएँ** · **154 PDF**पाइपलाइन द्वारा उत्पन्न·CV डेटा API·संधारित्र एंड्रॉयड·लाइटहाउस 100 |
 | 🔒 **टेलीमेट्री** | फोरेंसिक उत्पादों और Empresa ओपेरा चिले में शून्य टेलीमेट्री - हर निर्माण में सत्यापित (कोई Android नहीं)`INTERNET`अनुमति |
 | 🌐 **प्रकाशित स्थल** | **57 GitHub पेज साइटें**-56 लैंडिंग, एक प्रति उत्पाद, कार्यक्रम, या पारिस्थितिकी तंत्र नेविगेटर, साथ ही पोर्टफोलियो- प्रत्येक अपने स्वयं के भंडार से तैनात·सभी 57 HTTP के साथ सत्यापित`200` |
@@ -208,10 +208,10 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 इस प्रोफ़ाइल का व्यावहारिक कार्य एक अलग दस्तावेज़ में है: डाउनलोड और इंस्टॉल होने वाला सॉफ़्टवेयर, इंजीनियरिंग प्रयोगशालाएँ, अनुप्रयुक्त AI, पूर्ण तकनीकी पाठ्यक्रम और वैज्ञानिक कम्प्यूटिंग, साथ ही खाते में मौजूद तृतीय-पक्ष प्रोजेक्ट्स के हर fork का विवरण।
 
-- 📦 **उत्पाद रियल डिस्ट्रीब्यूशन के साथ** (22)
+- 📦 **उत्पाद रियल डिस्ट्रीब्यूशन के साथ** (23)
 - 🧪 **इंजीनियरिंग प्रयोगशाला** (11)
 - 🤖 **नुप्रयुक्त AI** (6)
-- 📚 **तकनीकी पाठ्यक्रम** (21)
+- 📚 **तकनीकी पाठ्यक्रम** (22)
 - 🔬 **वैज्ञानिक कम्प्यूटिंग** (1)
 - 🍴 **तृतीय-पक्ष प्रोजेक्ट्स के fork** (52)
 
@@ -219,11 +219,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 📚तकनीकी पाठ्यक्रम
 
-स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 21 कार्यक्रम में शामिल हो गए**14,550 कक्षा**, द्वारा गिना[a workflow](.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
+स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 22 कार्यक्रम में शामिल हो गए**16,798 कक्षा**, द्वारा गिना[a workflow](.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
 
-🌌 **योजना में, गिनती से बाहर:** [खगोल विज्ञान, खगोल भौतिकी, अंतरिक्ष विज्ञान और वैमानिकी इंजीनियरिंग](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 क्षेत्रों और 133 ब्लॉकों में 2,077 नियोजित कक्षाएँ; 397 का पाठ लिखा जा चुका है और सभी अभी E0 स्थिति में हैं। स्वतंत्र प्रशिक्षण, पेशेवर प्रमाणन नहीं · [साइट](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)।
+🌌 **गिनती में शामिल:** [खगोल विज्ञान, खगोल भौतिकी, अंतरिक्ष विज्ञान और वैमानिकी इंजीनियरिंग](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 क्षेत्रों और 133 ब्लॉकों में 2,077 कक्षाएँ; सभी का पाठ लिखा जा चुका है और सभी अभी E0 स्थिति में हैं (विषय-समीक्षा और लेखक की स्वीकृति लंबित)। स्वतंत्र प्रशिक्षण, पेशेवर प्रमाणन नहीं · [साइट](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)।
 
-👉 **[सभी 21 पाठ्यक्रम देखें](docs/ECOSYSTEM.hi.md#curricula)**
+👉 **[सभी 22 पाठ्यक्रम देखें](docs/ECOSYSTEM.hi.md#curricula)**
 
 ## ⚡यदि आपके पास 10 मिनट हैं तो मुझे खाली करने के लिए
 

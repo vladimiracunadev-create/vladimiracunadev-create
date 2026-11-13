@@ -13,13 +13,13 @@ Pick your case and go straight to what you need. Each guide takes 1–2 minutes 
 | 🛠️ **Tech leadership, CTO or peer** | Assess engineering judgment and quality in 10 minutes | [Technical evaluation](guides/TECH_LEAD.en.md) |
 | 🏢 **Business, management or public sector** | Roles without programming and management-oriented products | [Business and management](guides/BUSINESS.en.md) |
 | 🤝 **Collaboration, open source or security** | Contribute, report a vulnerability, licenses | [Collaboration](guides/COLLABORATOR.en.md) |
-| 🎓 **Learning or teaching** | Choose among the 21 programs by goal | [Learning](guides/LEARNER.en.md) |
+| 🎓 **Learning or teaching** | Choose among the 22 programs by goal | [Learning](guides/LEARNER.en.md) |
 
 ## ⏱️ If you only have 60 seconds
 
 - **Who:** Computer & Informatics Engineer and Business Administrator, 16+ years building and operating software.
 - **What I do:** solution architecture, legacy modernization, automation and applied AI, plus their delivery and operation.
-- **Evidence:** 65 own public repositories, 155 releases, tests and CI in the products, and every repo also states what it does **not** do.
+- **Evidence:** 66 own public repositories, 156 releases, tests and CI in the products, and every repo also states what it does **not** do.
 - **Mode:** remote or hybrid, depending on the project.
 - **Contact:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

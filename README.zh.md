@@ -12,7 +12,7 @@
 
 [![经验](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#-专业范围)
 [![产品](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.zh.md)
-[![课程](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
 
 <!-- STATS:START -->
 [![公共仓库](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -80,9 +80,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **测试覆盖** | GabySQL **850 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **230 tests** · Automa **150 pytest** · multi-OS CI |
 | 🤖 **生产级 Agent** | LangGraph RealWorld **25/25 operational backends**（cases 01–25，100% 覆盖）· Operational AI Agents **23 agents** 和 **69 deterministic evals** |
 | 🔗 **多语言集成** | **20 cases** sender→n8n→receiver —**19 operational**，逐一用 Docker 审计— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **分发** | 在 **65 个自有公共仓库**生态中发布 **155 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
+| 📦 **分发** | 在 **66 个自有公共仓库**生态中发布 **156 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
 | 🛡️ **供应链** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · CycloneDX SBOM · Scorecard |
-| 📚 **课程** | **14,550 classes**，覆盖 21 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
+| 📚 **课程** | **16,798 classes**，覆盖 22 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
 | 🌐 **作品集** | 可安装 PWA · **22 种语言** · pipeline 生成 **154 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **遥测** | 取证产品和 Empresa Operativa Chile 中为零 — 每次 build 验证（Android 无 `INTERNET` 权限） |
 | 🌐 **已发布站点** | **57 个 GitHub Pages 站点** —56 个产品、项目或生态导航 landing 加主作品集— 每个都从自己的仓库部署 · 57 个均验证 HTTP `200` |
@@ -207,10 +207,10 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 本档案的实践成果集中在独立文档中：可下载安装的软件、工程实验室、应用 AI、完整技术课程与科学计算，以及账号中每个第三方项目 fork 的说明。
 
-- 📦 **真实分发的产品** (22)
+- 📦 **真实分发的产品** (23)
 - 🧪 **工程实验室** (11)
 - 🤖 **应用 AI** (6)
-- 📚 **完整技术课程** (21)
+- 📚 **完整技术课程** (22)
 - 🔬 **科学计算** (1)
 - 🍴 **第三方项目的 fork** (52)
 
@@ -218,11 +218,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。21 个项目共 **14,550 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **16,798 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
 
-🌌 **规划中，不计入统计：**[天文学、天体物理学、空间科学与航空航天工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 个领域、133 个模块共 2,077 节规划课程；其中 397 节已有正文，全部仍处于 E0 状态。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+🌌 **已计入统计：**[天文学、天体物理学、空间科学与航空航天工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 个领域、133 个模块共 2,077 节课程；全部已有正文，仍处于 E0 状态（待专业审阅与作者批准）。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
 
-👉 **[查看全部 21 个课程](docs/ECOSYSTEM.zh.md#curricula)**
+👉 **[查看全部 22 个课程](docs/ECOSYSTEM.zh.md#curricula)**
 
 ## ⚡ 如果你有 10 分钟评估我
 

@@ -26,12 +26,12 @@
 ## 可复用证据
 
 - **E1 — 技术履历：** 解决方案架构师、遗留系统现代化、高级全栈 / Tech Lead 与 AI 自动化；档案中声明16年以上。
-- **E2 — 交付与运维：** 65个自有公开仓库、155个发布版本、CI/CD、可观测性、运行手册、供应链安全和可安装制品。
+- **E2 — 交付与运维：** 66个自有公开仓库、156个发布版本、CI/CD、可观测性、运行手册、供应链安全和可安装制品。
 - **E3 — 商业与运营：** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile)、[Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system)、[创业](https://github.com/vladimiracunadev-create/modern-business-creation-program)、[营销与销售](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) 和 [高管领导力](https://github.com/vladimiracunadev-create/executive-leadership-founder-program)。它们是可验证的产品和内容，不能替代管理经验。
 - **E4 — 项目、流程与质量：** 路线图、issue、规格说明、测试、质量关卡、指标，以及分布在整个生态中的面向不同受众的文档。
 - **E5 — 安全与连续性：** RootCause 系列、控制措施、SBOM、风险分析、韧性、事件和可复现的证据。
 - **E6 — 数据与 AI：** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry)、[LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld)、[Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents)，以及可追溯性和人工关卡。
-- **E7 — 教育：** 21个课程项目、14,550节课、按角色划分的学习路径、实验、手册、离线门户和多格式内容。这证明了教学设计与内容生产能力；正式授课和学习成果需要另行提供证据。
+- **E7 — 教育：** 22个课程项目、16,798节课、按角色划分的学习路径、实验、手册、离线门户和多格式内容。这证明了教学设计与内容生产能力；正式授课和学习成果需要另行提供证据。
 - **E8 — 财务与控制：** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program)、FinOps、指标和可追溯性。它们是成果物中体现的应用知识证据，而不是企业财务责任。
 
 ## 1. 技术领导力

@@ -13,13 +13,13 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần. Mỗ
 | 🛠️ **Lãnh đạo kỹ thuật, CTO hoặc đồng nghiệp** | Đánh giá tư duy và chất lượng kỹ thuật trong 10 phút | [Đánh giá kỹ thuật](guides/TECH_LEAD.vi.md) |
 | 🏢 **Kinh doanh, quản lý hoặc khu vực công** | Vai trò không cần lập trình và sản phẩm hướng đến quản lý | [Kinh doanh và quản lý](guides/BUSINESS.vi.md) |
 | 🤝 **Cộng tác, mã nguồn mở hoặc bảo mật** | Đóng góp, báo cáo lỗ hổng, giấy phép | [Cộng tác và bảo mật](guides/COLLABORATOR.vi.md) |
-| 🎓 **Học hoặc dạy** | Chọn trong 21 chương trình theo mục tiêu | [Học hoặc dạy](guides/LEARNER.vi.md) |
+| 🎓 **Học hoặc dạy** | Chọn trong 22 chương trình theo mục tiêu | [Học hoặc dạy](guides/LEARNER.vi.md) |
 
 ## ⏱️ Nếu bạn chỉ có 60 giây
 
 - **Ai:** Kỹ sư Tin học và Máy tính kiêm Quản trị Kinh doanh, hơn 16 năm xây dựng và vận hành phần mềm.
 - **Tôi làm gì:** kiến trúc giải pháp, hiện đại hóa hệ thống cũ, tự động hóa và AI ứng dụng, cùng việc bàn giao và vận hành chúng.
-- **Bằng chứng:** 65 kho mã công khai tự thực hiện, 155 bản phát hành, kiểm thử và CI trong các sản phẩm, và mỗi kho cũng nêu rõ điều nó **không** làm.
+- **Bằng chứng:** 66 kho mã công khai tự thực hiện, 156 bản phát hành, kiểm thử và CI trong các sản phẩm, và mỗi kho cũng nêu rõ điều nó **không** làm.
 - **Hình thức:** từ xa hoặc kết hợp, tùy dự án.
 - **Liên hệ:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Hồ sơ năng lực](https://vladimiracunadev-create.github.io/)
 

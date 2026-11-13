@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#zakres-działalności)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.pl.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#kompletne-programy-nauczania-technicznego)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#kompletne-programy-nauczania-technicznego)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 | 🧪 **Zakres badania** | GabySQL**850 badań**+ rozmycie**503,8M zapytania**(0 paniki)·Empresa Operativa Chile**230 badań** ·Automa**150 pikseli** ·wieloOS CI |
 | 🤖 **Czynniki klasy produkcyjnej** | LangGraph RealWorld**25 / 25 operacyjnych oparć**(sprawy 01- 25, 100%)·Operacyjne środki do zwalczania ptasiej grypy**23**z**69 determinalistycznych wymienników** |
 | 🔗 **Integracja poliglotów** | **20 spraw**nadawca → n8n → odbiornik -**19 operacyjne**, indywidualnie skontrolowane z Docker -· **Silniki o mocy 18 + DB** · **20 + pojemniki** ·11 wzorów |
-| 📦 **Dystrybucja** | **155 wydaleń**w całym ekosystemie**65 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
+| 📦 **Dystrybucja** | **156 wydaleń**w całym ekosystemie**66 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
 | 🛡️ **Łańcuch dostaw** | CodeQL·Semgrep·Bandyta·Trivy·Typ·Gitleaks·TruffleHog Przewodniczący·CycloneDX SBOM·Wyniki |
-| 📚 **Programy nauczania** | **14 550 klas**weryfikowalne w 21 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
+| 📚 **Programy nauczania** | **16 798 klas**weryfikowalne w 22 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
 | 🌐 **Portfolio** | Instalowalne PWA· **22 języków** · **154 PDF**generowane przez rurociąg·API danych CV·Capacitor Android·Latarnia morska 100 |
 | 🔒 **Telemetria** | Zero telemetrii w wyrobach kryminalistycznych i Empresa Operativa Chile - zweryfikowane w każdej budowie (nie Android`INTERNET`(pozwolenie) |
 | 🌐 **Published sites** | **57 GitHub Pages sites** —56 landings, one per product, program, or ecosystem navigator, plus the portfolio— each deployed from its own repository · all 57 verified with HTTP `200` |
@@ -208,10 +208,10 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do pobrania i instalacji, laboratoria inżynierskie, stosowana AI, kompletne programy nauczania techniczne i obliczenia naukowe oraz opis każdego forka projektów osób trzecich znajdującego się na koncie.
 
-- 📦 **Produkty z dystrybucją rzeczywistą** (22)
+- 📦 **Produkty z dystrybucją rzeczywistą** (23)
 - 🧪 **Laboratoria inżynieryjne** (11)
 - 🤖 **Stosowana AI** (6)
-- 📚 **Kompletne programy nauczania technicznego** (21)
+- 📚 **Kompletne programy nauczania technicznego** (22)
 - 🔬 **Konstrukcja naukowa** (1)
 - 🍴 **Forki projektów osób trzecich** (52)
 
@@ -219,11 +219,11 @@ Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do
 
 ## 📚Kompletne programy nauczania technicznego
 
-Sekwencyjne programy w języku hiszpańskim, ze statusem i zakresem deklarowanym przez każde repozytorium. 21 programów dodaje się do**14 550 klas**, policzone[a workflow](.github/workflows/stats.yml)z rzeczywistej struktury repozytorium lub źródła weryfikowalnego zadeklarowanego w repozytorium; odznaka odświeża raz w tygodniu i nie jest zapisywana ręcznie.
+Sekwencyjne programy w języku hiszpańskim, ze statusem i zakresem deklarowanym przez każde repozytorium. 22 programów dodaje się do**16 798 klas**, policzone[a workflow](.github/workflows/stats.yml)z rzeczywistej struktury repozytorium lub źródła weryfikowalnego zadeklarowanego w repozytorium; odznaka odświeża raz w tygodniu i nie jest zapisywana ręcznie.
 
-🌌 **W planowaniu, poza zliczaniem:** [Astronomia, astrofizyka, nauki kosmiczne i inżynieria lotnicza i kosmiczna](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 zaplanowanych zajęć w 12 obszarach i 133 blokach; 397 z napisanym tekstem, wszystkie nadal w stanie E0. Niezależne kształcenie, nie uprawnienia zawodowe · [strona](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Wliczone do zliczania:** [Astronomia, astrofizyka, nauki kosmiczne i inżynieria lotnicza i kosmiczna](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 zajęć w 12 obszarach i 133 blokach; wszystkie z napisanym tekstem i nadal w stanie E0 (czekają na recenzję merytoryczną i zatwierdzenie autora). Niezależne kształcenie, nie uprawnienia zawodowe · [strona](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[Zobacz 21 pełnych programów](docs/ECOSYSTEM.pl.md#curricula)**
+👉 **[Zobacz 22 pełnych programów](docs/ECOSYSTEM.pl.md#curricula)**
 
 ## ⚡Jeśli masz 10 minut na ocenę mnie
 

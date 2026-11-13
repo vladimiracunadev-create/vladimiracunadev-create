@@ -26,12 +26,12 @@ This matrix widens the professional field without turning education, personal pr
 ## Reusable evidence
 
 - **E1 — technical track record:** Solution Architect, legacy modernization, Senior Full-Stack / Tech Lead and AI automation; 16+ years declared in the profile.
-- **E2 — delivery and operations:** 65 own public repositories, 155 releases, CI/CD, observability, runbooks, supply-chain security and installable artifacts.
+- **E2 — delivery and operations:** 66 own public repositories, 156 releases, CI/CD, observability, runbooks, supply-chain security and installable artifacts.
 - **E3 — business and operations:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [business creation](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing and sales](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) and [executive leadership](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). They are verifiable products and content; they do not replace management experience.
 - **E4 — projects, processes and quality:** roadmaps, issues, specifications, tests, gates, metrics and audience-specific documentation spread across the ecosystem.
 - **E5 — security and continuity:** RootCause family, controls, SBOM, risk analysis, resilience, incidents and reproducible evidence.
 - **E6 — data and AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) and traceability/human gates.
-- **E7 — education:** 21 programs, 14,550 classes, role-based paths, labs, manuals, offline portals and multi-format content. This proves educational design and production; formal teaching and learning outcomes require separate evidence.
+- **E7 — education:** 22 programs, 16,798 classes, role-based paths, labs, manuals, offline portals and multi-format content. This proves educational design and production; formal teaching and learning outcomes require separate evidence.
 - **E8 — finance and control:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metrics and traceability. They are evidence of applied knowledge in artifacts, not corporate financial responsibility.
 
 ## 1. Technology leadership

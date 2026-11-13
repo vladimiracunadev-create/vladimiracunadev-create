@@ -13,13 +13,13 @@ Pilih kasus Anda dan langsung menuju yang Anda butuhkan. Setiap panduan dibaca d
 | 🛠️ **Kepemimpinan teknis, CTO, atau rekan sejawat** | Menilai pertimbangan dan kualitas rekayasa dalam 10 menit | [Evaluasi teknis](guides/TECH_LEAD.id.md) |
 | 🏢 **Bisnis, manajemen, atau sektor publik** | Peran tanpa pemrograman dan produk berorientasi manajemen | [Bisnis dan manajemen](guides/BUSINESS.id.md) |
 | 🤝 **Kolaborasi, open source, atau keamanan** | Berkontribusi, melaporkan kerentanan, lisensi | [Kolaborasi dan keamanan](guides/COLLABORATOR.id.md) |
-| 🎓 **Belajar atau mengajar** | Memilih di antara 21 program sesuai tujuan | [Belajar atau mengajar](guides/LEARNER.id.md) |
+| 🎓 **Belajar atau mengajar** | Memilih di antara 22 program sesuai tujuan | [Belajar atau mengajar](guides/LEARNER.id.md) |
 
 ## ⏱️ Jika Anda hanya punya 60 detik
 
 - **Siapa:** Insinyur Informatika dan Komputasi serta Administrator Bisnis, 16+ tahun membangun dan mengoperasikan perangkat lunak.
 - **Yang saya kerjakan:** arsitektur solusi, modernisasi sistem lawas, otomatisasi dan AI terapan, beserta pengiriman dan operasinya.
-- **Bukti:** 65 repositori publik milik sendiri, 155 rilis, tes dan CI pada produk, dan setiap repositori juga menyatakan apa yang **tidak** dilakukannya.
+- **Bukti:** 66 repositori publik milik sendiri, 156 rilis, tes dan CI pada produk, dan setiap repositori juga menyatakan apa yang **tidak** dilakukannya.
 - **Mode:** jarak jauh atau hibrida, sesuai proyek.
 - **Kontak:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portofolio](https://vladimiracunadev-create.github.io/)
 

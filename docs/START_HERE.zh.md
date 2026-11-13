@@ -13,13 +13,13 @@
 | 🛠️ **技术负责人、CTO 或同行** | 10 分钟评估工程判断力与质量 | [技术评估](guides/TECH_LEAD.zh.md) |
 | 🏢 **商业、管理或公共部门** | 无需编程的岗位与面向管理的产品 | [商业与管理](guides/BUSINESS.zh.md) |
 | 🤝 **协作、开源或安全** | 贡献、报告漏洞、许可证 | [协作与安全](guides/COLLABORATOR.zh.md) |
-| 🎓 **学习或教学** | 按目标在 21 个课程中选择 | [学习或教学](guides/LEARNER.zh.md) |
+| 🎓 **学习或教学** | 按目标在 22 个课程中选择 | [学习或教学](guides/LEARNER.zh.md) |
 
 ## ⏱️ 如果你只有 60 秒
 
 - **是谁：**信息与计算机工程师兼工商管理，16 年以上构建与运营软件的经验。
 - **做什么：**解决方案架构、遗留系统现代化、自动化与应用 AI，以及它们的交付与运营。
-- **证据：**65 个自有公开仓库、155 个发布版本、产品中的测试与 CI，且每个仓库也会说明自己**不做**什么。
+- **证据：**66 个自有公开仓库、156 个发布版本、产品中的测试与 CI，且每个仓库也会说明自己**不做**什么。
 - **方式：**远程或混合，视项目而定。
 - **联系方式:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [作品集](https://vladimiracunadev-create.github.io/)
 

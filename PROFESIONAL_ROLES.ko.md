@@ -26,12 +26,12 @@
 ## 재사용 가능한 증거
 
 - **E1 — 기술 이력:** 솔루션 아키텍트, 레거시 현대화, 시니어 풀스택 / Tech Lead, AI 자동화. 프로필에 16년 이상으로 명시.
-- **E2 — 딜리버리와 운영:** 자체 공개 저장소 65개, 릴리스 155건, CI/CD, 관측 가능성, 런북, 공급망 보안, 설치 가능한 산출물.
+- **E2 — 딜리버리와 운영:** 자체 공개 저장소 66개, 릴리스 156건, CI/CD, 관측 가능성, 런북, 공급망 보안, 설치 가능한 산출물.
 - **E3 — 비즈니스와 운영:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [창업](https://github.com/vladimiracunadev-create/modern-business-creation-program), [마케팅과 영업](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program), [경영진 리더십](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). 검증 가능한 제품과 콘텐츠이며, 관리 경력을 대체하지 않습니다.
 - **E4 — 프로젝트, 프로세스, 품질:** 로드맵, 이슈, 명세서, 테스트, 게이트, 지표, 그리고 생태계 전반에 흩어져 있는 독자별 문서.
 - **E5 — 보안과 연속성:** RootCause 제품군, 통제, SBOM, 리스크 분석, 복원력, 인시던트, 재현 가능한 증거.
 - **E6 — 데이터와 AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents), 추적성과 사람 승인 게이트.
-- **E7 — 교육:** 21개 프로그램, 14,550개 수업, 역할별 학습 경로, 실습, 매뉴얼, 오프라인 포털, 다중 형식 콘텐츠. 교육 설계와 제작을 입증하며, 공식 강의와 학습 성과에는 별도의 증거가 필요합니다.
+- **E7 — 교육:** 22개 프로그램, 16,798개 수업, 역할별 학습 경로, 실습, 매뉴얼, 오프라인 포털, 다중 형식 콘텐츠. 교육 설계와 제작을 입증하며, 공식 강의와 학습 성과에는 별도의 증거가 필요합니다.
 - **E8 — 재무와 통제:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, 지표, 추적성. 산출물에 나타난 응용 지식의 증거이며, 기업 재무 책임이 아닙니다.
 
 ## 1. 기술 리더십

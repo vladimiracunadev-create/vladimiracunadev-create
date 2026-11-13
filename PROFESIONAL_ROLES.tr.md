@@ -26,12 +26,12 @@ Bu matris, eğitimi, kişisel projeleri veya belgelenmiş bilgiyi kanıtlanmamı
 ## Yeniden kullanılabilir kanıtlar
 
 - **E1 — teknik geçmiş:** Çözüm Mimarı, eski sistemlerin modernizasyonu, kıdemli Full-Stack / Tech Lead ve yapay zekâ otomasyonu; profilde 16+ yıl beyan edilmiştir.
-- **E2 — teslimat ve operasyon:** 65 kendi herkese açık deposu, 155 sürüm, CI/CD, gözlemlenebilirlik, çalışma kılavuzları, tedarik zinciri güvenliği ve kurulabilir çıktılar.
+- **E2 — teslimat ve operasyon:** 66 kendi herkese açık deposu, 156 sürüm, CI/CD, gözlemlenebilirlik, çalışma kılavuzları, tedarik zinciri güvenliği ve kurulabilir çıktılar.
 - **E3 — iş ve operasyon:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [girişimcilik](https://github.com/vladimiracunadev-create/modern-business-creation-program), [pazarlama ve satış](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) ve [yönetici liderliği](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Doğrulanabilir ürün ve içeriklerdir; yönetim deneyiminin yerini tutmaz.
 - **E4 — projeler, süreçler ve kalite:** yol haritaları, issue'lar, şartnameler, testler, geçitler, metrikler ve ekosisteme yayılmış kitleye özel dokümantasyon.
 - **E5 — güvenlik ve süreklilik:** RootCause ailesi, kontroller, SBOM, risk analizi, dayanıklılık, olaylar ve yeniden üretilebilir kanıt.
 - **E6 — veri ve yapay zekâ:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) ve izlenebilirlik/insan onay geçitleri.
-- **E7 — eğitim:** 21 program, 14.550 ders, role göre öğrenme yolları, laboratuvarlar, kılavuzlar, çevrimdışı portallar ve çok biçimli içerik. Bu, eğitim tasarımını ve üretimini kanıtlar; resmî öğretmenlik ve öğrenme sonuçları ayrı kanıt gerektirir.
+- **E7 — eğitim:** 22 program, 16.798 ders, role göre öğrenme yolları, laboratuvarlar, kılavuzlar, çevrimdışı portallar ve çok biçimli içerik. Bu, eğitim tasarımını ve üretimini kanıtlar; resmî öğretmenlik ve öğrenme sonuçları ayrı kanıt gerektirir.
 - **E8 — finans ve kontrol:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metrikler ve izlenebilirlik. Bunlar çıktılarda uygulanmış bilginin kanıtıdır, kurumsal finansal sorumluluk değildir.
 
 ## 1. Teknoloji liderliği

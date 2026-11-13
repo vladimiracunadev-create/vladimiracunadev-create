@@ -12,7 +12,7 @@
 
 [![Expérience](https://img.shields.io/badge/exp%C3%A9rience-%2B16%20ans-e67e22?style=for-the-badge)](#-périmètre-professionnel)
 [![Produits](https://img.shields.io/badge/produits-artefacts%20v%C3%A9rifiables-007c83?style=for-the-badge)](docs/ECOSYSTEM.fr.md)
-[![Cursus](https://img.shields.io/badge/cursus-21%20programmes-3fb950?style=for-the-badge)](#-cursus-techniques-complets)
+[![Cursus](https://img.shields.io/badge/cursus-22%20programmes-3fb950?style=for-the-badge)](#-cursus-techniques-complets)
 
 <!-- STATS:START -->
 [![Dépôts publics](https://img.shields.io/badge/d%C3%A9p%C3%B4ts%20publics-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -80,9 +80,9 @@ Ce n’est pas « un repo » : c’est un écosystème avec des standards commun
 | 🧪 **Couverture de tests** | GabySQL **850 tests** + fuzz de **503,8 M requêtes** (0 panic) · Empresa Operativa Chile **230 tests** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agents en production** | LangGraph RealWorld **25/25 backends opérationnels** (cas 01–25, couverture 100 %) · Operational AI Agents **23 agents** avec **69 evals déterministes** |
 | 🔗 **Intégration polyglotte** | **20 cas** émetteur→n8n→récepteur —**19 opérationnels**, audités un par un avec Docker— · **18+ moteurs BD** · **20+ conteneurs** · 11 patterns |
-| 📦 **Distribution** | **155 releases** publiées dans un écosystème de **65 dépôts publics propres** · installateurs et artefacts `.exe` · `.msi` · `.dmg` · `.apk` avec checksums et preuves de build ; signatures commerciales/store en cours quand applicable |
+| 📦 **Distribution** | **156 releases** publiées dans un écosystème de **66 dépôts publics propres** · installateurs et artefacts `.exe` · `.msi` · `.dmg` · `.apk` avec checksums et preuves de build ; signatures commerciales/store en cours quand applicable |
 | 🛡️ **Supply chain** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Cursus** | **14 550 classes** vérifiables dans 21 programmes, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt —pas écrites à la main— · chaque programme déclare son état éditorial et ses limites |
+| 📚 **Cursus** | **16 798 classes** vérifiables dans 22 programmes, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt —pas écrites à la main— · chaque programme déclare son état éditorial et ses limites |
 | 🌐 **Portfolio** | PWA installable · **22 langues** · **154 PDF** par pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Télémétrie** | Zéro dans les produits forensiques et Empresa Operativa Chile — vérifié à chaque build (aucune permission Android `INTERNET`) |
 | 🌐 **Sites publiés** | **57 sites** GitHub Pages —56 landings, une par produit, programme ou navigateur de l'écosystème, plus le portfolio— chacun déployé depuis son propre dépôt · les 57 vérifiés avec réponse `200` |
@@ -207,10 +207,10 @@ Technologies détectées dans les dépôts publics (manifestes, dépendances, co
 
 Le travail concret du profil vit dans un document à part : logiciels à télécharger et installer, laboratoires d'ingénierie, IA appliquée, cursus techniques complets et calcul scientifique, ainsi que la description de chaque fork de projets tiers présent dans le compte.
 
-- 📦 **Produits Avec Distribution Réelle** (22)
+- 📦 **Produits Avec Distribution Réelle** (23)
 - 🧪 **Laboratoires D’Ingénierie** (11)
 - 🤖 **IA Appliquée** (6)
-- 📚 **Cursus Techniques Complets** (21)
+- 📚 **Cursus Techniques Complets** (22)
 - 🔬 **Calcul Scientifique** (1)
 - 🍴 **Forks de projets tiers** (52)
 
@@ -218,11 +218,11 @@ Le travail concret du profil vit dans un document à part : logiciels à téléc
 
 ## 📚 Cursus Techniques Complets
 
-Programmes séquentiels en espagnol, avec état et périmètre déclarés par chaque dépôt. Les 21 programmes totalisent **14 550 classes**, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt ; le badge est actualisé chaque semaine et n’est pas écrit à la main.
+Programmes séquentiels en espagnol, avec état et périmètre déclarés par chaque dépôt. Les 22 programmes totalisent **16 798 classes**, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt ; le badge est actualisé chaque semaine et n’est pas écrit à la main.
 
-🌌 **En planification, hors décompte :** [Astronomie, astrophysique, sciences spatiales et ingénierie aérospatiale](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2 077 classes planifiées en 12 domaines et 133 blocs ; 397 avec texte rédigé et toutes encore à l'état E0. Formation indépendante, pas une habilitation professionnelle · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Inclus dans le décompte :** [Astronomie, astrophysique, sciences spatiales et ingénierie aérospatiale](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2 077 classes en 12 domaines et 133 blocs ; toutes avec texte rédigé et encore à l'état E0 (en attente de relecture disciplinaire et d'approbation de l'auteur). Formation indépendante, pas une habilitation professionnelle · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[Voir les 21 programmes complets](docs/ECOSYSTEM.fr.md#curricula)**
+👉 **[Voir les 22 programmes complets](docs/ECOSYSTEM.fr.md#curricula)**
 
 ## ⚡ Si Vous Avez 10 Minutes Pour M’Évaluer
 

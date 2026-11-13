@@ -26,12 +26,12 @@ Questa matrice amplia il campo professionale senza trasformare formazione, proge
 ## Evidenze riutilizzabili
 
 - **E1 — percorso tecnico:** Solution Architect, modernizzazione del legacy, Senior Full-Stack / Tech Lead e automazione con IA; oltre 16 anni dichiarati nel profilo.
-- **E2 — consegna e operatività:** 65 repository pubblici propri, 155 release, CI/CD, osservabilità, runbook, sicurezza della supply chain e artefatti installabili.
+- **E2 — consegna e operatività:** 66 repository pubblici propri, 156 release, CI/CD, osservabilità, runbook, sicurezza della supply chain e artefatti installabili.
 - **E3 — business e operatività:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [creazione d'impresa](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing e vendite](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) e [leadership esecutiva](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Sono prodotti e contenuti verificabili, non sostituiscono l'esperienza manageriale.
 - **E4 — progetti, processi e qualità:** roadmap, issue, specifiche, test, gate, metriche e documentazione per pubblico distribuiti nell'ecosistema.
 - **E5 — sicurezza e continuità:** famiglia RootCause, controlli, SBOM, analisi dei rischi, resilienza, incidenti ed evidenza riproducibile.
 - **E6 — dati e IA:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) e tracciabilità/gate umani.
-- **E7 — formazione:** 21 programmi, 14.550 lezioni, percorsi per ruolo, laboratori, manuali, portali offline e contenuti multiformato. Questo attesta progettazione e produzione formativa; la docenza formale e i risultati di apprendimento richiedono evidenza separata.
+- **E7 — formazione:** 22 programmi, 16.798 lezioni, percorsi per ruolo, laboratori, manuali, portali offline e contenuti multiformato. Questo attesta progettazione e produzione formativa; la docenza formale e i risultati di apprendimento richiedono evidenza separata.
 - **E8 — finanza e controllo:** [Finanza e Banca](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metriche e tracciabilità. Sono evidenza di conoscenza applicata negli artefatti, non responsabilità finanziaria aziendale.
 
 ## 1. Direzione tecnologica

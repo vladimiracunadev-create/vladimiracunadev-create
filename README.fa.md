@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#حرفه-ای)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.fa.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#ویژگی-های-فنی-کامل)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#ویژگی-های-فنی-کامل)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **پوشش تست** | GabySQL**850 تست**+  fu**503.8M**(0 وحشت)·عملیات Empresa در شیلی**230 تست** ·Automa**150 pytest** ·CI چند بعدیOS CI |
 | 🤖 **تولید کنندگان** | LangGraph RealWorld**25/25 بازگشت عملیاتی**(مورد های 01 تا 25، 100٪ پوشش)·بازیگران AI عملیاتی**23 عامل**با**69 معیاری برای evals** |
 | 🔗 **Polyglot یکپارچگی** | **20 مورد**فرستنده:n8n**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.· **18+ موتورهای DB** · **20+** ·11 الگو |
-| 📦 **Distribution** | **155 releases** across an ecosystem of **65 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **156 releases** across an ecosystem of **66 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **زنجیره تامین** | کدQL·Semgrep·Bandit·Trivy·Grype·گیتیکوس·تروفه ها·CycloneDX SBOM·کارت امتیاز |
-| 📚 **Curricula** | **14550 کلاس**قابل تایید در 21 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
+| 📚 **Curricula** | **16798 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
 | 🌐 **نمونه کارها** | نصب PWA· **22 زبان** · **154 PDF**تولید شده توسط خط لوله·CV Data API·Android·فانوس دریایی 100 |
 | 🔒 **تله** | عدم تقارن صفر در محصولات قانونی و عملکرد Empresa در هر ساخت (بدون Android)`INTERNET`اجازه) |
 | 🌐 **سایت های منتشر شده** | **57 صفحه**56 فرود، یک محصول، برنامه یا هدایت کننده اکوسیستم، به علاوه نمونه کارها – هر کدام از مخزن خود را·همه 57 تایید شده با HTTP`200` |
@@ -208,10 +208,10 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 کارهای عملی این پروفایل در سندی جداگانه آمده است: نرم‌افزارهایی که دانلود و نصب می‌شوند، آزمایشگاه‌های مهندسی، هوش مصنوعی کاربردی، برنامه‌های آموزشی فنی کامل و محاسبات علمی، به‌همراه توضیح هر fork از پروژه‌های اشخاص ثالث که در حساب وجود دارد.
 
-- 📦 **محصولات با توزیع واقعی** (22)
+- 📦 **محصولات با توزیع واقعی** (23)
 - 🧪 **آزمایشگاه های مهندسی** (11)
 - 🤖 **کاربردی AI** (6)
-- 📚 **ویژگی های فنی کامل** (21)
+- 📚 **ویژگی های فنی کامل** (22)
 - 🔬 **محاسبات علمی** (1)
 - 🍴 **forkهای پروژه‌های اشخاص ثالث** (52)
 
@@ -219,11 +219,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 📚ویژگی های فنی کامل
 
-برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 21 برنامه اضافه شده به**14550 کلاس**شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
+برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 22 برنامه اضافه شده به**16798 کلاس**شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
 
-🌌 **در حال برنامه‌ریزی، خارج از شمارش:** [نجوم، اخترفیزیک، علوم فضایی و مهندسی هوافضا](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — ۲٬۰۷۷ درس برنامه‌ریزی‌شده در ۱۲ حوزه و ۱۳۳ بلوک؛ برای ۳۹۷ درس متن نوشته شده و همه هنوز در وضعیت E0 هستند. آموزش مستقل، نه مجوز حرفه‌ای · [سایت](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **در شمارش گنجانده شده:** [نجوم، اخترفیزیک، علوم فضایی و مهندسی هوافضا](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — ۲٬۰۷۷ درس در ۱۲ حوزه و ۱۳۳ بلوک؛ برای همه متن نوشته شده و همه هنوز در وضعیت E0 هستند (در انتظار بازبینی تخصصی و تأیید نویسنده). آموزش مستقل، نه مجوز حرفه‌ای · [سایت](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
-👉 **[مشاهدهٔ هر ۲۱ برنامه](docs/ECOSYSTEM.fa.md#curricula)**
+👉 **[مشاهدهٔ هر ۲۲ برنامه](docs/ECOSYSTEM.fa.md#curricula)**
 
 ## ⚡اگر 10 دقیقه وقت دارید تا من را ارزیابی کنید
 

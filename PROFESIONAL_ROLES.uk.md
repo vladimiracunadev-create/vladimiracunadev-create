@@ -26,12 +26,12 @@
 ## Докази, придатні для повторного використання
 
 - **E1 — технічний послужний список:** Solution Architect, модернізація успадкованих систем, Senior Full-Stack / Tech Lead та автоматизація на основі ШІ; у профілі заявлено понад 16 років.
-- **E2 — постачання та експлуатація:** 65 власних публічних репозиторіїв, 155 релізів, CI/CD, спостережуваність, ранбуки, безпека ланцюга постачання та артефакти, що встановлюються.
+- **E2 — постачання та експлуатація:** 66 власних публічних репозиторіїв, 156 релізів, CI/CD, спостережуваність, ранбуки, безпека ланцюга постачання та артефакти, що встановлюються.
 - **E3 — бізнес та операції:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [створення бізнесу](https://github.com/vladimiracunadev-create/modern-business-creation-program), [маркетинг і продажі](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) та [управлінське лідерство](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Це перевірювані продукти й матеріали; вони не замінюють управлінського досвіду.
 - **E4 — проєкти, процеси та якість:** дорожні карти, issues, специфікації, тести, гейти, метрики та документація для різних аудиторій по всій екосистемі.
 - **E5 — безпека та безперервність:** сімейство RootCause, контролі, SBOM, аналіз ризиків, стійкість, інциденти та відтворювані докази.
 - **E6 — дані та ШІ:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) та простежуваність/людські гейти.
-- **E7 — освіта:** 21 програма, 14 550 занять, траєкторії за ролями, лабораторії, посібники, офлайн-портали та контент у кількох форматах. Це підтверджує проєктування й виробництво навчання; формальне викладання та результати навчання потребують окремих доказів.
+- **E7 — освіта:** 22 програма, 16 798 занять, траєкторії за ролями, лабораторії, посібники, офлайн-портали та контент у кількох форматах. Це підтверджує проєктування й виробництво навчання; формальне викладання та результати навчання потребують окремих доказів.
 - **E8 — фінанси та контроль:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, метрики та простежуваність. Це докази прикладних знань в артефактах, а не корпоративної фінансової відповідальності.
 
 ## 1. Технологічне лідерство

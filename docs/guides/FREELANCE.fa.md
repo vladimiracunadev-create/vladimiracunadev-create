@@ -16,7 +16,7 @@
 | 📱 **برنامه‌های چندپلتفرمی** | Android، Windows، macOS و PWA با Flutter یا Tauri، همراه با انتشار و checksum | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **امنیت و زنجیرهٔ تأمین** | دروازه‌های CI، اسکن اسرار و وابستگی‌ها، SBOM، ممیزی مخزن | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **زیرساخت تکرارپذیر** | Docker/Compose، WSL، مجازی‌سازی، AWS و Terraform آمادهٔ راه‌اندازی | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **آموزش فنی** | برنامه‌ها و مواد برای تیم‌ها، با مسیرهای مبتنی بر نقش | [۲۱ برنامه](../ECOSYSTEM.fa.md#curricula) |
+| 🎓 **آموزش فنی** | برنامه‌ها و مواد برای تیم‌ها، با مسیرهای مبتنی بر نقش | [۲۲ برنامه](../ECOSYSTEM.fa.md#curricula) |
 
 ## شیوهٔ کار من
 

@@ -26,12 +26,12 @@ Matriks ini memperluas bidang profesional tanpa mengubah pendidikan, proyek prib
 ## Bukti yang dapat dipakai ulang
 
 - **E1 — rekam jejak teknis:** Solution Architect, modernisasi sistem lama, Senior Full-Stack / Tech Lead, dan otomasi AI; profil menyatakan lebih dari 16 tahun.
-- **E2 — pengiriman dan operasi:** 65 repositori publik milik sendiri, 155 rilis, CI/CD, observabilitas, runbook, keamanan rantai pasok, dan artefak yang dapat dipasang.
+- **E2 — pengiriman dan operasi:** 66 repositori publik milik sendiri, 156 rilis, CI/CD, observabilitas, runbook, keamanan rantai pasok, dan artefak yang dapat dipasang.
 - **E3 — bisnis dan operasi:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [pendirian bisnis](https://github.com/vladimiracunadev-create/modern-business-creation-program), [pemasaran dan penjualan](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program), dan [kepemimpinan eksekutif](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Semuanya produk dan konten yang dapat diverifikasi; tidak menggantikan pengalaman manajerial.
 - **E4 — proyek, proses, dan kualitas:** peta jalan, issue, spesifikasi, pengujian, gerbang mutu, metrik, dan dokumentasi per jenis pembaca yang tersebar di seluruh ekosistem.
 - **E5 — keamanan dan kesinambungan:** keluarga RootCause, kontrol, SBOM, analisis risiko, ketahanan, insiden, dan bukti yang dapat direproduksi.
 - **E6 — data dan AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents), serta keterlacakan/gerbang persetujuan manusia.
-- **E7 — pendidikan:** 21 program, 14.550 kelas, jalur belajar berdasarkan peran, lab, manual, portal luring, dan konten multiformat. Ini membuktikan perancangan dan produksi pendidikan; pengajaran formal dan capaian belajar memerlukan bukti terpisah.
+- **E7 — pendidikan:** 22 program, 16.798 kelas, jalur belajar berdasarkan peran, lab, manual, portal luring, dan konten multiformat. Ini membuktikan perancangan dan produksi pendidikan; pengajaran formal dan capaian belajar memerlukan bukti terpisah.
 - **E8 — keuangan dan pengendalian:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metrik, dan keterlacakan. Ini bukti pengetahuan yang diterapkan pada artefak, bukan tanggung jawab keuangan korporasi.
 
 ## 1. Kepemimpinan teknologi

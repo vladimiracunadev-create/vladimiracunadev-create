@@ -16,7 +16,7 @@ Je résous des problèmes logiciels de bout en bout : diagnostic d'abord, livrai
 | 📱 **Applications multiplateformes** | Android, Windows, macOS et PWA avec Flutter ou Tauri, avec releases et checksums | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Sécurité et chaîne d'approvisionnement** | Garde-fous CI, analyse des secrets et des dépendances, SBOM, audits de dépôts | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Infrastructure reproductible** | Docker/Compose, WSL, virtualisation, AWS et Terraform prêts à démarrer | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Formation technique** | Programmes et supports pour équipes, avec parcours par rôle | [21 programmes](../ECOSYSTEM.fr.md#curricula) |
+| 🎓 **Formation technique** | Programmes et supports pour équipes, avec parcours par rôle | [22 programmes](../ECOSYSTEM.fr.md#curricula) |
 
 ## Ma façon de travailler
 

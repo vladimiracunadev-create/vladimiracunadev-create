@@ -4,7 +4,7 @@
 
 ## W jednym zdaniu
 
-21 sekwencyjnych programów po hiszpańsku, z 14 550 zajęciami liczonymi przez workflow; każdy deklaruje swój status redakcyjny i ograniczenia.
+22 sekwencyjnych programów po hiszpańsku, z 16 798 zajęciami liczonymi przez workflow; każdy deklaruje swój status redakcyjny i ograniczenia.
 
 ## Wybierz według celu
 
@@ -32,7 +32,7 @@ Nie wiesz, od czego zacząć? [Lifelong Learning Ecosystem](https://github.com/v
 - **Psychometria:** zaplanowano 40 zajęć, napisano 5.
 - **Porównanie frameworków:** zaplanowano 149 zajęć, zbudowano 70.
 - **Machine Operator:** jeszcze bez działającego symulatora.
-- **Astronomia i lotnictwo-kosmonautyka:** program w planowaniu, poza zliczaniem; [Kompletne programy nauczania technicznego](../ECOSYSTEM.pl.md#curricula).
+- **Astronomia i lotnictwo-kosmonautyka:** kompletny program, teraz wliczony do zliczania; [Kompletne programy nauczania technicznego](../ECOSYSTEM.pl.md#curricula).
 - Programy to niezależne kształcenie; nie nadają tytułów ani certyfikatów.
 
 ## Następny krok

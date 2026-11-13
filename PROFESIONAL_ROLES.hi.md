@@ -26,12 +26,12 @@
 ## पुनः उपयोग योग्य प्रमाण
 
 - **E1 — तकनीकी कार्य-इतिहास:** सॉल्यूशन आर्किटेक्ट, लीगेसी आधुनिकीकरण, Senior Full-Stack / Tech Lead और AI स्वचालन; प्रोफ़ाइल में 16+ वर्ष घोषित हैं।
-- **E2 — डिलीवरी और संचालन:** 65 स्वयं के सार्वजनिक रिपॉज़िटरी, 155 रिलीज़, CI/CD, ऑब्ज़र्वेबिलिटी, रनबुक, सप्लाई-चेन सुरक्षा और इंस्टॉल करने योग्य कृतियाँ।
+- **E2 — डिलीवरी और संचालन:** 66 स्वयं के सार्वजनिक रिपॉज़िटरी, 156 रिलीज़, CI/CD, ऑब्ज़र्वेबिलिटी, रनबुक, सप्लाई-चेन सुरक्षा और इंस्टॉल करने योग्य कृतियाँ।
 - **E3 — व्यवसाय और संचालन:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [व्यवसाय निर्माण](https://github.com/vladimiracunadev-create/modern-business-creation-program), [मार्केटिंग और बिक्री](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) और [कार्यकारी नेतृत्व](https://github.com/vladimiracunadev-create/executive-leadership-founder-program)। ये सत्यापन योग्य उत्पाद और सामग्री हैं; ये प्रबंधन अनुभव का स्थान नहीं लेते।
 - **E4 — परियोजनाएँ, प्रक्रियाएँ और गुणवत्ता:** रोडमैप, issues, विनिर्देश, परीक्षण, गेट, मीट्रिक और पूरे इकोसिस्टम में फैला पाठक-वर्ग के अनुसार प्रलेखन।
 - **E5 — सुरक्षा और निरंतरता:** RootCause परिवार, नियंत्रण, SBOM, जोखिम विश्लेषण, सुदृढ़ता, घटनाएँ और पुनरुत्पादन योग्य प्रमाण।
 - **E6 — डेटा और AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) और पता लगाने की क्षमता/मानवीय गेट।
-- **E7 — शिक्षा:** 21 कार्यक्रम, 14,550 कक्षाएँ, भूमिका-आधारित मार्ग, लैब, मैनुअल, ऑफ़लाइन पोर्टल और बहु-प्रारूप सामग्री। यह शैक्षिक डिज़ाइन और निर्माण को प्रमाणित करता है; औपचारिक शिक्षण और सीखने के परिणामों के लिए अलग प्रमाण चाहिए।
+- **E7 — शिक्षा:** 22 कार्यक्रम, 16,798 कक्षाएँ, भूमिका-आधारित मार्ग, लैब, मैनुअल, ऑफ़लाइन पोर्टल और बहु-प्रारूप सामग्री। यह शैक्षिक डिज़ाइन और निर्माण को प्रमाणित करता है; औपचारिक शिक्षण और सीखने के परिणामों के लिए अलग प्रमाण चाहिए।
 - **E8 — वित्त और नियंत्रण:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, मीट्रिक और पता लगाने की क्षमता। ये कृतियों में लागू किए गए ज्ञान के प्रमाण हैं, कॉर्पोरेट वित्तीय ज़िम्मेदारी नहीं।
 
 ## 1. प्रौद्योगिकी नेतृत्व

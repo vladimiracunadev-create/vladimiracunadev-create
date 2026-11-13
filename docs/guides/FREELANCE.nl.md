@@ -16,7 +16,7 @@ Ik los softwareproblemen van begin tot eind op: eerst diagnose, daarna reproduce
 | 📱 **Cross-platform apps** | Android, Windows, macOS en PWA met Flutter of Tauri, met releases en checksums | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Beveiliging en toeleveringsketen** | CI-gates, scans op geheimen en afhankelijkheden, SBOM, repository-audits | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Reproduceerbare infrastructuur** | Docker/Compose, WSL, virtualisatie, AWS en Terraform klaar om te starten | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Technische opleiding** | Programma's en materiaal voor teams, met rolgebaseerde paden | [21 programma's](../ECOSYSTEM.nl.md#curricula) |
+| 🎓 **Technische opleiding** | Programma's en materiaal voor teams, met rolgebaseerde paden | [22 programma's](../ECOSYSTEM.nl.md#curricula) |
 
 ## Hoe ik werk
 

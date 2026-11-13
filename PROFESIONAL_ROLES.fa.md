@@ -26,12 +26,12 @@
 ## شواهد قابل استفادهٔ مجدد
 
 - **E1 — سابقهٔ فنی:** معمار راه‌حل، نوسازی سامانه‌های قدیمی، Senior Full-Stack / Tech Lead و خودکارسازی با هوش مصنوعی؛ نمایه بیش از ۱۶ سال را اعلام می‌کند.
-- **E2 — تحویل و عملیات:** ۶۵ مخزن عمومی شخصی، ۱۵۵ انتشار، CI/CD، مشاهده‌پذیری، راهنمای عملیاتی، امنیت زنجیرهٔ تأمین و دستاوردهای قابل نصب.
+- **E2 — تحویل و عملیات:** ۶۶ مخزن عمومی شخصی، ۱۵۶ انتشار، CI/CD، مشاهده‌پذیری، راهنمای عملیاتی، امنیت زنجیرهٔ تأمین و دستاوردهای قابل نصب.
 - **E3 — کسب‌وکار و عملیات:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile)، [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system)، [ایجاد کسب‌وکار](https://github.com/vladimiracunadev-create/modern-business-creation-program)، [بازاریابی و فروش](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) و [رهبری اجرایی](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). محصولات و محتوای قابل راستی‌آزمایی هستند؛ جایگزین تجربهٔ مدیریتی نمی‌شوند.
 - **E4 — پروژه‌ها، فرایندها و کیفیت:** نقشه‌های راه، issueها، مشخصات، آزمون‌ها، دروازه‌ها، سنجه‌ها و مستندات مخصوص هر گروه مخاطب که در سراسر اکوسیستم پراکنده است.
 - **E5 — امنیت و تداوم:** خانوادهٔ RootCause، کنترل‌ها، SBOM، تحلیل ریسک، تاب‌آوری، رخدادها و شواهد قابل بازتولید.
 - **E6 — داده و هوش مصنوعی:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry)، [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld)، [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) و ردیابی‌پذیری/دروازه‌های انسانی.
-- **E7 — آموزش:** ۲۱ برنامه، ۱۴٬۵۵۰ کلاس، مسیرهای مبتنی بر نقش، آزمایشگاه‌ها، راهنماها، پورتال‌های آفلاین و محتوای چندقالبی. این موارد طراحی و تولید آموزشی را اثبات می‌کنند؛ تدریس رسمی و نتایج یادگیری به شواهد جداگانه نیاز دارند.
+- **E7 — آموزش:** ۲۲ برنامه، ۱۶٬۷۹۸ کلاس، مسیرهای مبتنی بر نقش، آزمایشگاه‌ها، راهنماها، پورتال‌های آفلاین و محتوای چندقالبی. این موارد طراحی و تولید آموزشی را اثبات می‌کنند؛ تدریس رسمی و نتایج یادگیری به شواهد جداگانه نیاز دارند.
 - **E8 — مالی و کنترل:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program)، FinOps، سنجه‌ها و ردیابی‌پذیری. این‌ها شواهد دانش به‌کاررفته در دستاوردها هستند، نه مسئولیت مالی سازمانی.
 
 ## 1. رهبری فناوری

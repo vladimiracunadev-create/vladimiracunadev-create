@@ -26,12 +26,12 @@
 ## Повторно используемые свидетельства
 
 - **E1 — технический послужной список:** Solution Architect, модернизация унаследованных систем, Senior Full-Stack / Tech Lead и ИИ-автоматизация; в профиле заявлено более 16 лет.
-- **E2 — поставка и эксплуатация:** 65 собственных публичных репозиториев, 155 релизов, CI/CD, наблюдаемость, ранбуки, безопасность цепочки поставок и устанавливаемые артефакты.
+- **E2 — поставка и эксплуатация:** 66 собственных публичных репозиториев, 156 релизов, CI/CD, наблюдаемость, ранбуки, безопасность цепочки поставок и устанавливаемые артефакты.
 - **E3 — бизнес и операции:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [создание бизнеса](https://github.com/vladimiracunadev-create/modern-business-creation-program), [маркетинг и продажи](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) и [управленческое лидерство](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Это проверяемые продукты и материалы; они не заменяют управленческий опыт.
 - **E4 — проекты, процессы и качество:** дорожные карты, issues, спецификации, тесты, гейты, метрики и документация для разных аудиторий по всей экосистеме.
 - **E5 — безопасность и непрерывность:** семейство RootCause, контроли, SBOM, анализ рисков, устойчивость, инциденты и воспроизводимые свидетельства.
 - **E6 — данные и ИИ:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) и трассируемость/человеческие гейты.
-- **E7 — образование:** 21 программа, 14 550 занятий, траектории по ролям, лаборатории, руководства, офлайн-порталы и контент в нескольких форматах. Это подтверждает проектирование и производство обучения; формальное преподавание и результаты обучения требуют отдельных свидетельств.
+- **E7 — образование:** 22 программа, 16 798 занятий, траектории по ролям, лаборатории, руководства, офлайн-порталы и контент в нескольких форматах. Это подтверждает проектирование и производство обучения; формальное преподавание и результаты обучения требуют отдельных свидетельств.
 - **E8 — финансы и контроль:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, метрики и трассируемость. Это свидетельства прикладных знаний в артефактах, а не корпоративной финансовой ответственности.
 
 ## 1. Технологическое лидерство

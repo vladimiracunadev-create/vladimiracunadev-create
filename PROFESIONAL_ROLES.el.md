@@ -26,12 +26,12 @@
 ## Επαναχρησιμοποιήσιμα τεκμήρια
 
 - **E1 — τεχνικό ιστορικό:** Solution Architect, εκσυγχρονισμός παλαιών συστημάτων, Senior Full-Stack / Tech Lead και αυτοματοποίηση με ΤΝ· το προφίλ δηλώνει 16+ έτη.
-- **E2 — παράδοση και λειτουργία:** 65 ιδιόκτητα δημόσια αποθετήρια, 155 εκδόσεις, CI/CD, παρατηρησιμότητα, runbooks, ασφάλεια εφοδιαστικής αλυσίδας και εγκαταστάσιμα παραδοτέα.
+- **E2 — παράδοση και λειτουργία:** 66 ιδιόκτητα δημόσια αποθετήρια, 156 εκδόσεις, CI/CD, παρατηρησιμότητα, runbooks, ασφάλεια εφοδιαστικής αλυσίδας και εγκαταστάσιμα παραδοτέα.
 - **E3 — επιχείρηση και λειτουργία:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [δημιουργία επιχείρησης](https://github.com/vladimiracunadev-create/modern-business-creation-program), [μάρκετινγκ και πωλήσεις](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) και [ηγεσία στελεχών](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Είναι επαληθεύσιμα προϊόντα και περιεχόμενο· δεν αντικαθιστούν τη διοικητική εμπειρία.
 - **E4 — έργα, διαδικασίες και ποιότητα:** χάρτες πορείας, issues, προδιαγραφές, δοκιμές, πύλες, μετρικές και τεκμηρίωση ανά κοινό, διάσπαρτη σε όλο το οικοσύστημα.
 - **E5 — ασφάλεια και συνέχεια:** η οικογένεια RootCause, έλεγχοι, SBOM, ανάλυση κινδύνου, ανθεκτικότητα, περιστατικά και αναπαραγώγιμα τεκμήρια.
 - **E6 — δεδομένα και ΤΝ:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) και ιχνηλασιμότητα/ανθρώπινες πύλες.
-- **E7 — εκπαίδευση:** 21 προγράμματα, 14.550 μαθήματα, διαδρομές ανά ρόλο, εργαστήρια, εγχειρίδια, πύλες εκτός σύνδεσης και περιεχόμενο πολλών μορφών. Αυτό αποδεικνύει εκπαιδευτικό σχεδιασμό και παραγωγή· η τυπική διδασκαλία και τα μαθησιακά αποτελέσματα απαιτούν ξεχωριστά τεκμήρια.
+- **E7 — εκπαίδευση:** 22 προγράμματα, 16.798 μαθήματα, διαδρομές ανά ρόλο, εργαστήρια, εγχειρίδια, πύλες εκτός σύνδεσης και περιεχόμενο πολλών μορφών. Αυτό αποδεικνύει εκπαιδευτικό σχεδιασμό και παραγωγή· η τυπική διδασκαλία και τα μαθησιακά αποτελέσματα απαιτούν ξεχωριστά τεκμήρια.
 - **E8 — χρηματοοικονομικά και έλεγχος:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, μετρικές και ιχνηλασιμότητα. Είναι τεκμήρια εφαρμοσμένης γνώσης σε παραδοτέα, όχι εταιρική χρηματοοικονομική ευθύνη.
 
 ## 1. Τεχνολογική ηγεσία

@@ -16,7 +16,7 @@
 | 📱 **क्रॉस-प्लेटफ़ॉर्म ऐप** | Flutter या Tauri से Android, Windows, macOS और PWA, रिलीज़ और चेकसम के साथ | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **सुरक्षा और सप्लाई चेन** | CI गेट, सीक्रेट और निर्भरता स्कैन, SBOM, रिपॉज़िटरी ऑडिट | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **पुनरुत्पादन-योग्य इंफ्रास्ट्रक्चर** | चलाने के लिए तैयार Docker/Compose, WSL, वर्चुअलाइज़ेशन, AWS और Terraform | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **तकनीकी प्रशिक्षण** | टीमों के लिए कार्यक्रम और सामग्री, भूमिका-आधारित मार्गों के साथ | [21 कार्यक्रम](../ECOSYSTEM.hi.md#curricula) |
+| 🎓 **तकनीकी प्रशिक्षण** | टीमों के लिए कार्यक्रम और सामग्री, भूमिका-आधारित मार्गों के साथ | [22 कार्यक्रम](../ECOSYSTEM.hi.md#curricula) |
 
 ## मैं कैसे काम करता हूँ
 

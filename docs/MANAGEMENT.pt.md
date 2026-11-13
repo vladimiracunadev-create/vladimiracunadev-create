@@ -18,7 +18,7 @@ Esta ampliação não afirma que todos estes cargos tenham sido exercidos. Prior
 | **Comercial** | Pré-vendas · Solutions Consultant · KAM técnico · Business Development | **Transferível / possibilidade** | Nenhuma | Tradução de valor; quota, carteira e negociação contratual não são alegadas |
 | **Finanças e controle** | Orçamento/custos · Avaliação · FP&A · Controle de gestão | **Possibilidade** | Nenhuma | Finanças e FinOps; faltam orçamento e demonstrações reais |
 | **Qualidade** | Quality/Process Analyst · Auditor · Melhoria contínua | **Transferível / possibilidade** | Nenhuma/ocasional | Gates, testes e métricas; falta ownership formal de sistema de qualidade |
-| **Educação** | Instrutor · Facilitador · Coordenador acadêmico · EdTech/Design Instrucional | **Transferível / possibilidade** | Nenhuma/ocasional | 21 programas e 14.550 aulas; docência formal deve ser comprovada separadamente |
+| **Educação** | Instrutor · Facilitador · Coordenador acadêmico · EdTech/Design Instrucional | **Transferível / possibilidade** | Nenhuma/ocasional | 22 programas e 16.798 aulas; docência formal deve ser comprovada separadamente |
 | **Logística** | Compras · Abastecimento · Fornecedores · Coordenação operacional | **Possibilidade** | Nenhuma | Base de processos; compras, inventário e fornecedores reais são brechas |
 | **Dados e IA** | Data Steward · Data Governance · Adoção/Governança de IA | **Transferível / possibilidade** | Nenhuma/ocasional | Datasets auditáveis e gates humanos; políticas e comitês organizacionais são brecha |
 | **Setor público** | Modernização · Coordenador TIC · Projetos digitais · Planejamento público | **Possibilidade** | Nenhuma | Contexto chileno e rastreabilidade; compras públicas e experiência setorial não são alegadas |

@@ -26,12 +26,12 @@ Ta macierz poszerza pole zawodowe, nie przekształcając wykształcenia, projekt
 ## Dowody do ponownego wykorzystania
 
 - **E1 — historia techniczna:** Solution Architect, modernizacja systemów dziedziczonych, Senior Full-Stack / Tech Lead i automatyzacja z użyciem AI; w profilu zadeklarowano ponad 16 lat.
-- **E2 — dostarczanie i operacje:** 65 własnych publicznych repozytoriów, 155 wydań, CI/CD, obserwowalność, runbooki, bezpieczeństwo łańcucha dostaw i instalowalne artefakty.
+- **E2 — dostarczanie i operacje:** 66 własnych publicznych repozytoriów, 156 wydań, CI/CD, obserwowalność, runbooki, bezpieczeństwo łańcucha dostaw i instalowalne artefakty.
 - **E3 — biznes i operacje:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [zakładanie firmy](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing i sprzedaż](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) oraz [przywództwo kadry zarządzającej](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). To weryfikowalne produkty i treści; nie zastępują doświadczenia zarządczego.
 - **E4 — projekty, procesy i jakość:** mapy drogowe, issues, specyfikacje, testy, bramki, metryki oraz dokumentacja dla różnych odbiorców rozproszona w całym ekosystemie.
 - **E5 — bezpieczeństwo i ciągłość:** rodzina RootCause, kontrole, SBOM, analiza ryzyka, odporność, incydenty i odtwarzalne dowody.
 - **E6 — dane i AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) oraz identyfikowalność/bramki z udziałem człowieka.
-- **E7 — edukacja:** 21 programów, 14 550 zajęć, ścieżki według ról, laboratoria, podręczniki, portale offline i treści w wielu formatach. Dowodzi to projektowania i produkcji edukacyjnej; formalne nauczanie i efekty uczenia się wymagają odrębnych dowodów.
+- **E7 — edukacja:** 22 programów, 16 798 zajęć, ścieżki według ról, laboratoria, podręczniki, portale offline i treści w wielu formatach. Dowodzi to projektowania i produkcji edukacyjnej; formalne nauczanie i efekty uczenia się wymagają odrębnych dowodów.
 - **E8 — finanse i kontrola:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metryki i identyfikowalność. To dowody wiedzy zastosowanej w artefaktach, a nie korporacyjnej odpowiedzialności finansowej.
 
 ## 1. Przywództwo technologiczne

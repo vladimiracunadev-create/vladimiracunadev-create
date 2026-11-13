@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#專業範圍)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.zh-TW.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#完成技術課程)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#完成技術課程)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **測試覆蓋率** | 蓋比SQL**850個測試**+ 模糊過**503.8M次查詢**(0恐慌) (笑聲)·智利企業**230次試驗** ·自動**150個火試** ·多作業系統分類 |
 | 🤖 **生產級製劑** | 朗格勒真實世界**25/25 業務後端**(病例01-25,100%覆蓋)·業務助理**23名特工人員**與**69個確定性評估** |
 | 🔗 **多塊塊融合** | **20個案件**傳送者 n8n 收發者-**19起業務**,個人審計 與多克 -· **18+ DB 發動機** · **20個以上集裝箱** ·11種模式 |
-| 📦 **分發** | **155次釋放**跨越生態系統的**65個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
+| 📦 **分發** | **156次釋放**跨越生態系統的**66個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
 | 🛡️ **供應鏈** | 程式碼QL·衛星·匪幫·特里維·格萊普·巨頭·旋轉木偶·旋風DX SBOM·計分卡 |
-| 📚 **課程** | **14 550個班級**21個方案可核查,按[a workflow](.github/workflows/stats.yml)或可核查的來源,·每個節目都宣佈其編輯地位和限制 |
+| 📚 **課程** | **16 798個班級**22個方案可核查,按[a workflow](.github/workflows/stats.yml)或可核查的來源,·每個節目都宣佈其編輯地位和限制 |
 | 🌐 **組合** | 可安裝的 PWA· **22種語言** · **154個PDF**管道產生的·CV 資料 API·電容安卓·燈塔 100 |
 | 🔒 **遙測** | 法證產品和智利企業的零遙測——在每個建築中都得到核實(無Android)`INTERNET`許可權) |
 | 🌐 **出版網站** | **57個基特胡佈網頁網站**-56次著陸,每件產品、程式或生態系統導航員一次,加上組合——從自己的儲存庫部署·全部57個已與HTTP核實`200` |
@@ -208,10 +208,10 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 本檔案的實作成果集中在獨立文件中：可下載安裝的軟體、工程實驗室、應用 AI、完整技術課程與科學運算，以及帳號中每個第三方專案 fork 的說明。
 
-- 📦 **具有實際分佈的產品** (22)
+- 📦 **具有實際分佈的產品** (23)
 - 🧪 **工程實驗室** (11)
 - 🤖 **應用AI** (6)
-- 📚 **完成技術課程** (21)
+- 📚 **完成技術課程** (22)
 - 🔬 **科學計算** (1)
 - 🍴 **第三方專案的 fork** (52)
 
@@ -219,11 +219,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 📚完成技術課程
 
-西班牙語序列程式,每個儲存器都宣告狀態和範圍. 21個方案加起來是:**14 550個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
+西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**16 798個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
-🌌 **規劃中，不計入統計：**[天文學、天體物理學、太空科學與航空太空工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 個領域、133 個模組共 2,077 堂規劃課程；其中 397 堂已有正文，全部仍處於 E0 狀態。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+🌌 **已計入統計：**[天文學、天體物理學、太空科學與航空太空工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 個領域、133 個模組共 2,077 堂課程；全部已有正文，仍處於 E0 狀態（待專業審閱與作者核准）。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
 
-👉 **[查看全部 21 個課程](docs/ECOSYSTEM.zh-TW.md#curricula)**
+👉 **[查看全部 22 個課程](docs/ECOSYSTEM.zh-TW.md#curricula)**
 
 ## ⚡如果你有十分鐘的時間來評價我
 

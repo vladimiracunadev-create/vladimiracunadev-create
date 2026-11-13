@@ -16,7 +16,7 @@
 | 📱 **跨平台應用程式** | 使用 Flutter 或 Tauri 的 Android、Windows、macOS 與 PWA，附發行與校驗碼 | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **資安與供應鏈** | CI 關卡、密鑰與相依套件掃描、SBOM、儲存庫稽核 | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **可重現的基礎設施** | 隨時可啟動的 Docker/Compose、WSL、虛擬化、AWS 與 Terraform | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **技術培訓** | 面向團隊的課程與教材，含依角色劃分的路徑 | [21 個課程](../ECOSYSTEM.zh-TW.md#curricula) |
+| 🎓 **技術培訓** | 面向團隊的課程與教材，含依角色劃分的路徑 | [22 個課程](../ECOSYSTEM.zh-TW.md#curricula) |
 
 ## 我如何工作
 

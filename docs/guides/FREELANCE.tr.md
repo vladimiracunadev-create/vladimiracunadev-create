@@ -16,7 +16,7 @@ Yazılım sorunlarını uçtan uca çözerim: önce teşhis, sonra ekibinizin s�
 | 📱 **Çok platformlu uygulamalar** | Flutter veya Tauri ile Android, Windows, macOS ve PWA; sürümler ve sağlama toplamlarıyla | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Güvenlik ve tedarik zinciri** | CI kapıları, gizli bilgi ve bağımlılık taraması, SBOM, depo denetimleri | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Tekrarlanabilir altyapı** | Ayağa kaldırmaya hazır Docker/Compose, WSL, sanallaştırma, AWS ve Terraform | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Teknik eğitim** | Ekipler için programlar ve materyal, role göre yollarla | [21 program](../ECOSYSTEM.tr.md#curricula) |
+| 🎓 **Teknik eğitim** | Ekipler için programlar ve materyal, role göre yollarla | [22 program](../ECOSYSTEM.tr.md#curricula) |
 
 ## Nasıl çalışıyorum
 

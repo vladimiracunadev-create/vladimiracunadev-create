@@ -4,7 +4,7 @@
 
 ## In one line
 
-21 sequential programs in Spanish, with 14,550 classes counted by a workflow, each declaring its editorial status and its limits.
+22 sequential programs in Spanish, with 16,798 classes counted by a workflow, each declaring its editorial status and its limits.
 
 ## Choose by goal
 
@@ -32,7 +32,7 @@ Not sure where to go? The [Lifelong Learning Ecosystem](https://github.com/vladi
 - **Psychometrics:** 40 classes planned, 5 written.
 - **Compared frameworks:** 149 classes planned, 70 built.
 - **Machine Operator:** no runnable simulator yet.
-- **Astronomy and aerospace:** a program in planning, outside the count; [see details](../ECOSYSTEM.en.md#curricula).
+- **Astronomy and aerospace:** a complete program, now included in the count; [see details](../ECOSYSTEM.en.md#curricula).
 - The programs are independent training; they grant no degrees or certifications.
 
 ## Next step

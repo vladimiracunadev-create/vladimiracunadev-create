@@ -34,6 +34,7 @@
 | [🎻 **My Violin Adventure**](https://github.com/vladimiracunadev-create/violin-adventure) | 兒童教育應用:花色調奏器、錄音鍾精確的節拍器、有真琴的歌曲 | 陶里語 2·反應·TS 調製 | **編號: 1.3.0** ·視窗·機器人·連結·macOS 系統·太平洋婦女協會· [landing](https://vladimiracunadev-create.github.io/violin-adventure/) |
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | 接弦的弟弟: 6個世界的24個課,6個弦調奏者,無漂流的節奏, 和11個真正的吉他音符 | 陶里語 2·反應·TS 調製 | **單曲 1. 0.0** ·視窗·機器人·連結·macOS 系統·iOS 系統·太平洋婦女協會·沒有賬戶、廣告或線上依賴· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 10歲的Cueca:8級24個班級,72個活動,6個脈衝實驗室(3+3和2+2+2),以及可訪問的地平圖. 宣告如下:**補充,而不是替換**教師和文化傳承者 | 小蝶 , 蝶 , 蝶 , 蝶 , 蝶 , 蝶·達特 | **以0.2.0計** ·7+號機器人·Windows 10/11 視窗 10/11·APK 自動交換·EXE 資料·模里西斯·行動式· **29個測試+2個驗證器** ·沒有相機、麥克風、賬戶、廣告或網際網路· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
+| [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI 多渠道閘道器：13 項服務、69 個操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHub……），覆蓋 REST、GraphQL、SOAP 和 gRPC。OAuth 加密、Webhook 簽名、可對賬的冪等；查詢不等於授權傳送 | Python · FastAPI | **v0.3.0** · 尚未釋出 release · **162 項測試**（模擬傳輸，未使用真實賬戶，未傳送任何訊息）· MIT · Linux · macOS · Windows |
 
 ## 🧪工程實驗室
 
@@ -66,7 +67,7 @@
 
 ## 📚完成技術課程
 
-西班牙語序列程式,每個儲存器都宣告狀態和範圍. 21個方案加起來是:**14 550個班級**,計算為[a workflow](../.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
+西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**16 798個班級**,計算為[a workflow](../.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)是一個聯邦指南針,透過視覺地圖和影象圖連線6個地區的30個真實路徑[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);不計為附加程式。
 
@@ -75,7 +76,7 @@
 | [🔢 **Computational Mathematics**](https://github.com/vladimiracunadev-create/computational-mathematics-program) | 360 | 從依靠手指到複製出紙· **360起在CI核實的決定性示威** ·1 080個筆記本·489個術語表· [site](https://vladimiracunadev-create.github.io/computational-mathematics-program/) |
 | [🏦 **Finance and Banking**](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program) | 356 | 534小時·金融數學和《國際財務報告準則》 ——信貸、風險、巴塞爾三號、公開金融、DLT、穩定幣和MICA· **27個案件** · **298次測試** · [site](https://vladimiracunadev-create.github.io/finance-and-banking-evolution-program/) |
 | [🎮 **GameDev**](https://github.com/vladimiracunadev-create/modern-gamedev-program) | 352 | 數學和C#/C++/GDScript → 陰影器,AI,多人遊戲,VR/AR·哥多特語·團結·虛幻· **在CI中核實的10個戈多實驗室**(301次檢查)· [site](https://vladimiracunadev-create.github.io/modern-gamedev-program/) |
-| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 370 | **編號: 1.3.0** ·21個部分·– 紅色團隊,DFIR,雲安全,開發dev,CTF,和遊戲安全·對映到**7份證書** ·離線Android/web app·PDF 手冊·核實了CI、安保和網頁· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
+| [🛡️ **Cybersecurity**](https://github.com/vladimiracunadev-create/modern-cybersecurity-program) | 381 | **編號: 1.3.0** ·22個部分·– 紅色團隊,DFIR,雲安全,開發dev,CTF,和遊戲安全·對映到**7份證書** ·離線Android/web app·PDF 手冊·核實了CI、安保和網頁· [site](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/) |
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24個部分,包括業務定義、計量單、可核查的參考書目和智利的監管背景· **千分之一.6.0 千分之一.** ·1.29M字數·17個基於角色的路徑· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | 在智利建立和經營一家真正的公司:從想法到成立、稅務當局、業務、危機和退出·360 個圖表·1 251個任期詞彙表·1 548頁手冊· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84個編·60屆綜合會議·35道路徑·可追蹤來源·下行、離線閱讀器和 GitHub Pages· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
@@ -89,11 +90,11 @@
 | [🌐 **Comparative Programming**](https://github.com/vladimiracunadev-create/polyglot-programming-labs) | 176 | 有個概念**10種語言**由CI核實 -**1 360項執行**+ 加上**1 632個方案**以活語言(COBOL、Fortran、Ada、RPG、MUPS......)和地圖集**15個家庭的60張卡片** ·維基百科中的相關條目: 維基語錄連結:名人名言 - 分類· [site](https://vladimiracunadev-create.github.io/polyglot-programming-labs/) |
 | [🧩 **Frameworks Compared**](https://github.com/vladimiracunadev-create/framework-ecosystems-labs) | 149 | 一份沒有介面卡的可執行合同,針對快遞、快活API、斯普林布特、ASP.NET、Django、Rails、Laravel、React、Vue、Svelte等·12個部分· **70個建築班級** · **397起在CI核實的案件** · **210 ISBN/DOI來源 網際網路檔案館的存檔,存檔日期2013-03-02.** · [site](https://vladimiracunadev-create.github.io/framework-ecosystems-labs/) |
 | [🗄️ **Databases**](https://github.com/vladimiracunadev-create/database-systems-labs) | 74 | **單曲3. 0.0** ·15個部分的資料庫工程·230小時· **每項索賠的可核實來源**:120 有ISBN,DOI,或標準來源.·27個引擎破了同樣的案子·306個術語表·150個火試· [site](https://vladimiracunadev-create.github.io/database-systems-labs/) |
-| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 40 | 衡量工具如何構建、打分、驗證和審計·8個部分·可執行引擎, 使用**5項文書和344項,276項公共領域** · ✍️ **5/40** 已撰寫 |
+| [📐 **Psychometrics and Assessment**](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program) | 200 | 衡量工具如何構建、打分、驗證和審計·20個部分·可執行引擎, 使用**5項文書和344項,216項公共領域** · ✍️ **200/200** 已撰寫 |
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** ·從零到可程式設計的金融基礎設施和鏈上分析· **91個做法**財務報告和已審計財務報表**508次測試** ·與開業公司(模糊和變化不定)和CI的Slither靜態分析的合同·開啟二進位制並計數其內容的離線應用程式· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41個培訓單元**,每臺一臺機器· **502小時15分鐘** ·系統、控制、物理、安全和模擬設計,每類源·*還沒有可執行模擬器,而且它被宣佈為這樣* |
-| [🌌 **天文學、天體物理學、太空科學與航空太空工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | — | **規劃中，不計入統計：**12 個領域、133 個模組共 2,077 堂規劃課程；其中 397 堂已有正文，全部仍處於 E0 狀態。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+| [🌌 **天文學、天體物理學、太空科學與航空太空工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **已計入統計：**12 個領域、133 個模組共 2,077 堂課程；全部已有正文，仍處於 E0 狀態（待專業審閱與作者核准）。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬科學計算
 

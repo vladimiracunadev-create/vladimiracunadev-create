@@ -26,12 +26,12 @@ Ma trận này mở rộng phạm vi nghề nghiệp mà không biến học v�
 ## Bằng chứng có thể tái sử dụng
 
 - **E1 — quá trình làm việc kỹ thuật:** Solution Architect, hiện đại hóa hệ thống kế thừa, Senior Full-Stack / Tech Lead và tự động hóa AI; hồ sơ khai báo hơn 16 năm.
-- **E2 — triển khai và vận hành:** 65 kho mã công khai tự phát triển, 155 bản phát hành, CI/CD, khả năng quan sát, sổ tay vận hành, bảo mật chuỗi cung ứng và sản phẩm có thể cài đặt.
+- **E2 — triển khai và vận hành:** 66 kho mã công khai tự phát triển, 156 bản phát hành, CI/CD, khả năng quan sát, sổ tay vận hành, bảo mật chuỗi cung ứng và sản phẩm có thể cài đặt.
 - **E3 — kinh doanh và vận hành:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [khởi nghiệp](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing và bán hàng](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) và [lãnh đạo điều hành](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Đó là sản phẩm và nội dung có thể kiểm chứng; chúng không thay thế kinh nghiệm quản lý.
 - **E4 — dự án, quy trình và chất lượng:** lộ trình, issue, đặc tả, kiểm thử, cổng chất lượng, chỉ số và tài liệu theo từng nhóm đối tượng trải khắp hệ sinh thái.
 - **E5 — bảo mật và liên tục:** họ RootCause, các biện pháp kiểm soát, SBOM, phân tích rủi ro, khả năng phục hồi, sự cố và bằng chứng có thể tái lập.
 - **E6 — dữ liệu và AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) và truy vết/cổng kiểm duyệt của con người.
-- **E7 — giáo dục:** 21 chương trình, 14.550 bài học, lộ trình theo vai trò, phòng thực hành, sổ tay, cổng thông tin ngoại tuyến và nội dung đa định dạng. Điều này chứng minh thiết kế và sản xuất nội dung giáo dục; việc giảng dạy chính thức và kết quả học tập cần bằng chứng riêng.
+- **E7 — giáo dục:** 22 chương trình, 16.798 bài học, lộ trình theo vai trò, phòng thực hành, sổ tay, cổng thông tin ngoại tuyến và nội dung đa định dạng. Điều này chứng minh thiết kế và sản xuất nội dung giáo dục; việc giảng dạy chính thức và kết quả học tập cần bằng chứng riêng.
 - **E8 — tài chính và kiểm soát:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, chỉ số và truy vết. Đó là bằng chứng về kiến thức được áp dụng trong sản phẩm, không phải trách nhiệm tài chính doanh nghiệp.
 
 ## 1. Lãnh đạo công nghệ

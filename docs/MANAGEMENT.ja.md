@@ -18,7 +18,7 @@
 | **商用・販売** | 技術の事前販売·ソリューションコンサルタント·テクニカルカム·B2B事業開発 | **転送可能/アプリケーションの可能性** | なし | 強力なソリューション/値翻訳; クォータ、アカウントポートフォリオ、契約交渉は主張されていません |
 | **財務・管理管理** | 予算/コストアナリスト·プロジェクト評価·FP&A の特長·管理制御 | **応用の可能性** | なし | 財務/FinOps のアーティファクト; 実際の予算、財務諸表、および企業KPIが必要です |
 | **品質保証** | プロセス/品質アナリスト·プロセス監査·継続的な改善 | **転送可能/アプリケーションの可能性** | なし/時系列 | ゲート、テスト、メトリック、再現性; 正式な品質システム所有権はギャップを残します |
-| **Education** | Technical Trainer · Facilitator · Academic Coordinator · EdTech / Instructional Designer | **Transferable / application potential** | None/occasional | 21 programs and 14,550 classes; formal teaching and learner outcomes must be evidenced separately |
+| **Education** | Technical Trainer · Facilitator · Academic Coordinator · EdTech / Instructional Designer | **Transferable / application potential** | None/occasional | 22 programs and 16,798 classes; formal teaching and learner outcomes must be evidenced separately |
 | **物流・サプライヤー** | 調達・調達·供給/オペレーションコーディネーター·ベンダー/コントラクトマネージャー | **応用の可能性** | なし | プロセスと管理基盤; 実際の調達、在庫、およびサプライヤーのパフォーマンスが必要です |
 | **データとAIのガバナンス** | データスチュワード·データガバナンス·AI導入・ガバナンス | **転送可能/アプリケーションの可能性** | なし/時系列 | 監査可能なデータセットおよび人的関連エージェント;組織方針および委員会はギャップを残します |
 | **公共部門** | 機関の近代化·ICTコーディネーター·デジタルプロジェクト·公共企画 | **応用の可能性** | なし | チリのコンテキストシステムとトレーサビリティ; 公的な調達とセクターの経験は主張されていません |

@@ -26,12 +26,12 @@ Diese Matrix erweitert das berufliche Feld, ohne Ausbildung, persönliche Projek
 ## Wiederverwendbare Belege
 
 - **E1 — technischer Werdegang:** Lösungsarchitekt, Modernisierung von Altsystemen, Senior Full-Stack / Tech Lead und KI-Automatisierung; über 16 Jahre im Profil angegeben.
-- **E2 — Lieferung und Betrieb:** 65 eigene öffentliche Repositories, 155 Releases, CI/CD, Observability, Runbooks, Sicherheit der Lieferkette und installierbare Artefakte.
+- **E2 — Lieferung und Betrieb:** 66 eigene öffentliche Repositories, 156 Releases, CI/CD, Observability, Runbooks, Sicherheit der Lieferkette und installierbare Artefakte.
 - **E3 — Business und Betrieb:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [Unternehmensgründung](https://github.com/vladimiracunadev-create/modern-business-creation-program), [Marketing und Vertrieb](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) und [Executive Leadership](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Es sind überprüfbare Produkte und Inhalte, die keine Führungserfahrung ersetzen.
 - **E4 — Projekte, Prozesse und Qualität:** Roadmaps, Issues, Spezifikationen, Tests, Gates, Metriken und zielgruppengerechte Dokumentation im gesamten Ökosystem.
 - **E5 — Sicherheit und Kontinuität:** RootCause-Familie, Kontrollen, SBOM, Risikoanalysen, Resilienz, Vorfälle und reproduzierbare Belege.
 - **E6 — Daten und KI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) und Nachvollziehbarkeit/menschliche Gates.
-- **E7 — Bildung:** 21 Programme, 14.550 Lektionen, rollenbasierte Pfade, Labore, Handbücher, Offline-Portale und multiformatige Inhalte. Das belegt Konzeption und Produktion von Bildungsangeboten; formale Lehrtätigkeit und Lernergebnisse erfordern gesonderte Belege.
+- **E7 — Bildung:** 22 Programme, 16.798 Lektionen, rollenbasierte Pfade, Labore, Handbücher, Offline-Portale und multiformatige Inhalte. Das belegt Konzeption und Produktion von Bildungsangeboten; formale Lehrtätigkeit und Lernergebnisse erfordern gesonderte Belege.
 - **E8 — Finanzen und Controlling:** [Finanzen und Bankwesen](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, Metriken und Nachvollziehbarkeit. Sie belegen angewandtes Wissen in Artefakten, keine finanzielle Verantwortung im Unternehmen.
 
 ## 1. Technologische Leitung

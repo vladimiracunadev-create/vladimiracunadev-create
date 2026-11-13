@@ -12,7 +12,7 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#プロフェッショナルスコープ)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.ja.md)
-[![Curricula](https://img.shields.io/badge/curricula-21%20programs-3fb950?style=for-the-badge)](#完全な技術的なカリキュラム)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#完全な技術的なカリキュラム)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **試験カバレッジ** | ガビーSQL**850 件のテスト**+ 上でのしゃべり**503.8M のクエリ**(0 パンク)·Empresa Operativa チリ**230 件のテスト** ·オートマチック**150 ピテスト** ·マルチOS CI |
 | 🤖 **生産等級の代理店** | LangGraph リアルワールド**25/25 操作バックエンド**(ケース 01–25、100% のカバレッジ)·運用AIエージェント**23 代理店**とりあえず**69 の決定的な楕円** |
 | 🔗 **Polyglotの統合** | **20件**sender→n8n→receiver — の**19 業務**, 個別にドッカーで監査· **18 + DBエンジン** · **20以上のコンテナ** ·11パターン |
-| 📦 **流通販売** | **155 リリース**生態系全体**65 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
+| 📦 **流通販売** | **156 リリース**生態系全体**66 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
 | 🛡️ **サプライチェーン** | コードQL·セルムレプ·バンドイト·トリビー·グリペ·ジトルク·トラッフルホッグ·CycloneDX SBOM(サイクロンDX SBOM)·スコアカード |
-| 📚 **カリキュラム** | **14,550 クラス**21プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
+| 📚 **カリキュラム** | **16,798 クラス**22プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
 | 🌐 **ポートフォリオ** | インストール可能なPWA· **22 の言語** · **PDF154枚**パイプラインによって生成される·CVデータAPI·コンデンサーのアンドロイド·灯台 100 |
 | 🔒 **テレメトリー** | フォレンジック製品とエンドレスバ・オペラティバ・チリのゼロテレメトリー — あらゆるビルドで検証 (Android なし)`INTERNET`許可) |
 | 🌐 **公開サイト** | **57 GitHub ページサイト**—56 のランディング、製品、プログラム、またはエコシステム・ナビゲーター、およびポートフォリオごとに1つ、それぞれが独自のリポジトリから展開·全て 57 検証済み HTTP で検証済み`200` |
@@ -208,10 +208,10 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 このプロフィールの実践的な成果は独立したドキュメントにまとめています。ダウンロードしてインストールできるソフトウェア、エンジニアリングラボ、応用AI、完全な技術カリキュラム、科学計算に加え、アカウント内にあるサードパーティプロジェクトの各フォークの説明も含みます。
 
-- 📦 **実質の配分を用いるプロダクト** (22)
+- 📦 **実質の配分を用いるプロダクト** (23)
 - 🧪 **エンジニアリング研究所** (11)
 - 🤖 **応用AI** (6)
-- 📚 **完全な技術的なカリキュラム** (21)
+- 📚 **完全な技術的なカリキュラム** (22)
 - 🔬 **科学コンピューティング** (1)
 - 🍴 **サードパーティプロジェクトのフォーク** (52)
 
@@ -219,11 +219,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 📚完全な技術的なカリキュラム
 
-スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 21プログラムが最大で追加**14,550 クラス**, カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**16,798 クラス**, カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
 
-🌌 **計画中・集計対象外：**[天文学・天体物理学・宇宙科学・航空宇宙工学](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12領域・133ブロックにわたる計画済み2,077クラス。うち397クラスは本文執筆済みで、すべて状態E0のままです。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+🌌 **集計対象に含む：**[天文学・天体物理学・宇宙科学・航空宇宙工学](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
 
-👉 **[21のプログラムをすべて見る](docs/ECOSYSTEM.ja.md#curricula)**
+👉 **[22のプログラムをすべて見る](docs/ECOSYSTEM.ja.md#curricula)**
 
 ## ⚡自分を評価するために10分を持っている場合
 

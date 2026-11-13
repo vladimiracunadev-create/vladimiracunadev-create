@@ -16,7 +16,7 @@ Tôi giải quyết vấn đề phần mềm từ đầu đến cuối: chẩn �
 | 📱 **Ứng dụng đa nền tảng** | Android, Windows, macOS và PWA với Flutter hoặc Tauri, kèm bản phát hành và checksum | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Bảo mật và chuỗi cung ứng** | Cổng CI, quét bí mật và phụ thuộc, SBOM, kiểm toán kho mã | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Hạ tầng có thể tái lập** | Docker/Compose, WSL, ảo hóa, AWS và Terraform sẵn sàng khởi chạy | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Đào tạo kỹ thuật** | Chương trình và tài liệu cho đội ngũ, với lộ trình theo vai trò | [21 chương trình](../ECOSYSTEM.vi.md#curricula) |
+| 🎓 **Đào tạo kỹ thuật** | Chương trình và tài liệu cho đội ngũ, với lộ trình theo vai trò | [22 chương trình](../ECOSYSTEM.vi.md#curricula) |
 
 ## Cách tôi làm việc
 

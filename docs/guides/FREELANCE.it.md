@@ -16,7 +16,7 @@ Risolvo problemi software end to end: prima la diagnosi, poi una consegna riprod
 | 📱 **App multipiattaforma** | Android, Windows, macOS e PWA con Flutter o Tauri, con release e checksum | [PDF Reader](https://github.com/vladimiracunadev-create/pdf-reader-windows-android) · [Universal Code Scanner](https://github.com/vladimiracunadev-create/universal-code-scanner) |
 | 🛡️ **Sicurezza e supply chain** | Gate di CI, scansione di segreti e dipendenze, SBOM, audit dei repository | [Claude Skills Toolkit](https://github.com/vladimiracunadev-create/claude-skills-toolkit) · [RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) |
 | ☁️ **Infrastruttura riproducibile** | Docker/Compose, WSL, virtualizzazione, AWS e Terraform pronti all'avvio | [Docker Labs](https://github.com/vladimiracunadev-create/docker-labs) · [AWS Projects](https://github.com/vladimiracunadev-create/proyectos-aws) |
-| 🎓 **Formazione tecnica** | Programmi e materiali per i team, con percorsi per ruolo | [21 programmi](../ECOSYSTEM.it.md#curricula) |
+| 🎓 **Formazione tecnica** | Programmi e materiali per i team, con percorsi per ruolo | [22 programmi](../ECOSYSTEM.it.md#curricula) |
 
 ## Come lavoro
 

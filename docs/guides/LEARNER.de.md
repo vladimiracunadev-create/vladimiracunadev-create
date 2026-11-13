@@ -4,7 +4,7 @@
 
 ## In einer Zeile
 
-21 aufeinander aufbauende Programme auf Spanisch, mit 14.550 per Workflow gezählten Lektionen; jedes nennt seinen redaktionellen Status und seine Grenzen.
+22 aufeinander aufbauende Programme auf Spanisch, mit 16.798 per Workflow gezählten Lektionen; jedes nennt seinen redaktionellen Status und seine Grenzen.
 
 ## Nach Ziel wählen
 
@@ -32,7 +32,7 @@ Unsicher, wohin? Das [Lifelong Learning Ecosystem](https://github.com/vladimirac
 - **Psychometrie:** 40 Lektionen geplant, 5 verfasst.
 - **Frameworks im Vergleich:** 149 Lektionen geplant, 70 gebaut.
 - **Machine Operator:** noch kein ausführbarer Simulator.
-- **Astronomie und Raumfahrt:** ein Programm in Planung, nicht mitgezählt; [Komplette technische Lehrpläne](../ECOSYSTEM.de.md#curricula).
+- **Astronomie und Raumfahrt:** ein vollständiges Programm, jetzt mitgezählt; [Komplette technische Lehrpläne](../ECOSYSTEM.de.md#curricula).
 - Die Programme sind unabhängige Weiterbildung; sie vergeben keine Abschlüsse oder Zertifikate.
 
 ## Nächster Schritt
