@@ -24,7 +24,7 @@
 <text x="686" y="90" font-size="13" font-weight="bold" fill="#3b1d73">🤖 नुप्रयुक्त AI · 6</text>
 <text x="686" y="112" font-size="12" font-weight="normal" fill="#1f2328">🤖 LangGraph ×25 backends</text>
 <text x="686" y="129" font-size="12" font-weight="normal" fill="#1f2328">🧭 Operational AI Agents ×23</text>
-<text x="686" y="146" font-size="12" font-weight="normal" fill="#1f2328">🧰 Claude Skills ×22 · Codex Skills ×19</text>
+<text x="686" y="146" font-size="12" font-weight="normal" fill="#1f2328">🧰 Claude Skills ×22 · 🧰 Codex Skills ×19</text>
 <text x="686" y="163" font-size="12" font-weight="normal" fill="#1f2328">🧩 Agentic Plugins ×6</text>
 <text x="686" y="180" font-size="12" font-weight="normal" fill="#1f2328">🧠 MCP + Ollama local</text>
 <rect x="16" y="242" width="640" height="158" rx="8" fill="#dafbe1" stroke="#1a7f37" stroke-width="1.4"/>
