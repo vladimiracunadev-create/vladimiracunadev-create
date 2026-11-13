@@ -202,7 +202,7 @@ Technologies detected in the public repositories (manifests, dependencies, conta
 
 ## 🗺️ Ecosystem At A Glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.en.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.svg)
 
 ## 🗂️ Ecosystem: products, labs, applied AI, curricula and scientific computing
 

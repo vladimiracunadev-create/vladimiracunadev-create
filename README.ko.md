@@ -202,7 +202,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️한눈에 보는 생태계
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ko.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.svg)
 
 ## 🗂️ 생태계: 제품, 연구소, 응용 AI, 교육과정, 과학 컴퓨팅
 
