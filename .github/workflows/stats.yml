@@ -71,6 +71,7 @@ jobs:
           #      descripción pública del repo, porque el árbol mezcla OA,
           #      páginas HTML y clases desarrolladas.
           #  10. Ingeniería de software: classes/part-<NN>-.../se-<NNN>-...
+          #  11. Astronomía: programa/clases/B<NN>/B<NN>-C<NN>-<slug> (carpeta)
           #
           # Se exige la ruta completa: anclar solo al inicio contaría además
           # cada subcarpeta interna de la clase. Cada entrada del árbol se
@@ -102,6 +103,13 @@ jobs:
             elif [[ "$nombre" == "chilean-school-learning-path" ]]; then
               n=$(gh api "repos/$USUARIO/$nombre" \
                     --jq 'try ((.description // "") | capture("(?<n>[0-9][0-9.]*) clases").n | gsub("\\."; "")) catch "0"' \
+                  2>/dev/null || echo 0)
+            elif [[ "$nombre" == "astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program" ]]; then
+              n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
+                    --jq '[.tree[] | select(
+                             .type == "tree"
+                             and (.path | test("^programa/clases/B[0-9]+/B[0-9]+-C[0-9]+-[^/]+$"))
+                           )] | length' \
                   2>/dev/null || echo 0)
             elif [[ "$nombre" == "modern-software-engineering-program" ]]; then
               n=$(gh api "repos/$USUARIO/$nombre/git/trees/HEAD?recursive=1" \
