@@ -15,13 +15,13 @@
 [![Currículos](https://img.shields.io/badge/curr%C3%ADculos-22%20programas-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 
 <!-- STATS:START -->
-[![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-66-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-156-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Linguagens](https://img.shields.io/badge/linguagens%20principais-10-0366d6?style=for-the-badge)](#-ecossistema-em-uma-visão)
-[![Aulas](https://img.shields.io/badge/aulas%20de%20curr%C3%ADculo-16798-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Aulas](https://img.shields.io/badge/aulas%20de%20curr%C3%ADculo-16858-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks recebidos](https://img.shields.io/badge/forks%20recebidos-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Forks de terceiros](https://img.shields.io/badge/forks%20de%20terceiros-52-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.pt.md#forks)
-[![Commits](https://img.shields.io/badge/commits-4515-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks de terceiros](https://img.shields.io/badge/forks%20de%20terceiros-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.pt.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4689-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
@@ -316,6 +316,6 @@ Direção tecnológica · Projetos · Administração · Estratégia · Análise
 [🛡️ Segurança](SECURITY.pt.md) ·
 [⚖️ Código de conduta](CODE_OF_CONDUCT.pt.md)
 
-<sub>README sincronizado com o estado verificável dos repositórios públicos —números e mudanças lidos por API— · última verificação: <!-- VERIFIED:START -->2026-11-13<!-- VERIFIED:END -->.</sub>
+<sub>README sincronizado com o estado verificável dos repositórios públicos —números e mudanças lidos por API— · última verificação: <!-- VERIFIED:START -->2026-11-16<!-- VERIFIED:END -->.</sub>
 
 </div>
