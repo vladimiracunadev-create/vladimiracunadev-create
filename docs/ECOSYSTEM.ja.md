@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | plucked-string の兄弟: 6 の世界の 24 のレッスン、6 弦のチューナー、漂流なしのメトロノーム、および 11 実質のギターのノート | 田栗 2·反応する·ツイート | **.0.0 の** ·ウィンドウズ·アンドロイド·リリース·マックオース·スマートフォン·プワワ·口座、広告、またはオンラインの依存関係なし· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 10歳からCueca: 8レベル、24クラス、72アクティビティ、6パルスラボ(3 + 3、2 + 2 + 2)、およびアクセス可能なフロア図。 それを述べる**補完、置換しない**, 教師と文化のベアラー | フラッタ·ダーツ | **.2.0 の** ·アンドロイド 7+·ウィンドウズ 10/11·ツイート·エクスクルーシブ·エムシー·ポータブル· **29 個のテスト + 2 個のバリデータ** ·カメラ、マイク、アカウント、広告、インターネットなし· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI製のマルチチャネルゲートウェイ：13サービス・69操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHubなど）を REST、GraphQL、SOAP、gRPC で提供。暗号化OAuth、署名付きWebhook、照合可能な冪等性。参照は送信の許可を意味しません | Python · FastAPI | **v0.3.0** · リリース未公開 · 模擬トランスポートによる**162件のテスト**、実アカウントの使用やメッセージ送信なし · MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx（NASA Space Apps 2026）インストーラーの公開コピー：Windows、macOS、Linux、Android、iPhone 向け PWA。ソースコードは含みません（コードはチームのものです） | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 チェックサム付きの**7リリース** · インストーラーは未署名で実機では未検証 · NASA/IPAC IRSA のデータ · [ウェブ](https://spherex-planet-x-tau.vercel.app/) · [ダウンロード](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪エンジニアリング研究所
 
@@ -67,7 +68,7 @@
 
 ## 📚完全な技術的なカリキュラム
 
-スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**16,798 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**18,418 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)ビジュアルマップと6つの領域を横断して30の実パスを接続するフェデレーションコンパスです。[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); 追加プログラムとしてカウントされません。
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 運用定義、測定シート、検証可能なバイブリグラフィー、チリ規制のコンテキストを持つ24部品· **..6.0 の v1.6.0** ·1.29M の言葉·17 のロールベースのパス· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | チリの会社を創出し、運営する: 設立、税務当局、運用、危機、出退社を考え、·360 の図·1,251 用語集·1,548ページマニュアル· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 パーツ·60の統合セッション·35 パス·トレーサブルなソース·マークダウン、オフラインリーダー、GitHubページ· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | グレード 1～12· **4,156 統合されたクロスカリキュラムの経験** · **2,823 学習目的** ·MINEDUC ソース·未完成の提案や専門的ヒューマンレビューはまだ終わらない· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 部・8 段·基礎 → 製品・アーキテクチャ・セキュリティ・デベロッパー・SRE・SPEC・AI・マルチエージェント・システム·リポジトリによって宣言される編集状態· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | グレード 1～12· **4,156 統合されたクロスカリキュラムの経験** · **3,153 学習目的** ·MINEDUC ソース·未完成の提案や専門的ヒューマンレビューはまだ終わらない· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 部・8 段·基礎 → 製品・アーキテクチャ・セキュリティ・デベロッパー・SRE・SPEC・AI・マルチエージェント・システム·リポジトリによって宣言される編集状態· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 教師が訓練される方法を学ぶ人から·25 部· **各クラスは、証拠状態と限界を宣言します。** ·初期のリテラシー、比較方法、特定の教育ニーズ、共存性、文化的多様性、および国際的証拠·1,097 用語集、325 図、60 アクティビティの教室銀行·役割による14のキャリアパス·LMS エクスポート可能· **.1.0 の** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS の·リファレンス·ギガシー·クーベルネ·テラフォーム·プレステージ·フィンオプス· **1,288時間** ·JSON 証拠による 288 件のラボ·1,032 個のトレースされたソース·2,884ページ PDFマニュアル· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 貴社の第一次成果を保有し、自社をリードし、チーム、KPI/OKR、ファイナンス、製品、リスク、ボード、M&A·24 ケース、96 ラボ、39 テンプレート· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **508 tests** · contracts with Foundry (fuzzing and invariants) and Slither static analysis in CI · offline apps verified by opening the binary and counting its contents · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 モジュール·≈214時間· **93 ノートブック**—31クラス、31の学生バージョン、31のソリューション·実際のパブリックデータに関する質問、ビジュアルマップ、慣行、評価·ピートーチ· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 トレーニングモジュール**、機械ごとの1· **502 h 15 分** ·システムの制御、物理、安全、およびクラスごとのソースとのシミュレーション設計·※実行可能シミュレータは未だ、その方法が宣言されていない* |
-| [🌌 **天文学・天体物理学・宇宙科学・航空宇宙工学**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **集計対象に含む：**12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+| [🌌 **天文学・天体物理学・宇宙科学・航空宇宙工学**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **集計対象に含む：**12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。10のミッションワークショップと、NASA/JPL のデータを使った23の太陽系シミュレーターを含みます。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬科学コンピューティング
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 サードパーティプロジェクトのフォーク (52)
+## 🍴 サードパーティプロジェクトのフォーク (54)
 
 このアカウントに保管している他者のプロジェクトのフォークです。**自作ではありません**。功績は元の作者にあり、このプロフィールのどの数値にも含めません。各説明は元プロジェクトが自ら宣言している内容の要約であり、サポート、監査、自身の本番運用経験を意味するものではありません。説明は元プロジェクトに基づく · 2026-11-09。
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | ソース管理・CI/CD・環境・アーティファクトレジストリを備えたエンドツーエンドの開発プラットフォーム |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | オープンソースのGPS追跡プラットフォーム。200以上のデバイスプロトコルに対応 |
 
-### 🎓 教育とリファレンス (4)
+### 🎓 教育とリファレンス (6)
 
 | フォーク | 元プロジェクト | 言語 | 概要 |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | 数学の無料独学パス（OSSU） |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | 数学アニメーション用のコミュニティ製Pythonフレームワーク |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Atari 2600ゲームのアセンブリ版サンプルソース |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | NASA Space Apps 2026 ハッカソン（課題 Planet X and SPHEREx）のチームリポジトリ。6人のプロジェクト |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | 小惑星、彗星、人工衛星、移動天体を検出するための天文 FITS 画像解析 |

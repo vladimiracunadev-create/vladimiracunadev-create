@@ -4,7 +4,7 @@
 
 ## In one line
 
-22 sequential programs in Spanish, with 16,798 classes counted by a workflow, each declaring its editorial status and its limits.
+22 sequential programs in Spanish, with 18,418 classes counted by a workflow, each declaring its editorial status and its limits.
 
 ## Choose by goal
 

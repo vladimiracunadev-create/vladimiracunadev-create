@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | พี่น้องเชือกตัด : 24 บทเรียนใน 6 โลก, เครื่องจูน 6 สาย, เมโทรนอมฟรี, และ 11 กีตาร์จริง | ทาอุรี 2·ย้อนกลับ·ขนาด TS | **v1. 0** ·หน้าต่าง·แอนดรอยด์·ลินุกซ์·มากอส·ISO·ขนาด PWA·ไม่ มี บัญชี, โฆษณา, หรือ การ ติด ต่อ สื่อสาร ทาง อินเทอร์เน็ต· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca ตั้งแต่อายุ 10: 24 ห้องเรียนใน 8 ระดับ กิจกรรม 72 อย่าง ห้องปฏิบัติการ 6 เพลา (3+3 และ 2+2+2) และแผนภาพพื้นที่เข้าถึงได้ มันกล่าวว่ามัน**คอมพลีเมนต์ ไม่แทนที่**ครูและผู้ถือวัฒนธรรม | แปรงทาสี·สีแดง | **v0.0.** ·แอนดรอยด์ 7+·วินโดวส์ 10/11·APK·ExE·MSI·เลือกแบบพกพา· **29 ทดสอบ + 2 ตัวตรวจความถูกต้อง** ·ไม่มีกล้อง ไมโครโฟน บัญชีธนาคาร โฆษณา หรืออินเตอร์เน็ต· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | เกตเวย์หลายช่องทางด้วย FastAPI: 13 บริการ 69 การดำเนินการ (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) ผ่าน REST, GraphQL, SOAP และ gRPC OAuth ที่เข้ารหัส เว็บฮุกที่ลงนาม และ idempotency ที่กระทบยอดได้ การค้นดูไม่ได้ให้สิทธิ์ในการส่ง | Python · FastAPI | **v0.3.0** · ยังไม่มี release ที่เผยแพร่ · **162 การทดสอบ** บนการส่งข้อมูลจำลอง ไม่ใช้บัญชีจริงและไม่ส่งข้อความ · MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | สำเนาสาธารณะของตัวติดตั้ง AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android และ PWA สำหรับ iPhone ไม่มีซอร์สโค้ด: โค้ดเป็นของทีม | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 รีลีส** พร้อมค่า SHA-256 · ตัวติดตั้งไม่ได้ลงนามและยังไม่ได้ทดสอบบนอุปกรณ์จริง · ข้อมูล NASA/IPAC IRSA · [เว็บ](https://spherex-planet-x-tau.vercel.app/) · [ดาวน์โหลด](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪ห้องปฏิบัติการวิศวกรรม
 
@@ -67,7 +68,7 @@
 
 ## 📚หลักสูตรเทคนิคฉบับสมบูรณ์
 
-รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 22 โครงการรวมกันเป็น**16,798 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](../.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
+รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 22 โครงการรวมกันเป็น**18,418 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](../.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)เป็นเข็มทิศที่ดูดซึม เชื่อมต่อ 30 เส้นทางจริงผ่านพื้นที่ 6 ผ่านแผนที่และ[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);; ไม่ ได้ ถือ ว่า เป็น รายการ อื่น ๆ.
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 ส่วนที่มีนิยามการทํางาน, แผ่นวัด, ชีวประวัติแบบวัดได้, และบริบทควบคุมชิลี· **v1.6. 0** ·1. 29M คํา·เส้นทางบนบทบาท 17· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | สร้างและดําเนินกิจการจริงในชิลี : จากความคิดไปในทางการเข้าครอบครอง, อํานาจภาษี, การดําเนินงาน, วิกฤตการณ์และออก·แผนภูมิ 360·อภิธานศัพท์ 1,2111 ระยะเวลา·คู่มือ 1,548 หน้า· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 ส่วน·วาระงานของส่วนท้าย 60·35 เส้นทาง·แหล่งข้อมูลที่แกะรอยได้·พิมพ์แบบ Countดาวน์, โปรแกรมอ่านแบบออฟไลน์, และหน้าแบบ GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | คะแนน 1–12· **4,156 ผนวกประสบการณ์การข้ามห้อง** · **2,823 วัตถุประสงค์การเรียนรู้** ·แหล่ง ที่ มา ของ ความ สําเร็จ·ไม่มีการเสนองานและวิจารณ์มนุษย์เป็นพิเศษ ที่ยังคงอยู่· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 ส่วน และ 8 ขั้น ตอน·ฐานราก → ผลิตภัณฑ์ สถาปัตยกรรม ความปลอดภัย เดวิสส์ เอสรี เอสพีซี ไอ และระบบหลาย ๆ หน่วยงาน·สถานะส่วนแก้ไขข้อความประกาศโดยคลังเก็บ· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | คะแนน 1–12· **4,156 ผนวกประสบการณ์การข้ามห้อง** · **3,153 วัตถุประสงค์การเรียนรู้** ·แหล่ง ที่ มา ของ ความ สําเร็จ·ไม่มีการเสนองานและวิจารณ์มนุษย์เป็นพิเศษ ที่ยังคงอยู่· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 ส่วน และ 8 ขั้น ตอน·ฐานราก → ผลิตภัณฑ์ สถาปัตยกรรม ความปลอดภัย เดวิสส์ เอสรี เอสพีซี ไอ และระบบหลาย ๆ หน่วยงาน·สถานะส่วนแก้ไขข้อความประกาศโดยคลังเก็บ· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | จากวิธีที่คนเรียนรู้ ถึงวิธีสอนครู·25 ส่วน· **แต่ ละ ชั้น ประกาศ สภาพ และ ขีด จํากัด ของ หลัก ฐาน** ·การ อ่าน หนังสือ, วิธี การ ที่ ไม่ มี การ ควบคุม ใน ตอน แรก, ความ ต้องการ ทาง การ ศึกษา เฉพาะ อย่าง, การ อยู่ ร่วม กัน, ความ หลาก หลาย ทาง วัฒนธรรม, และ หลัก ฐาน จาก นานา ชาติ·1,097 แว่นขยาย 325 แผนภาพ และธนาคารห้องเรียน 60 มาตรา·14 เส้นทางอาชีพตามบทบาท·นําเข้าได้โดย LMM· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | ขนาด AWS·เสน่ห์·เข้ารหัสแบบ GCP·คูแบร์เน็ตส์·เทอร์ราฟอร์ม·ครี·ฟอสเฟต· **1,288 ชั่วโมง** ·288 ห้องแล็ปพร้อมหลักฐาน Json·1,032 แกะรอยแหล่ง·ขนาด 2,884 หน้าคู่มือ PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | จากการเป็นเจ้าของผลลัพธ์แรกของคุณ เพื่อเป็นผู้นําบริษัท และก่อตั้งบริษัทของคุณเอง: ทีม, PDF/OKR, การเงิน, ผลิตภัณฑ์, ความเสี่ยง, คณะกรรมการและ M&A·24 คดี, 96 ห้องปฏิบัติการ และเอกสาร 39 ฉบับ· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** ·จากศูนย์ถึงโปรแกรมโครงสร้างพื้นฐานการเงินและบนเครื่องมือวิเคราะห์· **91 กิจ.**และ**ทดสอบ 508** ·สัญญากับผู้ก่อตั้ง (การพ้องและ diversants) และการวิเคราะห์ความต่อเนื่องของสลิเธอร์ใน CI·แอพพลิเคชันที่ทํางานอยู่สําหรับตรวจสอบอัตโนมัติ โดยจะเปิดส่วนย่อยของข้อมูล (bign) และทําการนับเนื้อหา· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 มอดูล·≈214 ชั่วโมง· **สมุดบันทึก 93 เล่ม**-31 ห้องเรียน รุ่นนักเรียน 31 และทางออก 31 ฉบับ -·คํา ถาม, แผนที่ ภาพ, การ ปฏิบัติ, และ การ ประเมิน ด้วย ข้อมูล ของ ประชาชน จริง ๆ·พ.ศ.· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **มอดูลฝึก 41**หนึ่งเครื่อง· **502 h 15 นาที** ·ระบบ, การควบคุม, ฟิสิกส์, ความปลอดภัย, และแบบจําลองออกแบบกับแหล่งข้อมูลต่อชั้นเรียน·♪ยังไม่มีโปรแกรมจําลองการประมวลผลยังและมันก็ประกาศวิธีการที่♪ |
-| [🌌 **ดาราศาสตร์ ฟิสิกส์ดาราศาสตร์ วิทยาศาสตร์อวกาศ และวิศวกรรมการบินและอวกาศ**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **รวมในตัวเลขแล้ว:** 2,077 บทเรียนใน 12 ด้านและ 133 บล็อก ทุกบทมีเนื้อหาที่เขียนแล้ว และยังอยู่ในสถานะ E0 (รอการทบทวนเชิงวิชาการและการอนุมัติจากผู้เขียน) เป็นการฝึกอบรมอิสระ ไม่ใช่การรับรองวิชาชีพ · [เว็บไซต์](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/) |
+| [🌌 **ดาราศาสตร์ ฟิสิกส์ดาราศาสตร์ วิทยาศาสตร์อวกาศ และวิศวกรรมการบินและอวกาศ**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **รวมในตัวเลขแล้ว:** 2,077 บทเรียนใน 12 ด้านและ 133 บล็อก ทุกบทมีเนื้อหาที่เขียนแล้ว และยังอยู่ในสถานะ E0 (รอการทบทวนเชิงวิชาการและการอนุมัติจากผู้เขียน) มีเวิร์กชอปภารกิจ 10 ชุดและตัวจำลองระบบสุริยะ 23 ตัวที่ใช้ข้อมูล NASA/JPL เป็นการฝึกอบรมอิสระ ไม่ใช่การรับรองวิชาชีพ · [เว็บไซต์](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/) |
 
 ## 🔬การประมวลผลเชิงวิทยาศาสตร์
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 Fork ของโปรเจกต์บุคคลที่สาม (52)
+## 🍴 Fork ของโปรเจกต์บุคคลที่สาม (54)
 
 นี่คือ fork ของโปรเจกต์ของผู้อื่นที่เก็บไว้ในบัญชีนี้ **ไม่ใช่ผลงานของผมเอง**: เครดิตเป็นของผู้เขียนต้นฉบับ ไม่นับรวมในตัวเลขใดของโปรไฟล์นี้ และแต่ละคำอธิบายสรุปสิ่งที่โปรเจกต์ต้นฉบับระบุไว้เอง โดยไม่ได้หมายถึงการสนับสนุน การตรวจสอบ หรือประสบการณ์การใช้งานจริงของผม คำอธิบายอ้างอิงโปรเจกต์ต้นฉบับ · 2026-11-09
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | แพลตฟอร์มพัฒนาครบวงจร: ควบคุมซอร์สโค้ด CI/CD สภาพแวดล้อม และรีจิสทรีอาร์ทิแฟกต์ |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | แพลตฟอร์มติดตาม GPS โอเพนซอร์ส รองรับโปรโตคอลอุปกรณ์กว่า 200 แบบ |
 
-### 🎓 การศึกษาและเอกสารอ้างอิง (4)
+### 🎓 การศึกษาและเอกสารอ้างอิง (6)
 
 | Fork | โปรเจกต์ต้นฉบับ | ภาษา | คืออะไร |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | เส้นทางเรียนรู้ด้วยตนเองฟรีด้านคณิตศาสตร์ (OSSU) |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | เฟรมเวิร์ก Python จากชุมชนสำหรับแอนิเมชันคณิตศาสตร์ |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | ซอร์สโค้ดตัวอย่างเกม Atari 2600 ด้วยแอสเซมบลี |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | ที่เก็บของทีมแฮกกาธอน NASA Space Apps 2026 (โจทย์ Planet X and SPHEREx) โปรเจกต์ 6 คน |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | การวิเคราะห์ภาพดาราศาสตร์ FITS เพื่อตรวจจับดาวเคราะห์น้อย ดาวหาง ดาวเทียม และวัตถุที่เคลื่อนที่ |

@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **시험 적용** | 프로젝트**850 테스트**+ 훈제 이상**503.8M 쿼리**(0개의 판)·Empresa, 칠레**230 테스트** ·오토마**150 파이트** ·멀티OS CI |
 | 🤖 **생산 급료 대리인** | 랭그라프 RealWorld**25/25 운영한 후원**(케이스 01-25, 100% 적용)·운영 AI 에이전트**23 대리인**으로**69개의 신중한 evals** |
 | 🔗 **Polyglot 통합** | **20 건**sender→n8n→receiver —**19 운영**, 독수리로 개별적으로 감사-· **18+ DB 엔진** · **20 + 용기** ·11 패턴 |
-| 📦 **의 특징** | **156 릴리스**생태계의 전반**66개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
+| 📦 **의 특징** | **164 릴리스**생태계의 전반**67개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
 | 🛡️ **공급 체인** | 코드QL·뚱 베어·팟캐스트·팟캐스트·뚱 베어·팟캐스트·TruffleHog의 특징·사이클론디X SBOM·팟캐스트 |
-| 📚 **의약** | **16,798 클래스**22개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
+| 📚 **의약** | **18,418 클래스**22개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
 | 🌐 **의논하기** | PWA 설치· **22 개 언어** · **154 PDF의**생성물 : 파이프라인·CV 자료 API·축전기 인조 인간·등대 100 |
 | 🔒 **원격 측정** | forensic 제품 및 Empresa Operativa Chile의 Zero telemetry - 모든 빌드에서 확인 (안드로이드 없음)`INTERNET`(주) |
 | 🌐 **관련 사이트** | **57 GitHub 페이지 사이트**—56 착륙, 제품, 프로그램, 또는 생태계 항해자 당 하나, 포트폴리오 플러스 - 각각 자체 저장소에서 배치·모든 57 HTTP로 확인`200` |
@@ -200,6 +200,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**배포 기술**
+
+![배포 기술](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (개인 작업) · Vercel (NASA Space Apps 해커톤) · AWS (GitLab과 연관된 운영 웹사이트) · GitHub Pages</sub>
+
 ## 🗺️한눈에 보는 생태계
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ko.svg)
@@ -208,22 +214,32 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 이 프로필의 실무 성과는 별도 문서에 모여 있습니다. 다운로드해 설치하는 소프트웨어, 엔지니어링 연구소, 응용 AI, 완전한 기술 교육과정, 과학 컴퓨팅, 그리고 계정에 있는 제3자 프로젝트 포크 각각에 대한 설명입니다.
 
-- 📦 **Real Distribution을 통한 제품** (23)
+- 📦 **Real Distribution을 통한 제품** (24)
 - 🧪 **엔지니어링 연구소** (11)
 - 🤖 **응용 AI** (6)
 - 📚 **완전한 기술 교육과정** (22)
 - 🔬 **과학 컴퓨팅** (1)
-- 🍴 **제3자 프로젝트의 포크** (52)
+- 🍴 **제3자 프로젝트의 포크** (54)
 
 👉 **[전체 생태계 보기](docs/ECOSYSTEM.ko.md)** · [🍴 제3자 프로젝트의 포크](docs/ECOSYSTEM.ko.md#forks)
 
 ## 📚완전한 기술 교육과정
 
-스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**16,798 클래스**, 으로 계산[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
+스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**18,418 클래스**, 으로 계산[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
 
-🌌 **집계 포함:** [천문학, 천체물리학, 우주과학, 항공우주공학](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12개 영역, 133개 블록에 걸친 2,077개 수업. 모두 본문이 작성되었으며 아직 E0 상태입니다(전문 분야 검토와 저자 승인 대기). 독립 교육이며 직업 자격이 아닙니다 · [사이트](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **집계 포함:** [천문학, 천체물리학, 우주과학, 항공우주공학](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12개 영역, 133개 블록에 걸친 2,077개 수업. 모두 본문이 작성되었으며 아직 E0 상태입니다(전문 분야 검토와 저자 승인 대기). 10개의 임무 워크숍과 NASA/JPL 데이터를 쓰는 23개의 태양계 시뮬레이터를 포함합니다. 독립 교육이며 직업 자격이 아닙니다 · [사이트](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[22개 프로그램 전체 보기](docs/ECOSYSTEM.ko.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ NASA Space Apps 2026 해커톤
+
+**NASA Space Apps Challenge 2026**(산티아고, 11월 14~15일)에 *Planet X and SPHEREx* 과제로 6명 팀의 일원으로 참가했습니다. 결과물은 **AstroTrack · SPHEREx**입니다. 하늘 좌표를 입력하면 해당 영역을 시간에 따른 SPHEREx 이미지 시퀀스로 보여 주는 웹 뷰어이며, NASA/IPAC IRSA 데이터를 사용합니다.
+
+- **제가 맡은 부분:** 데이터 접근(캐시를 둔 IRSA 쿼리와 데모 영역 사전 계산), 패키징(PWA, Tauri 데스크톱 설치 프로그램, Capacitor 기반 Android APK), '다운로드' 화면, 문서와 코드 간 일관성 감사.
+- **검증 가능한 산출물:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases)에 SHA-256 체크섬이 포함된 7개 릴리스(v0.1.0~v0.4.2)가 모여 있습니다 · [웹 앱](https://spherex-planet-x-tau.vercel.app/) · [팀 저장소](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **밝혀 둔 한계:** 뷰어, 디자인, 나머지 백엔드는 팀의 다른 구성원이 만들었습니다. 설치 프로그램은 서명되지 않았고 실제 기기에서 테스트하지 않았습니다. AI(Claude Code)를 보조 도구로 사용했으며 저장소에 명시했습니다. 이는 제 기여를 설명하는 것이며 해커톤 결과가 아닙니다.
 
 ## ⚡저를 평가할 시간이 10분이라면
 
@@ -263,7 +279,7 @@ installer 또는 CLI 바이너리를 다운로드[RootCause releases](https://gi
 - **상태에 대해 정직**— 1개의 repo는 이름이 되었습니다 (`Multisimulador` → `machine-operator-program`) 아직 존재하지 않는 Promising 소프트웨어를 피하기 위해.
 - **배지는 신호, 증거가 아닙니다**— 각 repo는 또한 선언합니다**그것은하지 않습니다**.
 - **모델 outward**— 도메인은 먼저 설계; 인터페이스는 투사입니다.
-- **외부 작업은 외부로 선언됩니다.** — 제3자 프로젝트의 [포크 52개](docs/ECOSYSTEM.ko.md#forks)는 하나씩 설명하며, 이 프로필의 자체 작업물 수치에서 제외됩니다.
+- **외부 작업은 외부로 선언됩니다.** — 제3자 프로젝트의 [포크 54개](docs/ECOSYSTEM.ko.md#forks)는 하나씩 설명하며, 이 프로필의 자체 작업물 수치에서 제외됩니다.
 
 ## ✅전문 범위
 

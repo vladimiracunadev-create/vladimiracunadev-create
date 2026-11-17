@@ -81,9 +81,9 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 | 🧪 **Zakres badania** | GabySQL**850 badań**+ rozmycie**503,8M zapytania**(0 paniki)·Empresa Operativa Chile**230 badań** ·Automa**150 pikseli** ·wieloOS CI |
 | 🤖 **Czynniki klasy produkcyjnej** | LangGraph RealWorld**25 / 25 operacyjnych oparć**(sprawy 01- 25, 100%)·Operacyjne środki do zwalczania ptasiej grypy**23**z**69 determinalistycznych wymienników** |
 | 🔗 **Integracja poliglotów** | **20 spraw**nadawca → n8n → odbiornik -**19 operacyjne**, indywidualnie skontrolowane z Docker -· **Silniki o mocy 18 + DB** · **20 + pojemniki** ·11 wzorów |
-| 📦 **Dystrybucja** | **156 wydaleń**w całym ekosystemie**66 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
+| 📦 **Dystrybucja** | **164 wydaleń**w całym ekosystemie**67 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
 | 🛡️ **Łańcuch dostaw** | CodeQL·Semgrep·Bandyta·Trivy·Typ·Gitleaks·TruffleHog Przewodniczący·CycloneDX SBOM·Wyniki |
-| 📚 **Programy nauczania** | **16 798 klas**weryfikowalne w 22 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
+| 📚 **Programy nauczania** | **18 418 klas**weryfikowalne w 22 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
 | 🌐 **Portfolio** | Instalowalne PWA· **22 języków** · **154 PDF**generowane przez rurociąg·API danych CV·Capacitor Android·Latarnia morska 100 |
 | 🔒 **Telemetria** | Zero telemetrii w wyrobach kryminalistycznych i Empresa Operativa Chile - zweryfikowane w każdej budowie (nie Android`INTERNET`(pozwolenie) |
 | 🌐 **Published sites** | **57 GitHub Pages sites** —56 landings, one per product, program, or ecosystem navigator, plus the portfolio— each deployed from its own repository · all 57 verified with HTTP `200` |
@@ -200,6 +200,12 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Technologie publikacji**
+
+![Technologie publikacji](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (praca osobista) · Vercel (hackathon NASA Space Apps) · AWS (operacyjne strony, powiązane z GitLab) · GitHub Pages</sub>
+
 ## 🗺️Ekosystem w odblasku
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.pl.svg)
@@ -208,22 +214,32 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do pobrania i instalacji, laboratoria inżynierskie, stosowana AI, kompletne programy nauczania techniczne i obliczenia naukowe oraz opis każdego forka projektów osób trzecich znajdującego się na koncie.
 
-- 📦 **Produkty z dystrybucją rzeczywistą** (23)
+- 📦 **Produkty z dystrybucją rzeczywistą** (24)
 - 🧪 **Laboratoria inżynieryjne** (11)
 - 🤖 **Stosowana AI** (6)
 - 📚 **Kompletne programy nauczania technicznego** (22)
 - 🔬 **Konstrukcja naukowa** (1)
-- 🍴 **Forki projektów osób trzecich** (52)
+- 🍴 **Forki projektów osób trzecich** (54)
 
 👉 **[Zobacz pełny ekosystem](docs/ECOSYSTEM.pl.md)** · [🍴 Forki projektów osób trzecich](docs/ECOSYSTEM.pl.md#forks)
 
 ## 📚Kompletne programy nauczania technicznego
 
-Sekwencyjne programy w języku hiszpańskim, ze statusem i zakresem deklarowanym przez każde repozytorium. 22 programów dodaje się do**16 798 klas**, policzone[a workflow](.github/workflows/stats.yml)z rzeczywistej struktury repozytorium lub źródła weryfikowalnego zadeklarowanego w repozytorium; odznaka odświeża raz w tygodniu i nie jest zapisywana ręcznie.
+Sekwencyjne programy w języku hiszpańskim, ze statusem i zakresem deklarowanym przez każde repozytorium. 22 programów dodaje się do**18 418 klas**, policzone[a workflow](.github/workflows/stats.yml)z rzeczywistej struktury repozytorium lub źródła weryfikowalnego zadeklarowanego w repozytorium; odznaka odświeża raz w tygodniu i nie jest zapisywana ręcznie.
 
-🌌 **Wliczone do zliczania:** [Astronomia, astrofizyka, nauki kosmiczne i inżynieria lotnicza i kosmiczna](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 zajęć w 12 obszarach i 133 blokach; wszystkie z napisanym tekstem i nadal w stanie E0 (czekają na recenzję merytoryczną i zatwierdzenie autora). Niezależne kształcenie, nie uprawnienia zawodowe · [strona](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Wliczone do zliczania:** [Astronomia, astrofizyka, nauki kosmiczne i inżynieria lotnicza i kosmiczna](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 zajęć w 12 obszarach i 133 blokach; wszystkie z napisanym tekstem i nadal w stanie E0 (czekają na recenzję merytoryczną i zatwierdzenie autora). Zawiera 10 warsztatów misji i 23 symulatory Układu Słonecznego z danymi NASA/JPL. Niezależne kształcenie, nie uprawnienia zawodowe · [strona](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[Zobacz 22 pełnych programów](docs/ECOSYSTEM.pl.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ Hackathon NASA Space Apps 2026
+
+Wziąłem udział w **NASA Space Apps Challenge 2026** (Santiago, 14–15 listopada), w wyzwaniu *Planet X and SPHEREx*, w 6-osobowym zespole. Produkt to **AstroTrack · SPHEREx**: przeglądarkowy podgląd, w którym wpisuje się współrzędne nieba i widzi ten obszar jako sekwencję obrazów SPHEREx w czasie, na danych NASA/IPAC IRSA.
+
+- **Moja część:** dostęp do danych (zapytania do IRSA z pamięcią podręczną i wstępnie obliczone pola dema), pakowanie (PWA, instalatory desktopowe w Tauri i APK Androida w Capacitor), widok „Pobieranie” oraz audyt spójności dokumentacji z kodem.
+- **Weryfikowalne dostarczenie:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) zbiera 7 wydań (od v0.1.0 do v0.4.2) z sumami SHA-256 · [aplikacja web](https://spherex-planet-x-tau.vercel.app/) · [repozytorium zespołu](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Deklarowane ograniczenia:** podgląd, projekt i reszta backendu to praca innych osób z zespołu; instalatory nie są podpisane i nie testowano ich na prawdziwych urządzeniach; używałem AI (Claude Code) jako asystenta, co jest zadeklarowane w repozytorium. To opisuje mój wkład, a nie wynik hackathonu.
 
 ## ⚡Jeśli masz 10 minut na ocenę mnie
 
@@ -263,7 +279,7 @@ Pobierz instalator lub CLI binarne z[RootCause releases](https://github.com/vlad
 - **Szczerość o statusie**- zmieniono nazwę jednego repo (`Multisimulador` → `machine-operator-program`) aby uniknąć obiecującego oprogramowania, które jeszcze nie istnieje.
 - **Odznaki to sygnały, nie dowody.**- każdy repo deklaruje również**co nie robi NIE robi**.
 - **Wzór na zewnątrz**- domenę zaprojektowano najpierw; interfejs jest projekcją.
-- **Praca zewnętrzna jest deklarowana jako zewnętrzna** — [52 forków](docs/ECOSYSTEM.pl.md#forks) projektów osób trzecich opisano pojedynczo i pozostają poza wszystkimi liczbami własnych prac w tym profilu.
+- **Praca zewnętrzna jest deklarowana jako zewnętrzna** — [54 forków](docs/ECOSYSTEM.pl.md#forks) projektów osób trzecich opisano pojedynczo i pozostają poza wszystkimi liczbami własnych prac w tym profilu.
 
 ## ✅Zakres działalności
 

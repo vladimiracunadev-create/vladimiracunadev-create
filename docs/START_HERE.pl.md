@@ -14,12 +14,13 @@ Wybierz swój przypadek i przejdź prosto do tego, czego potrzebujesz. Każdy pr
 | 🏢 **Biznes, zarządzanie lub sektor publiczny** | Role bez programowania i produkty zorientowane na zarządzanie | [Biznes i zarządzanie](guides/BUSINESS.pl.md) |
 | 🤝 **Współpraca, open source lub bezpieczeństwo** | Wnieść wkład, zgłosić podatność, licencje | [Współpraca i bezpieczeństwo](guides/COLLABORATOR.pl.md) |
 | 🎓 **Uczyć się lub uczyć innych** | Wybrać spośród 22 programów według celu | [Nauka lub nauczanie](guides/LEARNER.pl.md) |
+| 🛰️ **Hackathon i praca zespołowa** | Zobacz najnowszy projekt zespołowy: AstroTrack · SPHEREx (NASA Space Apps 2026) | [Hackathon](../README.pl.md#hackathon) |
 
 ## ⏱️ Jeśli masz tylko 60 sekund
 
 - **Kto:** Inżynier informatyki i obliczeń oraz administrator przedsiębiorstw, ponad 16 lat budowania i utrzymywania oprogramowania.
 - **Co robię:** architektura rozwiązań, modernizacja systemów legacy, automatyzacja i stosowana AI oraz ich dostarczanie i utrzymanie.
-- **Dowody:** 66 własnych publicznych repozytoriów, 156 wydań, testy i CI w produktach, a każde repo deklaruje też, czego **nie** robi.
+- **Dowody:** 67 własnych publicznych repozytoriów, 164 wydań, testy i CI w produktach, a każde repo deklaruje też, czego **nie** robi.
 - **Tryb:** zdalnie lub hybrydowo, zależnie od projektu.
 - **Kontakt:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | Собрат с выщипанной струной: 24 урока в 6 мирах, 6-струнный тюнер, бездрифтовый метроном и 11 настоящих гитарных нот | Таури 2·реагировать·ТС | **v1.0.0** ·Windows·Android·Linux·Мако·iOS·ПВА·Нет аккаунтов, рекламы или онлайн-зависимости· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Квека с 10 лет: 24 класса на 8 уровнях, 72 занятия, шестиимпульсная лаборатория (3+3 и 2+2+2) и доступные напольные диаграммы. Он утверждает, что**дополняет, а не заменяет**Учителя и носители культуры | флаттер·Дарт | **v0.2.0** ·Android 7+·Windows 10/11·АПХ·EXE·МГИ·портативный· **29 тестов + 2 валидатора** ·Нет камеры, микрофона, аккаунта, рекламы или Интернета· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Многоканальный шлюз на FastAPI: 13 сервисов и 69 операций (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) через REST, GraphQL, SOAP и gRPC. Шифрованный OAuth, подписанные вебхуки и сверяемая идемпотентность; чтение не даёт права на отправку | Python · FastAPI | **v0.3.0** · релиз пока не опубликован · **162 теста** на имитированном транспорте, без реальных аккаунтов и отправленных сообщений · MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Публичная копия установщиков AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android и PWA для iPhone. Исходного кода нет: код принадлежит команде | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 релизов** с суммами SHA-256 · установщики не подписаны и не проверялись на реальных устройствах · данные NASA/IPAC IRSA · [веб](https://spherex-planet-x-tau.vercel.app/) · [загрузки](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪Инженерные лаборатории
 
@@ -67,7 +68,7 @@
 
 ## 📚Полная техническая программа
 
-Последовательные программы на испанском языке, с статусом и объемом, объявленным каждым репозиторием. 22 программа, которая включает в себя**16 798 классов**Подсчитано по[a workflow](../.github/workflows/stats.yml)от реальной структуры хранилища или проверяемого источника, объявленного в хранилище; значок обновляется еженедельно и не пишется от руки.
+Последовательные программы на испанском языке, с статусом и объемом, объявленным каждым репозиторием. 22 программа, которая включает в себя**18 418 классов**Подсчитано по[a workflow](../.github/workflows/stats.yml)от реальной структуры хранилища или проверяемого источника, объявленного в хранилище; значок обновляется еженедельно и не пишется от руки.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)Это федеративный компас, соединяющий 30 реальных путей через 6 областей через визуальные карты и компьютерные карты.[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)Не считается дополнительной программой.
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 части с рабочими определениями, таблицами измерений, проверяемой библиографией и чилийским нормативным контекстом· **v1.6.0** ·1.29 млн слов·17 ролевых путей· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Создание и управление реальной компанией в Чили: от идеи до регистрации, налогового органа, операций, кризиса и выхода из ЕС.·360 диаграмм·1251-срочный глоссарий·1548-страничное руководство· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 части·60 интегративных сессий·35 пути·отслеживаемые источники·Markdown, офлайн-читатель и страницы GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 1-12 классы· **4 156 интегрированных кросс-курсов** · **2823 учебных целей** ·Источники MINEDUC·не выдвигаются предложения и не проводится специализированный обзор положения в области людских ресурсов· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 частей и 8 этапов·Основы → продукт, архитектура, безопасность, DevOps, SRE, SPEC, AI и мультиагентные системы·редакционный статус, объявленный репозиторием· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 1-12 классы· **4 156 интегрированных кросс-курсов** · **3153 учебных целей** ·Источники MINEDUC·не выдвигаются предложения и не проводится специализированный обзор положения в области людских ресурсов· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 частей и 8 этапов·Основы → продукт, архитектура, безопасность, DevOps, SRE, SPEC, AI и мультиагентные системы·редакционный статус, объявленный репозиторием· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | От того, как человек учится, к тому, как обучаются учителя·25 частей· **Каждый класс заявляет о своем состоянии доказательств и ограничениях.** ·ранняя грамотность, сравнительные методы, конкретные образовательные потребности, сосуществование, культурное разнообразие и международные доказательства·1097-срочный глоссарий, 325 диаграмм и 60-ти развлекательный банк·14 карьерных путей по ролям·LMS-экспортируемый· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Азур·ГКП·Куберне·терраформ·Срэ·Финапс· **1288 часов** ·288 лабораторий с доказательствами JSON·1032 источника·2 884-страничное руководство по PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | От владения первым результатом до руководства компанией и создания собственного: команды, KPI / OKR, финансы, продукт, риск, совет директоров и слияния и поглощения·24 случая, 96 лабораторий и 39 шаблонов· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** ·от нуля до программируемой финансовой инфраструктуры и аналитики на цепочке· **91 практика**и**508 испытания** ·контракты с Foundry (нечеткие и инварианты) и Slither статичный анализ в CI·оффлайн приложения, проверенные путем открытия двоичного файла и подсчета его содержимого· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 модулей·214 часов· **93 ноутбука**31 класс, 31 версия для студентов и 31 решение·вопросы, визуальные карты, методы и оценка с реальными общедоступными данными;·Питорч· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 учебный модуль**Один на машину· **502 ч 15 мин** ·системы, элементы управления, физика, безопасность и дизайн моделирования с источниками на класс·* пока нет исполняемого симулятора, и он объявлен таким образом* |
-| [🌌 **Астрономия, астрофизика, космические науки и аэрокосмическая инженерия**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Включено в подсчёт:** 2.077 занятий в 12 областях и 133 блоках; у всех написан текст, все пока в статусе E0 (ожидают профильной проверки и утверждения автором). Независимое обучение, а не профессиональная аттестация · [сайт](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+| [🌌 **Астрономия, астрофизика, космические науки и аэрокосмическая инженерия**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Включено в подсчёт:** 2.077 занятий в 12 областях и 133 блоках; у всех написан текст, все пока в статусе E0 (ожидают профильной проверки и утверждения автором). Включает 10 миссионных мастерских и 23 симулятора Солнечной системы с данными NASA/JPL. Независимое обучение, а не профессиональная аттестация · [сайт](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
 
 ## 🔬Научные вычисления
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 Форки сторонних проектов (52)
+## 🍴 Форки сторонних проектов (54)
 
 Это форки чужих проектов, хранящиеся в этом аккаунте. **Это не моя собственная работа**: заслуга принадлежит их первоначальным авторам, они не входят ни в одну цифру этого профиля, а каждое описание пересказывает то, что заявляет исходный проект, и не подразумевает поддержки, аудита или собственного производственного опыта. Описания по исходному проекту · 2026-11-09.
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | Сквозная платформа разработки: контроль кода, CI/CD, среды и реестры артефактов |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | Платформа GPS-слежения с открытым кодом, более 200 протоколов устройств |
 
-### 🎓 Образование и справочные материалы (4)
+### 🎓 Образование и справочные материалы (6)
 
 | Форк | Исходный проект | Язык | Что это |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | Бесплатный путь самообучения по математике (OSSU) |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | Сообщественный фреймворк Python для математических анимаций |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Примеры исходного кода игр для Atari 2600 на ассемблере |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | Репозиторий команды хакатона NASA Space Apps 2026 (задача Planet X and SPHEREx); проект из 6 человек |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | Анализ астрономических FITS-изображений для обнаружения астероидов, комет, спутников и движущихся объектов |

@@ -14,12 +14,13 @@ Kies je situatie en ga direct naar wat je nodig hebt. Elke gids lees je in 1–2
 | 🏢 **Business, management of overheid** | Functies zonder programmeren en managementgerichte producten | [Business en management](guides/BUSINESS.nl.md) |
 | 🤝 **Samenwerking, open source of beveiliging** | Bijdragen, een kwetsbaarheid melden, licenties | [Samenwerking en beveiliging](guides/COLLABORATOR.nl.md) |
 | 🎓 **Leren of lesgeven** | Kiezen uit de 22 programma's op basis van je doel | [Leren of lesgeven](guides/LEARNER.nl.md) |
+| 🛰️ **Hackathon en teamwerk** | Het laatste teamproject bekijken: AstroTrack · SPHEREx (NASA Space Apps 2026) | [Hackathon](../README.nl.md#hackathon) |
 
 ## ⏱️ Als je maar 60 seconden hebt
 
 - **Wie:** Ingenieur Informatica en Computing en Bedrijfskundige, 16+ jaar software bouwen en beheren.
 - **Wat ik doe:** oplossingsarchitectuur, modernisering van legacy-systemen, automatisering en toegepaste AI, plus oplevering en beheer daarvan.
-- **Bewijs:** 66 eigen openbare repositories, 156 releases, tests en CI in de producten, en elke repo vermeldt ook wat hij **niet** doet.
+- **Bewijs:** 67 eigen openbare repositories, 164 releases, tests en CI in de producten, en elke repo vermeldt ook wat hij **niet** doet.
 - **Werkwijze:** remote of hybride, afhankelijk van het project.
 - **Contact:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

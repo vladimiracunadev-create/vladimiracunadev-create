@@ -81,9 +81,9 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **850 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **230 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **23 agentes** con **69 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **156 releases** publicadas en un ecosistema de **66 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
+| 📦 **Distribución** | **164 releases** publicadas en un ecosistema de **67 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **16.798 clases** verificables en 22 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
+| 📚 **Currículos** | **18.418 clases** verificables en 22 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
 | 🌐 **Portafolio** | PWA instalable · **22 idiomas** · **154 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
 | 🌐 **Sitios publicados** | **57 sitios** en GitHub Pages —56 landings, una por producto, programa o navegador del ecosistema, más el portafolio— cada uno desplegado desde su propio repositorio · los 57 comprobados con respuesta `200` |
@@ -200,6 +200,12 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Tecnologías de publicación**
+
+![Tecnologías de publicación](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (trabajo personal) · Vercel (hackatón NASA Space Apps) · AWS (webs operativas, asociadas a GitLab) · GitHub Pages</sub>
+
 ## 🗺️ El ecosistema de un vistazo
 
 ![🧠 Criterio técnico — arquitectura · modernización · operación](docs/img/ecosystem.es.svg)
@@ -208,22 +214,32 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 
 La obra práctica del perfil vive en un documento propio: software que se descarga e instala, laboratorios de ingeniería, IA aplicada, currículos técnicos completos y computación científica, además de la descripción de cada fork de proyectos de terceros que hay en la cuenta.
 
-- 📦 **Productos con distribución real** (23)
+- 📦 **Productos con distribución real** (24)
 - 🧪 **Laboratorios de ingeniería** (11)
 - 🤖 **IA aplicada** (6)
 - 📚 **Currículos técnicos completos** (22)
 - 🔬 **Computación científica** (1)
-- 🍴 **Forks de proyectos de terceros** (52)
+- 🍴 **Forks de proyectos de terceros** (54)
 
 👉 **[Ver el ecosistema completo](docs/ECOSYSTEM.md)** · [🍴 Forks de proyectos de terceros](docs/ECOSYSTEM.md#forks)
 
 ## 📚 Currículos técnicos completos
 
-Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 22 programas suman **16.798 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
+Programas secuenciales en español, con estado y alcance declarados por repositorio. Los 22 programas suman **18.418 clases**, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio; la insignia se refresca cada semana, no está escrita a mano.
 
-🌌 **Incluido en el conteo:** [Astronomía, astrofísica, ciencias espaciales e ingeniería aeroespacial](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 clases en 12 áreas y 133 bloques; todas con texto redactado y aún en estado E0 (pendientes de revisión disciplinar y de aprobación del autor). Formación independiente, no habilitación profesional · [sitio](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Incluido en el conteo:** [Astronomía, astrofísica, ciencias espaciales e ingeniería aeroespacial](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 clases en 12 áreas y 133 bloques; todas con texto redactado y aún en estado E0 (pendientes de revisión disciplinar y de aprobación del autor). Incluye 10 talleres de misión y 23 simuladores del Sistema Solar con datos de NASA/JPL. Formación independiente, no habilitación profesional · [sitio](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[Ver los 22 programas completos](docs/ECOSYSTEM.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ Hackatón NASA Space Apps 2026
+
+Participé en el **NASA Space Apps Challenge 2026** (Santiago, 14 y 15 de noviembre), en el desafío *Planet X and SPHEREx*, dentro de un equipo de 6 personas. El producto es **AstroTrack · SPHEREx**: un visor web donde se escriben unas coordenadas del cielo y se ve esa zona como una secuencia de imágenes de SPHEREx a lo largo del tiempo, con datos de NASA/IPAC IRSA.
+
+- **Mi parte:** acceso a datos (consultas a IRSA con caché y precálculo de los campos de la demo), empaquetado (PWA, instaladores de escritorio con Tauri y APK de Android con Capacitor), la vista «Descargas» y una auditoría de coherencia entre documentación y código.
+- **Entrega verificable:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) reúne 7 releases (v0.1.0 a v0.4.2) con sumas SHA-256 · [aplicación web](https://spherex-planet-x-tau.vercel.app/) · [repositorio del equipo](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Límites declarados:** el visor, el diseño y el resto del backend son trabajo de otras personas del equipo; los instaladores no están firmados ni se probaron en equipos reales; usé IA (Claude Code) como asistente y está declarado en el repositorio. Esto describe mi contribución, no un resultado del hackatón.
 
 ## ⚡ Si tienes 10 minutos para evaluarme
 
@@ -263,7 +279,7 @@ Descarga el instalador o el binario CLI desde [las releases de RootCause](https:
 - **Honestidad sobre el estado** — un repo se renombró (`Multisimulador` → `machine-operator-program`) para no prometer software que aún no existe.
 - **Los badges son señales, no evidencia** — cada repo declara también **lo que NO hace**.
 - **Del modelo hacia afuera** — el dominio se diseña primero; la interfaz es una proyección.
-- **Lo ajeno se declara ajeno** — los [52 forks](docs/ECOSYSTEM.md#forks) de proyectos de terceros se describen uno a uno y quedan fuera de todas las cifras de obra propia de este perfil.
+- **Lo ajeno se declara ajeno** — los [54 forks](docs/ECOSYSTEM.md#forks) de proyectos de terceros se describen uno a uno y quedan fuera de todas las cifras de obra propia de este perfil.
 
 ## ✅ Alcance profesional
 

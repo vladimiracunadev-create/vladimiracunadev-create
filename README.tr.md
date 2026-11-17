@@ -81,9 +81,9 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 | 🧪 **Test kapsamı** | GabySQL**850 test testleri**+ söndürücü**503.8M sorguları**(0 Panik)·Empresa Operativa Chile**230 Test testleri** ·Automa**150 pytest** ·multi-OS CI |
 | 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **Polyglot integration** | **20 cases** sender→n8n→receiver —**19 operational**, individually audited with Docker— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **Distribution** | **156 releases** across an ecosystem of **66 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **164 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **Tedarik zinciri** | KodQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **16,798 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **18,418 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **Portföy Portföyü** | Yükleme edilebilir PWA· **22 dil dili** · **154 PDFs**Boru hattı tarafından üretilen·CV Data API·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Adli ürünler ve Empresa Operativa Chile'de Sıfır telemetri - her binada doğrulandı (no Android`INTERNET`İzin) |
 | 🌐 **Yayınlanmış siteleri** | **57 GitHub Pages siteleri**-56 iniş, bir ürün, program veya ekosistem navigator, artı portföy - her biri kendi depolarından dağıtıldı·57 kişi HTTP ile doğrulandı`200` |
@@ -200,6 +200,12 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Yayınlama teknolojileri**
+
+![Yayınlama teknolojileri](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (kişisel çalışma) · Vercel (NASA Space Apps hackathon'u) · AWS (GitLab ile ilişkili operasyonel web siteleri) · GitHub Pages</sub>
+
 ## 🗺️Bir bakışta ekosistem
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.svg)
@@ -208,22 +214,32 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yazılımlar, mühendislik laboratuvarları, uygulamalı yapay zekâ, eksiksiz teknik müfredatlar ve bilimsel hesaplama ile hesaptaki üçüncü taraf projelerin her bir fork'unun açıklaması.
 
-- 📦 **Gerçek Dağıtım ile Ürünler** (23)
+- 📦 **Gerçek Dağıtım ile Ürünler** (24)
 - 🧪 **Mühendislik Laboratuvarları** (11)
 - 🤖 **Uygulamalı yapay zekâ** (6)
 - 📚 **Eksiksiz teknik müfredatlar** (22)
 - 🔬 **Bilimsel Bilgi** (1)
-- 🍴 **Üçüncü taraf projelerin fork'ları** (52)
+- 🍴 **Üçüncü taraf projelerin fork'ları** (54)
 
 👉 **[Ekosistemin tamamını gör](docs/ECOSYSTEM.tr.md)** · [🍴 Üçüncü taraf projelerin fork'ları](docs/ECOSYSTEM.tr.md#forks)
 
 ## 📚Eksiksiz teknik müfredatlar
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **16,798 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **18,418 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
-🌌 **Sayıma dâhil:** [Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 alanda ve 133 blokta 2.077 ders; hepsinin metni yazılmış, hepsi hâlâ E0 durumunda (alan incelemesi ve yazar onayı bekliyor). Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Sayıma dâhil:** [Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 alanda ve 133 blokta 2.077 ders; hepsinin metni yazılmış, hepsi hâlâ E0 durumunda (alan incelemesi ve yazar onayı bekliyor). 10 görev atölyesi ve NASA/JPL verileriyle 23 Güneş Sistemi simülatörü içerir. Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[22 programın tamamını gör](docs/ECOSYSTEM.tr.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ NASA Space Apps 2026 hackathon'u
+
+6 kişilik bir ekiple, *Planet X and SPHEREx* görevinde **NASA Space Apps Challenge 2026**'ya (Santiago, 14–15 Kasım) katıldım. Ürün **AstroTrack · SPHEREx**: gökyüzü koordinatlarının yazıldığı ve o bölgenin SPHEREx görüntülerinin zaman içindeki dizisi olarak görüldüğü, NASA/IPAC IRSA verilerini kullanan bir web görüntüleyici.
+
+- **Benim payım:** veri erişimi (önbellekli IRSA sorguları ve demo alanlarının önceden hesaplanması), paketleme (PWA, Tauri ile masaüstü yükleyicileri ve Capacitor ile Android APK), “İndirmeler” görünümü ve belgeler ile kod arasında tutarlılık denetimi.
+- **Doğrulanabilir teslimat:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) SHA-256 toplamlarıyla 7 sürümü (v0.1.0–v0.4.2) bir araya getirir · [web uygulaması](https://spherex-planet-x-tau.vercel.app/) · [ekip deposu](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Beyan edilen sınırlar:** görüntüleyici, tasarım ve arka uç geri kalanı ekibin diğer üyelerinin işidir; yükleyiciler imzasız olup gerçek cihazlarda denenmemiştir; depoda beyan edildiği gibi yardımcı olarak yapay zekâ (Claude Code) kullandım. Bu, benim katkımı anlatır; hackathon sonucu değildir.
 
 ## ⚡Beni değerlendirmek için 10 dakikanız varsa
 
@@ -263,7 +279,7 @@ Yüklemeci veya Küçlüyü İndirin[RootCause releases](https://github.com/vlad
 - **Dürüst statü hakkında**– bir repo yeniden adlandırılmıştı (`Multisimulador` → `machine-operator-program`Henüz mevcut olmayan umut verici yazılımlardan kaçınmak.
 - **İşaretler sinyalleridir, kanıt değil**Her bir repo da aynı zamanda ilan eder**Ne yapmaz**.
 - **Model outward** — the domain is designed first; the interface is a projection.
-- **Dış çalışma dışsal olarak ilan edilir** — üçüncü taraf projelerin [52 fork'u](docs/ECOSYSTEM.tr.md#forks) tek tek açıklanır ve bu profildeki tüm kendi eser rakamlarının dışında kalır.
+- **Dış çalışma dışsal olarak ilan edilir** — üçüncü taraf projelerin [54 fork'u](docs/ECOSYSTEM.tr.md#forks) tek tek açıklanır ve bu profildeki tüm kendi eser rakamlarının dışında kalır.
 
 ## ✅Profesyonel Kapsam
 

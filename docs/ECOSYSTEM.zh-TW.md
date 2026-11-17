@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | 接弦的弟弟: 6個世界的24個課,6個弦調奏者,無漂流的節奏, 和11個真正的吉他音符 | 陶里語 2·反應·TS 調製 | **單曲 1. 0.0** ·視窗·機器人·連結·macOS 系統·iOS 系統·太平洋婦女協會·沒有賬戶、廣告或線上依賴· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 10歲的Cueca:8級24個班級,72個活動,6個脈衝實驗室(3+3和2+2+2),以及可訪問的地平圖. 宣告如下:**補充,而不是替換**教師和文化傳承者 | 小蝶 , 蝶 , 蝶 , 蝶 , 蝶 , 蝶·達特 | **以0.2.0計** ·7+號機器人·Windows 10/11 視窗 10/11·APK 自動交換·EXE 資料·模里西斯·行動式· **29個測試+2個驗證器** ·沒有相機、麥克風、賬戶、廣告或網際網路· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI 多渠道閘道器：13 項服務、69 個操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHub……），覆蓋 REST、GraphQL、SOAP 和 gRPC。OAuth 加密、Webhook 簽名、可對賬的冪等；查詢不等於授權傳送 | Python · FastAPI | **v0.3.0** · 尚未釋出 release · **162 項測試**（模擬傳輸，未使用真實賬戶，未傳送任何訊息）· MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx（NASA Space Apps 2026）安裝包的公開副本：Windows、macOS、Linux、Android 以及適用於 iPhone 的 PWA。不含原始碼：程式碼屬於團隊 | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 個釋出版本**，附 SHA-256 校驗和 · 安裝包未簽名，未在真實裝置上測試 · NASA/IPAC IRSA 資料 · [網頁](https://spherex-planet-x-tau.vercel.app/) · [下載](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪工程實驗室
 
@@ -67,7 +68,7 @@
 
 ## 📚完成技術課程
 
-西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**16 798個班級**,計算為[a workflow](../.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
+西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**18 418個班級**,計算為[a workflow](../.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)是一個聯邦指南針,透過視覺地圖和影象圖連線6個地區的30個真實路徑[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);不計為附加程式。
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24個部分,包括業務定義、計量單、可核查的參考書目和智利的監管背景· **千分之一.6.0 千分之一.** ·1.29M字數·17個基於角色的路徑· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | 在智利建立和經營一家真正的公司:從想法到成立、稅務當局、業務、危機和退出·360 個圖表·1 251個任期詞彙表·1 548頁手冊· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84個編·60屆綜合會議·35道路徑·可追蹤來源·下行、離線閱讀器和 GitHub Pages· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 1至12年級· **4 156次綜合跨課程經驗** · **2 823個學習目標** ·聯剛特派團的訊息來源·尚未提出待決提案和尚未進行專門人力審查· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40個部分和8個階段·基礎 → 產品、建築、安全、DevOps、SRE、SPEC、AI和多代理系統·資料庫宣佈的編輯地位· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 1至12年級· **4 156次綜合跨課程經驗** · **3 153個學習目標** ·聯剛特派團的訊息來源·尚未提出待決提案和尚未進行專門人力審查· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45個部分和8個階段·基礎 → 產品、建築、安全、DevOps、SRE、SPEC、AI和多代理系統·資料庫宣佈的編輯地位· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 從一個人如何學習到如何培訓教師·25個部分· **每一類都宣告其證據狀態和限度** ·早期識字、比較方法、具體教育需要、共處、文化多樣性和國際證據·1 097個定期詞彙表、325個圖表和60個活動課堂庫·按角色分列的14個職業道路·LMS 可出口· **維基百科中的相關條目: 維基語錄連結:名人名言 - 分類** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | 自動取款機·阿蘇雷·GCP 常規·庫伯涅斯·地表·塞爾維亞·財務操作· **1 288小時** ·288個有JSON證據的實驗室·1 032個來源·2 884頁PDF手冊· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 從擁有第一個結果到領導一個公司和建立自己的團隊:團隊、KPI/OKR、金融、產品、風險、板子和併購·24個病例、96個實驗室和39個模板· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** ·從零到可程式設計的金融基礎設施和鏈上分析· **91個做法**財務報告和已審計財務報表**508次測試** ·與開業公司(模糊和變化不定)和CI的Slither靜態分析的合同·開啟二進位制並計數其內容的離線應用程式· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41個培訓單元**,每臺一臺機器· **502小時15分鐘** ·系統、控制、物理、安全和模擬設計,每類源·*還沒有可執行模擬器,而且它被宣佈為這樣* |
-| [🌌 **天文學、天體物理學、太空科學與航空太空工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **已計入統計：**12 個領域、133 個模組共 2,077 堂課程；全部已有正文，仍處於 E0 狀態（待專業審閱與作者核准）。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+| [🌌 **天文學、天體物理學、太空科學與航空太空工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **已計入統計：**12 個領域、133 個模組共 2,077 堂課程；全部已有正文，仍處於 E0 狀態（待專業審閱與作者核准）。包含 10 個任務工作坊和 23 個使用 NASA/JPL 資料的太陽系模擬器。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬科學計算
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 第三方專案的 fork (52)
+## 🍴 第三方專案的 fork (54)
 
 這些是保存在本帳號中的他人專案 fork。**它們不是我的原創作品**：功勞屬於原作者，不計入本檔案的任何數字，每則說明僅概述原專案自身的聲明，並不代表我提供支援、稽核或具備正式環境經驗。說明依據原專案 · 2026-11-09。
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | 端到端開發平台：程式碼管理、CI/CD、環境與製品庫 |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | 開源 GPS 追蹤平台，支援 200 多種裝置協定 |
 
-### 🎓 教育與參考 (4)
+### 🎓 教育與參考 (6)
 
 | Fork | 原專案 | 語言 | 簡介 |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | 免費數學自學路徑（OSSU） |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | 社群維護的數學動畫 Python 框架 |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Atari 2600 遊戲組合語言範例原始碼 |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | NASA Space Apps 2026 駭客松的團隊倉庫（Planet X and SPHEREx 挑戰）；6 人專案 |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | 天文 FITS 影象分析，用於檢測小行星、彗星、衛星和移動天體 |

@@ -112,6 +112,25 @@ if ref and len(ref) > 3:
         if badge_prog and filas != int(badge_prog.group(1)):
             err(f"{p}: {filas} programas en la tabla y la insignia dice {badge_prog.group(1)}")
 
+# 7) forks: el total del encabezado, la suma de sus categorías y las filas deben coincidir con el contador de forks de terceros
+if ref and len(ref) > 5:
+    PERS7 = str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")
+    for lg in [""] + LANGS:
+        p = f"docs/ECOSYSTEM{'.' + lg if lg else ''}.md"
+        if not os.path.exists(p):
+            continue
+        tail = read(p).split("\n## 🍴")
+        if len(tail) < 2:
+            err(f"{p}: no se encontró la sección de forks")
+            continue
+        sec7 = tail[1]
+        titulo = re.search(r"\((\d+)\)", sec7.split("\n")[0].translate(PERS7))
+        cats = [int(m) for m in re.findall(r"^### [^\n]*?\((\d+)\)", sec7.translate(PERS7), re.M)]
+        filas = len(re.findall(r"^\| \[\*\*", sec7, re.M))
+        total = int(titulo.group(1)) if titulo else -1
+        if not (total == sum(cats) == filas == int(ref[5])):
+            err(f"{p}: forks inconsistentes (encabezado {total}, categorías {sum(cats)}, filas {filas}, contador {ref[5]})")
+
 if errors:
     print(f"{len(errors)} problema(s):")
     for e in errors[:80]:

@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | The plucked-string sibling: 24 lessons in 6 worlds, 6-string tuner, drift-free metronome, and 11 real guitar notes | Tauri 2 · React · TS | **v1.0.0** · Windows · Android · Linux · macOS · iOS · PWA · no accounts, ads, or online dependency · [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | Cueca from age 10: 24 classes in 8 levels, 72 activities, six-pulse lab (3+3 and 2+2+2), and accessible floor diagrams. It states that it **complements, not replaces**, teachers and culture bearers | Flutter · Dart | **v0.2.0** · Android 7+ · Windows 10/11 · APK · EXE · MSI · portable · **29 tests + 2 validators** · no camera, microphone, account, ads, or internet · [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI 멀티채널 게이트웨이: 13개 서비스, 69개 작업(Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub 등)을 REST, GraphQL, SOAP, gRPC로 제공. 암호화된 OAuth, 서명된 웹훅, 대조 가능한 멱등성. 조회는 전송 권한을 뜻하지 않음 | Python · FastAPI | **v0.3.0** · 아직 릴리스 미게시 · 모의 전송 기반 **테스트 162개**, 실제 계정·메시지 전송 없음 · MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx(NASA Space Apps 2026) 설치 프로그램의 공개 사본: Windows, macOS, Linux, Android, iPhone용 PWA. 소스 코드는 없으며 코드는 팀의 것입니다 | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 체크섬이 있는 **7개 릴리스** · 서명되지 않았고 실제 기기에서 테스트하지 않은 설치 프로그램 · NASA/IPAC IRSA 데이터 · [웹](https://spherex-planet-x-tau.vercel.app/) · [다운로드](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪엔지니어링 연구소
 
@@ -67,7 +68,7 @@
 
 ## 📚완전한 기술 교육과정
 
-스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**16,798 클래스**, 으로 계산[a workflow](../.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
+스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**18,418 클래스**, 으로 계산[a workflow](../.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) is a federated compass connecting 30 real paths across 6 areas through visual maps and an [accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); it is not counted as an additional program.
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 운영 정의, 측정 시트, 검증 가능한 생물학적, 칠레 규제 상황에 24 부품· **0.0.0.0 다운로드** ·1.29M 단어·17개의 역할 기반 경로· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | 칠레에서 실제 회사를 만들고 운영합니다. 설립, 세금 기관, 운영, 위기 및 출구에 대한 아이디어에서·360도·1,251 용어 광택·1,548 페이지 설명서· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 부품·60개의 통합 세션·35 경로·추적 가능한 소스·Markdown, 오프라인 리더, GitHub 페이지· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 학년 1-12· **4,156 통합 크로스 컬리어** · **2,823 학습 목표** ·MINEDUC 소스·공개 제안 및 전문 인적 검토는 여전히 종료· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 부품 및 8 단계·기초 → 제품, 건축, 안전, DevOps, SRE, SPEC, AI 및 다중 시약 체계·repository에 의해 선언 된 편집 상태· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 학년 1-12· **4,156 통합 크로스 컬리어** · **3,153 학습 목표** ·MINEDUC 소스·공개 제안 및 전문 인적 검토는 여전히 종료· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 부품 및 8 단계·기초 → 제품, 건축, 안전, DevOps, SRE, SPEC, AI 및 다중 시약 체계·repository에 의해 선언 된 편집 상태· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 선생님이 훈련하는 방법을 배우는 방법·25 부품· **각 클래스는 증거 국가와 한계를 선언합니다.** ·초기의 문학, 비교 방법, 특정 교육 요구, 협동, 문화 다양성, 국제 증거·1,097-term 광택, 325 다이어그램 및 60-activity 교실 은행·14 역할에 의한 경력 경로·LMS 호환· **₢ 킹** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS 지원·는·GCP(주)·쿠버네티스·의 특징·₢ 킹·핀 핑· **1,288 시간** ·288 JSON 증거와 실험실·1,032 추적 소스·2,884 페이지 PDF 설명서· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 회사를 선도하고 자신만의 팀을 이끌고, KPI/OKR, 금융, 제품, 위험, 보드 및 M&A를 자체적으로 관리하여·24건, 96건, 39건· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **508 tests** · contracts with Foundry (fuzzing and invariants) and Slither static analysis in CI · offline apps verified by opening the binary and counting its contents · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7개의 단위·≈214 시간· **93 노트북**—31 클래스, 31 학생 버전, 31 솔루션—·질문, 시각지도, 관행 및 실제 자료로 평가·핑크· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 교육 모듈**, 기계 당 하나· **502 h 15 분** ·시스템, 제어, 물리, 안전, 및 클래스 당 소스와 시뮬레이션 디자인·* 아직 실행할 수 없는 시뮬레이터, 그리고 그것은 그 way* 선언됩니다 |
-| [🌌 **천문학, 천체물리학, 우주과학, 항공우주공학**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **집계 포함:** 12개 영역, 133개 블록에 걸친 2,077개 수업. 모두 본문이 작성되었으며 아직 E0 상태입니다(전문 분야 검토와 저자 승인 대기). 독립 교육이며 직업 자격이 아닙니다 · [사이트](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+| [🌌 **천문학, 천체물리학, 우주과학, 항공우주공학**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **집계 포함:** 12개 영역, 133개 블록에 걸친 2,077개 수업. 모두 본문이 작성되었으며 아직 E0 상태입니다(전문 분야 검토와 저자 승인 대기). 10개의 임무 워크숍과 NASA/JPL 데이터를 쓰는 23개의 태양계 시뮬레이터를 포함합니다. 독립 교육이며 직업 자격이 아닙니다 · [사이트](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
 
 ## 🔬과학 컴퓨팅
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 제3자 프로젝트의 포크 (52)
+## 🍴 제3자 프로젝트의 포크 (54)
 
 이 계정에 보관된 타인 프로젝트의 포크입니다. **제 자체 작업물이 아닙니다**. 공로는 원저자에게 있으며, 이 프로필의 어떤 수치에도 포함되지 않고, 각 설명은 원 프로젝트가 스스로 밝힌 내용을 요약한 것으로 지원, 감사 또는 제 운영 경험을 뜻하지 않습니다. 설명은 원 프로젝트 기준 · 2026-11-09.
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | 소스 관리, CI/CD, 환경, 아티팩트 레지스트리를 갖춘 종단 간 개발 플랫폼 |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | 오픈소스 GPS 추적 플랫폼, 200개 이상의 장치 프로토콜 |
 
-### 🎓 교육과 참고 자료 (4)
+### 🎓 교육과 참고 자료 (6)
 
 | 포크 | 원 프로젝트 | 언어 | 설명 |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | 수학 무료 독학 경로 (OSSU) |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | 수학 애니메이션용 커뮤니티 Python 프레임워크 |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | 어셈블리로 작성된 Atari 2600 게임 샘플 소스 코드 |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | NASA Space Apps 2026 해커톤(Planet X and SPHEREx 과제)의 팀 저장소, 6인 프로젝트 |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | 소행성, 혜성, 위성, 움직이는 천체를 탐지하기 위한 천문 FITS 이미지 분석 |

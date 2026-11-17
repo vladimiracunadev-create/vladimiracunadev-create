@@ -4,7 +4,7 @@
 
 ## W jednym zdaniu
 
-22 sekwencyjnych programów po hiszpańsku, z 16 798 zajęciami liczonymi przez workflow; każdy deklaruje swój status redakcyjny i ograniczenia.
+22 sekwencyjnych programów po hiszpańsku, z 18 418 zajęciami liczonymi przez workflow; każdy deklaruje swój status redakcyjny i ograniczenia.
 
 ## Wybierz według celu
 

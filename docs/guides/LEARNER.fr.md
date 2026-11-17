@@ -4,7 +4,7 @@
 
 ## En une ligne
 
-22 programmes séquentiels en espagnol, avec 16 798 classes comptées par un workflow, chacun déclarant son état éditorial et ses limites.
+22 programmes séquentiels en espagnol, avec 18 418 classes comptées par un workflow, chacun déclarant son état éditorial et ses limites.
 
 ## Choisissez selon votre objectif
 

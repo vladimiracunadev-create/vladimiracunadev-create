@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **試験カバレッジ** | ガビーSQL**850 件のテスト**+ 上でのしゃべり**503.8M のクエリ**(0 パンク)·Empresa Operativa チリ**230 件のテスト** ·オートマチック**150 ピテスト** ·マルチOS CI |
 | 🤖 **生産等級の代理店** | LangGraph リアルワールド**25/25 操作バックエンド**(ケース 01–25、100% のカバレッジ)·運用AIエージェント**23 代理店**とりあえず**69 の決定的な楕円** |
 | 🔗 **Polyglotの統合** | **20件**sender→n8n→receiver — の**19 業務**, 個別にドッカーで監査· **18 + DBエンジン** · **20以上のコンテナ** ·11パターン |
-| 📦 **流通販売** | **156 リリース**生態系全体**66 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
+| 📦 **流通販売** | **164 リリース**生態系全体**67 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
 | 🛡️ **サプライチェーン** | コードQL·セルムレプ·バンドイト·トリビー·グリペ·ジトルク·トラッフルホッグ·CycloneDX SBOM(サイクロンDX SBOM)·スコアカード |
-| 📚 **カリキュラム** | **16,798 クラス**22プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
+| 📚 **カリキュラム** | **18,418 クラス**22プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
 | 🌐 **ポートフォリオ** | インストール可能なPWA· **22 の言語** · **PDF154枚**パイプラインによって生成される·CVデータAPI·コンデンサーのアンドロイド·灯台 100 |
 | 🔒 **テレメトリー** | フォレンジック製品とエンドレスバ・オペラティバ・チリのゼロテレメトリー — あらゆるビルドで検証 (Android なし)`INTERNET`許可) |
 | 🌐 **公開サイト** | **57 GitHub ページサイト**—56 のランディング、製品、プログラム、またはエコシステム・ナビゲーター、およびポートフォリオごとに1つ、それぞれが独自のリポジトリから展開·全て 57 検証済み HTTP で検証済み`200` |
@@ -200,6 +200,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**公開技術**
+
+![公開技術](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (個人の仕事) · Vercel (NASA Space Apps ハッカソン) · AWS (GitLab に関連する運用中のウェブサイト) · GitHub Pages</sub>
+
 ## 🗺️地球の環境システム
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ja.svg)
@@ -208,22 +214,32 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 このプロフィールの実践的な成果は独立したドキュメントにまとめています。ダウンロードしてインストールできるソフトウェア、エンジニアリングラボ、応用AI、完全な技術カリキュラム、科学計算に加え、アカウント内にあるサードパーティプロジェクトの各フォークの説明も含みます。
 
-- 📦 **実質の配分を用いるプロダクト** (23)
+- 📦 **実質の配分を用いるプロダクト** (24)
 - 🧪 **エンジニアリング研究所** (11)
 - 🤖 **応用AI** (6)
 - 📚 **完全な技術的なカリキュラム** (22)
 - 🔬 **科学コンピューティング** (1)
-- 🍴 **サードパーティプロジェクトのフォーク** (52)
+- 🍴 **サードパーティプロジェクトのフォーク** (54)
 
 👉 **[エコシステム全体を見る](docs/ECOSYSTEM.ja.md)** · [🍴 サードパーティプロジェクトのフォーク](docs/ECOSYSTEM.ja.md#forks)
 
 ## 📚完全な技術的なカリキュラム
 
-スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**16,798 クラス**, カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**18,418 クラス**, カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
 
-🌌 **集計対象に含む：**[天文学・天体物理学・宇宙科学・航空宇宙工学](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+🌌 **集計対象に含む：**[天文学・天体物理学・宇宙科学・航空宇宙工学](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。10のミッションワークショップと、NASA/JPL のデータを使った23の太陽系シミュレーターを含みます。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
 
 👉 **[22のプログラムをすべて見る](docs/ECOSYSTEM.ja.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ NASA Space Apps 2026 ハッカソン
+
+**NASA Space Apps Challenge 2026**（サンティアゴ、11月14〜15日）に、課題 *Planet X and SPHEREx* で6人のチームとして参加しました。成果物は **AstroTrack · SPHEREx**：空の座標を入力すると、その領域を SPHEREx の画像の時間変化として表示するウェブビューアで、NASA/IPAC IRSA のデータを使っています。
+
+- **私の担当：**データアクセス（キャッシュ付きの IRSA クエリとデモ領域の事前計算）、パッケージング（PWA、Tauri のデスクトップインストーラー、Capacitor の Android APK）、「ダウンロード」画面、ドキュメントとコードの整合性監査。
+- **検証可能な成果物：**[spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) に SHA-256 チェックサム付きの7つのリリース（v0.1.0〜v0.4.2）をまとめています · [ウェブアプリ](https://spherex-planet-x-tau.vercel.app/) · [チームのリポジトリ](https://github.com/mauriciovalenzuela742/SPHEREX)。
+- **明示する限界：**ビューア、デザイン、残りのバックエンドはチームの他のメンバーの成果です。インストーラーは未署名で、実機では試していません。AI（Claude Code）をアシスタントとして使い、リポジトリに明記しています。これは私の貢献を述べたもので、ハッカソンの結果ではありません。
 
 ## ⚡自分を評価するために10分を持っている場合
 
@@ -263,7 +279,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **ステータスに関する正直**— 1つのリポジトリの名前を変更しました()`Multisimulador` → `machine-operator-program`) 未だに存在しない有望なソフトウェアを避けるため。
 - **バッジは、証拠ではなく、信号です**— 各リポジトリも宣言します**何をしない**.
 - **型式 出力**— ドメインは最初に設計され、インターフェイスは投影です。
-- **外部の作業は外部の作業として宣言されます** — サードパーティプロジェクトの[52件のフォーク](docs/ECOSYSTEM.ja.md#forks)は一つずつ説明し、このプロフィールの自作に関する数値には含めません。
+- **外部の作業は外部の作業として宣言されます** — サードパーティプロジェクトの[54件のフォーク](docs/ECOSYSTEM.ja.md#forks)は一つずつ説明し、このプロフィールの自作に関する数値には含めません。
 
 ## ✅プロフェッショナルスコープ
 

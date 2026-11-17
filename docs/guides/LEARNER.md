@@ -4,7 +4,7 @@
 
 ## En una línea
 
-22 programas secuenciales en español, con 16.798 clases contadas por un workflow, cada uno con su estado editorial y sus límites declarados.
+22 programas secuenciales en español, con 18.418 clases contadas por un workflow, cada uno con su estado editorial y sus límites declarados.
 
 ## Elige según tu objetivo
 

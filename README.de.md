@@ -81,9 +81,9 @@ Dies ist kein „One Repo: Es ist ein Ökosystem mit gemeinsamen Standards.
 | 🧪 **Testabdeckung** | GabySQL**850 Prüfungen**+ Fuzzing over**503,8 Mio. Abfragen**(0 Paniken)·Empresa Operativa Chile**230 Prüfungen** ·Automa**150 pytest** ·Mehrfach-OS-KI |
 | 🤖 **Mittel zur Herstellung** | LangGraph RealWorld**25/25 operative Backends**(Fälle 01-25, 100% Abdeckung)·Operationelle KI-Agenten**23 Agenten**mit**69 deterministische Evals** |
 | 🔗 **Polyglotte** | **20 Fälle**Sender → n8n → Empfänger —**19 Einsatzkräfte**, einzeln mit Docker auditiert -· **18+ DB-Motoren** · **20+ Container** ·11 Muster |
-| 📦 **Verteilung** | **156 Releases**In einem Ökosystem von**66 im Eigentum stehende öffentliche Datenspeicher** ·Installateure und Artefakte`.exe` · `.msi` · `.dmg` · `.apk`mit Prüfsummen und Baunachweisen; ggf. laufende Signaturen von Geschäfts-/Ladengeschäften |
+| 📦 **Verteilung** | **164 Releases**In einem Ökosystem von**67 im Eigentum stehende öffentliche Datenspeicher** ·Installateure und Artefakte`.exe` · `.msi` · `.dmg` · `.apk`mit Prüfsummen und Baunachweisen; ggf. laufende Signaturen von Geschäfts-/Ladengeschäften |
 | 🛡️ **Lieferkette** | CodeQL·Semgrep·Bandit·Triviolett·Grype·Gitleaks·TrüffelHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **16.798 Klassen**über 22 Programme nachprüfbar, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist – nicht von Hand geschrieben –·Jedes Programm erklärt seinen redaktionellen Status und seine Einschränkungen |
+| 📚 **Curricula** | **18.418 Klassen**über 22 Programme nachprüfbar, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist – nicht von Hand geschrieben –·Jedes Programm erklärt seinen redaktionellen Status und seine Einschränkungen |
 | 🌐 **Portfolio** | Installierbare PWA· **22 Sprachen** · **154 PDFs**erzeugt durch Pipeline·CV Daten-API·Kondensator Android·Lighthouse 100 |
 | 🔒 **Telemetrie** | Null Telemetrie in forensischen Produkten und Empresa Operativa Chile - in jedem Build verifiziert (kein Android)`INTERNET`Erlaubnis |
 | 🌐 **Veröffentlichte Websites** | **57 GitHub Seiten**56 Landungen, eine pro Produkt, Programm oder Ökosystem-Navigator, plus das Portfolio - jede aus ihrem eigenen Repository bereitgestellt·alle 57 verifiziert mit HTTP`200` |
@@ -200,6 +200,12 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Veröffentlichungs-Technologien**
+
+![Veröffentlichungs-Technologien](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (persönliche Arbeit) · Vercel (NASA-Space-Apps-Hackathon) · AWS (operative Websites, mit GitLab verbunden) · GitHub Pages</sub>
+
 ## 🗺️Ökosystem auf einen Blick
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.de.svg)
@@ -208,22 +214,32 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum Herunterladen und Installieren, Engineering-Labore, angewandte KI, vollständige technische Lehrpläne und wissenschaftliches Rechnen – dazu die Beschreibung jedes Forks von Drittprojekten im Konto.
 
-- 📦 **Produkte mit realer Distribution** (23)
+- 📦 **Produkte mit realer Distribution** (24)
 - 🧪 **Technische Laboratorien** (11)
 - 🤖 **Angewandte KI** (6)
 - 📚 **Komplette technische Lehrpläne** (22)
 - 🔬 **Wissenschaftliche Datenverarbeitung** (1)
-- 🍴 **Forks von Drittprojekten** (52)
+- 🍴 **Forks von Drittprojekten** (54)
 
 👉 **[Das vollständige Ökosystem ansehen](docs/ECOSYSTEM.de.md)** · [🍴 Forks von Drittprojekten](docs/ECOSYSTEM.de.md#forks)
 
 ## 📚Komplette technische Lehrpläne
 
-Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 22 Programme addieren sich zu**16.798 Klassen**, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
+Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 22 Programme addieren sich zu**18.418 Klassen**, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
 
-🌌 **Mitgezählt:** [Astronomie, Astrophysik, Raumfahrtwissenschaften und Luft- und Raumfahrttechnik](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 Lektionen in 12 Bereichen und 133 Blöcken; alle mit ausgearbeitetem Text und noch im Status E0 (ausstehend: fachliche Prüfung und Freigabe durch den Autor). Unabhängige Weiterbildung, keine berufliche Zulassung · [Website](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Mitgezählt:** [Astronomie, Astrophysik, Raumfahrtwissenschaften und Luft- und Raumfahrttechnik](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 Lektionen in 12 Bereichen und 133 Blöcken; alle mit ausgearbeitetem Text und noch im Status E0 (ausstehend: fachliche Prüfung und Freigabe durch den Autor). Enthält 10 Missions-Workshops und 23 Sonnensystem-Simulatoren mit NASA/JPL-Daten. Unabhängige Weiterbildung, keine berufliche Zulassung · [Website](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[Alle 22 vollständigen Programme ansehen](docs/ECOSYSTEM.de.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ NASA-Space-Apps-Hackathon 2026
+
+Ich habe an der **NASA Space Apps Challenge 2026** (Santiago, 14. und 15. November) teilgenommen, in der Aufgabe *Planet X and SPHEREx*, in einem Team von 6 Personen. Das Produkt ist **AstroTrack · SPHEREx**: ein Web-Viewer, in dem man Himmelskoordinaten eingibt und diese Region als Bildfolge von SPHEREx über die Zeit sieht, mit Daten von NASA/IPAC IRSA.
+
+- **Mein Anteil:** Datenzugriff (IRSA-Abfragen mit Cache und vorberechneten Demo-Feldern), Paketierung (PWA, Desktop-Installer mit Tauri und Android-APK mit Capacitor), die Ansicht „Downloads“ und ein Konsistenz-Audit zwischen Dokumentation und Code.
+- **Überprüfbare Lieferung:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) bündelt 7 Releases (v0.1.0 bis v0.4.2) mit SHA-256-Prüfsummen · [Web-App](https://spherex-planet-x-tau.vercel.app/) · [Team-Repository](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Erklärte Grenzen:** Viewer, Design und der übrige Backend-Teil stammen von anderen Teammitgliedern; die Installer sind nicht signiert und wurden nicht auf echten Geräten getestet; ich habe KI (Claude Code) als Assistenten genutzt, wie im Repository erklärt. Das beschreibt meinen Beitrag, kein Hackathon-Ergebnis.
 
 ## ⚡Wenn Sie 10 Minuten Zeit haben, mich zu bewerten
 
@@ -263,7 +279,7 @@ Laden Sie das Installer oder CLI binary von[RootCause releases](https://github.c
 - **Ehrlichkeit über Status**Ein Repo wurde umbenannt ()`Multisimulador` → `machine-operator-program`) vielversprechende Software zu vermeiden, die noch nicht existiert.
 - **Abzeichen sind Signale, keine Beweise**Jedes Repo erklärt auch**Was er nicht tut**.
 - **Modell nach außen**- die Domäne wird zuerst entworfen; die Schnittstelle ist eine Projektion.
-- **Externe Arbeit wird als extern deklariert** — die [52 Forks](docs/ECOSYSTEM.de.md#forks) von Drittprojekten werden einzeln beschrieben und bleiben außerhalb aller Zahlen eigener Arbeit in diesem Profil.
+- **Externe Arbeit wird als extern deklariert** — die [54 Forks](docs/ECOSYSTEM.de.md#forks) von Drittprojekten werden einzeln beschrieben und bleiben außerhalb aller Zahlen eigener Arbeit in diesem Profil.
 
 ## ✅Berufsumfang
 

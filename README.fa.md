@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **پوشش تست** | GabySQL**850 تست**+  fu**503.8M**(0 وحشت)·عملیات Empresa در شیلی**230 تست** ·Automa**150 pytest** ·CI چند بعدیOS CI |
 | 🤖 **تولید کنندگان** | LangGraph RealWorld**25/25 بازگشت عملیاتی**(مورد های 01 تا 25، 100٪ پوشش)·بازیگران AI عملیاتی**23 عامل**با**69 معیاری برای evals** |
 | 🔗 **Polyglot یکپارچگی** | **20 مورد**فرستنده:n8n**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.· **18+ موتورهای DB** · **20+** ·11 الگو |
-| 📦 **Distribution** | **156 releases** across an ecosystem of **66 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **164 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **زنجیره تامین** | کدQL·Semgrep·Bandit·Trivy·Grype·گیتیکوس·تروفه ها·CycloneDX SBOM·کارت امتیاز |
-| 📚 **Curricula** | **16798 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
+| 📚 **Curricula** | **18418 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
 | 🌐 **نمونه کارها** | نصب PWA· **22 زبان** · **154 PDF**تولید شده توسط خط لوله·CV Data API·Android·فانوس دریایی 100 |
 | 🔒 **تله** | عدم تقارن صفر در محصولات قانونی و عملکرد Empresa در هر ساخت (بدون Android)`INTERNET`اجازه) |
 | 🌐 **سایت های منتشر شده** | **57 صفحه**56 فرود، یک محصول، برنامه یا هدایت کننده اکوسیستم، به علاوه نمونه کارها – هر کدام از مخزن خود را·همه 57 تایید شده با HTTP`200` |
@@ -200,6 +200,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**فناوری‌های انتشار**
+
+![فناوری‌های انتشار](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (کار شخصی) · Vercel (هکاتون NASA Space Apps) · AWS (وب‌سایت‌های عملیاتی مرتبط با GitLab) · GitHub Pages</sub>
+
 ## 🗺️سیستم در یک نگاه
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.svg)
@@ -208,22 +214,32 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 کارهای عملی این پروفایل در سندی جداگانه آمده است: نرم‌افزارهایی که دانلود و نصب می‌شوند، آزمایشگاه‌های مهندسی، هوش مصنوعی کاربردی، برنامه‌های آموزشی فنی کامل و محاسبات علمی، به‌همراه توضیح هر fork از پروژه‌های اشخاص ثالث که در حساب وجود دارد.
 
-- 📦 **محصولات با توزیع واقعی** (23)
+- 📦 **محصولات با توزیع واقعی** (24)
 - 🧪 **آزمایشگاه های مهندسی** (11)
 - 🤖 **کاربردی AI** (6)
 - 📚 **ویژگی های فنی کامل** (22)
 - 🔬 **محاسبات علمی** (1)
-- 🍴 **forkهای پروژه‌های اشخاص ثالث** (52)
+- 🍴 **forkهای پروژه‌های اشخاص ثالث** (54)
 
 👉 **[مشاهدهٔ کل اکوسیستم](docs/ECOSYSTEM.fa.md)** · [🍴 forkهای پروژه‌های اشخاص ثالث](docs/ECOSYSTEM.fa.md#forks)
 
 ## 📚ویژگی های فنی کامل
 
-برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 22 برنامه اضافه شده به**16798 کلاس**شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
+برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 22 برنامه اضافه شده به**18418 کلاس**شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
 
-🌌 **در شمارش گنجانده شده:** [نجوم، اخترفیزیک، علوم فضایی و مهندسی هوافضا](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — ۲٬۰۷۷ درس در ۱۲ حوزه و ۱۳۳ بلوک؛ برای همه متن نوشته شده و همه هنوز در وضعیت E0 هستند (در انتظار بازبینی تخصصی و تأیید نویسنده). آموزش مستقل، نه مجوز حرفه‌ای · [سایت](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **در شمارش گنجانده شده:** [نجوم، اخترفیزیک، علوم فضایی و مهندسی هوافضا](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — ۲٬۰۷۷ درس در ۱۲ حوزه و ۱۳۳ بلوک؛ برای همه متن نوشته شده و همه هنوز در وضعیت E0 هستند (در انتظار بازبینی تخصصی و تأیید نویسنده). شامل ۱۰ کارگاه ماموریتی و ۲۳ شبیه‌ساز منظومهٔ شمسی با داده‌های NASA/JPL است. آموزش مستقل، نه مجوز حرفه‌ای · [سایت](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[مشاهدهٔ هر ۲۲ برنامه](docs/ECOSYSTEM.fa.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ هکاتون NASA Space Apps 2026
+
+من در **NASA Space Apps Challenge 2026** (سانتیاگو، ۱۴ و ۱۵ نوامبر) در چالش *Planet X and SPHEREx* و در تیمی ۶ نفره شرکت کردم. محصول **AstroTrack · SPHEREx** است: نمایشگری وب که با وارد کردن مختصات آسمان، آن ناحیه را به‌صورت دنباله‌ای از تصاویر SPHEREx در گذر زمان نشان می‌دهد و از داده‌های NASA/IPAC IRSA استفاده می‌کند.
+
+- **سهم من:** دسترسی به داده (پرس‌وجوهای IRSA با حافظهٔ نهان و پیش‌محاسبهٔ ناحیه‌های دمو)، بسته‌بندی (PWA، نصب‌کنندهٔ دسکتاپ با Tauri و APK اندروید با Capacitor)، بخش «دانلودها» و ممیزی انسجام میان مستندات و کد.
+- **تحویل قابل راستی‌آزمایی:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) هفت انتشار (از v0.1.0 تا v0.4.2) را با جمع‌های SHA-256 گردآوری می‌کند · [برنامهٔ وب](https://spherex-planet-x-tau.vercel.app/) · [مخزن تیم](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **محدودیت‌های اعلام‌شده:** نمایشگر، طراحی و بقیهٔ بک‌اند کار دیگر اعضای تیم است؛ نصب‌کننده‌ها امضا نشده‌اند و روی دستگاه واقعی آزمایش نشده‌اند؛ از هوش مصنوعی (Claude Code) به‌عنوان دستیار استفاده کردم و در مخزن اعلام شده است. این توصیف سهم من است، نه نتیجهٔ هکاتون.
 
 ## ⚡اگر 10 دقیقه وقت دارید تا من را ارزیابی کنید
 
@@ -263,7 +279,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **صداقت در مورد وضعیت**یک بار تغییر نام داده شد (`Multisimulador` → `machine-operator-program`برای جلوگیری از نرم افزار امیدوار کننده که هنوز وجود ندارد.
 - **نشانه ها هستند، نه شواهد**هر بار که دوباره اعلام می کند**آنچه که انجام نمی دهد**.
 - **مدل خارجی**- دامنه ابتدا طراحی شده است؛ رابط یک پیش بینی است.
-- **کار خارجی به عنوان خارجی اعلام می شود** — [52 fork](docs/ECOSYSTEM.fa.md#forks) پروژه‌های اشخاص ثالث یکی‌یکی توصیف می‌شوند و از همهٔ ارقام کارهای شخصی این پروفایل بیرون می‌مانند.
+- **کار خارجی به عنوان خارجی اعلام می شود** — [54 fork](docs/ECOSYSTEM.fa.md#forks) پروژه‌های اشخاص ثالث یکی‌یکی توصیف می‌شوند و از همهٔ ارقام کارهای شخصی این پروفایل بیرون می‌مانند.
 
 ## ✅حرفه ای
 

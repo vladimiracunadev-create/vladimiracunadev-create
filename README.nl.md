@@ -81,9 +81,9 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 | 🧪 **Testdekking** | GabySQL**850 tests**+ fuzzing over**503.8M queries**(0 paniek)·Empresa Operativa Chili**230 tests** ·Automatisch**150 pytest** ·multi-OS CI |
 | 🤖 **Productie-kwaliteitsagenten** | LangGraph RealWorld**25/25 operationele backends**(gevallen 01·Operationele AI-agenten**23 agentia**met**69 deterministische evaluaties** |
 | 🔗 **Integratie van polygloten** | **20 zaken**afzender→n8n→ ontvanger **19 operationeel**, individueel gecontroleerd met Docker· **18+ DB motoren** · **20+ containers** ·11 patronen |
-| 📦 **Distributie** | **156 releases**over een ecosysteem van**66 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
+| 📦 **Distributie** | **164 releases**over een ecosysteem van**67 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
 | 🛡️ **Leveringsketen** | CodeQL·Semgrep·Bandiet·Trivy·GrypeCity in New Jersey USA·Gitleaks·Truffelhog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **16,798 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
+| 📚 **Curricula** | **18,418 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
 | 🌐 **Portefeuille** | Installeerbare PWA· **22 talen** · **154 PDF's**door pijpleiding gegenereerd·CV Data API·Android-condensator·Vuurtoren 100 |
 | 🔒 **Telemetrie** | Zero telemetrie in forensische producten en Empresa Operativa Chili `INTERNET`toestemming) |
 | 🌐 **Gepubliceerde sites** | **57 GitHub Pagina's sites**·alle 57 geverifieerd met HTTP`200` |
@@ -200,6 +200,12 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Publicatietechnologieën**
+
+![Publicatietechnologieën](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (persoonlijk werk) · Vercel (NASA Space Apps-hackathon) · AWS (operationele websites, gekoppeld aan GitLab) · GitHub Pages</sub>
+
 ## 🗺️Ecosysteem bij een glance
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.svg)
@@ -208,22 +214,32 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 Het praktische werk van dit profiel staat in een eigen document: software die je downloadt en installeert, engineeringlabs, toegepaste AI, complete technische curricula en wetenschappelijk rekenen, plus een beschrijving van elke fork van projecten van derden in het account.
 
-- 📦 **Producten met echte distributie** (23)
+- 📦 **Producten met echte distributie** (24)
 - 🧪 **Technische laboratoria** (11)
 - 🤖 **Toegepaste AI** (6)
 - 📚 **Complete technische Curricula** (22)
 - 🔬 **Wetenschappelijke berekeningen** (1)
-- 🍴 **Forks van projecten van derden** (52)
+- 🍴 **Forks van projecten van derden** (54)
 
 👉 **[Bekijk het volledige ecosysteem](docs/ECOSYSTEM.nl.md)** · [🍴 Forks van projecten van derden](docs/ECOSYSTEM.nl.md#forks)
 
 ## 📚Complete technische Curricula
 
-Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 22 programma's tellen samen tot**16,798 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
+Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 22 programma's tellen samen tot**18,418 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
 
-🌌 **Meegeteld:** [Sterrenkunde, astrofysica, ruimtewetenschappen en ruimtevaarttechniek](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 lessen in 12 gebieden en 133 blokken; allemaal met uitgewerkte tekst en nog in status E0 (in afwachting van vakinhoudelijke review en goedkeuring van de auteur). Onafhankelijke opleiding, geen beroepsbevoegdheid · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Meegeteld:** [Sterrenkunde, astrofysica, ruimtewetenschappen en ruimtevaarttechniek](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 lessen in 12 gebieden en 133 blokken; allemaal met uitgewerkte tekst en nog in status E0 (in afwachting van vakinhoudelijke review en goedkeuring van de auteur). Bevat 10 missieworkshops en 23 zonnestelselsimulators met NASA/JPL-gegevens. Onafhankelijke opleiding, geen beroepsbevoegdheid · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[Bekijk de 22 volledige programma's](docs/ECOSYSTEM.nl.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ NASA Space Apps-hackathon 2026
+
+Ik deed mee aan de **NASA Space Apps Challenge 2026** (Santiago, 14 en 15 november), bij de uitdaging *Planet X and SPHEREx*, in een team van 6 personen. Het product is **AstroTrack · SPHEREx**: een webviewer waarin je hemelcoördinaten invoert en dat gebied als reeks SPHEREx-beelden door de tijd ziet, met data van NASA/IPAC IRSA.
+
+- **Mijn deel:** gegevenstoegang (IRSA-query's met cache en vooraf berekende demovelden), verpakking (PWA, desktopinstallers met Tauri en een Android-APK met Capacitor), de weergave “Downloads” en een consistentie-audit tussen documentatie en code.
+- **Verifieerbare oplevering:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) bundelt 7 releases (v0.1.0 t/m v0.4.2) met SHA-256-checksums · [webapp](https://spherex-planet-x-tau.vercel.app/) · [teamrepository](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Verklaarde grenzen:** de viewer, het ontwerp en de rest van de backend zijn werk van andere teamleden; de installers zijn niet ondertekend en niet op echte apparaten getest; ik gebruikte AI (Claude Code) als assistent, zoals in de repository vermeld. Dit beschrijft mijn bijdrage, geen hackathonresultaat.
 
 ## ⚡Als je 10 minuten hebt om mij te evalueren
 
@@ -263,7 +279,7 @@ Download de installatie of CLI binair van[RootCause releases](https://github.com
 - **Eerlijkheid over status**`Multisimulador` → `machine-operator-program`) om veelbelovende software die nog niet bestaat te vermijden.
 - **Badges zijn signalen, geen bewijs.****wat het NIET doet**.
 - **Model naar buiten**. . het domein is eerst ontworpen; de interface is een projectie.
-- **Extern werk wordt als extern aangegeven** — de [52 forks](docs/ECOSYSTEM.nl.md#forks) van projecten van derden worden één voor één beschreven en vallen buiten alle cijfers van eigen werk in dit profiel.
+- **Extern werk wordt als extern aangegeven** — de [54 forks](docs/ECOSYSTEM.nl.md#forks) van projecten van derden worden één voor één beschreven en vallen buiten alle cijfers van eigen werk in dit profiel.
 
 ## ✅Beroepsterrein
 

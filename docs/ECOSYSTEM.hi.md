@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | प्लक-स्ट्रिंग सिबलिंग: 6 दुनिया में 24 सबक, 6 स्ट्रिंग ट्यूनर, बहाव मुक्त मेट्रोनोम और 11 वास्तविक गिटार नोट | 2·प्रतिक्रिया·टीएस | **v1.0.0** ·Windows·Android·लिनक्स·मैक ओएस·आईओएस·पीडब्लूए·कोई खाता, विज्ञापन, या ऑनलाइन निर्भरता नहीं· [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 10 वर्ष की आयु से क्यूका: 8 स्तरों में 24 वर्ग, 72 गतिविधियाँ, छह-पल्स लैब (3+3 और 2+2+2) और सुलभ मंजिल आरेख। यह बताता है कि यह**पूरक, प्रतिस्थापित नहीं**शिक्षकों और संस्कृति वाहक | फ्लुटर·डार्ट | **v0.2.0** ·Android 7+·Windows 10/11·APK·EXE·एमएसआई·पोर्टेबल· **29 परीक्षण + 2 सत्यापनकर्ता** ·कोई कैमरा, माइक्रोफोन, खाता, विज्ञापन, या इंटरनेट· [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI पर बहु-चैनल गेटवे: 13 सेवाएँ और 69 ऑपरेशन (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) REST, GraphQL, SOAP और gRPC के ज़रिए। एन्क्रिप्टेड OAuth, हस्ताक्षरित वेबहुक और मिलान-योग्य आइडेम्पोटेंसी; पढ़ना भेजने की अनुमति नहीं देता | Python · FastAPI | **v0.3.0** · अभी कोई release प्रकाशित नहीं · सिमुलेटेड ट्रांसपोर्ट पर **162 परीक्षण**, कोई वास्तविक खाता या भेजा गया संदेश नहीं · MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx (NASA Space Apps 2026) इंस्टॉलरों की सार्वजनिक प्रति: Windows, macOS, Linux, Android और iPhone के लिए PWA। इसमें स्रोत कोड नहीं है: कोड टीम का है | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 चेकसम के साथ **7 रिलीज़** · हस्ताक्षर-रहित और असली उपकरणों पर अपरीक्षित इंस्टॉलर · NASA/IPAC IRSA डेटा · [वेब](https://spherex-planet-x-tau.vercel.app/) · [डाउनलोड](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪इंजीनियरिंग प्रयोगशाला
 
@@ -67,7 +68,7 @@
 
 ## 📚तकनीकी पाठ्यक्रम
 
-स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 22 कार्यक्रम में शामिल हो गए**16,798 कक्षा**, द्वारा गिना[a workflow](../.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
+स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 22 कार्यक्रम में शामिल हो गए**18,418 कक्षा**, द्वारा गिना[a workflow](../.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)दृश्य मानचित्रों और एक के माध्यम से 6 क्षेत्रों में 30 वास्तविक पथों को जोड़ने वाला एक federated कम्पास है[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)इसे अतिरिक्त प्रोग्राम के रूप में नहीं गिना जाता है।
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | परिचालन परिभाषाओं, माप पत्रों, सत्यापन योग्य ग्रंथ सूची और चिली नियामक संदर्भ के साथ 24 भागों· **v1.6.0** ·1.29M शब्द·17 भूमिका-आधारित पथ· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | चिली में एक वास्तविक कंपनी बनाएं और संचालित करें: विचार से लेकर निगमन, कर प्राधिकरण, संचालन, संकट और निकास तक·360 आरेख·1,251-term शब्दावली·1,548-पृष्ठ मैनुअल· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 भाग·60 एकीकृत सत्र·35 पथ·पता लगाने योग्य सूत्र·Markdown, ऑफ़लाइन रीडर, और गिटहब पेज· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | ग्रेड 1-12· **4,156 एकीकृत क्रॉस-करिकुलर अनुभवों** · **2,823 सीखने के उद्देश्य** ·Mineduc सूत्र·कोई लंबित प्रस्ताव और विशेष मानव समीक्षा अभी भी लंबित· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 भाग और 8 चरण·नींव → उत्पाद, वास्तुकला, सुरक्षा, देवोप्स, SRE, युक्ति, एआई और बहु-एजेंट सिस्टम·संपादकीय स्थिति को रिपोज़िटरी द्वारा घोषित किया गया· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | ग्रेड 1-12· **4,156 एकीकृत क्रॉस-करिकुलर अनुभवों** · **3,153 सीखने के उद्देश्य** ·Mineduc सूत्र·कोई लंबित प्रस्ताव और विशेष मानव समीक्षा अभी भी लंबित· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 भाग और 8 चरण·नींव → उत्पाद, वास्तुकला, सुरक्षा, देवोप्स, SRE, युक्ति, एआई और बहु-एजेंट सिस्टम·संपादकीय स्थिति को रिपोज़िटरी द्वारा घोषित किया गया· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares its evidence state and limits** · early literacy, comparative methods, specific educational needs, coexistence, cultural diversity, and international evidence · 1,097-term glossary, 325 diagrams, and a 60-activity classroom bank · 14 career paths by role · LMS-exportable · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·नीला·जीसीपी·कुबेरनेट्स·टेरेफॉर्म·SRE·फिनोप· **1,288 घंटे** ·JSON सबूत के साथ 288 लैब्स·1,032 ट्रेस स्रोत·2,884-page PDF मैनुअल· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | अपने पहले परिणाम के मालिक से एक कंपनी का नेतृत्व करने और अपने आप को ढूंढने के लिए: टीमों, KPI/OKR, वित्त, उत्पाद, जोखिम, बोर्ड और M&A·24 मामले, 96 लैब्स और 39 टेम्पलेट· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** ·शून्य से प्रोग्राम करने योग्य वित्तीय बुनियादी ढांचे और ऑन-चेन एनालिटिक्स तक· **91 प्रथाओं**और**508 परीक्षण** ·सी.आई. में फाउंड्री (फ्यूज़िंग एंड इनवेरेंट्स) और स्लैट स्टेटिक विश्लेषण के साथ अनुबंध·ऑफ़लाइन ऐप द्विआधारी खोलने और इसकी सामग्री की गिनती करके सत्यापित· [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 मॉड्यूल·≈214 घंटे· **93 नोटबुक**31 कक्षाएं, 31 छात्र संस्करण और 31 समाधान-·प्रश्न, दृश्य मानचित्र, प्रथाओं और वास्तविक सार्वजनिक डेटा के साथ आकलन·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 प्रशिक्षण मॉड्यूल**मशीन प्रति एक· **502 h 15 मिनट** ·सिस्टम, नियंत्रण, भौतिकी, सुरक्षा और सिमुलेशन डिजाइन प्रति वर्ग स्रोतों के साथ·अभी तक निष्पादन योग्य सिम्युलेटर नहीं है, और इसे उस तरह से घोषित किया गया है* |
-| [🌌 **खगोल विज्ञान, खगोल भौतिकी, अंतरिक्ष विज्ञान और वैमानिकी इंजीनियरिंग**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **गिनती में शामिल:** 12 क्षेत्रों और 133 ब्लॉकों में 2,077 कक्षाएँ; सभी का पाठ लिखा जा चुका है और सभी अभी E0 स्थिति में हैं (विषय-समीक्षा और लेखक की स्वीकृति लंबित)। स्वतंत्र प्रशिक्षण, पेशेवर प्रमाणन नहीं · [साइट](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)। |
+| [🌌 **खगोल विज्ञान, खगोल भौतिकी, अंतरिक्ष विज्ञान और वैमानिकी इंजीनियरिंग**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **गिनती में शामिल:** 12 क्षेत्रों और 133 ब्लॉकों में 2,077 कक्षाएँ; सभी का पाठ लिखा जा चुका है और सभी अभी E0 स्थिति में हैं (विषय-समीक्षा और लेखक की स्वीकृति लंबित)। इसमें 10 मिशन कार्यशालाएँ और NASA/JPL डेटा वाले 23 सौरमंडल सिमुलेटर शामिल हैं। स्वतंत्र प्रशिक्षण, पेशेवर प्रमाणन नहीं · [साइट](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)। |
 
 ## 🔬वैज्ञानिक कम्प्यूटिंग
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 तृतीय-पक्ष प्रोजेक्ट्स के fork (52)
+## 🍴 तृतीय-पक्ष प्रोजेक्ट्स के fork (54)
 
 ये दूसरों के प्रोजेक्ट्स के fork हैं जो इस खाते में रखे गए हैं। **ये मेरा अपना कार्य नहीं हैं**: श्रेय उनके मूल लेखकों का है, ये इस प्रोफ़ाइल की किसी भी संख्या में नहीं गिने जाते, और हर विवरण केवल वही सारांशित करता है जो मूल प्रोजेक्ट स्वयं घोषित करता है; इसका अर्थ मेरी ओर से सपोर्ट, ऑडिट या प्रोडक्शन अनुभव नहीं है। विवरण मूल प्रोजेक्ट के अनुसार · 2026-11-09।
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | एंड-टू-एंड डेवलपर प्लेटफ़ॉर्म: सोर्स कंट्रोल, CI/CD, एनवायरनमेंट और आर्टिफ़ैक्ट रजिस्ट्री |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | ओपन-सोर्स GPS ट्रैकिंग प्लेटफ़ॉर्म, 200+ डिवाइस प्रोटोकॉल |
 
-### 🎓 शिक्षा और संदर्भ (4)
+### 🎓 शिक्षा और संदर्भ (6)
 
 | Fork | मूल प्रोजेक्ट | भाषा | यह क्या है |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | गणित के लिए निःशुल्क स्व-अध्ययन पथ (OSSU) |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | गणितीय एनिमेशन के लिए समुदाय का Python फ़्रेमवर्क |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | असेंबली में Atari 2600 खेलों का नमूना स्रोत कोड |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | NASA Space Apps 2026 हैकाथॉन (Planet X and SPHEREx चुनौती) की टीम रिपॉज़िटरी; 6 लोगों का प्रोजेक्ट |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | क्षुद्रग्रह, धूमकेतु, उपग्रह और गतिशील पिंडों का पता लगाने के लिए खगोलीय FITS छवि विश्लेषण |

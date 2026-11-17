@@ -25,7 +25,7 @@ Os repositórios foram pensados para serem clonados, executados e validados; con
 
 ## O que não é obra própria
 
-A conta guarda [52 forks](../ECOSYSTEM.pt.md#forks) de projetos de terceiros. Não são obra própria: para contribuir com eles, faça-o no projeto original (a coluna «Projeto original» leva a cada um).
+A conta guarda [54 forks](../ECOSYSTEM.pt.md#forks) de projetos de terceiros. Não são obra própria: para contribuir com eles, faça-o no projeto original (a coluna «Projeto original» leva a cada um).
 
 ## Próximo passo
 

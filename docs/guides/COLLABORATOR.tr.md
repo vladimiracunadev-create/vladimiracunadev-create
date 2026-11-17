@@ -25,7 +25,7 @@ Depolar klonlanmak, çalıştırılmak ve doğrulanmak üzere tasarlanmıştır;
 
 ## Kendi eserim olmayanlar
 
-Hesap üçüncü taraf projelerin [52 forks](../ECOSYSTEM.tr.md#forks) tutar. Bunlar kendi eserim değildir: katkıda bulunmak için özgün projeyi kullanın («Özgün proje» sütunu her birine bağlanır).
+Hesap üçüncü taraf projelerin [54 forks](../ECOSYSTEM.tr.md#forks) tutar. Bunlar kendi eserim değildir: katkıda bulunmak için özgün projeyi kullanın («Özgün proje» sütunu her birine bağlanır).
 
 ## Sonraki adım
 

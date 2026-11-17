@@ -81,9 +81,9 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 | 🧪 **Uji cakupan** | GabySQL**850 tes**+ fuzzing over**Kueri 503.8M**(0 panik)·Empresa Operativa Chile**230 tests** ·Automa**150 pytest** ·multi- OS CI |
 | 🤖 **Agen-kelas-produksi** | LangGrafik RealWorld**25 / 25 backend operasional**(kasus 01- 25, 100% cakupan)·Agen AI Operasional**23 agen**dengan**69 deterministik eval** |
 | 🔗 **Integrasi Polyglot** | **20 kasus**- = Sender Avern8n Penerima = -**19 operasional**, secara individual diaudit dengan Docker -· **18 + mesin DB** · **20 + kontainer** ·11 pola |
-| 📦 **Distribusi** | **156 rilis**di seluruh ekosistem**66 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
+| 📦 **Distribusi** | **164 rilis**di seluruh ekosistem**67 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
 | 🛡️ **Rantai Supply** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **Kelas 16,798**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
+| 📚 **Curricula** | **Kelas 18,418**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
 | 🌐 **Portfolio** | PWA yang dapat dipasang· **22 bahasa** · **154 PDFs**dihasilkan oleh pipeline·API Data CV·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Zero telemetry in forensic products and Empresa operativa Chile - verified in every build (no Android`INTERNET`ijin) |
 | 🌐 **Situs yang dipublikasikan** | **57 Situs Halaman GitHub**- 56 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 57 diverifikasi dengan HTTP`200` |
@@ -200,6 +200,12 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Teknologi publikasi**
+
+![Teknologi publikasi](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (pekerjaan pribadi) · Vercel (hackathon NASA Space Apps) · AWS (situs web operasional, terkait GitLab) · GitHub Pages</sub>
+
 ## 🗺️Ekosistem Pada A Glance
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.svg)
@@ -208,22 +214,32 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh dan dipasang, laboratorium rekayasa, AI terapan, kurikulum teknis lengkap, dan komputasi ilmiah, beserta deskripsi setiap fork proyek pihak ketiga yang ada di akun.
 
-- 📦 **Produk Dengan Distribusi Nyata** (23)
+- 📦 **Produk Dengan Distribusi Nyata** (24)
 - 🧪 **Laboratorium Teknik** (11)
 - 🤖 **AI Terapan** (6)
 - 📚 **Curricula Teknis Lengkap** (22)
 - 🔬 **Komputer Ilmiah** (1)
-- 🍴 **Fork proyek pihak ketiga** (52)
+- 🍴 **Fork proyek pihak ketiga** (54)
 
 👉 **[Lihat ekosistem lengkap](docs/ECOSYSTEM.id.md)** · [🍴 Fork proyek pihak ketiga](docs/ECOSYSTEM.id.md#forks)
 
 ## 📚Curricula Teknis Lengkap
 
-Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 22 program ditambahkan ke**Kelas 16,798**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
+Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 22 program ditambahkan ke**Kelas 18,418**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
 
-🌌 **Termasuk dalam hitungan:** [Astronomi, astrofisika, ilmu antariksa, dan teknik dirgantara](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 kelas dalam 12 area dan 133 blok; semuanya sudah bertulis dan masih berstatus E0 (menunggu tinjauan disiplin dan persetujuan penulis). Pelatihan mandiri, bukan sertifikasi profesional · [situs](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Termasuk dalam hitungan:** [Astronomi, astrofisika, ilmu antariksa, dan teknik dirgantara](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 kelas dalam 12 area dan 133 blok; semuanya sudah bertulis dan masih berstatus E0 (menunggu tinjauan disiplin dan persetujuan penulis). Mencakup 10 lokakarya misi dan 23 simulator Tata Surya dengan data NASA/JPL. Pelatihan mandiri, bukan sertifikasi profesional · [situs](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[Lihat 22 program lengkap](docs/ECOSYSTEM.id.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ Hackathon NASA Space Apps 2026
+
+Saya berpartisipasi dalam **NASA Space Apps Challenge 2026** (Santiago, 14–15 November), pada tantangan *Planet X and SPHEREx*, dalam tim beranggotakan 6 orang. Produknya adalah **AstroTrack · SPHEREx**: penampil web tempat kita memasukkan koordinat langit dan melihat wilayah itu sebagai rangkaian citra SPHEREx dari waktu ke waktu, dengan data NASA/IPAC IRSA.
+
+- **Bagian saya:** akses data (kueri IRSA dengan cache dan prakomputasi bidang demo), pengemasan (PWA, installer desktop dengan Tauri, dan APK Android dengan Capacitor), tampilan “Unduhan”, serta audit konsistensi antara dokumentasi dan kode.
+- **Penyerahan yang dapat diverifikasi:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) menghimpun 7 rilis (v0.1.0 hingga v0.4.2) dengan checksum SHA-256 · [aplikasi web](https://spherex-planet-x-tau.vercel.app/) · [repositori tim](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Batasan yang dinyatakan:** penampil, desain, dan sisa backend adalah hasil kerja anggota tim lain; installer tidak ditandatangani dan belum diuji pada perangkat nyata; saya memakai AI (Claude Code) sebagai asisten, sebagaimana dinyatakan di repositori. Ini menjelaskan kontribusi saya, bukan hasil hackathon.
 
 ## ⚡Jika kau memiliki 10 menit untuk mengevaluasi aku
 
@@ -263,7 +279,7 @@ Unduh pemasang atau biner CLI dari[RootCause releases](https://github.com/vladim
 - **Kejujuran tentang status**- satu repo diganti namanya (`Multisimulador` → `machine-operator-program`) untuk menghindari perangkat lunak yang menjanjikan yang belum ada.
 - **Lencana adalah sinyal, bukan bukti**- Setiap repo juga menyatakan**apa TIDAK DILAKUKAN**.
 - **Model keluar**- domain dirancang pertama; antarmuka adalah proyeksi.
-- **Pekerjaan eksternal dinyatakan sebagai eksternal** — [52 fork](docs/ECOSYSTEM.id.md#forks) proyek pihak ketiga dijelaskan satu per satu dan berada di luar semua angka karya sendiri di profil ini.
+- **Pekerjaan eksternal dinyatakan sebagai eksternal** — [54 fork](docs/ECOSYSTEM.id.md#forks) proyek pihak ketiga dijelaskan satu per satu dan berada di luar semua angka karya sendiri di profil ini.
 
 ## ✅Scope Profesional
 

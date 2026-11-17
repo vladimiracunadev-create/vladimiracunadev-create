@@ -14,12 +14,13 @@ Durumunuzu seçin ve doğrudan ihtiyacınız olana gidin. Her rehber 1–2 dakik
 | 🏢 **İş, yönetim veya kamu sektörü** | Programlama içermeyen roller ve yönetim odaklı ürünler | [İş ve yönetim](guides/BUSINESS.tr.md) |
 | 🤝 **İş birliği, açık kaynak veya güvenlik** | Katkıda bulunun, açık bildirin, lisanslar | [İş birliği ve güvenlik](guides/COLLABORATOR.tr.md) |
 | 🎓 **Öğrenmek veya öğretmek** | Hedefe göre 22 program arasından seçin | [Öğrenme veya öğretme](guides/LEARNER.tr.md) |
+| 🛰️ **Hackathon ve ekip çalışması** | En son ekip projesini görün: AstroTrack · SPHEREx (NASA Space Apps 2026) | [Hackathon](../README.tr.md#hackathon) |
 
 ## ⏱️ Yalnızca 60 saniyeniz varsa
 
 - **Kim:** Bilişim ve Bilgisayar Mühendisi ve İşletmeci, 16+ yıldır yazılım geliştiriyor ve işletiyor.
 - **Ne yapıyorum:** çözüm mimarisi, eski sistemlerin modernizasyonu, otomasyon ve uygulamalı yapay zekâ ile bunların teslimi ve işletimi.
-- **Kanıt:** 66 kendi herkese açık deposu, 156 sürüm, ürünlerde testler ve CI; her depo ayrıca neyi **yapmadığını** da belirtir.
+- **Kanıt:** 67 kendi herkese açık deposu, 164 sürüm, ürünlerde testler ve CI; her depo ayrıca neyi **yapmadığını** da belirtir.
 - **Çalışma şekli:** projeye göre uzaktan veya hibrit.
 - **İletişim:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portföy](https://vladimiracunadev-create.github.io/)
 

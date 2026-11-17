@@ -14,12 +14,13 @@
 | 🏢 **商業、管理或公共部門** | 無需程式設計的職務與面向管理的產品 | [商業與管理](guides/BUSINESS.zh-TW.md) |
 | 🤝 **協作、開源或資安** | 貢獻、回報漏洞、授權 | [協作與資安](guides/COLLABORATOR.zh-TW.md) |
 | 🎓 **學習或教學** | 依目標在 22 個課程中選擇 | [學習或教學](guides/LEARNER.zh-TW.md) |
+| 🛰️ **駭客松與團隊協作** | 檢視最新的團隊專案：AstroTrack · SPHEREx（NASA Space Apps 2026） | [駭客松](../README.zh-TW.md#hackathon) |
 
 ## ⏱️ 如果你只有 60 秒
 
 - **是誰：**資訊與電腦工程師兼企業管理，16 年以上建置與營運軟體的經驗。
 - **做什麼：**解決方案架構、舊系統現代化、自動化與應用 AI，以及它們的交付與營運。
-- **證據：**66 個自有公開儲存庫、156 個發行版本、產品中的測試與 CI，且每個儲存庫也會說明自己**不做**什麼。
+- **證據：**67 個自有公開儲存庫、164 個發行版本、產品中的測試與 CI，且每個儲存庫也會說明自己**不做**什麼。
 - **方式：**遠端或混合，視專案而定。
 - **聯絡方式:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [作品集](https://vladimiracunadev-create.github.io/)
 

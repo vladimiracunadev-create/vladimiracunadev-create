@@ -25,7 +25,7 @@ Die Repositories sind dafür gedacht, geklont, ausgeführt und validiert zu werd
 
 ## Was nicht meine eigene Arbeit ist
 
-Das Konto führt [52 forks](../ECOSYSTEM.de.md#forks) von Drittprojekten. Sie sind nicht meine eigene Arbeit: Wer dazu beitragen möchte, tut dies im Originalprojekt (die Spalte „Originalprojekt“ verlinkt jeweils darauf).
+Das Konto führt [54 forks](../ECOSYSTEM.de.md#forks) von Drittprojekten. Sie sind nicht meine eigene Arbeit: Wer dazu beitragen möchte, tut dies im Originalprojekt (die Spalte „Originalprojekt“ verlinkt jeweils darauf).
 
 ## Nächster Schritt
 

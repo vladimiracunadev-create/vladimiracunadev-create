@@ -25,7 +25,7 @@ Repozytoria są przeznaczone do klonowania, uruchamiania i weryfikacji; wkład, 
 
 ## Co nie jest moim dziełem
 
-Konto przechowuje [52 forks](../ECOSYSTEM.pl.md#forks) projektów osób trzecich. Nie są moim dziełem: aby je wesprzeć, zrób to w projekcie źródłowym (kolumna „Projekt źródłowy” prowadzi do każdego z nich).
+Konto przechowuje [54 forks](../ECOSYSTEM.pl.md#forks) projektów osób trzecich. Nie są moim dziełem: aby je wesprzeć, zrób to w projekcie źródłowym (kolumna „Projekt źródłowy” prowadzi do każdego z nich).
 
 ## Następny krok
 

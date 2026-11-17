@@ -81,9 +81,9 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 | 🧪 **Kiểm tra tin tức** | GabySQUL**Thử ra 850**+ fuzzing trên**503. 8M truy vấn**(0 hoảng loạn)·Empresa Operativa Chile**Thử ra 230** ·Automa**150 py thử** ·Thông tin đa MSName |
 | 🤖 **Các tác vụ cấp sản xuất** | Thế giới thật LangGraph**Hậu phương hoạt động 25/25**(case 01–25, 100% tin tức)·Đặc vụ AI hoạt động**23 đặc vụ**có**69 phép đánh giá xác định** |
 | 🔗 **Sự kết hợp của bản sắc** | **20 thùng**Trình gửi ảnh cho người nhận thư —**19 Hoạt động**Từng cá nhân được kiểm toán với Docker· **18+B động cơ** · **20+ container** ·11 mẫu |
-| 📦 **Phân phối** | **156 bản phát hành**xuyên qua hệ sinh thái của**66 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
+| 📦 **Phân phối** | **164 bản phát hành**xuyên qua hệ sinh thái của**67 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
 | 🛡️ **Chuỗi cung cấp** | CodeQL·Semgrep·Cướp·Trivy·Grype·Gitleaks·TruffleHog·CM SBOM CcconeDX·Điểm |
-| 📚 **Curricula** | **16.798 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
+| 📚 **Curricula** | **18.418 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
 | 🌐 **Portfolio** | PWA có thể cài đặt· **22 ngôn ngữ** · **154 PDFs**tạo bởi ống dẫn·Name·Bộ tạo tích hợp a- rô- bốt·Căn nhà sáng 100 |
 | 🔒 **Kính viễn vọng** | Không có máy đo trong sản phẩm pháp y và Empresa Operativa Chile — được kiểm tra trong mỗi tòa nhà (không có người máy)`INTERNET`Cho phép |
 | 🌐 **Xuất ra các trang** | **57 trang GitHub**-56 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 57 được kiểm tra với HTTP`200` |
@@ -200,6 +200,12 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**Công nghệ xuất bản**
+
+![Công nghệ xuất bản](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (công việc cá nhân) · Vercel (hackathon NASA Space Apps) · AWS (các trang web đang vận hành, gắn với GitLab) · GitHub Pages</sub>
+
 ## 🗺️Hệ thống sinh thái đang hưng thịnh
 
 ![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.svg)
@@ -208,22 +214,32 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần mềm để tải về và cài đặt, phòng thí nghiệm kỹ thuật, AI ứng dụng, giáo trình kỹ thuật đầy đủ và tính toán khoa học, cùng mô tả từng fork của các dự án bên thứ ba có trong tài khoản.
 
-- 📦 **Những sản phẩm có thật sự được phân phối** (23)
+- 📦 **Những sản phẩm có thật sự được phân phối** (24)
 - 🧪 **Phòng thí nghiệm kỹ thuật** (11)
 - 🤖 **AI ứng dụng** (6)
 - 📚 **Máy tính trình duyệt kỹ thuật toàn bộ** (22)
 - 🔬 **Tính toán khoa học** (1)
-- 🍴 **Fork của dự án bên thứ ba** (52)
+- 🍴 **Fork của dự án bên thứ ba** (54)
 
 👉 **[Xem toàn bộ hệ sinh thái](docs/ECOSYSTEM.vi.md)** · [🍴 Fork của dự án bên thứ ba](docs/ECOSYSTEM.vi.md#forks)
 
 ## 📚Máy tính trình duyệt kỹ thuật toàn bộ
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **16,798 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **18,418 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
-🌌 **Đã tính vào số đếm:** [Thiên văn học, vật lý thiên văn, khoa học vũ trụ và kỹ thuật hàng không vũ trụ](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 bài học trong 12 lĩnh vực và 133 khối; tất cả đã có văn bản và vẫn ở trạng thái E0 (chờ rà soát chuyên môn và tác giả phê duyệt). Đào tạo độc lập, không phải chứng chỉ hành nghề · [trang web](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
+🌌 **Đã tính vào số đếm:** [Thiên văn học, vật lý thiên văn, khoa học vũ trụ và kỹ thuật hàng không vũ trụ](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 bài học trong 12 lĩnh vực và 133 khối; tất cả đã có văn bản và vẫn ở trạng thái E0 (chờ rà soát chuyên môn và tác giả phê duyệt). Gồm 10 workshop nhiệm vụ và 23 trình mô phỏng Hệ Mặt Trời dùng dữ liệu NASA/JPL. Đào tạo độc lập, không phải chứng chỉ hành nghề · [trang web](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
 
 👉 **[Xem đầy đủ 22 chương trình](docs/ECOSYSTEM.vi.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ Hackathon NASA Space Apps 2026
+
+Tôi đã tham gia **NASA Space Apps Challenge 2026** (Santiago, 14–15/11), ở thử thách *Planet X and SPHEREx*, trong một nhóm 6 người. Sản phẩm là **AstroTrack · SPHEREx**: một trình xem web nơi bạn nhập tọa độ bầu trời và thấy vùng đó dưới dạng chuỗi ảnh SPHEREx theo thời gian, dùng dữ liệu NASA/IPAC IRSA.
+
+- **Phần của tôi:** truy cập dữ liệu (truy vấn IRSA có bộ nhớ đệm và tính trước các vùng demo), đóng gói (PWA, trình cài đặt máy tính dùng Tauri và APK Android dùng Capacitor), màn hình “Tải xuống” và kiểm toán tính nhất quán giữa tài liệu và mã.
+- **Bàn giao có thể kiểm chứng:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) tập hợp 7 bản phát hành (v0.1.0 đến v0.4.2) kèm tổng kiểm SHA-256 · [ứng dụng web](https://spherex-planet-x-tau.vercel.app/) · [kho mã của nhóm](https://github.com/mauriciovalenzuela742/SPHEREX).
+- **Giới hạn đã nêu:** trình xem, thiết kế và phần backend còn lại là công sức của các thành viên khác; trình cài đặt chưa được ký và chưa thử trên thiết bị thật; tôi dùng AI (Claude Code) làm trợ lý, như đã khai báo trong kho mã. Đây mô tả đóng góp của tôi, không phải kết quả hackathon.
 
 ## ⚡Nếu anh có 10 phút để đánh giá tôi
 
@@ -263,7 +279,7 @@ Tải về các chương trình cài đặt hay clI từ[RootCause releases](htt
 - **Trung thực về tình trạng**- Một lần nữa được đổi tên (`Multisimulador` → `machine-operator-program`Để tránh phần mềm hứa hẹn mà chưa tồn tại.
 - **Huy hiệu là tín hiệu, không phải bằng chứng.**— mỗi người trả tiền cũng tuyên bố**những gì nó không làm**.
 - **Mô hình bên ngoài**— lĩnh vực được thiết kế trước; giao diện là một hình chiếu.
-- **Công việc bên ngoài được công bố là bên ngoài** — [52 fork](docs/ECOSYSTEM.vi.md#forks) của dự án bên thứ ba được mô tả từng cái một và nằm ngoài mọi con số sản phẩm tự thực hiện của hồ sơ này.
+- **Công việc bên ngoài được công bố là bên ngoài** — [54 fork](docs/ECOSYSTEM.vi.md#forks) của dự án bên thứ ba được mô tả từng cái một và nằm ngoài mọi con số sản phẩm tự thực hiện của hồ sơ này.
 
 ## ✅Phạm vi chuyên nghiệp
 

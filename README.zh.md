@@ -80,9 +80,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **测试覆盖** | GabySQL **850 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **230 tests** · Automa **150 pytest** · multi-OS CI |
 | 🤖 **生产级 Agent** | LangGraph RealWorld **25/25 operational backends**（cases 01–25，100% 覆盖）· Operational AI Agents **23 agents** 和 **69 deterministic evals** |
 | 🔗 **多语言集成** | **20 cases** sender→n8n→receiver —**19 operational**，逐一用 Docker 审计— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **分发** | 在 **66 个自有公共仓库**生态中发布 **156 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
+| 📦 **分发** | 在 **67 个自有公共仓库**生态中发布 **164 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
 | 🛡️ **供应链** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · CycloneDX SBOM · Scorecard |
-| 📚 **课程** | **16,798 classes**，覆盖 22 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
+| 📚 **课程** | **18,418 classes**，覆盖 22 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
 | 🌐 **作品集** | 可安装 PWA · **22 种语言** · pipeline 生成 **154 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **遥测** | 取证产品和 Empresa Operativa Chile 中为零 — 每次 build 验证（Android 无 `INTERNET` 权限） |
 | 🌐 **已发布站点** | **57 个 GitHub Pages 站点** —56 个产品、项目或生态导航 landing 加主作品集— 每个都从自己的仓库部署 · 57 个均验证 HTTP `200` |
@@ -199,6 +199,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 <sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
 
+**发布技术**
+
+![发布技术](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
+
+<sub>Cloudflare (个人工作) · Vercel (NASA Space Apps 黑客松) · AWS (与 GitLab 相关的运营网站) · GitHub Pages</sub>
+
 ## 🗺️ 生态系统概览
 
 ![🧠 技术判断 — architecture · modernization · operations](docs/img/ecosystem.zh.svg)
@@ -207,22 +213,32 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 本档案的实践成果集中在独立文档中：可下载安装的软件、工程实验室、应用 AI、完整技术课程与科学计算，以及账号中每个第三方项目 fork 的说明。
 
-- 📦 **真实分发的产品** (23)
+- 📦 **真实分发的产品** (24)
 - 🧪 **工程实验室** (11)
 - 🤖 **应用 AI** (6)
 - 📚 **完整技术课程** (22)
 - 🔬 **科学计算** (1)
-- 🍴 **第三方项目的 fork** (52)
+- 🍴 **第三方项目的 fork** (54)
 
 👉 **[查看完整生态系统](docs/ECOSYSTEM.zh.md)** · [🍴 第三方项目的 fork](docs/ECOSYSTEM.zh.md#forks)
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **16,798 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **18,418 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
 
-🌌 **已计入统计：**[天文学、天体物理学、空间科学与航空航天工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 个领域、133 个模块共 2,077 节课程；全部已有正文，仍处于 E0 状态（待专业审阅与作者批准）。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
+🌌 **已计入统计：**[天文学、天体物理学、空间科学与航空航天工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 个领域、133 个模块共 2,077 节课程；全部已有正文，仍处于 E0 状态（待专业审阅与作者批准）。包含 10 个任务工作坊和 23 个使用 NASA/JPL 数据的太阳系模拟器。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
 
 👉 **[查看全部 22 个课程](docs/ECOSYSTEM.zh.md#curricula)**
+
+<a id="hackathon"></a>
+
+## 🛰️ NASA Space Apps 2026 黑客松
+
+我参加了 **NASA Space Apps Challenge 2026**（圣地亚哥，11 月 14 日至 15 日），挑战主题为 *Planet X and SPHEREx*，团队共 6 人。产品是 **AstroTrack · SPHEREx**：一个网页查看器，输入天空坐标后，该区域会以 SPHEREx 图像随时间变化的序列呈现，数据来自 NASA/IPAC IRSA。
+
+- **我的部分：**数据访问（带缓存的 IRSA 查询和预先计算的演示区域）、打包（PWA、基于 Tauri 的桌面安装包和基于 Capacitor 的 Android APK）、“下载”页面，以及文档与代码之间的一致性审计。
+- **可验证的交付：**[spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) 汇集了 7 个发布版本（v0.1.0 至 v0.4.2），附 SHA-256 校验和 · [网页应用](https://spherex-planet-x-tau.vercel.app/) · [团队仓库](https://github.com/mauriciovalenzuela742/SPHEREX)。
+- **声明的局限：**查看器、设计和其余后端由团队其他成员完成；安装包未签名，也未在真实设备上测试；我使用 AI（Claude Code）作为助手，并已在仓库中声明。这描述的是我的贡献，而不是黑客松的成绩。
 
 ## ⚡ 如果你有 10 分钟评估我
 
@@ -262,7 +278,7 @@ git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
 - **Honesty about status** — 一个 repo 从 `Multisimulador` 改名为 `machine-operator-program`，避免承诺尚不存在的软件。
 - **Badges are signals, not evidence** — 每个 repo 也声明**它不做什么**。
 - **Model outward** — 先设计 domain，interface 只是 projection。
-- **外部作品会明确标注** — 第三方项目的 [52 个 fork](docs/ECOSYSTEM.zh.md#forks) 逐一说明，并不计入本档案任何自有作品数字。
+- **外部作品会明确标注** — 第三方项目的 [54 个 fork](docs/ECOSYSTEM.zh.md#forks) 逐一说明，并不计入本档案任何自有作品数字。
 
 ## ✅ 专业范围
 

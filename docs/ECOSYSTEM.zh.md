@@ -35,6 +35,7 @@
 | [🎸 **My Guitar Adventure**](https://github.com/vladimiracunadev-create/guitarra-adventure) | 吉他兄弟项目：6 个世界 24 节课、6 弦调音器、无漂移 metronome、11 个真实吉他音符 | Tauri 2 · React · TS | **v1.0.0** · Windows · Android · Linux · macOS · iOS · PWA · no accounts, ads, or online dependency · [landing](https://vladimiracunadev-create.github.io/guitarra-adventure/) |
 | [🧣 **Pañuelo al Viento**](https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app) | 面向 10 岁以上的 cueca 学习：8 个级别 24 节课、72 个活动、六拍实验室（3+3 与 2+2+2）和可访问地面图。声明**补充而不是替代**教师和文化传承者 | Flutter · Dart | **v0.2.0** · Android 7+ · Windows 10/11 · APK · EXE · MSI · portable · **29 tests + 2 validators** · no camera, microphone, account, ads, or internet · [landing](https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/) |
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI 多渠道网关：13 项服务、69 个操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHub……），覆盖 REST、GraphQL、SOAP 和 gRPC。OAuth 加密、Webhook 签名、可对账的幂等；查询不等于授权发送 | Python · FastAPI | **v0.3.0** · 尚未发布 release · **162 项测试**（模拟传输，未使用真实账户，未发送任何消息）· MIT · Linux · macOS · Windows |
+| [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx（NASA Space Apps 2026）安装包的公开副本：Windows、macOS、Linux、Android 以及适用于 iPhone 的 PWA。不含源代码：代码属于团队 | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 个发布版本**，附 SHA-256 校验和 · 安装包未签名，未在真实设备上测试 · NASA/IPAC IRSA 数据 · [网页](https://spherex-planet-x-tau.vercel.app/) · [下载](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
 ## 🧪 工程实验室
 
@@ -67,7 +68,7 @@
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **16,798 classes**，由 [workflow](../.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **18,418 classes**，由 [workflow](../.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) 是一个联邦式学习导航器，通过可视化地图和[可访问的离线门户](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)连接 6 个领域的 30 条真实路径；它不计为额外课程项目。
 
@@ -80,8 +81,8 @@
 | [📈 **Marketing, Sales and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 parts with operational definitions、measurement sheets、verifiable bibliography and Chilean regulatory context · **v1.6.0** · 1.29M words · 17 role paths · [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Create and operate a real company in Chile：idea、incorporation、SII、operations、crisis、exit · 360 diagrams · 1,251-term glossary · 1,548-page manual · [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 parts · 60 场综合课程 · 35 paths · 可追溯来源 · Markdown、offline reader、GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **智利学校课程路径**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 8,841 | 覆盖小学一年级至高中四年级 · **4,156 项跨学科整合活动** · **2,823 个学习目标** · MINEDUC 来源 · 无待处理提案，仍需专业人工复核 · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 480 | 40 部分、8 个阶段 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · 编辑状态由仓库明确声明 · [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **智利学校课程路径**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 覆盖小学一年级至高中四年级 · **4,156 项跨学科整合活动** · **3,153 个学习目标** · MINEDUC 来源 · 无待处理提案，仍需专业人工复核 · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 部分、8 个阶段 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · 编辑状态由仓库明确声明 · [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares evidence state and limits** · literacy、methods、special needs、coexistence、cultural diversity · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1,288 hours** · 288 labs with JSON evidence · 1,032 sources · 2,884-page PDF manual · [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | From owning first outcome to leading a company and founding one：teams、KPI/OKR、finance、product、risk、board、M&A · [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -94,7 +95,7 @@
 | [⛓️ **Blockchain**](https://github.com/vladimiracunadev-create/blockchain-learning-path) | 66 | **v0.15.0** · from zero to programmable financial infrastructure and on-chain analytics · **91 practices** and **508 tests** · Foundry and Slither in CI · [site](https://vladimiracunadev-create.github.io/blockchain-learning-path/) |
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, 31 solutions— · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 training modules**, one per machine · **502 h 15 min** · systems、controls、physics、safety、simulation design with sources per class · *no executable simulator yet, and that is declared* |
-| [🌌 **天文学、天体物理学、空间科学与航空航天工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **已计入统计：**12 个领域、133 个模块共 2,077 节课程；全部已有正文，仍处于 E0 状态（待专业审阅与作者批准）。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+| [🌌 **天文学、天体物理学、空间科学与航空航天工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **已计入统计：**12 个领域、133 个模块共 2,077 节课程；全部已有正文，仍处于 E0 状态（待专业审阅与作者批准）。包含 10 个任务工作坊和 23 个使用 NASA/JPL 数据的太阳系模拟器。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
 
 ## 🔬 科学计算
 
@@ -104,7 +105,7 @@
 
 <a id="forks"></a>
 
-## 🍴 第三方项目的 fork (52)
+## 🍴 第三方项目的 fork (54)
 
 这些是保存在本账号中的他人项目的 fork。**它们不是我的原创作品**：功劳属于原作者，不计入本档案的任何数字，每条说明仅概括原项目自身的声明，并不意味着我提供支持、审计或拥有生产环境经验。说明依据原项目 · 2026-11-09。
 
@@ -181,7 +182,7 @@
 | [**harness**](https://github.com/vladimiracunadev-create/harness) | [harness/harness](https://github.com/harness/harness) | Go | 端到端开发平台：代码管理、CI/CD、环境与制品库 |
 | [**traccar**](https://github.com/vladimiracunadev-create/traccar) | [traccar/traccar](https://github.com/traccar/traccar) | Java | 开源 GPS 追踪平台，支持 200 多种设备协议 |
 
-### 🎓 教育与参考 (4)
+### 🎓 教育与参考 (6)
 
 | Fork | 原项目 | 语言 | 简介 |
 |---|---|---|---|
@@ -189,3 +190,5 @@
 | [**math**](https://github.com/vladimiracunadev-create/math) | [ossu/math](https://github.com/ossu/math) | — | 免费数学自学路径（OSSU） |
 | [**manim**](https://github.com/vladimiracunadev-create/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | 社区维护的数学动画 Python 框架 |
 | [**asm-atari-2600**](https://github.com/vladimiracunadev-create/asm-atari-2600) | [johnidm/asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Assembly | Atari 2600 游戏汇编示例源码 |
+| [**SPHEREX**](https://github.com/vladimiracunadev-create/SPHEREX) | [mauriciovalenzuela742/SPHEREX](https://github.com/mauriciovalenzuela742/SPHEREX) | Jupyter Notebook | NASA Space Apps 2026 黑客松的团队仓库（Planet X and SPHEREx 挑战）；6 人项目 |
+| [**SpacePixels**](https://github.com/vladimiracunadev-create/SpacePixels) | [ppissias/SpacePixels](https://github.com/ppissias/SpacePixels) | Java | 天文 FITS 图像分析，用于检测小行星、彗星、卫星和移动天体 |
