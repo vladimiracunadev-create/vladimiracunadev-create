@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#النطاق-المهني)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.ar.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#المناهج-التقنية-الكاملة)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.ar.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#النظام-الإيكولوجي-في-غلاف)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#المناهج-التقنية-الكاملة)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.ar.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ar.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **المنتجات ذات التوزيع الحقيقي** (24)
 - 🧪 **المختبرات الهندسية** (11)
 - 🤖 **الذكاء الاصطناعي التطبيقي** (6)
-- 📚 **المناهج التقنية الكاملة** (22)
+- 📚 [**المناهج التقنية الكاملة**](docs/ECOSYSTEM.ar.md#curricula) (22)
 - 🔬 **الحوسبة العلمية** (1)
 - 🍴 **forks لمشاريع أطراف ثالثة** (54)
 
 👉 **[عرض المنظومة كاملة](docs/ECOSYSTEM.ar.md)** · [🍴 forks لمشاريع أطراف ثالثة](docs/ECOSYSTEM.ar.md#forks)
-
-## 📚المناهج التقنية الكاملة
-
-برامج مستقلة باللغة الإسبانية، مع إعلان مركز كل مستودع ونطاقه. الـ 22 برنامج يضاف إلى**18,418 فصلا**"أعدّها"[a workflow](.github/workflows/stats.yml)من هيكل المستودع الحقيقي أو مصدر قابل للتحقق معلن في المستودع؛ وتعيد الشارة أسبوعياً ولا تكتب باليد.
-
-🌌 **مُدرَج في العدّ:** [علم الفلك والفيزياء الفلكية وعلوم الفضاء وهندسة الطيران والفضاء](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 درسًا في 12 مجالًا و133 كتلة؛ جميعها بنص مكتوب وما تزال في الحالة E0 (بانتظار المراجعة التخصصية وموافقة المؤلف). يتضمن 10 ورش مهام و23 محاكيًا للنظام الشمسي ببيانات NASA/JPL. تدريب مستقل وليس ترخيصًا مهنيًا · [الموقع](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[عرض البرامج الـ22 كاملة](docs/ECOSYSTEM.ar.md#curricula)**
 
 <a id="hackathon"></a>
 

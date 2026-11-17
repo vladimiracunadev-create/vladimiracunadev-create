@@ -234,37 +234,37 @@ jobs:
                   ("Repos públicos", "repos%20p%C3%BAblicos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Releases publicadas", "releases%20publicadas", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Lenguajes", "lenguajes%20principales", lenguajes, "0366d6", "", "#-el-ecosistema-de-un-vistazo"),
-                  ("Clases", "clases%20de%20curr%C3%ADculo", clases, "3fb950", "", "#-currículos-técnicos-completos"),
+                  ("Clases", "clases%20de%20curr%C3%ADculo", clases, "3fb950", "", "docs/ECOSYSTEM.md#curricula"),
               ],
               "README.en.md": [
                   ("Public repos", "public%20repos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Published releases", "published%20releases", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Languages", "main%20languages", lenguajes, "0366d6", "", "#-ecosystem-at-a-glance"),
-                  ("Classes", "curriculum%20classes", clases, "3fb950", "", "#-complete-technical-curricula"),
+                  ("Classes", "curriculum%20classes", clases, "3fb950", "", "docs/ECOSYSTEM.en.md#curricula"),
               ],
               "README.pt.md": [
                   ("Repositórios públicos", "reposit%C3%B3rios%20p%C3%BAblicos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Releases publicadas", "releases%20publicadas", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Linguagens", "linguagens%20principais", lenguajes, "0366d6", "", "#-ecossistema-em-uma-visão"),
-                  ("Aulas", "aulas%20de%20curr%C3%ADculo", clases, "3fb950", "", "#-currículos-técnicos-completos"),
+                  ("Aulas", "aulas%20de%20curr%C3%ADculo", clases, "3fb950", "", "docs/ECOSYSTEM.pt.md#curricula"),
               ],
               "README.it.md": [
                   ("Repository pubblici", "repository%20pubblici", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Release pubblicate", "release%20pubblicate", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Linguaggi", "linguaggi%20principali", lenguajes, "0366d6", "", "#-ecosistema-in-sintesi"),
-                  ("Classi", "classi%20curricolari", clases, "3fb950", "", "#-curricula-tecnici-completi"),
+                  ("Classi", "classi%20curricolari", clases, "3fb950", "", "docs/ECOSYSTEM.it.md#curricula"),
               ],
               "README.fr.md": [
                   ("Dépôts publics", "d%C3%A9p%C3%B4ts%20publics", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Releases publiées", "releases%20publi%C3%A9es", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("Langages", "langages%20principaux", lenguajes, "0366d6", "", "#-lécosystème-en-un-coup-dœil"),
-                  ("Classes", "classes%20de%20cursus", clases, "3fb950", "", "#-cursus-techniques-complets"),
+                  ("Classes", "classes%20de%20cursus", clases, "3fb950", "", "docs/ECOSYSTEM.fr.md#curricula"),
               ],
               "README.zh.md": [
                   ("公共仓库", "public%20repos", repos, "7c5cff", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("已发布版本", "published%20releases", releases, "f39c12", "github", f"https://github.com/{usuario}?tab=repositories"),
                   ("主要语言", "main%20languages", lenguajes, "0366d6", "", "#-生态系统概览"),
-                  ("课程数", "curriculum%20classes", clases, "3fb950", "", "#-完整技术课程"),
+                  ("课程数", "curriculum%20classes", clases, "3fb950", "", "docs/ECOSYSTEM.zh.md#curricula"),
               ],
           }
 

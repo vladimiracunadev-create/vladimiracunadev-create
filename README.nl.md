@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#beroepsterrein)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.nl.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#complete-technische-curricula)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.nl.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ecosysteem-bij-een-glance)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#complete-technische-curricula)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.nl.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.nl.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ Het praktische werk van dit profiel staat in een eigen document: software die je
 - 📦 **Producten met echte distributie** (24)
 - 🧪 **Technische laboratoria** (11)
 - 🤖 **Toegepaste AI** (6)
-- 📚 **Complete technische Curricula** (22)
+- 📚 [**Complete technische Curricula**](docs/ECOSYSTEM.nl.md#curricula) (22)
 - 🔬 **Wetenschappelijke berekeningen** (1)
 - 🍴 **Forks van projecten van derden** (54)
 
 👉 **[Bekijk het volledige ecosysteem](docs/ECOSYSTEM.nl.md)** · [🍴 Forks van projecten van derden](docs/ECOSYSTEM.nl.md#forks)
-
-## 📚Complete technische Curricula
-
-Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 22 programma's tellen samen tot**18,418 klassen**, geteld door[a workflow](.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
-
-🌌 **Meegeteld:** [Sterrenkunde, astrofysica, ruimtewetenschappen en ruimtevaarttechniek](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 lessen in 12 gebieden en 133 blokken; allemaal met uitgewerkte tekst en nog in status E0 (in afwachting van vakinhoudelijke review en goedkeuring van de auteur). Bevat 10 missieworkshops en 23 zonnestelselsimulators met NASA/JPL-gegevens. Onafhankelijke opleiding, geen beroepsbevoegdheid · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Bekijk de 22 volledige programma's](docs/ECOSYSTEM.nl.md#curricula)**
 
 <a id="hackathon"></a>
 

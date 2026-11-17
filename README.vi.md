@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#phạm-vi-chuyên-nghiệp)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.vi.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#máy-tính-trình-duyệt-kỹ-thuật-toàn-bộ)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.vi.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#hệ-thống-sinh-thái-đang-hưng-thịnh)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#máy-tính-trình-duyệt-kỹ-thuật-toàn-bộ)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.vi.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.vi.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần 
 - 📦 **Những sản phẩm có thật sự được phân phối** (24)
 - 🧪 **Phòng thí nghiệm kỹ thuật** (11)
 - 🤖 **AI ứng dụng** (6)
-- 📚 **Máy tính trình duyệt kỹ thuật toàn bộ** (22)
+- 📚 [**Máy tính trình duyệt kỹ thuật toàn bộ**](docs/ECOSYSTEM.vi.md#curricula) (22)
 - 🔬 **Tính toán khoa học** (1)
 - 🍴 **Fork của dự án bên thứ ba** (54)
 
 👉 **[Xem toàn bộ hệ sinh thái](docs/ECOSYSTEM.vi.md)** · [🍴 Fork của dự án bên thứ ba](docs/ECOSYSTEM.vi.md#forks)
-
-## 📚Máy tính trình duyệt kỹ thuật toàn bộ
-
-Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **18,418 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
-
-🌌 **Đã tính vào số đếm:** [Thiên văn học, vật lý thiên văn, khoa học vũ trụ và kỹ thuật hàng không vũ trụ](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 bài học trong 12 lĩnh vực và 133 khối; tất cả đã có văn bản và vẫn ở trạng thái E0 (chờ rà soát chuyên môn và tác giả phê duyệt). Gồm 10 workshop nhiệm vụ và 23 trình mô phỏng Hệ Mặt Trời dùng dữ liệu NASA/JPL. Đào tạo độc lập, không phải chứng chỉ hành nghề · [trang web](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Xem đầy đủ 22 chương trình](docs/ECOSYSTEM.vi.md#curricula)**
 
 <a id="hackathon"></a>
 

@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#전문-범위)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.ko.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#완전한-기술-교육과정)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.ko.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#한눈에-보는-생태계)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#완전한-기술-교육과정)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.ko.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ko.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **Real Distribution을 통한 제품** (24)
 - 🧪 **엔지니어링 연구소** (11)
 - 🤖 **응용 AI** (6)
-- 📚 **완전한 기술 교육과정** (22)
+- 📚 [**완전한 기술 교육과정**](docs/ECOSYSTEM.ko.md#curricula) (22)
 - 🔬 **과학 컴퓨팅** (1)
 - 🍴 **제3자 프로젝트의 포크** (54)
 
 👉 **[전체 생태계 보기](docs/ECOSYSTEM.ko.md)** · [🍴 제3자 프로젝트의 포크](docs/ECOSYSTEM.ko.md#forks)
-
-## 📚완전한 기술 교육과정
-
-스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**18,418 클래스**, 으로 계산[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
-
-🌌 **집계 포함:** [천문학, 천체물리학, 우주과학, 항공우주공학](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12개 영역, 133개 블록에 걸친 2,077개 수업. 모두 본문이 작성되었으며 아직 E0 상태입니다(전문 분야 검토와 저자 승인 대기). 10개의 임무 워크숍과 NASA/JPL 데이터를 쓰는 23개의 태양계 시뮬레이터를 포함합니다. 독립 교육이며 직업 자격이 아닙니다 · [사이트](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[22개 프로그램 전체 보기](docs/ECOSYSTEM.ko.md#curricula)**
 
 <a id="hackathon"></a>
 

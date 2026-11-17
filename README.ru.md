@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#профессиональный-уровень)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.ru.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#полная-техническая-программа)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.ru.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#экосистема-с-первого-взгляда)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#полная-техническая-программа)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.ru.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ru.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **Продукты с реальным распределением** (24)
 - 🧪 **Инженерные лаборатории** (11)
 - 🤖 **Прикладной ИИ** (6)
-- 📚 **Полная техническая программа** (22)
+- 📚 [**Полная техническая программа**](docs/ECOSYSTEM.ru.md#curricula) (22)
 - 🔬 **Научные вычисления** (1)
 - 🍴 **Форки сторонних проектов** (54)
 
 👉 **[Смотреть всю экосистему](docs/ECOSYSTEM.ru.md)** · [🍴 Форки сторонних проектов](docs/ECOSYSTEM.ru.md#forks)
-
-## 📚Полная техническая программа
-
-Последовательные программы на испанском языке, с статусом и объемом, объявленным каждым репозиторием. 22 программа, которая включает в себя**18 418 классов**Подсчитано по[a workflow](.github/workflows/stats.yml)от реальной структуры хранилища или проверяемого источника, объявленного в хранилище; значок обновляется еженедельно и не пишется от руки.
-
-🌌 **Включено в подсчёт:** [Астрономия, астрофизика, космические науки и аэрокосмическая инженерия](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 занятий в 12 областях и 133 блоках; у всех написан текст, все пока в статусе E0 (ожидают профильной проверки и утверждения автором). Включает 10 миссионных мастерских и 23 симулятора Солнечной системы с данными NASA/JPL. Независимое обучение, а не профессиональная аттестация · [сайт](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Смотреть все 22 программу](docs/ECOSYSTEM.ru.md#curricula)**
 
 <a id="hackathon"></a>
 

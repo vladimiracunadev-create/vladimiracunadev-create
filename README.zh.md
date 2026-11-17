@@ -12,13 +12,13 @@
 
 [![经验](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#-专业范围)
 [![产品](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.zh.md)
-[![课程](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.zh.md#curricula)
 
 <!-- STATS:START -->
 [![公共仓库](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![已发布版本](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![主要语言](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#-生态系统概览)
-[![课程数](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#-完整技术课程)
+[![课程数](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.zh.md#curricula)
 [![已收到的 Fork](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![第三方 Fork](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.zh.md#forks)
 [![提交数](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -216,19 +216,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **真实分发的产品** (24)
 - 🧪 **工程实验室** (11)
 - 🤖 **应用 AI** (6)
-- 📚 **完整技术课程** (22)
+- 📚 [**完整技术课程**](docs/ECOSYSTEM.zh.md#curricula) (22)
 - 🔬 **科学计算** (1)
 - 🍴 **第三方项目的 fork** (54)
 
 👉 **[查看完整生态系统](docs/ECOSYSTEM.zh.md)** · [🍴 第三方项目的 fork](docs/ECOSYSTEM.zh.md#forks)
-
-## 📚 完整技术课程
-
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **18,418 classes**，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
-
-🌌 **已计入统计：**[天文学、天体物理学、空间科学与航空航天工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 个领域、133 个模块共 2,077 节课程；全部已有正文，仍处于 E0 状态（待专业审阅与作者批准）。包含 10 个任务工作坊和 23 个使用 NASA/JPL 数据的太阳系模拟器。独立培训，并非职业资格认证 · [网站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
-
-👉 **[查看全部 22 个课程](docs/ECOSYSTEM.zh.md#curricula)**
 
 <a id="hackathon"></a>
 

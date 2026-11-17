@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#професійний-scope)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.uk.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#повний-технічний-навчальний-план)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.uk.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#екосистема-на-погляді)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#повний-технічний-навчальний-план)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.uk.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.uk.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **Продукція з реальним розподілом** (24)
 - 🧪 **Інженерні лабораторії** (11)
 - 🤖 **Прикладна AI** (6)
-- 📚 **Повний технічний навчальний план** (22)
+- 📚 [**Повний технічний навчальний план**](docs/ECOSYSTEM.uk.md#curricula) (22)
 - 🔬 **Науковий склад** (1)
 - 🍴 **Форки сторонніх проєктів** (54)
 
 👉 **[Переглянути всю екосистему](docs/ECOSYSTEM.uk.md)** · [🍴 Форки сторонніх проєктів](docs/ECOSYSTEM.uk.md#forks)
-
-## 📚Повний технічний навчальний план
-
-Напрями діяльності іспанської мови, з статусом та сферою, що засвідчує кожну репозиторію. 22 програми додано**18418 класи**, підрахунок[a workflow](.github/workflows/stats.yml)з реальної структури репозиторій або в'єтнамського джерела, заявленого в репозиторію; значок освіжає щотижневий і не письмовий вручну.
-
-🌌 **Включено до підрахунку:** [Астрономія, астрофізика, космічні науки та аерокосмічна інженерія](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 занять у 12 напрямах і 133 блоках; у всіх написано текст, усі поки в статусі E0 (очікують фахового рецензування та затвердження автором). Містить 10 місійних майстерень і 23 симулятори Сонячної системи з даними NASA/JPL. Незалежне навчання, а не професійна атестація · [сайт](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Переглянути всі 22 програму](docs/ECOSYSTEM.uk.md#curricula)**
 
 <a id="hackathon"></a>
 

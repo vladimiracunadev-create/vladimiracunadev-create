@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#zakres-działalności)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.pl.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#kompletne-programy-nauczania-technicznego)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.pl.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ekosystem-w-odblasku)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#kompletne-programy-nauczania-technicznego)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.pl.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.pl.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do
 - 📦 **Produkty z dystrybucją rzeczywistą** (24)
 - 🧪 **Laboratoria inżynieryjne** (11)
 - 🤖 **Stosowana AI** (6)
-- 📚 **Kompletne programy nauczania technicznego** (22)
+- 📚 [**Kompletne programy nauczania technicznego**](docs/ECOSYSTEM.pl.md#curricula) (22)
 - 🔬 **Konstrukcja naukowa** (1)
 - 🍴 **Forki projektów osób trzecich** (54)
 
 👉 **[Zobacz pełny ekosystem](docs/ECOSYSTEM.pl.md)** · [🍴 Forki projektów osób trzecich](docs/ECOSYSTEM.pl.md#forks)
-
-## 📚Kompletne programy nauczania technicznego
-
-Sekwencyjne programy w języku hiszpańskim, ze statusem i zakresem deklarowanym przez każde repozytorium. 22 programów dodaje się do**18 418 klas**, policzone[a workflow](.github/workflows/stats.yml)z rzeczywistej struktury repozytorium lub źródła weryfikowalnego zadeklarowanego w repozytorium; odznaka odświeża raz w tygodniu i nie jest zapisywana ręcznie.
-
-🌌 **Wliczone do zliczania:** [Astronomia, astrofizyka, nauki kosmiczne i inżynieria lotnicza i kosmiczna](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 zajęć w 12 obszarach i 133 blokach; wszystkie z napisanym tekstem i nadal w stanie E0 (czekają na recenzję merytoryczną i zatwierdzenie autora). Zawiera 10 warsztatów misji i 23 symulatory Układu Słonecznego z danymi NASA/JPL. Niezależne kształcenie, nie uprawnienia zawodowe · [strona](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Zobacz 22 pełnych programów](docs/ECOSYSTEM.pl.md#curricula)**
 
 <a id="hackathon"></a>
 

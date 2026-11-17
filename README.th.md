@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#ขอบเขตงาน)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.th.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.th.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ภาพรวมระบบนิเวศ)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#หลักสูตรเทคนิคฉบับสมบูรณ์)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.th.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.th.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **ผลิตภัณฑ์ที่มีการเผยแพร่จริง** (24)
 - 🧪 **ห้องปฏิบัติการวิศวกรรม** (11)
 - 🤖 **ปรับใช้ AI** (6)
-- 📚 **หลักสูตรเทคนิคฉบับสมบูรณ์** (22)
+- 📚 [**หลักสูตรเทคนิคฉบับสมบูรณ์**](docs/ECOSYSTEM.th.md#curricula) (22)
 - 🔬 **การประมวลผลเชิงวิทยาศาสตร์** (1)
 - 🍴 **Fork ของโปรเจกต์บุคคลที่สาม** (54)
 
 👉 **[ดูระบบนิเวศทั้งหมด](docs/ECOSYSTEM.th.md)** · [🍴 Fork ของโปรเจกต์บุคคลที่สาม](docs/ECOSYSTEM.th.md#forks)
-
-## 📚หลักสูตรเทคนิคฉบับสมบูรณ์
-
-รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 22 โครงการรวมกันเป็น**18,418 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
-
-🌌 **รวมในตัวเลขแล้ว:** [ดาราศาสตร์ ฟิสิกส์ดาราศาสตร์ วิทยาศาสตร์อวกาศ และวิศวกรรมการบินและอวกาศ](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2,077 บทเรียนใน 12 ด้านและ 133 บล็อก ทุกบทมีเนื้อหาที่เขียนแล้ว และยังอยู่ในสถานะ E0 (รอการทบทวนเชิงวิชาการและการอนุมัติจากผู้เขียน) มีเวิร์กชอปภารกิจ 10 ชุดและตัวจำลองระบบสุริยะ 23 ตัวที่ใช้ข้อมูล NASA/JPL เป็นการฝึกอบรมอิสระ ไม่ใช่การรับรองวิชาชีพ · [เว็บไซต์](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)
-
-👉 **[ดูทั้ง 22 หลักสูตร](docs/ECOSYSTEM.th.md#curricula)**
 
 <a id="hackathon"></a>
 

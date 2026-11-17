@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#επαγγελματικό-πεδίο-εφαρμογής)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.el.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#πλήρης-τεχνική-επιμέλεια)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.el.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ecosystem-σε-μια-λάμψη)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#πλήρης-τεχνική-επιμέλεια)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.el.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.el.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **Προϊόντα με πραγματική διανομή** (24)
 - 🧪 **Εργαστήρια Μηχανικών** (11)
 - 🤖 **Εφαρμοσμένη ΤΝ** (6)
-- 📚 **Πλήρης τεχνική επιμέλεια** (22)
+- 📚 [**Πλήρης τεχνική επιμέλεια**](docs/ECOSYSTEM.el.md#curricula) (22)
 - 🔬 **Επιστημονική Υπολογιστική** (1)
 - 🍴 **Forks έργων τρίτων** (54)
 
 👉 **[Δείτε ολόκληρο το οικοσύστημα](docs/ECOSYSTEM.el.md)** · [🍴 Forks έργων τρίτων](docs/ECOSYSTEM.el.md#forks)
-
-## 📚Πλήρης τεχνική επιμέλεια
-
-Αλληλοσυσσωρεύσιμα προγράμματα στα ισπανικά, με κατάσταση και πεδίο εφαρμογής δηλωμένα από κάθε χώρο αποθήκευσης. Τα 22 προγράμματα προσθέτουν έως και**18.418 κατηγορίες**, μετρά με[a workflow](.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο· το σήμα ανανεώνεται κάθε εβδομάδα και δεν γράφεται με το χέρι.
-
-🌌 **Περιλαμβάνεται στη μέτρηση:** [Αστρονομία, αστροφυσική, διαστημικές επιστήμες και αεροδιαστημική μηχανική](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 μαθήματα σε 12 τομείς και 133 μπλοκ· όλα με γραμμένο κείμενο και ακόμη σε κατάσταση E0 (εκκρεμούν η επιστημονική αναθεώρηση και η έγκριση του συγγραφέα). Περιλαμβάνει 10 εργαστήρια αποστολής και 23 προσομοιωτές του Ηλιακού Συστήματος με δεδομένα NASA/JPL. Ανεξάρτητη εκπαίδευση, όχι επαγγελματική πιστοποίηση · [ιστότοπος](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Δείτε και τα 22 προγράμματα](docs/ECOSYSTEM.el.md#curricula)**
 
 <a id="hackathon"></a>
 

@@ -12,13 +12,13 @@
 
 [![Esperienza](https://img.shields.io/badge/esperienza-%2B16%20anni-e67e22?style=for-the-badge)](#-ambito-professionale)
 [![Prodotti](https://img.shields.io/badge/prodotti-artefatti%20verificabili-007c83?style=for-the-badge)](docs/ECOSYSTEM.it.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programmi-3fb950?style=for-the-badge)](#-curricula-tecnici-completi)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programmi-3fb950?style=for-the-badge)](docs/ECOSYSTEM.it.md#curricula)
 
 <!-- STATS:START -->
 [![Repository pubblici](https://img.shields.io/badge/repository%20pubblici-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Release pubblicate](https://img.shields.io/badge/release%20pubblicate-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Linguaggi](https://img.shields.io/badge/linguaggi%20principali-10-0366d6?style=for-the-badge)](#-ecosistema-in-sintesi)
-[![Classi](https://img.shields.io/badge/classi%20curricolari-18418-3fb950?style=for-the-badge)](#-curricula-tecnici-completi)
+[![Classi](https://img.shields.io/badge/classi%20curricolari-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.it.md#curricula)
 [![Fork ricevuti](https://img.shields.io/badge/fork%20ricevuti-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Fork di terzi](https://img.shields.io/badge/fork%20di%20terzi-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.it.md#forks)
 [![Commit](https://img.shields.io/badge/commit-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -216,19 +216,11 @@ Il lavoro pratico del profilo vive in un documento a parte: software da scaricar
 - 📦 **Prodotti Con Distribuzione Reale** (24)
 - 🧪 **Laboratori Di Ingegneria** (11)
 - 🤖 **IA Applicata** (6)
-- 📚 **Curricula Tecnici Completi** (22)
+- 📚 [**Curricula Tecnici Completi**](docs/ECOSYSTEM.it.md#curricula) (22)
 - 🔬 **Calcolo Scientifico** (1)
 - 🍴 **Fork di progetti di terzi** (54)
 
 👉 **[Vedi l'ecosistema completo](docs/ECOSYSTEM.it.md)** · [🍴 Fork di progetti di terzi](docs/ECOSYSTEM.it.md#forks)
-
-## 📚 Curricula Tecnici Completi
-
-Programmi sequenziali in spagnolo, con stato e ambito dichiarati da ogni repository. I 22 programmi sommano **18.418 classi**, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository; il badge viene aggiornato ogni settimana e non è scritto a mano.
-
-🌌 **Incluso nel conteggio:** [Astronomia, astrofisica, scienze spaziali e ingegneria aerospaziale](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 lezioni in 12 aree e 133 blocchi; tutte con testo redatto e ancora allo stato E0 (in attesa di revisione disciplinare e di approvazione dell'autore). Include 10 laboratori di missione e 23 simulatori del Sistema Solare con dati NASA/JPL. Formazione indipendente, non abilitazione professionale · [sito](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Vedi i 22 programmi completi](docs/ECOSYSTEM.it.md#curricula)**
 
 <a id="hackathon"></a>
 

@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#專業範圍)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.zh-TW.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#完成技術課程)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.zh-TW.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#生態系統一一)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#完成技術課程)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.zh-TW.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.zh-TW.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **具有實際分佈的產品** (24)
 - 🧪 **工程實驗室** (11)
 - 🤖 **應用AI** (6)
-- 📚 **完成技術課程** (22)
+- 📚 [**完成技術課程**](docs/ECOSYSTEM.zh-TW.md#curricula) (22)
 - 🔬 **科學計算** (1)
 - 🍴 **第三方專案的 fork** (54)
 
 👉 **[查看完整生態系統](docs/ECOSYSTEM.zh-TW.md)** · [🍴 第三方專案的 fork](docs/ECOSYSTEM.zh-TW.md#forks)
-
-## 📚完成技術課程
-
-西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**18 418個班級**,計算為[a workflow](.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
-
-🌌 **已計入統計：**[天文學、天體物理學、太空科學與航空太空工程](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program)——12 個領域、133 個模組共 2,077 堂課程；全部已有正文，仍處於 E0 狀態（待專業審閱與作者核准）。包含 10 個任務工作坊和 23 個使用 NASA/JPL 資料的太陽系模擬器。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。
-
-👉 **[查看全部 22 個課程](docs/ECOSYSTEM.zh-TW.md#curricula)**
 
 <a id="hackathon"></a>
 

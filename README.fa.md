@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#حرفه-ای)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.fa.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#ویژگی-های-فنی-کامل)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.fa.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#سیستم-در-یک-نگاه)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#ویژگی-های-فنی-کامل)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.fa.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.fa.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **محصولات با توزیع واقعی** (24)
 - 🧪 **آزمایشگاه های مهندسی** (11)
 - 🤖 **کاربردی AI** (6)
-- 📚 **ویژگی های فنی کامل** (22)
+- 📚 [**ویژگی های فنی کامل**](docs/ECOSYSTEM.fa.md#curricula) (22)
 - 🔬 **محاسبات علمی** (1)
 - 🍴 **forkهای پروژه‌های اشخاص ثالث** (54)
 
 👉 **[مشاهدهٔ کل اکوسیستم](docs/ECOSYSTEM.fa.md)** · [🍴 forkهای پروژه‌های اشخاص ثالث](docs/ECOSYSTEM.fa.md#forks)
-
-## 📚ویژگی های فنی کامل
-
-برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 22 برنامه اضافه شده به**18418 کلاس**شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
-
-🌌 **در شمارش گنجانده شده:** [نجوم، اخترفیزیک، علوم فضایی و مهندسی هوافضا](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — ۲٬۰۷۷ درس در ۱۲ حوزه و ۱۳۳ بلوک؛ برای همه متن نوشته شده و همه هنوز در وضعیت E0 هستند (در انتظار بازبینی تخصصی و تأیید نویسنده). شامل ۱۰ کارگاه ماموریتی و ۲۳ شبیه‌ساز منظومهٔ شمسی با داده‌های NASA/JPL است. آموزش مستقل، نه مجوز حرفه‌ای · [سایت](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[مشاهدهٔ هر ۲۲ برنامه](docs/ECOSYSTEM.fa.md#curricula)**
 
 <a id="hackathon"></a>
 

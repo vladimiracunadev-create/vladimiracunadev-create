@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#scope-profesional)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.id.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#curricula-teknis-lengkap)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.id.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ekosistem-pada-a-glance)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#curricula-teknis-lengkap)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.id.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.id.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh
 - 📦 **Produk Dengan Distribusi Nyata** (24)
 - 🧪 **Laboratorium Teknik** (11)
 - 🤖 **AI Terapan** (6)
-- 📚 **Curricula Teknis Lengkap** (22)
+- 📚 [**Curricula Teknis Lengkap**](docs/ECOSYSTEM.id.md#curricula) (22)
 - 🔬 **Komputer Ilmiah** (1)
 - 🍴 **Fork proyek pihak ketiga** (54)
 
 👉 **[Lihat ekosistem lengkap](docs/ECOSYSTEM.id.md)** · [🍴 Fork proyek pihak ketiga](docs/ECOSYSTEM.id.md#forks)
-
-## 📚Curricula Teknis Lengkap
-
-Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 22 program ditambahkan ke**Kelas 18,418**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
-
-🌌 **Termasuk dalam hitungan:** [Astronomi, astrofisika, ilmu antariksa, dan teknik dirgantara](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 2.077 kelas dalam 12 area dan 133 blok; semuanya sudah bertulis dan masih berstatus E0 (menunggu tinjauan disiplin dan persetujuan penulis). Mencakup 10 lokakarya misi dan 23 simulator Tata Surya dengan data NASA/JPL. Pelatihan mandiri, bukan sertifikasi profesional · [situs](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[Lihat 22 program lengkap](docs/ECOSYSTEM.id.md#curricula)**
 
 <a id="hackathon"></a>
 

@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#व्यावसायिक-क्षेत्र)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.hi.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#तकनीकी-पाठ्यक्रम)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.hi.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#पारिस्थितिकी-तंत्र-एक-झलक-में)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#तकनीकी-पाठ्यक्रम)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.hi.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.hi.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 📦 **उत्पाद रियल डिस्ट्रीब्यूशन के साथ** (24)
 - 🧪 **इंजीनियरिंग प्रयोगशाला** (11)
 - 🤖 **नुप्रयुक्त AI** (6)
-- 📚 **तकनीकी पाठ्यक्रम** (22)
+- 📚 [**तकनीकी पाठ्यक्रम**](docs/ECOSYSTEM.hi.md#curricula) (22)
 - 🔬 **वैज्ञानिक कम्प्यूटिंग** (1)
 - 🍴 **तृतीय-पक्ष प्रोजेक्ट्स के fork** (54)
 
 👉 **[पूरा पारिस्थितिकी तंत्र देखें](docs/ECOSYSTEM.hi.md)** · [🍴 तृतीय-पक्ष प्रोजेक्ट्स के fork](docs/ECOSYSTEM.hi.md#forks)
-
-## 📚तकनीकी पाठ्यक्रम
-
-स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 22 कार्यक्रम में शामिल हो गए**18,418 कक्षा**, द्वारा गिना[a workflow](.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
-
-🌌 **गिनती में शामिल:** [खगोल विज्ञान, खगोल भौतिकी, अंतरिक्ष विज्ञान और वैमानिकी इंजीनियरिंग](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 क्षेत्रों और 133 ब्लॉकों में 2,077 कक्षाएँ; सभी का पाठ लिखा जा चुका है और सभी अभी E0 स्थिति में हैं (विषय-समीक्षा और लेखक की स्वीकृति लंबित)। इसमें 10 मिशन कार्यशालाएँ और NASA/JPL डेटा वाले 23 सौरमंडल सिमुलेटर शामिल हैं। स्वतंत्र प्रशिक्षण, पेशेवर प्रमाणन नहीं · [साइट](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)।
-
-👉 **[सभी 22 पाठ्यक्रम देखें](docs/ECOSYSTEM.hi.md#curricula)**
 
 <a id="hackathon"></a>
 

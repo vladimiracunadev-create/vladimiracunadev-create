@@ -12,13 +12,13 @@
 
 [![Experience](https://img.shields.io/badge/experience-%2B16%20years-e67e22?style=for-the-badge)](#profesyonel-kapsam)
 [![Products](https://img.shields.io/badge/products-verifiable%20artifacts-007c83?style=for-the-badge)](docs/ECOSYSTEM.tr.md)
-[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](#eksiksiz-teknik-müfredatlar)
+[![Curricula](https://img.shields.io/badge/curricula-22%20programs-3fb950?style=for-the-badge)](docs/ECOSYSTEM.tr.md#curricula)
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#bir-bakışta-ekosistem)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#eksiksiz-teknik-müfredatlar)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.tr.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.tr.md#forks)
 [![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
@@ -217,19 +217,11 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 - 📦 **Gerçek Dağıtım ile Ürünler** (24)
 - 🧪 **Mühendislik Laboratuvarları** (11)
 - 🤖 **Uygulamalı yapay zekâ** (6)
-- 📚 **Eksiksiz teknik müfredatlar** (22)
+- 📚 [**Eksiksiz teknik müfredatlar**](docs/ECOSYSTEM.tr.md#curricula) (22)
 - 🔬 **Bilimsel Bilgi** (1)
 - 🍴 **Üçüncü taraf projelerin fork'ları** (54)
 
 👉 **[Ekosistemin tamamını gör](docs/ECOSYSTEM.tr.md)** · [🍴 Üçüncü taraf projelerin fork'ları](docs/ECOSYSTEM.tr.md#forks)
-
-## 📚Eksiksiz teknik müfredatlar
-
-Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **18,418 classes**, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
-
-🌌 **Sayıma dâhil:** [Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) — 12 alanda ve 133 blokta 2.077 ders; hepsinin metni yazılmış, hepsi hâlâ E0 durumunda (alan incelemesi ve yazar onayı bekliyor). 10 görev atölyesi ve NASA/JPL verileriyle 23 Güneş Sistemi simülatörü içerir. Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/).
-
-👉 **[22 programın tamamını gör](docs/ECOSYSTEM.tr.md#curricula)**
 
 <a id="hackathon"></a>
 
