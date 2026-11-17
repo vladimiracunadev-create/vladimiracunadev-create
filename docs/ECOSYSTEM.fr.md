@@ -6,6 +6,8 @@
 
 Le travail concret du profil vit dans un document à part : logiciels à télécharger et installer, laboratoires d'ingénierie, IA appliquée, cursus techniques complets et calcul scientifique, ainsi que la description de chaque fork de projets tiers présent dans le compte.
 
+<a id="products"></a>
+
 ## 📦 Produits Avec Distribution Réelle
 
 Logiciel qui se télécharge, s’installe et s’utilise — pas seulement du code à cloner.
@@ -37,6 +39,8 @@ Logiciel qui se télécharge, s’installe et s’utilise — pas seulement du c
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Passerelle multicanale FastAPI : 13 services et 69 opérations (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) sur REST, GraphQL, SOAP et gRPC. OAuth chiffré, webhooks signés et idempotence réconciliable ; consulter n'autorise pas à envoyer | Python · FastAPI | **v0.3.0** · aucune release publiée pour l'instant · **162 tests** sur transport simulé, sans comptes réels ni messages envoyés · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Copie publique des installateurs d'AstroTrack · SPHEREx (NASA Space Apps 2026) : Windows, macOS, Linux, Android et PWA pour iPhone. Ne contient pas de code source : le code appartient à l'équipe | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 releases** avec sommes SHA-256 · installateurs non signés et non testés sur de vrais appareils · données NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [téléchargements](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪 Laboratoires D’Ingénierie
 
 | Repo | Ce que cela démontre |
@@ -52,6 +56,8 @@ Logiciel qui se télécharge, s’installe et s’utilise — pas seulement du c
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 familles** de paiements dans une démo locale auto-explicative : états, ledger, réconciliation, sécurité et guides d’implémentation · [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Expérience 3D sociale native Decentraland : un MVP et architecture multi-jeux avec SDK7, ECS et TypeScript · documentation espagnole · sans paiements ni télémétrie |
 | [☁️ **Projets AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Cas progressifs où chacun ajoute un service AWS **et** une nouvelle capacité GitHub Actions · couverture SAA-C03 · DVA-C02 · SOA-C02 |
+
+<a id="ai"></a>
 
 ## 🤖 IA Appliquée
 
@@ -96,6 +102,8 @@ Programmes séquentiels en espagnol, avec état et périmètre déclarés par ch
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 heures · **93 notebooks** —31 classes, 31 versions étudiant et 31 solutions— · PyTorch · [site d’étude](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 modules de formation**, un par machine · **502 h 15 min** · systèmes, commandes, physique, sécurité et design de simulation avec sources par classe · *pas encore de simulateur exécutable, et c’est déclaré* |
 | [🌌 **Astronomie, astrophysique, sciences spatiales et ingénierie aérospatiale**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2 077 | **Inclus dans le décompte :** 2 077 classes en 12 domaines et 133 blocs ; toutes avec texte rédigé et encore à l'état E0 (en attente de relecture disciplinaire et d'approbation de l'auteur). Inclut 10 ateliers de mission et 23 simulateurs du Système solaire avec des données NASA/JPL. Formation indépendante, pas une habilitation professionnelle · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬 Calcul Scientifique
 

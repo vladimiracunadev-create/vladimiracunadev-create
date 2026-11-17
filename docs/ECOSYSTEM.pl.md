@@ -6,6 +6,8 @@
 
 Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do pobrania i instalacji, laboratoria inżynierskie, stosowana AI, kompletne programy nauczania techniczne i obliczenia naukowe oraz opis każdego forka projektów osób trzecich znajdującego się na koncie.
 
+<a id="products"></a>
+
 ## 📦Produkty z dystrybucją rzeczywistą
 
 Oprogramowanie, które jest pobierane, instalowane i używane - nie tylko sklonowane.
@@ -37,6 +39,8 @@ Oprogramowanie, które jest pobierane, instalowane i używane - nie tylko sklono
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Wielokanałowa brama w FastAPI: 13 usług i 69 operacji (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) przez REST, GraphQL, SOAP i gRPC. Szyfrowany OAuth, podpisane webhooki i uzgadnialna idempotentność; odczyt nie upoważnia do wysyłania | Python · FastAPI | **v0.3.0** · brak opublikowanego wydania · **162 testy** na symulowanym transporcie, bez prawdziwych kont i wysłanych wiadomości · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Publiczna kopia instalatorów AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android i PWA na iPhone'a. Nie zawiera kodu źródłowego: kod należy do zespołu | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 wydań** z sumami SHA-256 · instalatory niepodpisane i nietestowane na prawdziwych urządzeniach · dane NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [pobieranie](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Laboratoria inżynieryjne
 
 | Repo | To, co pokazuje |
@@ -52,6 +56,8 @@ Oprogramowanie, które jest pobierane, instalowane i używane - nie tylko sklono
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 rodzin płatniczych**w lokalnym demo samowyjaśniającym: stany, rejestr, pojednanie, bezpieczeństwo i wytyczne wdrażania· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland Social 3D doświadczenie: jeden MVP i architektura multigame z SDK7, ECS i TypeScript·Dokumentacja hiszpańska·brak płatności lub telemetrii |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Postępowe przypadki, w których każdy z nich dodaje jedną usługę AWS**oraz**nowa zdolność GitHub Actions·SAA-C03·DVA- C02·W przypadku gdy w odniesieniu do danego środka pomocy nie ma zastosowania art. 107 ust. 1 TFUE, Komisja może podjąć decyzję o przyznaniu pomocy na rzecz państwa członkowskiego, w którym pomoc jest przyznawana. |
+
+<a id="ai"></a>
 
 ## 🤖Stosowana AI
 
@@ -96,6 +102,8 @@ Sekwencyjne programy w języku hiszpańskim, ze statusem i zakresem deklarowanym
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modułów·214 godzin· **93 notebooki**- 31 klas, 31 wersji studenckich i 31 rozwiązań -·pytania, mapy wizualne, praktyki i ocena z prawdziwymi danymi publicznymi·PyTorchCity in Germany· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 modułów szkoleniowych**, jeden na maszynę· **502 h 15 min** ·systemy, sterowanie, fizyka, bezpieczeństwo i projektowanie symulacji ze źródłami na klasę·* nie ma jeszcze symulatora wykonywalnego, i jest to zadeklarowane w ten sposób * |
 | [🌌 **Astronomia, astrofizyka, nauki kosmiczne i inżynieria lotnicza i kosmiczna**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Wliczone do zliczania:** 2.077 zajęć w 12 obszarach i 133 blokach; wszystkie z napisanym tekstem i nadal w stanie E0 (czekają na recenzję merytoryczną i zatwierdzenie autora). Zawiera 10 warsztatów misji i 23 symulatory Układu Słonecznego z danymi NASA/JPL. Niezależne kształcenie, nie uprawnienia zawodowe · [strona](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Konstrukcja naukowa
 

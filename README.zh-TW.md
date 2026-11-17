@@ -214,12 +214,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 本檔案的實作成果集中在獨立文件中：可下載安裝的軟體、工程實驗室、應用 AI、完整技術課程與科學運算，以及帳號中每個第三方專案 fork 的說明。
 
-- 📦 **具有實際分佈的產品** (24)
-- 🧪 **工程實驗室** (11)
-- 🤖 **應用AI** (6)
+- 📦 [**具有實際分佈的產品**](docs/ECOSYSTEM.zh-TW.md#products) (24)
+- 🧪 [**工程實驗室**](docs/ECOSYSTEM.zh-TW.md#labs) (11)
+- 🤖 [**應用AI**](docs/ECOSYSTEM.zh-TW.md#ai) (6)
 - 📚 [**完成技術課程**](docs/ECOSYSTEM.zh-TW.md#curricula) (22)
-- 🔬 **科學計算** (1)
-- 🍴 **第三方專案的 fork** (54)
+- 🔬 [**科學計算**](docs/ECOSYSTEM.zh-TW.md#science) (1)
+- 🍴 [**第三方專案的 fork**](docs/ECOSYSTEM.zh-TW.md#forks) (54)
 
 👉 **[查看完整生態系統](docs/ECOSYSTEM.zh-TW.md)** · [🍴 第三方專案的 fork](docs/ECOSYSTEM.zh-TW.md#forks)
 

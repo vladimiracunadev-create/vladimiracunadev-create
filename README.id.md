@@ -214,12 +214,12 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh dan dipasang, laboratorium rekayasa, AI terapan, kurikulum teknis lengkap, dan komputasi ilmiah, beserta deskripsi setiap fork proyek pihak ketiga yang ada di akun.
 
-- 📦 **Produk Dengan Distribusi Nyata** (24)
-- 🧪 **Laboratorium Teknik** (11)
-- 🤖 **AI Terapan** (6)
+- 📦 [**Produk Dengan Distribusi Nyata**](docs/ECOSYSTEM.id.md#products) (24)
+- 🧪 [**Laboratorium Teknik**](docs/ECOSYSTEM.id.md#labs) (11)
+- 🤖 [**AI Terapan**](docs/ECOSYSTEM.id.md#ai) (6)
 - 📚 [**Curricula Teknis Lengkap**](docs/ECOSYSTEM.id.md#curricula) (22)
-- 🔬 **Komputer Ilmiah** (1)
-- 🍴 **Fork proyek pihak ketiga** (54)
+- 🔬 [**Komputer Ilmiah**](docs/ECOSYSTEM.id.md#science) (1)
+- 🍴 [**Fork proyek pihak ketiga**](docs/ECOSYSTEM.id.md#forks) (54)
 
 👉 **[Lihat ekosistem lengkap](docs/ECOSYSTEM.id.md)** · [🍴 Fork proyek pihak ketiga](docs/ECOSYSTEM.id.md#forks)
 

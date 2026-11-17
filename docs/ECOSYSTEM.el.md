@@ -6,6 +6,8 @@
 
 Το πρακτικό έργο του προφίλ βρίσκεται σε ξεχωριστό έγγραφο: λογισμικό που κατεβάζεται και εγκαθίσταται, εργαστήρια μηχανικής, εφαρμοσμένη ΤΝ, πλήρη τεχνικά προγράμματα σπουδών και επιστημονικοί υπολογισμοί, μαζί με την περιγραφή κάθε fork έργων τρίτων που υπάρχει στον λογαριασμό.
 
+<a id="products"></a>
+
 ## 📦Προϊόντα με πραγματική διανομή
 
 Λογισμικό που κατεβάζεται, εγκαθίσταται και χρησιμοποιείται — όχι μόνο κλωνοποιείται.
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Πολυκαναλική πύλη FastAPI: 13 υπηρεσίες και 69 λειτουργίες (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) μέσω REST, GraphQL, SOAP και gRPC. Κρυπτογραφημένο OAuth, υπογεγραμμένα webhooks και συμφιλιώσιμη αρχή idempotency· η ανάγνωση δεν εξουσιοδοτεί την αποστολή | Python · FastAPI | **v0.3.0** · δεν έχει δημοσιευτεί ακόμη release · **162 δοκιμές** με προσομοιωμένη μεταφορά, χωρίς πραγματικούς λογαριασμούς ή απεσταλμένα μηνύματα · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Δημόσιο αντίγραφο των installers του AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android και PWA για iPhone. Δεν περιέχει πηγαίο κώδικα: ο κώδικας ανήκει στην ομάδα | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 εκδόσεις** με αθροίσματα SHA-256 · installers χωρίς υπογραφή και αδοκίμαστοι σε πραγματικές συσκευές · δεδομένα NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [λήψεις](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Εργαστήρια Μηχανικών
 
 | Reπού | Τι δείχνει |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 οικογένειες πληρωμών**σε μια τοπική αυτο-εξηγητική επίδειξη: κράτη, βιβλίο, συμφιλίωση, ασφάλεια, και οδηγούς υλοποίησης· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Ιθαγενής αποκεντρωμένη και κοινωνική 3D εμπειρία: ένα MVP και μια αρχιτεκτονική πολλαπλών παιχνιδιών με SDK7, ECS, και TypeScript·Ισπανική τεκμηρίωση·δεν έχει πληρωμές ή τηλεμετρία |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Προοδευτικές περιπτώσεις όπου ο καθένας προσθέτει μια υπηρεσία AWS**και**μια νέα ικανότητα ενεργειών GitHub·SAA-C03·DVA-C02·Κάλυψη SOA-C02 |
+
+<a id="ai"></a>
 
 ## 🤖Εφαρμοσμένη ΤΝ
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 ενότητες·≈214 ώρες· **93 σημειωματάρια**— 31 τάξεις, 31 φοιτητικές εκδόσεις και 31 λύσεις·ερωτήσεις, οπτικούς χάρτες, πρακτικές και αξιολόγηση με πραγματικά δημόσια δεδομένα·Πάιτορτς· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 ενότητες κατάρτισης**, ένα ανά μηχανή· **502 h 15 λεπτά** ·συστήματα, έλεγχοι, φυσική, ασφάλεια και σχεδιασμός προσομοίωσης με πηγές ανά κατηγορία·* Δεν εκτελέσιμος προσομοιωτής ακόμα, και δηλώνεται με αυτόν τον τρόπο* |
 | [🌌 **Αστρονομία, αστροφυσική, διαστημικές επιστήμες και αεροδιαστημική μηχανική**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Περιλαμβάνεται στη μέτρηση:** 2.077 μαθήματα σε 12 τομείς και 133 μπλοκ· όλα με γραμμένο κείμενο και ακόμη σε κατάσταση E0 (εκκρεμούν η επιστημονική αναθεώρηση και η έγκριση του συγγραφέα). Περιλαμβάνει 10 εργαστήρια αποστολής και 23 προσομοιωτές του Ηλιακού Συστήματος με δεδομένα NASA/JPL. Ανεξάρτητη εκπαίδευση, όχι επαγγελματική πιστοποίηση · [ιστότοπος](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Επιστημονική Υπολογιστική
 

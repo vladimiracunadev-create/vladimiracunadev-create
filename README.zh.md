@@ -213,12 +213,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 本档案的实践成果集中在独立文档中：可下载安装的软件、工程实验室、应用 AI、完整技术课程与科学计算，以及账号中每个第三方项目 fork 的说明。
 
-- 📦 **真实分发的产品** (24)
-- 🧪 **工程实验室** (11)
-- 🤖 **应用 AI** (6)
+- 📦 [**真实分发的产品**](docs/ECOSYSTEM.zh.md#products) (24)
+- 🧪 [**工程实验室**](docs/ECOSYSTEM.zh.md#labs) (11)
+- 🤖 [**应用 AI**](docs/ECOSYSTEM.zh.md#ai) (6)
 - 📚 [**完整技术课程**](docs/ECOSYSTEM.zh.md#curricula) (22)
-- 🔬 **科学计算** (1)
-- 🍴 **第三方项目的 fork** (54)
+- 🔬 [**科学计算**](docs/ECOSYSTEM.zh.md#science) (1)
+- 🍴 [**第三方项目的 fork**](docs/ECOSYSTEM.zh.md#forks) (54)
 
 👉 **[查看完整生态系统](docs/ECOSYSTEM.zh.md)** · [🍴 第三方项目的 fork](docs/ECOSYSTEM.zh.md#forks)
 

@@ -6,6 +6,8 @@
 
 ผลงานเชิงปฏิบัติของโปรไฟล์นี้อยู่ในเอกสารแยกต่างหาก ได้แก่ ซอฟต์แวร์ที่ดาวน์โหลดและติดตั้งได้ ห้องปฏิบัติการวิศวกรรม AI ประยุกต์ หลักสูตรเทคนิคฉบับสมบูรณ์ และการคำนวณเชิงวิทยาศาสตร์ พร้อมคำอธิบายของ fork โปรเจกต์ของบุคคลที่สามทุกรายการในบัญชี
 
+<a id="products"></a>
+
 ## 📦ผลิตภัณฑ์ที่มีการเผยแพร่จริง
 
 ซอฟต์แวร์ ที่ ถูก ดาวน์โหลด, ติดตั้ง, และ ใช้ — ไม่ เพียง แต่ โคลน เท่า นั้น.
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | เกตเวย์หลายช่องทางด้วย FastAPI: 13 บริการ 69 การดำเนินการ (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) ผ่าน REST, GraphQL, SOAP และ gRPC OAuth ที่เข้ารหัส เว็บฮุกที่ลงนาม และ idempotency ที่กระทบยอดได้ การค้นดูไม่ได้ให้สิทธิ์ในการส่ง | Python · FastAPI | **v0.3.0** · ยังไม่มี release ที่เผยแพร่ · **162 การทดสอบ** บนการส่งข้อมูลจำลอง ไม่ใช้บัญชีจริงและไม่ส่งข้อความ · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | สำเนาสาธารณะของตัวติดตั้ง AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android และ PWA สำหรับ iPhone ไม่มีซอร์สโค้ด: โค้ดเป็นของทีม | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 รีลีส** พร้อมค่า SHA-256 · ตัวติดตั้งไม่ได้ลงนามและยังไม่ได้ทดสอบบนอุปกรณ์จริง · ข้อมูล NASA/IPAC IRSA · [เว็บ](https://spherex-planet-x-tau.vercel.app/) · [ดาวน์โหลด](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪ห้องปฏิบัติการวิศวกรรม
 
 | รีโป | สิ่งที่มันแสดงให้เห็น |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 ครอบครัวที่จ่ายเงิน**ในตัวอย่างการอธิบายตัวเองในท้องถิ่น: รัฐ, บัญชี, ประนีประนอม, ความ ปลอดภัย, และคู่มือการทํางาน· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | สืบค้นเมื่อ 3 มิติ จากประเทศไทย สถาปัตยกรรมของชาติไทยและชาติไทย โดยมี SDK7, ESC และประเภท Script·เอกสารภาษาสเปน·ไม่มีการชําระเงินหรือค่าโทรศัพท์ |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | เหตุการณ์ที่คืบหน้า ซึ่งแต่ละรายเพิ่มบริการ AWS**และ**ความสามารถในการประมวลผลกลุ่มผู้ใช้แบบ GitHub ใหม่·SAA- C03·DVA- C02·SOA-C02 ออกอากาศ |
+
+<a id="ai"></a>
 
 ## 🤖ปรับใช้ AI
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 มอดูล·≈214 ชั่วโมง· **สมุดบันทึก 93 เล่ม**-31 ห้องเรียน รุ่นนักเรียน 31 และทางออก 31 ฉบับ -·คํา ถาม, แผนที่ ภาพ, การ ปฏิบัติ, และ การ ประเมิน ด้วย ข้อมูล ของ ประชาชน จริง ๆ·พ.ศ.· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **มอดูลฝึก 41**หนึ่งเครื่อง· **502 h 15 นาที** ·ระบบ, การควบคุม, ฟิสิกส์, ความปลอดภัย, และแบบจําลองออกแบบกับแหล่งข้อมูลต่อชั้นเรียน·♪ยังไม่มีโปรแกรมจําลองการประมวลผลยังและมันก็ประกาศวิธีการที่♪ |
 | [🌌 **ดาราศาสตร์ ฟิสิกส์ดาราศาสตร์ วิทยาศาสตร์อวกาศ และวิศวกรรมการบินและอวกาศ**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **รวมในตัวเลขแล้ว:** 2,077 บทเรียนใน 12 ด้านและ 133 บล็อก ทุกบทมีเนื้อหาที่เขียนแล้ว และยังอยู่ในสถานะ E0 (รอการทบทวนเชิงวิชาการและการอนุมัติจากผู้เขียน) มีเวิร์กชอปภารกิจ 10 ชุดและตัวจำลองระบบสุริยะ 23 ตัวที่ใช้ข้อมูล NASA/JPL เป็นการฝึกอบรมอิสระ ไม่ใช่การรับรองวิชาชีพ · [เว็บไซต์](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/) |
+
+<a id="science"></a>
 
 ## 🔬การประมวลผลเชิงวิทยาศาสตร์
 

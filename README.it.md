@@ -213,12 +213,12 @@ Tecnologie rilevate nei repository pubblici (manifest, dipendenze, container e c
 
 Il lavoro pratico del profilo vive in un documento a parte: software da scaricare e installare, laboratori di ingegneria, IA applicata, curricula tecnici completi e calcolo scientifico, più la descrizione di ogni fork di progetti di terzi presente nell'account.
 
-- 📦 **Prodotti Con Distribuzione Reale** (24)
-- 🧪 **Laboratori Di Ingegneria** (11)
-- 🤖 **IA Applicata** (6)
+- 📦 [**Prodotti Con Distribuzione Reale**](docs/ECOSYSTEM.it.md#products) (24)
+- 🧪 [**Laboratori Di Ingegneria**](docs/ECOSYSTEM.it.md#labs) (11)
+- 🤖 [**IA Applicata**](docs/ECOSYSTEM.it.md#ai) (6)
 - 📚 [**Curricula Tecnici Completi**](docs/ECOSYSTEM.it.md#curricula) (22)
-- 🔬 **Calcolo Scientifico** (1)
-- 🍴 **Fork di progetti di terzi** (54)
+- 🔬 [**Calcolo Scientifico**](docs/ECOSYSTEM.it.md#science) (1)
+- 🍴 [**Fork di progetti di terzi**](docs/ECOSYSTEM.it.md#forks) (54)
 
 👉 **[Vedi l'ecosistema completo](docs/ECOSYSTEM.it.md)** · [🍴 Fork di progetti di terzi](docs/ECOSYSTEM.it.md#forks)
 

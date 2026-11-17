@@ -6,6 +6,8 @@
 
 이 프로필의 실무 성과는 별도 문서에 모여 있습니다. 다운로드해 설치하는 소프트웨어, 엔지니어링 연구소, 응용 AI, 완전한 기술 교육과정, 과학 컴퓨팅, 그리고 계정에 있는 제3자 프로젝트 포크 각각에 대한 설명입니다.
 
+<a id="products"></a>
+
 ## 📦Real Distribution을 통한 제품
 
 다운로드 된 소프트웨어, 설치 및 사용 — 뿐만 아니라 복제.
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI 멀티채널 게이트웨이: 13개 서비스, 69개 작업(Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub 등)을 REST, GraphQL, SOAP, gRPC로 제공. 암호화된 OAuth, 서명된 웹훅, 대조 가능한 멱등성. 조회는 전송 권한을 뜻하지 않음 | Python · FastAPI | **v0.3.0** · 아직 릴리스 미게시 · 모의 전송 기반 **테스트 162개**, 실제 계정·메시지 전송 없음 · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx(NASA Space Apps 2026) 설치 프로그램의 공개 사본: Windows, macOS, Linux, Android, iPhone용 PWA. 소스 코드는 없으며 코드는 팀의 것입니다 | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 체크섬이 있는 **7개 릴리스** · 서명되지 않았고 실제 기기에서 테스트하지 않은 설치 프로그램 · NASA/IPAC IRSA 데이터 · [웹](https://spherex-planet-x-tau.vercel.app/) · [다운로드](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪엔지니어링 연구소
 
 | 의논하기 | 어떤 의미 |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 결제 가족**로컬 자체 설명 데모: 상태, ledger, 재건축, 보안, 구현 가이드· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland 소셜 3D 경험: MVP와 SDK7, ECS, TypeScript를 가진 멀티게임 아키텍처·English 한국어·지불 또는 원격 측정 |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
+
+<a id="ai"></a>
 
 ## 🤖응용 AI
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7개의 단위·≈214 시간· **93 노트북**—31 클래스, 31 학생 버전, 31 솔루션—·질문, 시각지도, 관행 및 실제 자료로 평가·핑크· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 교육 모듈**, 기계 당 하나· **502 h 15 분** ·시스템, 제어, 물리, 안전, 및 클래스 당 소스와 시뮬레이션 디자인·* 아직 실행할 수 없는 시뮬레이터, 그리고 그것은 그 way* 선언됩니다 |
 | [🌌 **천문학, 천체물리학, 우주과학, 항공우주공학**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **집계 포함:** 12개 영역, 133개 블록에 걸친 2,077개 수업. 모두 본문이 작성되었으며 아직 E0 상태입니다(전문 분야 검토와 저자 승인 대기). 10개의 임무 워크숍과 NASA/JPL 데이터를 쓰는 23개의 태양계 시뮬레이터를 포함합니다. 독립 교육이며 직업 자격이 아닙니다 · [사이트](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬과학 컴퓨팅
 

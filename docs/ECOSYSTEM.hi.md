@@ -6,6 +6,8 @@
 
 इस प्रोफ़ाइल का व्यावहारिक कार्य एक अलग दस्तावेज़ में है: डाउनलोड और इंस्टॉल होने वाला सॉफ़्टवेयर, इंजीनियरिंग प्रयोगशालाएँ, अनुप्रयुक्त AI, पूर्ण तकनीकी पाठ्यक्रम और वैज्ञानिक कम्प्यूटिंग, साथ ही खाते में मौजूद तृतीय-पक्ष प्रोजेक्ट्स के हर fork का विवरण।
 
+<a id="products"></a>
+
 ## 📦उत्पाद रियल डिस्ट्रीब्यूशन के साथ
 
 सॉफ्टवेयर जो डाउनलोड, इंस्टाल किया गया है और इस्तेमाल किया गया है - न केवल क्लोन किया गया।
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI पर बहु-चैनल गेटवे: 13 सेवाएँ और 69 ऑपरेशन (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) REST, GraphQL, SOAP और gRPC के ज़रिए। एन्क्रिप्टेड OAuth, हस्ताक्षरित वेबहुक और मिलान-योग्य आइडेम्पोटेंसी; पढ़ना भेजने की अनुमति नहीं देता | Python · FastAPI | **v0.3.0** · अभी कोई release प्रकाशित नहीं · सिमुलेटेड ट्रांसपोर्ट पर **162 परीक्षण**, कोई वास्तविक खाता या भेजा गया संदेश नहीं · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx (NASA Space Apps 2026) इंस्टॉलरों की सार्वजनिक प्रति: Windows, macOS, Linux, Android और iPhone के लिए PWA। इसमें स्रोत कोड नहीं है: कोड टीम का है | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 चेकसम के साथ **7 रिलीज़** · हस्ताक्षर-रहित और असली उपकरणों पर अपरीक्षित इंस्टॉलर · NASA/IPAC IRSA डेटा · [वेब](https://spherex-planet-x-tau.vercel.app/) · [डाउनलोड](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪इंजीनियरिंग प्रयोगशाला
 
 | रेपो | यह क्या दर्शाता है |
@@ -53,7 +57,9 @@
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland social 3D अनुभव: एक MVP और SDK7, ECS, and टाइपस्क्रिप्ट के साथ एक बहु-खेल वास्तुकला·स्पेनिश दस्तावेज़ीकरण·कोई भुगतान या टेलीमेट्री |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | प्रगतिशील मामले जहां प्रत्येक व्यक्ति एक एडब्ल्यूएस सेवा जोड़ता है**और**एक नई GitHub कार्य क्षमता·SAA-C03·DVA-C02·SOA-C02 कवरेज |
 
-🤖 अनुप्रयुक्त AI
+<a id="ai"></a>
+
+## 🤖 अनुप्रयुक्त AI
 
 | रेपो | यह क्या दर्शाता है |
 |---|---|
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 मॉड्यूल·≈214 घंटे· **93 नोटबुक**31 कक्षाएं, 31 छात्र संस्करण और 31 समाधान-·प्रश्न, दृश्य मानचित्र, प्रथाओं और वास्तविक सार्वजनिक डेटा के साथ आकलन·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 प्रशिक्षण मॉड्यूल**मशीन प्रति एक· **502 h 15 मिनट** ·सिस्टम, नियंत्रण, भौतिकी, सुरक्षा और सिमुलेशन डिजाइन प्रति वर्ग स्रोतों के साथ·अभी तक निष्पादन योग्य सिम्युलेटर नहीं है, और इसे उस तरह से घोषित किया गया है* |
 | [🌌 **खगोल विज्ञान, खगोल भौतिकी, अंतरिक्ष विज्ञान और वैमानिकी इंजीनियरिंग**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **गिनती में शामिल:** 12 क्षेत्रों और 133 ब्लॉकों में 2,077 कक्षाएँ; सभी का पाठ लिखा जा चुका है और सभी अभी E0 स्थिति में हैं (विषय-समीक्षा और लेखक की स्वीकृति लंबित)। इसमें 10 मिशन कार्यशालाएँ और NASA/JPL डेटा वाले 23 सौरमंडल सिमुलेटर शामिल हैं। स्वतंत्र प्रशिक्षण, पेशेवर प्रमाणन नहीं · [साइट](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)। |
+
+<a id="science"></a>
 
 ## 🔬वैज्ञानिक कम्प्यूटिंग
 

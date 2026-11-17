@@ -214,12 +214,12 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần mềm để tải về và cài đặt, phòng thí nghiệm kỹ thuật, AI ứng dụng, giáo trình kỹ thuật đầy đủ và tính toán khoa học, cùng mô tả từng fork của các dự án bên thứ ba có trong tài khoản.
 
-- 📦 **Những sản phẩm có thật sự được phân phối** (24)
-- 🧪 **Phòng thí nghiệm kỹ thuật** (11)
-- 🤖 **AI ứng dụng** (6)
+- 📦 [**Những sản phẩm có thật sự được phân phối**](docs/ECOSYSTEM.vi.md#products) (24)
+- 🧪 [**Phòng thí nghiệm kỹ thuật**](docs/ECOSYSTEM.vi.md#labs) (11)
+- 🤖 [**AI ứng dụng**](docs/ECOSYSTEM.vi.md#ai) (6)
 - 📚 [**Máy tính trình duyệt kỹ thuật toàn bộ**](docs/ECOSYSTEM.vi.md#curricula) (22)
-- 🔬 **Tính toán khoa học** (1)
-- 🍴 **Fork của dự án bên thứ ba** (54)
+- 🔬 [**Tính toán khoa học**](docs/ECOSYSTEM.vi.md#science) (1)
+- 🍴 [**Fork của dự án bên thứ ba**](docs/ECOSYSTEM.vi.md#forks) (54)
 
 👉 **[Xem toàn bộ hệ sinh thái](docs/ECOSYSTEM.vi.md)** · [🍴 Fork của dự án bên thứ ba](docs/ECOSYSTEM.vi.md#forks)
 

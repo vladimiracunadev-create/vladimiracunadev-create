@@ -6,6 +6,8 @@
 
 La obra práctica del perfil vive en un documento propio: software que se descarga e instala, laboratorios de ingeniería, IA aplicada, currículos técnicos completos y computación científica, además de la descripción de cada fork de proyectos de terceros que hay en la cuenta.
 
+<a id="products"></a>
+
 ## 📦 Productos con distribución real
 
 Software que se descarga, se instala y se usa — no solo se clona.
@@ -37,6 +39,8 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Gateway multicanal en FastAPI: 13 servicios y 69 operaciones (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) sobre REST, GraphQL, SOAP y gRPC. OAuth cifrado, webhooks firmados e idempotencia reconciliable; consultar no autoriza enviar | Python · FastAPI | **v0.3.0** · aún sin release publicada · **162 pruebas** con transporte simulado, sin cuentas reales ni mensajes enviados · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Copia pública de los instaladores de AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android y PWA para iPhone. No contiene código fuente: el código es del equipo | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 releases** con sumas SHA-256 · instaladores sin firmar y sin probar en equipos reales · datos NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [descargas](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪 Laboratorios de ingeniería
 
 | Repo | Qué demuestra |
@@ -52,6 +56,8 @@ Software que se descarga, se instala y se usa — no solo se clona.
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 familias** de pagos en una demo local autoexplicativa: estados, ledger, conciliación, seguridad y guías de implementación · [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Experiencia 3D social nativa de Decentraland: un MVP y arquitectura multijuego con SDK7, ECS y TypeScript · documentación en español · sin pagos ni telemetría |
 | [☁️ **Proyectos AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casos progresivos donde cada uno añade un servicio AWS **y** una capacidad de GitHub Actions nueva · cobertura SAA-C03 · DVA-C02 · SOA-C02 |
+
+<a id="ai"></a>
 
 ## 🤖 IA aplicada
 
@@ -96,6 +102,8 @@ Programas secuenciales en español, con estado y alcance declarados por reposito
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 módulos · ≈214 horas · **93 notebooks** —31 clases, 31 versiones para estudiante y 31 soluciones— · preguntas, mapas visuales, prácticas y evaluación con datos públicos reales · PyTorch · [sitio de estudio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 módulos formativos**, uno por máquina · **502 h 15 min** · sistemas, mandos, física, seguridad y diseño de simulación con fuentes por clase · *sin simulador ejecutable todavía, y así se declara* |
 | [🌌 **Astronomía, astrofísica, ciencias espaciales e ingeniería aeroespacial**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Incluido en el conteo:** 2.077 clases en 12 áreas y 133 bloques; todas con texto redactado y aún en estado E0 (pendientes de revisión disciplinar y de aprobación del autor). Incluye 10 talleres de misión y 23 simuladores del Sistema Solar con datos de NASA/JPL. Formación independiente, no habilitación profesional · [sitio](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬 Computación científica
 

@@ -214,12 +214,12 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum Herunterladen und Installieren, Engineering-Labore, angewandte KI, vollständige technische Lehrpläne und wissenschaftliches Rechnen – dazu die Beschreibung jedes Forks von Drittprojekten im Konto.
 
-- 📦 **Produkte mit realer Distribution** (24)
-- 🧪 **Technische Laboratorien** (11)
-- 🤖 **Angewandte KI** (6)
+- 📦 [**Produkte mit realer Distribution**](docs/ECOSYSTEM.de.md#products) (24)
+- 🧪 [**Technische Laboratorien**](docs/ECOSYSTEM.de.md#labs) (11)
+- 🤖 [**Angewandte KI**](docs/ECOSYSTEM.de.md#ai) (6)
 - 📚 [**Komplette technische Lehrpläne**](docs/ECOSYSTEM.de.md#curricula) (22)
-- 🔬 **Wissenschaftliche Datenverarbeitung** (1)
-- 🍴 **Forks von Drittprojekten** (54)
+- 🔬 [**Wissenschaftliche Datenverarbeitung**](docs/ECOSYSTEM.de.md#science) (1)
+- 🍴 [**Forks von Drittprojekten**](docs/ECOSYSTEM.de.md#forks) (54)
 
 👉 **[Das vollständige Ökosystem ansehen](docs/ECOSYSTEM.de.md)** · [🍴 Forks von Drittprojekten](docs/ECOSYSTEM.de.md#forks)
 

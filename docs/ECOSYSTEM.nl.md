@@ -6,6 +6,8 @@
 
 Het praktische werk van dit profiel staat in een eigen document: software die je downloadt en installeert, engineeringlabs, toegepaste AI, complete technische curricula en wetenschappelijk rekenen, plus een beschrijving van elke fork van projecten van derden in het account.
 
+<a id="products"></a>
+
 ## 📦Producten met echte distributie
 
 Software die wordt gedownload, geïnstalleerd en gebruikt ..niet alleen gekloond.
@@ -37,6 +39,8 @@ Software die wordt gedownload, geïnstalleerd en gebruikt ..niet alleen gekloond
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Multikanaals FastAPI-gateway: 13 diensten en 69 bewerkingen (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) via REST, GraphQL, SOAP en gRPC. Versleutelde OAuth, ondertekende webhooks en afstembare idempotentie; raadplegen geeft geen toestemming om te verzenden | Python · FastAPI | **v0.3.0** · nog geen release gepubliceerd · **162 tests** met gesimuleerd transport, zonder echte accounts of verzonden berichten · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Openbare kopie van de installers van AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android en een iPhone-PWA. Bevat geen broncode: de code is van het team | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 releases** met SHA-256-checksums · niet-ondertekende installers, niet getest op echte apparaten · NASA/IPAC IRSA-data · [web](https://spherex-planet-x-tau.vercel.app/) · [downloads](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Technische laboratoria
 
 | Repo | Wat het laat zien |
@@ -52,6 +56,8 @@ Software die wordt gedownload, geïnstalleerd en gebruikt ..niet alleen gekloond
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 betalingsgezinnen**in een lokale zelf-uitleg demo: staten, grootboek, verzoening, veiligheid en implementatie gidsen· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Inheemse Decentrale en sociale 3D-ervaring: één MVP en een multi-game architectuur met SDK7, ECS en TypeScript·Spaanse documentatie·geen betalingen of telemetrie |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressieve gevallen waarin elk een AWS-dienst toevoegt**en**een nieuwe GitHub-actiesmogelijkheid·SAO-C03·DVA-C02·SOA-C02 dekking |
+
+<a id="ai"></a>
 
 ## 🤖Toegepaste AI
 
@@ -96,6 +102,8 @@ Sequentiële programma's in het Spaans, met status en toepassingsgebied die door
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules·≈214 uur· **93 notebooks**·vragen, visuele kaarten, praktijken en evaluatie met echte publieke gegevens·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 opleidingsmodules**, één per machine· **502 uur 15 min.** ·systemen, besturingen, natuurkunde, veiligheid en simulatieontwerp met bronnen per klasse·*nog geen uitvoerbare simulator, en het wordt die manier verklaard* |
 | [🌌 **Sterrenkunde, astrofysica, ruimtewetenschappen en ruimtevaarttechniek**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Meegeteld:** 2.077 lessen in 12 gebieden en 133 blokken; allemaal met uitgewerkte tekst en nog in status E0 (in afwachting van vakinhoudelijke review en goedkeuring van de auteur). Bevat 10 missieworkshops en 23 zonnestelselsimulators met NASA/JPL-gegevens. Onafhankelijke opleiding, geen beroepsbevoegdheid · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Wetenschappelijke berekeningen
 

@@ -6,6 +6,8 @@
 
 Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh dan dipasang, laboratorium rekayasa, AI terapan, kurikulum teknis lengkap, dan komputasi ilmiah, beserta deskripsi setiap fork proyek pihak ketiga yang ada di akun.
 
+<a id="products"></a>
+
 ## 📦Produk Dengan Distribusi Nyata
 
 Perangkat lunak yang diunduh, terpasang, dan dipakai - tidak hanya dikloning.
@@ -37,6 +39,8 @@ Perangkat lunak yang diunduh, terpasang, dan dipakai - tidak hanya dikloning.
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Gateway multisaluran FastAPI: 13 layanan dan 69 operasi (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) lewat REST, GraphQL, SOAP, dan gRPC. OAuth terenkripsi, webhook bertanda tangan, dan idempotensi yang dapat direkonsiliasi; membaca tidak berarti mengizinkan pengiriman | Python · FastAPI | **v0.3.0** · belum ada release yang dipublikasikan · **162 pengujian** dengan transport simulasi, tanpa akun nyata dan tanpa pesan terkirim · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Salinan publik installer AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android, dan PWA untuk iPhone. Tidak berisi kode sumber: kode milik tim | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 rilis** dengan checksum SHA-256 · installer tidak ditandatangani dan belum diuji pada perangkat nyata · data NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [unduhan](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Laboratorium Teknik
 
 | Repo | Apa yang menunjukkan |
@@ -52,6 +56,8 @@ Perangkat lunak yang diunduh, terpasang, dan dipakai - tidak hanya dikloning.
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 keluarga pembayaran**dalam demo penjelasan-lokal: Kondisi, buku besar, rekonsiliasi, keamanan, dan panduan implementasi· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland sosial 3D pengalaman: satu MVP dan multi- game arsitektur dengan SDK7, ECS, dan TypeScript·Dokumentasi Spanyol·tidak ada pembayaran atau telemetri |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Kasus progresif di mana masing-masing menambahkan satu layanan AWS**dan**kemampuan baru dari GitHub Actions·SAA- C03·DVA- C02·C02 SOA- cakupan |
+
+<a id="ai"></a>
 
 ## 🤖AI Terapan
 
@@ -96,6 +102,8 @@ Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasika
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modul·214 jam· **93 buku catatan**- 31 kelas, 31 versi mahasiswa, dan 31 solusi -·pertanyaan, peta visual, praktek, dan penilaian dengan data publik yang nyata·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 modul pelatihan**, satu per mesin· **502 j 15 menit** ·sistem, kontrol, fisika, keselamatan, dan desain simulasi dengan sumber per kelas·* tidak ada simulator executable belum, dan itu dideklarasikan seperti itu * |
 | [🌌 **Astronomi, astrofisika, ilmu antariksa, dan teknik dirgantara**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Termasuk dalam hitungan:** 2.077 kelas dalam 12 area dan 133 blok; semuanya sudah bertulis dan masih berstatus E0 (menunggu tinjauan disiplin dan persetujuan penulis). Mencakup 10 lokakarya misi dan 23 simulator Tata Surya dengan data NASA/JPL. Pelatihan mandiri, bukan sertifikasi profesional · [situs](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Komputer Ilmiah
 

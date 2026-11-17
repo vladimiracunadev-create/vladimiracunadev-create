@@ -214,12 +214,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 이 프로필의 실무 성과는 별도 문서에 모여 있습니다. 다운로드해 설치하는 소프트웨어, 엔지니어링 연구소, 응용 AI, 완전한 기술 교육과정, 과학 컴퓨팅, 그리고 계정에 있는 제3자 프로젝트 포크 각각에 대한 설명입니다.
 
-- 📦 **Real Distribution을 통한 제품** (24)
-- 🧪 **엔지니어링 연구소** (11)
-- 🤖 **응용 AI** (6)
+- 📦 [**Real Distribution을 통한 제품**](docs/ECOSYSTEM.ko.md#products) (24)
+- 🧪 [**엔지니어링 연구소**](docs/ECOSYSTEM.ko.md#labs) (11)
+- 🤖 [**응용 AI**](docs/ECOSYSTEM.ko.md#ai) (6)
 - 📚 [**완전한 기술 교육과정**](docs/ECOSYSTEM.ko.md#curricula) (22)
-- 🔬 **과학 컴퓨팅** (1)
-- 🍴 **제3자 프로젝트의 포크** (54)
+- 🔬 [**과학 컴퓨팅**](docs/ECOSYSTEM.ko.md#science) (1)
+- 🍴 [**제3자 프로젝트의 포크**](docs/ECOSYSTEM.ko.md#forks) (54)
 
 👉 **[전체 생태계 보기](docs/ECOSYSTEM.ko.md)** · [🍴 제3자 프로젝트의 포크](docs/ECOSYSTEM.ko.md#forks)
 

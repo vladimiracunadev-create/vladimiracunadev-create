@@ -214,12 +214,12 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 Het praktische werk van dit profiel staat in een eigen document: software die je downloadt en installeert, engineeringlabs, toegepaste AI, complete technische curricula en wetenschappelijk rekenen, plus een beschrijving van elke fork van projecten van derden in het account.
 
-- 📦 **Producten met echte distributie** (24)
-- 🧪 **Technische laboratoria** (11)
-- 🤖 **Toegepaste AI** (6)
+- 📦 [**Producten met echte distributie**](docs/ECOSYSTEM.nl.md#products) (24)
+- 🧪 [**Technische laboratoria**](docs/ECOSYSTEM.nl.md#labs) (11)
+- 🤖 [**Toegepaste AI**](docs/ECOSYSTEM.nl.md#ai) (6)
 - 📚 [**Complete technische Curricula**](docs/ECOSYSTEM.nl.md#curricula) (22)
-- 🔬 **Wetenschappelijke berekeningen** (1)
-- 🍴 **Forks van projecten van derden** (54)
+- 🔬 [**Wetenschappelijke berekeningen**](docs/ECOSYSTEM.nl.md#science) (1)
+- 🍴 [**Forks van projecten van derden**](docs/ECOSYSTEM.nl.md#forks) (54)
 
 👉 **[Bekijk het volledige ecosysteem](docs/ECOSYSTEM.nl.md)** · [🍴 Forks van projecten van derden](docs/ECOSYSTEM.nl.md#forks)
 

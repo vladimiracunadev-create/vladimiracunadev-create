@@ -6,6 +6,8 @@
 
 Il lavoro pratico del profilo vive in un documento a parte: software da scaricare e installare, laboratori di ingegneria, IA applicata, curricula tecnici completi e calcolo scientifico, più la descrizione di ogni fork di progetti di terzi presente nell'account.
 
+<a id="products"></a>
+
 ## 📦 Prodotti Con Distribuzione Reale
 
 Software che si scarica, si installa e si usa — non solo si clona.
@@ -37,6 +39,8 @@ Software che si scarica, si installa e si usa — non solo si clona.
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Gateway multicanale in FastAPI: 13 servizi e 69 operazioni (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) su REST, GraphQL, SOAP e gRPC. OAuth cifrato, webhook firmati e idempotenza riconciliabile; consultare non autorizza a inviare | Python · FastAPI | **v0.3.0** · ancora nessuna release pubblicata · **162 test** con trasporto simulato, senza account reali né messaggi inviati · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Copia pubblica degli installer di AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android e PWA per iPhone. Non contiene codice sorgente: il codice è del team | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 release** con checksum SHA-256 · installer non firmati e non provati su dispositivi reali · dati NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [download](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪 Laboratori Di Ingegneria
 
 | Repo | Cosa dimostra |
@@ -52,6 +56,8 @@ Software che si scarica, si installa e si usa — non solo si clona.
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 famiglie** di pagamenti in una demo locale autoesplicativa: stati, ledger, riconciliazione, sicurezza e guide implementative · [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Esperienza 3D sociale nativa Decentraland: un MVP e architettura multigioco con SDK7, ECS e TypeScript · documentazione in spagnolo · senza pagamenti né telemetria |
 | [☁️ **Progetti AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casi progressivi dove ciascuno aggiunge un servizio AWS **e** una nuova capacità GitHub Actions · copertura SAA-C03 · DVA-C02 · SOA-C02 |
+
+<a id="ai"></a>
 
 ## 🤖 IA Applicata
 
@@ -96,6 +102,8 @@ Programmi sequenziali in spagnolo, con stato e ambito dichiarati da ogni reposit
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 moduli · ≈214 ore · **93 notebook** —31 classi, 31 versioni studente e 31 soluzioni— · PyTorch · [sito di studio](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 moduli formativi**, uno per macchina · **502 h 15 min** · sistemi, comandi, fisica, sicurezza e design di simulazione con fonti per classe · *nessun simulatore eseguibile ancora, e viene dichiarato* |
 | [🌌 **Astronomia, astrofisica, scienze spaziali e ingegneria aerospaziale**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Incluso nel conteggio:** 2.077 lezioni in 12 aree e 133 blocchi; tutte con testo redatto e ancora allo stato E0 (in attesa di revisione disciplinare e di approvazione dell'autore). Include 10 laboratori di missione e 23 simulatori del Sistema Solare con dati NASA/JPL. Formazione indipendente, non abilitazione professionale · [sito](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬 Calcolo Scientifico
 

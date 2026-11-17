@@ -214,12 +214,12 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yazılımlar, mühendislik laboratuvarları, uygulamalı yapay zekâ, eksiksiz teknik müfredatlar ve bilimsel hesaplama ile hesaptaki üçüncü taraf projelerin her bir fork'unun açıklaması.
 
-- 📦 **Gerçek Dağıtım ile Ürünler** (24)
-- 🧪 **Mühendislik Laboratuvarları** (11)
-- 🤖 **Uygulamalı yapay zekâ** (6)
+- 📦 [**Gerçek Dağıtım ile Ürünler**](docs/ECOSYSTEM.tr.md#products) (24)
+- 🧪 [**Mühendislik Laboratuvarları**](docs/ECOSYSTEM.tr.md#labs) (11)
+- 🤖 [**Uygulamalı yapay zekâ**](docs/ECOSYSTEM.tr.md#ai) (6)
 - 📚 [**Eksiksiz teknik müfredatlar**](docs/ECOSYSTEM.tr.md#curricula) (22)
-- 🔬 **Bilimsel Bilgi** (1)
-- 🍴 **Üçüncü taraf projelerin fork'ları** (54)
+- 🔬 [**Bilimsel Bilgi**](docs/ECOSYSTEM.tr.md#science) (1)
+- 🍴 [**Üçüncü taraf projelerin fork'ları**](docs/ECOSYSTEM.tr.md#forks) (54)
 
 👉 **[Ekosistemin tamamını gör](docs/ECOSYSTEM.tr.md)** · [🍴 Üçüncü taraf projelerin fork'ları](docs/ECOSYSTEM.tr.md#forks)
 

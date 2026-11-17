@@ -6,6 +6,8 @@
 
 O trabalho prático do perfil vive em um documento próprio: software que se baixa e instala, laboratórios de engenharia, IA aplicada, currículos técnicos completos e computação científica, além da descrição de cada fork de projetos de terceiros presente na conta.
 
+<a id="products"></a>
+
 ## 📦 Produtos Com Distribuição Real
 
 Software que se baixa, instala e usa — não apenas se clona.
@@ -37,6 +39,8 @@ Software que se baixa, instala e usa — não apenas se clona.
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Gateway multicanal em FastAPI: 13 serviços e 69 operações (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) sobre REST, GraphQL, SOAP e gRPC. OAuth cifrado, webhooks assinados e idempotência reconciliável; consultar não autoriza enviar | Python · FastAPI | **v0.3.0** · ainda sem release publicada · **162 testes** com transporte simulado, sem contas reais nem mensagens enviadas · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Cópia pública dos instaladores do AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android e PWA para iPhone. Não contém código-fonte: o código é da equipe | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 releases** com somas SHA-256 · instaladores sem assinatura e não testados em equipamentos reais · dados NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [downloads](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪 Laboratórios De Engenharia
 
 | Repo | O que demonstra |
@@ -52,6 +56,8 @@ Software que se baixa, instala e usa — não apenas se clona.
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 famílias** de pagamentos em uma demo local autoexplicativa: estados, ledger, conciliação, segurança e guias de implementação · [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Experiência 3D social nativa de Decentraland: um MVP e arquitetura multijogo com SDK7, ECS e TypeScript · documentação em espanhol · sem pagamentos nem telemetria |
 | [☁️ **Projetos AWS**](https://github.com/vladimiracunadev-create/proyectos-aws) | Casos progressivos em que cada um adiciona um serviço AWS **e** uma nova capacidade de GitHub Actions · cobertura SAA-C03 · DVA-C02 · SOA-C02 |
+
+<a id="ai"></a>
 
 ## 🤖 IA Aplicada
 
@@ -96,6 +102,8 @@ Programas sequenciais em espanhol, com estado e escopo declarados por cada repos
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 módulos · ≈214 horas · **93 notebooks** —31 aulas, 31 versões para estudante e 31 soluções— · perguntas, mapas visuais, práticas e avaliação com dados públicos reais · PyTorch · [site de estudo](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 módulos formativos**, um por máquina · **502 h 15 min** · sistemas, comandos, física, segurança e desenho de simulação com fontes por aula · *ainda sem simulador executável, e isso é declarado* |
 | [🌌 **Astronomia, astrofísica, ciências espaciais e engenharia aeroespacial**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Incluído na contagem:** 2.077 aulas em 12 áreas e 133 blocos; todas com texto redigido e ainda em estado E0 (pendentes de revisão disciplinar e de aprovação do autor). Inclui 10 oficinas de missão e 23 simuladores do Sistema Solar com dados da NASA/JPL. Formação independente, não habilitação profissional · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬 Computação Científica
 

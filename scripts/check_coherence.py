@@ -37,6 +37,11 @@ for f in mds:
             continue
         if not os.path.exists(os.path.normpath(os.path.join(os.path.dirname(f), u))):
             err(f"{f}: enlace roto -> {u}")
+    # 2b) anclas explícitas (<a id="...">): el destino debe declararla
+    for m in re.finditer(r"\]\(([^)#\s]+\.md)#([a-z][a-z0-9_]*)\)", t):
+        dest = os.path.normpath(os.path.join(os.path.dirname(f), m.group(1)))
+        if os.path.exists(dest) and f'<a id="{m.group(2)}"></a>' not in read(dest):
+            err(f"{f}: ancla inexistente -> {m.group(1)}#{m.group(2)}")
 
 # 3) cada familia de documentos existe en los 22 idiomas
 for fam in FAMILIES:

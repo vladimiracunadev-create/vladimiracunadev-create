@@ -214,12 +214,12 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 このプロフィールの実践的な成果は独立したドキュメントにまとめています。ダウンロードしてインストールできるソフトウェア、エンジニアリングラボ、応用AI、完全な技術カリキュラム、科学計算に加え、アカウント内にあるサードパーティプロジェクトの各フォークの説明も含みます。
 
-- 📦 **実質の配分を用いるプロダクト** (24)
-- 🧪 **エンジニアリング研究所** (11)
-- 🤖 **応用AI** (6)
+- 📦 [**実質の配分を用いるプロダクト**](docs/ECOSYSTEM.ja.md#products) (24)
+- 🧪 [**エンジニアリング研究所**](docs/ECOSYSTEM.ja.md#labs) (11)
+- 🤖 [**応用AI**](docs/ECOSYSTEM.ja.md#ai) (6)
 - 📚 [**完全な技術的なカリキュラム**](docs/ECOSYSTEM.ja.md#curricula) (22)
-- 🔬 **科学コンピューティング** (1)
-- 🍴 **サードパーティプロジェクトのフォーク** (54)
+- 🔬 [**科学コンピューティング**](docs/ECOSYSTEM.ja.md#science) (1)
+- 🍴 [**サードパーティプロジェクトのフォーク**](docs/ECOSYSTEM.ja.md#forks) (54)
 
 👉 **[エコシステム全体を見る](docs/ECOSYSTEM.ja.md)** · [🍴 サードパーティプロジェクトのフォーク](docs/ECOSYSTEM.ja.md#forks)
 

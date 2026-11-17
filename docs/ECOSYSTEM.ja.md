@@ -6,6 +6,8 @@
 
 このプロフィールの実践的な成果は独立したドキュメントにまとめています。ダウンロードしてインストールできるソフトウェア、エンジニアリングラボ、応用AI、完全な技術カリキュラム、科学計算に加え、アカウント内にあるサードパーティプロジェクトの各フォークの説明も含みます。
 
+<a id="products"></a>
+
 ## 📦実質の配分を用いるプロダクト
 
 ダウンロード、インストール、および使用中のソフトウェアは、クローン化されるだけでなく、
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI製のマルチチャネルゲートウェイ：13サービス・69操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHubなど）を REST、GraphQL、SOAP、gRPC で提供。暗号化OAuth、署名付きWebhook、照合可能な冪等性。参照は送信の許可を意味しません | Python · FastAPI | **v0.3.0** · リリース未公開 · 模擬トランスポートによる**162件のテスト**、実アカウントの使用やメッセージ送信なし · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx（NASA Space Apps 2026）インストーラーの公開コピー：Windows、macOS、Linux、Android、iPhone 向け PWA。ソースコードは含みません（コードはチームのものです） | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 チェックサム付きの**7リリース** · インストーラーは未署名で実機では未検証 · NASA/IPAC IRSA のデータ · [ウェブ](https://spherex-planet-x-tau.vercel.app/) · [ダウンロード](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪エンジニアリング研究所
 
 | リポジトリ | 何が実証するか |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 支払家族**ローカルの自己表現のデモ: 状態、レジャー、調整、セキュリティ、および実装ガイド· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | ネイティブ・デカルトランド・ソーシャル3D体験: 1つのMVPとSDK7、ECS、TypeScriptのマルチゲームアーキテクチャ·スペイン語のドキュメント·支払いやテレメトリーなし |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
+
+<a id="ai"></a>
 
 ## 🤖応用AI
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 モジュール·≈214時間· **93 ノートブック**—31クラス、31の学生バージョン、31のソリューション·実際のパブリックデータに関する質問、ビジュアルマップ、慣行、評価·ピートーチ· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 トレーニングモジュール**、機械ごとの1· **502 h 15 分** ·システムの制御、物理、安全、およびクラスごとのソースとのシミュレーション設計·※実行可能シミュレータは未だ、その方法が宣言されていない* |
 | [🌌 **天文学・天体物理学・宇宙科学・航空宇宙工学**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **集計対象に含む：**12領域・133ブロックにわたる2,077クラス。すべて本文執筆済みで、状態はE0のままです（専門分野のレビューと著者の承認待ち）。10のミッションワークショップと、NASA/JPL のデータを使った23の太陽系シミュレーターを含みます。独立した学習プログラムであり、職業資格ではありません · [サイト](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+
+<a id="science"></a>
 
 ## 🔬科学コンピューティング
 

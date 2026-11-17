@@ -214,12 +214,12 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do pobrania i instalacji, laboratoria inżynierskie, stosowana AI, kompletne programy nauczania techniczne i obliczenia naukowe oraz opis każdego forka projektów osób trzecich znajdującego się na koncie.
 
-- 📦 **Produkty z dystrybucją rzeczywistą** (24)
-- 🧪 **Laboratoria inżynieryjne** (11)
-- 🤖 **Stosowana AI** (6)
+- 📦 [**Produkty z dystrybucją rzeczywistą**](docs/ECOSYSTEM.pl.md#products) (24)
+- 🧪 [**Laboratoria inżynieryjne**](docs/ECOSYSTEM.pl.md#labs) (11)
+- 🤖 [**Stosowana AI**](docs/ECOSYSTEM.pl.md#ai) (6)
 - 📚 [**Kompletne programy nauczania technicznego**](docs/ECOSYSTEM.pl.md#curricula) (22)
-- 🔬 **Konstrukcja naukowa** (1)
-- 🍴 **Forki projektów osób trzecich** (54)
+- 🔬 [**Konstrukcja naukowa**](docs/ECOSYSTEM.pl.md#science) (1)
+- 🍴 [**Forki projektów osób trzecich**](docs/ECOSYSTEM.pl.md#forks) (54)
 
 👉 **[Zobacz pełny ekosystem](docs/ECOSYSTEM.pl.md)** · [🍴 Forki projektów osób trzecich](docs/ECOSYSTEM.pl.md#forks)
 

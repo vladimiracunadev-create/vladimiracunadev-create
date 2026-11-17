@@ -6,6 +6,8 @@
 
 Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yazılımlar, mühendislik laboratuvarları, uygulamalı yapay zekâ, eksiksiz teknik müfredatlar ve bilimsel hesaplama ile hesaptaki üçüncü taraf projelerin her bir fork'unun açıklaması.
 
+<a id="products"></a>
+
 ## 📦Gerçek Dağıtım ile Ürünler
 
 İndirilen yazılımlar, yüklü ve kullanılır - sadece klonlanmış değil.
@@ -37,6 +39,8 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI ile çok kanallı ağ geçidi: 13 hizmet ve 69 işlem (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) REST, GraphQL, SOAP ve gRPC üzerinden. Şifreli OAuth, imzalı webhook'lar ve mutabakat yapılabilir idempotency; sorgulamak göndermeyi yetkilendirmez | Python · FastAPI | **v0.3.0** · henüz yayımlanmış sürüm yok · simüle edilmiş aktarımla **162 test**, gerçek hesap ya da gönderilmiş mesaj yok · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx (NASA Space Apps 2026) yükleyicilerinin herkese açık kopyası: Windows, macOS, Linux, Android ve iPhone için PWA. Kaynak kodu içermez: kod ekibe aittir | Tauri 2 · Capacitor · PWA | **v0.4.2** · SHA-256 toplamlı **7 sürüm** · imzasız ve gerçek cihazlarda denenmemiş yükleyiciler · NASA/IPAC IRSA verileri · [web](https://spherex-planet-x-tau.vercel.app/) · [indirmeler](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Mühendislik Laboratuvarları
 
 | Repo | Ne gösterir |
@@ -52,6 +56,8 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 ödeme ailesi**Yerel bir kendini açık bir demoda: devletler, liderlik, uzlaşma, güvenlik ve uygulama rehberleri· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Yerli Demerkezve sosyal 3D deneyimi: bir MVP ve SDK7, ECS ve TypeScript ile çok oyun mimarisi·İspanyolca belgeleri·Ödemeler veya telemetri yok |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Her birinin bir AWS hizmeti verdiği progresif vakalar**ve**Yeni bir GitHub Actions yeteneği·SAA-C03·DVA-C02·SOA-C02 kapsamı |
+
+<a id="ai"></a>
 
 ## 🤖Uygulamalı yapay zekâ
 
@@ -96,6 +102,8 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modül·≈214 saat· **93 Notlar**- 31 sınıflar, 31 öğrenci versiyonu ve 31 çözüm -·Sorular, görsel haritalar, uygulamalar ve gerçek halk verileri ile değerlendirme·PisaTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 eğitim modülleri**Bir makine başına· **502 h 15 min** ·sistemler, kontroller, fizik, güvenlik ve simülasyon tasarımı sınıf başına kaynaklarla tasarım·* Henüz executable simülatörü yok ve bu şekilde ilan edilir* |
 | [🌌 **Astronomi, astrofizik, uzay bilimleri ve havacılık-uzay mühendisliği**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Sayıma dâhil:** 12 alanda ve 133 blokta 2.077 ders; hepsinin metni yazılmış, hepsi hâlâ E0 durumunda (alan incelemesi ve yazar onayı bekliyor). 10 görev atölyesi ve NASA/JPL verileriyle 23 Güneş Sistemi simülatörü içerir. Bağımsız eğitim, mesleki yetkilendirme değil · [site](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Bilimsel Bilgi
 

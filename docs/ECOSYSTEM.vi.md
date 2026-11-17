@@ -6,6 +6,8 @@
 
 Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần mềm để tải về và cài đặt, phòng thí nghiệm kỹ thuật, AI ứng dụng, giáo trình kỹ thuật đầy đủ và tính toán khoa học, cùng mô tả từng fork của các dự án bên thứ ba có trong tài khoản.
 
+<a id="products"></a>
+
 ## 📦Những sản phẩm có thật sự được phân phối
 
 Phần mềm được tải về, cài đặt và sử dụng — không chỉ là vô tính.
@@ -37,6 +39,8 @@ Phần mềm được tải về, cài đặt và sử dụng — không chỉ l
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Cổng đa kênh FastAPI: 13 dịch vụ và 69 thao tác (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) qua REST, GraphQL, SOAP và gRPC. OAuth được mã hóa, webhook có chữ ký và tính idempotent có thể đối soát; truy vấn không đồng nghĩa với cho phép gửi | Python · FastAPI | **v0.3.0** · chưa có bản phát hành · **162 bài kiểm thử** trên đường truyền mô phỏng, không dùng tài khoản thật và không gửi tin nhắn · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Bản sao công khai của các trình cài đặt AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android và PWA cho iPhone. Không chứa mã nguồn: mã thuộc về nhóm | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 bản phát hành** kèm tổng kiểm SHA-256 · trình cài đặt chưa ký và chưa thử trên thiết bị thật · dữ liệu NASA/IPAC IRSA · [web](https://spherex-planet-x-tau.vercel.app/) · [tải xuống](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Phòng thí nghiệm kỹ thuật
 
 | Ủy thác | Nó cho thấy gì? |
@@ -52,6 +56,8 @@ Phần mềm được tải về, cài đặt và sử dụng — không chỉ l
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 Gia đình thanh toán**trong bản yêu cầu tự giải thích địa phương: các bang, sổ cái, hòa giải, an ninh và các hướng dẫn thực hiện· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Kinh nghiệm xã hội 3D thuộc địa: một phương pháp MVP và một kiến trúc đa trò chơi với SDK7, ECS và TypeS·Tài liệu hướng dẫn tiếng Tây Ban Nha·không thanh toán hay đo lường |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Những vụ án mà mỗi vụ thêm một dịch vụ AWS**và**Một khả năng hành động của GitHub mới·SaA-C03·DVA-C02·Trình tin SOA-C02 |
+
+<a id="ai"></a>
 
 ## 🤖AI ứng dụng
 
@@ -96,6 +102,8 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 Mô- đun·214 tiếng· **93 cuốn sổ tay**31 lớp học, 31 bản dịch sinh viên, và 31 giải pháp·câu hỏi, bản đồ thị giác, thực hành và đánh giá với dữ liệu công cộng thực tế·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 mô- đun huấn luyện**, mỗi máy một người· **502 H 15 phút** ·hệ thống, điều khiển, vật lý, an toàn và mô phỏng thiết kế với các nguồn trên mỗi lớp·Chưa có trình mô phỏng thực hiện được, và nó được công bố như vậy. |
 | [🌌 **Thiên văn học, vật lý thiên văn, khoa học vũ trụ và kỹ thuật hàng không vũ trụ**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Đã tính vào số đếm:** 2.077 bài học trong 12 lĩnh vực và 133 khối; tất cả đã có văn bản và vẫn ở trạng thái E0 (chờ rà soát chuyên môn và tác giả phê duyệt). Gồm 10 workshop nhiệm vụ và 23 trình mô phỏng Hệ Mặt Trời dùng dữ liệu NASA/JPL. Đào tạo độc lập, không phải chứng chỉ hành nghề · [trang web](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Tính toán khoa học
 

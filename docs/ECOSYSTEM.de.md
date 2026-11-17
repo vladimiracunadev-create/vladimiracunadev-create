@@ -6,6 +6,8 @@
 
 Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum Herunterladen und Installieren, Engineering-Labore, angewandte KI, vollständige technische Lehrpläne und wissenschaftliches Rechnen – dazu die Beschreibung jedes Forks von Drittprojekten im Konto.
 
+<a id="products"></a>
+
 ## 📦Produkte mit realer Distribution
 
 Software, die heruntergeladen, installiert und verwendet wird – nicht nur geklont.
@@ -37,6 +39,8 @@ Software, die heruntergeladen, installiert und verwendet wird – nicht nur gekl
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Multikanal-Gateway auf FastAPI: 13 Dienste und 69 Operationen (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) über REST, GraphQL, SOAP und gRPC. Verschlüsseltes OAuth, signierte Webhooks und abgleichbare Idempotenz; Abfragen berechtigt nicht zum Senden | Python · FastAPI | **v0.3.0** · noch kein Release veröffentlicht · **162 Tests** mit simuliertem Transport, ohne echte Konten und ohne gesendete Nachrichten · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Öffentliche Kopie der Installer von AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android und iPhone-PWA. Enthält keinen Quellcode: Der Code gehört dem Team | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 Releases** mit SHA-256-Prüfsummen · nicht signierte, nicht auf echten Geräten getestete Installer · NASA/IPAC-IRSA-Daten · [Web](https://spherex-planet-x-tau.vercel.app/) · [Downloads](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Technische Laboratorien
 
 | Repo | Was es zeigt |
@@ -52,6 +56,8 @@ Software, die heruntergeladen, installiert und verwendet wird – nicht nur gekl
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 Zahlungsfamilien**in einer lokalen Demo zur Selbsterklärung: Staaten, Ledger, Versöhnung, Sicherheit und Umsetzungsleitfäden· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Natives dezentrales und soziales 3D-Erlebnis: ein MVP und eine Multi-Game-Architektur mit SDK7, ECS und TypeScript·Spanische Dokumentation·Keine Zahlungen oder Telemetrie |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive Fälle, in denen jeder einen AWS-Service hinzufügt**und**eine neue GitHub Actions-Fähigkeit·SAA-C03·DVA-C02·SOA-C02-Abdeckung |
+
+<a id="ai"></a>
 
 ## 🤖Angewandte KI
 
@@ -96,6 +102,8 @@ Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Reposit
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 Module·≈214 Stunden· **93 Notizbücher**31 Klassen, 31 Studentenversionen und 31 Lösungen -·Fragen, visuelle Karten, Praktiken und Bewertungen mit echten öffentlichen Daten·PyTorch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 Schulungsmodule**eine pro Maschine· **502 h 15 min** ·Systeme, Steuerungen, Physik, Sicherheit und Simulationsdesign mit Quellen pro Klasse·*noch kein ausführbarer Simulator, und es wird so deklariert* |
 | [🌌 **Astronomie, Astrophysik, Raumfahrtwissenschaften und Luft- und Raumfahrttechnik**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Mitgezählt:** 2.077 Lektionen in 12 Bereichen und 133 Blöcken; alle mit ausgearbeitetem Text und noch im Status E0 (ausstehend: fachliche Prüfung und Freigabe durch den Autor). Enthält 10 Missions-Workshops und 23 Sonnensystem-Simulatoren mit NASA/JPL-Daten. Unabhängige Weiterbildung, keine berufliche Zulassung · [Website](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Wissenschaftliche Datenverarbeitung
 

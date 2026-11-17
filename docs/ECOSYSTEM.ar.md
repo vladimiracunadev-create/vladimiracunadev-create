@@ -6,6 +6,8 @@
 
 العمل التطبيقي لهذا الملف الشخصي موجود في وثيقة مستقلة: برمجيات تُنزَّل وتُثبَّت، ومختبرات هندسية، وذكاء اصطناعي تطبيقي، ومناهج تقنية كاملة، وحوسبة علمية، إضافةً إلى وصف كل fork لمشاريع الأطراف الثالثة الموجودة في الحساب.
 
+<a id="products"></a>
+
 ## 📦المنتجات ذات التوزيع الحقيقي
 
 البرمجيات التي يتم تحميلها، تركيبها واستخدامها - ليس فقط مستنسخة.
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | بوابة متعددة القنوات على FastAPI: 13 خدمة و69 عملية (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) عبر REST وGraphQL وSOAP وgRPC. OAuth مشفّر وخطافات ويب موقّعة وتكرارية آمنة قابلة للمطابقة؛ الاطلاع لا يعني الإذن بالإرسال | Python · FastAPI | **v0.3.0** · لا يوجد إصدار منشور بعد · **162 اختبارًا** على نقل محاكى، دون حسابات حقيقية أو رسائل مرسلة · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | نسخة عامة من مثبّتات AstroTrack · SPHEREx (NASA Space Apps 2026): Windows وmacOS وLinux وAndroid وPWA لجهاز iPhone. لا تحتوي على شيفرة مصدرية: الشيفرة ملك للفريق | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 إصدارات** مع مجاميع SHA-256 · مثبّتات غير موقّعة ولم تُختبر على أجهزة حقيقية · بيانات NASA/IPAC IRSA · [الويب](https://spherex-planet-x-tau.vercel.app/) · [التنزيلات](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪المختبرات الهندسية
 
 | Repo | ما يُظهره |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 أسرة مستفيدة**في مركز محلي للتفسير الذاتي: الولايات، ودفتر الأستاذ، والمصالحة، والأمن، وأدلة التنفيذ· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland social 3D experience: one MVP and a multi-game structure with SDK7, ECS, and TypeScript·الوثائق الإسبانية·عدم دفع أي مدفوعات أو قياس عن بعد |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | حالات تقدم حيث يضيف كل واحد خدمة واحدة من خدمات الأسلحة النووية**و**(أ) قدرة جديدة على العمل في (غيت هوب·SA-C03·DVA-C02·SOA-C02 coverage |
+
+<a id="ai"></a>
 
 ## 🤖الذكاء الاصطناعي التطبيقي
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 وحدات نموذجية·▪ ▪214 ساعة· **93 دفتر ملاحظات**- ٣١ فصلا، و ٣١ نسخة للطلاب، و ٣١ حلا -·المسائل، والخرائط البصرية، والممارسات، والتقييم مع البيانات العامة الحقيقية·Py Torch· [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 وحدة تدريب**واحد لكل آلة· **502 h 15 min** ·النظم والضوابط والفيزياء والسلامة وتصميم المحاكاة مع مصادر لكل فئة·* لم يُنفذ أي مُحفز بعد، ويُعلن عن ذلك على هذا النحو* |
 | [🌌 **علم الفلك والفيزياء الفلكية وعلوم الفضاء وهندسة الطيران والفضاء**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **مُدرَج في العدّ:** 2.077 درسًا في 12 مجالًا و133 كتلة؛ جميعها بنص مكتوب وما تزال في الحالة E0 (بانتظار المراجعة التخصصية وموافقة المؤلف). يتضمن 10 ورش مهام و23 محاكيًا للنظام الشمسي ببيانات NASA/JPL. تدريب مستقل وليس ترخيصًا مهنيًا · [الموقع](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬الحوسبة العلمية
 

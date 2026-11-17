@@ -6,6 +6,8 @@
 
 Практична робота профілю винесена в окремий документ: програми, які завантажують і встановлюють, інженерні лабораторії, прикладний ШІ, повні технічні навчальні програми та наукові обчислення, а також опис кожного форку сторонніх проєктів в акаунті.
 
+<a id="products"></a>
+
 ## 📦Продукція з реальним розподілом
 
 Програмне забезпечення, яке завантажується, встановлюється і використовується — не тільки закручена.
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | Багатоканальний шлюз на FastAPI: 13 сервісів і 69 операцій (Gmail, Outlook/Graph, WhatsApp, Telegram, Slack, Teams, Twilio, GitHub…) через REST, GraphQL, SOAP і gRPC. Шифрований OAuth, підписані вебгуки та звіряна ідемпотентність; читання не дає права на надсилання | Python · FastAPI | **v0.3.0** · реліз ще не опубліковано · **162 тести** на імітованому транспорті, без реальних облікових записів і надісланих повідомлень · MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | Публічна копія інсталяторів AstroTrack · SPHEREx (NASA Space Apps 2026): Windows, macOS, Linux, Android і PWA для iPhone. Вихідного коду немає: код належить команді | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 релізів** із сумами SHA-256 · інсталятори не підписані й не перевірялися на реальних пристроях · дані NASA/IPAC IRSA · [веб](https://spherex-planet-x-tau.vercel.app/) · [завантаження](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪Інженерні лабораторії
 
 | Репо | Що це демонструє |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 сімей з виплатами**в локальній самовиправній демо: стани, під керівництвом, розвідувальні роботи, безпека та здійснення інструкцій· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Відносний досвід децентраліта і соціального 3D: один MVP і багатогранна архітектура з SDK7, ECS і TypeScript·Іспанська документація·без платежів або телеметрії |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Прогресивні випадки, коли кожен додає один сервіс AWS**і**новий GitHub Дія·САА-К03·ДВА-К02·SOA-C02 покриття |
+
+<a id="ai"></a>
 
 ## 🤖Прикладна AI
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41 модулів навчання**, один за машиною· **502 ч 15 хв** ·системи, контрольні системи, фізика, безпека та імітаційний дизайн з джерелами на клас·*не виконавний тренажер, але і він продекларований таким чином* |
 | [🌌 **Астрономія, астрофізика, космічні науки та аерокосмічна інженерія**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2.077 | **Включено до підрахунку:** 2.077 занять у 12 напрямах і 133 блоках; у всіх написано текст, усі поки в статусі E0 (очікують фахового рецензування та затвердження автором). Містить 10 місійних майстерень і 23 симулятори Сонячної системи з даними NASA/JPL. Незалежне навчання, а не професійна атестація · [сайт](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/). |
+
+<a id="science"></a>
 
 ## 🔬Науковий склад
 

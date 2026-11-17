@@ -214,12 +214,12 @@ Technologies detected in the public repositories (manifests, dependencies, conta
 
 The hands-on work of this profile lives in its own document: software you download and install, engineering labs, applied AI, complete technical curricula and scientific computing, plus a description of every fork of third-party projects kept in the account.
 
-- 📦 **Products With Real Distribution** (24)
-- 🧪 **Engineering Laboratories** (11)
-- 🤖 **Applied AI** (6)
+- 📦 [**Products With Real Distribution**](docs/ECOSYSTEM.en.md#products) (24)
+- 🧪 [**Engineering Laboratories**](docs/ECOSYSTEM.en.md#labs) (11)
+- 🤖 [**Applied AI**](docs/ECOSYSTEM.en.md#ai) (6)
 - 📚 [**Complete Technical Curricula**](docs/ECOSYSTEM.en.md#curricula) (22)
-- 🔬 **Scientific Computing** (1)
-- 🍴 **Forks of third-party projects** (54)
+- 🔬 [**Scientific Computing**](docs/ECOSYSTEM.en.md#science) (1)
+- 🍴 [**Forks of third-party projects**](docs/ECOSYSTEM.en.md#forks) (54)
 
 👉 **[See the full ecosystem](docs/ECOSYSTEM.en.md)** · [🍴 Forks of third-party projects](docs/ECOSYSTEM.en.md#forks)
 

@@ -6,6 +6,8 @@
 
 本檔案的實作成果集中在獨立文件中：可下載安裝的軟體、工程實驗室、應用 AI、完整技術課程與科學運算，以及帳號中每個第三方專案 fork 的說明。
 
+<a id="products"></a>
+
 ## 📦具有實際分佈的產品
 
 軟體被下載,安裝,使用——不僅被克隆.
@@ -37,6 +39,8 @@
 | [🔌 **Universal API Orchestrator**](https://github.com/vladimiracunadev-create/universal-api-orchestrator) | FastAPI 多渠道閘道器：13 項服務、69 個操作（Gmail、Outlook/Graph、WhatsApp、Telegram、Slack、Teams、Twilio、GitHub……），覆蓋 REST、GraphQL、SOAP 和 gRPC。OAuth 加密、Webhook 簽名、可對賬的冪等；查詢不等於授權傳送 | Python · FastAPI | **v0.3.0** · 尚未釋出 release · **162 項測試**（模擬傳輸，未使用真實賬戶，未傳送任何訊息）· MIT · Linux · macOS · Windows |
 | [🛰️ **AstroTrack · SPHEREx**](https://github.com/vladimiracunadev-create/spherex-releases) | AstroTrack · SPHEREx（NASA Space Apps 2026）安裝包的公開副本：Windows、macOS、Linux、Android 以及適用於 iPhone 的 PWA。不含原始碼：程式碼屬於團隊 | Tauri 2 · Capacitor · PWA | **v0.4.2** · **7 個釋出版本**，附 SHA-256 校驗和 · 安裝包未簽名，未在真實裝置上測試 · NASA/IPAC IRSA 資料 · [網頁](https://spherex-planet-x-tau.vercel.app/) · [下載](https://vladimiracunadev-create.github.io/spherex-releases/) |
 
+<a id="labs"></a>
+
 ## 🧪工程實驗室
 
 | 重播( R) | 所顯示的 |
@@ -52,6 +56,8 @@
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28個支付家庭**當地自我解釋演示:狀態、分類賬、對賬、安全和執行指南· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | 原生的Decentraliand 社交 三維體驗:一個MVP和多遊戲架構,並配有 SDK7, ECS, 和 TypeScript·西班牙文文件·無付款或遙測 |
 | [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
+
+<a id="ai"></a>
 
 ## 🤖應用AI
 
@@ -96,6 +102,8 @@
 | [🧠 **Neural Network Training Labs**](https://github.com/vladimiracunadev-create/neural-network-training-labs) | 31 | 7 modules · ≈214 hours · **93 notebooks** —31 classes, 31 student versions, and 31 solutions— · questions, visual maps, practices, and assessment with real public data · PyTorch · [study site](https://vladimiracunadev-create.github.io/neural-network-training-labs/) |
 | [🕹️ **Machine Operator**](https://github.com/vladimiracunadev-create/machine-operator-program) | 451 | **41個培訓單元**,每臺一臺機器· **502小時15分鐘** ·系統、控制、物理、安全和模擬設計,每類源·*還沒有可執行模擬器,而且它被宣佈為這樣* |
 | [🌌 **天文學、天體物理學、太空科學與航空太空工程**](https://github.com/vladimiracunadev-create/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program) | 2,077 | **已計入統計：**12 個領域、133 個模組共 2,077 堂課程；全部已有正文，仍處於 E0 狀態（待專業審閱與作者核准）。包含 10 個任務工作坊和 23 個使用 NASA/JPL 資料的太陽系模擬器。獨立培訓，並非職業資格認證 · [網站](https://vladimiracunadev-create.github.io/astronomy-astrophysics-space-sciences-aerospace-engineering-learning-program/)。 |
+
+<a id="science"></a>
 
 ## 🔬科學計算
 
