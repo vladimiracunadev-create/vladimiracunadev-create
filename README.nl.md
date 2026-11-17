@@ -208,7 +208,7 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 ## 🗺️Ecosysteem bij een glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.a9eead46.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.b3624499.svg)
 
 ## 🗂️ Ecosysteem: producten, laboratoria, toegepaste AI, curricula en wetenschappelijk rekenen
 

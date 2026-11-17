@@ -208,7 +208,7 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 
 ## 🗺️ El ecosistema de un vistazo
 
-![🧠 Criterio técnico — arquitectura · modernización · operación](docs/img/ecosystem.es.124526bb.svg)
+![🧠 Criterio técnico — arquitectura · modernización · operación](docs/img/ecosystem.es.2a0541e3.svg)
 
 ## 🗂️ Ecosistema: productos, laboratorios, IA aplicada, currículos y computación científica
 

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 631" width="1000" height="631" role="img" aria-labelledby="t d" font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Noto Sans','Noto Sans CJK SC','Noto Sans Arabic','Noto Sans Thai','Noto Sans Devanagari',Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650" role="img" aria-labelledby="t d" font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Noto Sans','Noto Sans CJK SC','Noto Sans Arabic','Noto Sans Thai','Noto Sans Devanagari',Arial,sans-serif">
 <title id="t">🧠 Technical judgment — architecture · modernization · operations</title>
 <desc id="d">المنتجات ذات التوزيع الحقيقي 24 · المختبرات الهندسية 11 · الذكاء الاصطناعي التطبيقي 6 · المناهج التقنية الكاملة 22 · الحوسبة العلمية 1 · forks لمشاريع أطراف ثالثة 54</desc>
-<rect x="0.7" y="0.7" width="998.6" height="629.6" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.7" y="0.7" width="998.6" height="648.6" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <rect x="16" y="16" width="968" height="40" rx="8" fill="#1f2328"/>
 <text x="32" y="41" font-size="14" font-weight="bold" fill="#ffffff">🧠 Technical judgment — architecture · modernization · operations</text>
 <rect x="16" y="68" width="312" height="162" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="1.4"/>
@@ -27,33 +27,34 @@
 <text x="686" y="146" font-size="12" font-weight="normal" fill="#1f2328">🧰 Claude Skills ×22 · 🧰 Codex Skills ×19</text>
 <text x="686" y="163" font-size="12" font-weight="normal" fill="#1f2328">🧩 Agentic Plugins ×6</text>
 <text x="686" y="180" font-size="12" font-weight="normal" fill="#1f2328">🧠 MCP + Ollama local</text>
-<rect x="16" y="242" width="640" height="158" rx="8" fill="#dafbe1" stroke="#1a7f37" stroke-width="1.4"/>
+<rect x="16" y="242" width="640" height="177" rx="8" fill="#dafbe1" stroke="#1a7f37" stroke-width="1.4"/>
 <text x="30" y="264" font-size="13" font-weight="bold" fill="#0f3d1e">📚 المناهج التقنية الكاملة · 22 · 18,418 الفصول</text>
 <text x="30" y="286" font-size="12" font-weight="normal" fill="#1f2328">🛡️ Cybersecurity (381) · 🎮 GameDev (352) · 🐍 Python Data Science (232) · ☁️ Multi-Cloud (288)</text>
-<text x="30" y="303" font-size="12" font-weight="normal" fill="#1f2328">🧠 AI Evolution (184) · ⛓️ Blockchain (66) · 🧭 Software Eng. (540) · 🧩 Frameworks (149)</text>
-<text x="30" y="320" font-size="12" font-weight="normal" fill="#1f2328">🌐 Polyglot (176) · 🗄️ Databases (74) · 🧠 Neural Networks (31) · 💼 Business Creation (336)</text>
-<text x="30" y="337" font-size="12" font-weight="normal" fill="#1f2328">🏦 Finance &amp; Banking (356) · 📈 Marketing (336) · 🎖️ Leadership (288) · 🎓 Pedagogy (300)</text>
-<text x="30" y="354" font-size="12" font-weight="normal" fill="#1f2328">🔢 Computational Math (360) · 📐 Psychometrics (200) · 🏛️ Architecture &amp; Built Env. (840)</text>
-<text x="30" y="371" font-size="12" font-weight="normal" fill="#1f2328">🕹️ Machine Operator (451) · 🏫 Chilean School Path (10,401) · 🌌 Astronomy &amp; Aerospace (2.077)</text>
-<text x="30" y="388" font-size="12" font-weight="normal" fill="#1f2328">🧭 Lifelong Learning Ecosystem</text>
-<rect x="672" y="242" width="312" height="158" rx="8" fill="#ffeff7" stroke="#bf3989" stroke-width="1.4"/>
+<text x="30" y="303" font-size="12" font-weight="normal" fill="#1f2328">🧠 AI Evolution (184) · ⛓️ Blockchain (66) · 🧭 Software Eng. (540) · 🧩 Framework Ecosystems (149)</text>
+<text x="30" y="320" font-size="12" font-weight="normal" fill="#1f2328">🌐 Polyglot Programming (176) · 🗄️ Databases (74) · 🧠 Neural Networks (31)</text>
+<text x="30" y="337" font-size="12" font-weight="normal" fill="#1f2328">💼 Business Creation (336) · 🏦 Finance &amp; Banking (356) · 📈 Marketing (336) · 🎖️ Leadership (288)</text>
+<text x="30" y="354" font-size="12" font-weight="normal" fill="#1f2328">🎓 Pedagogy (300) · 🔢 Computational Math (360) · 📐 Psychometrics (200)</text>
+<text x="30" y="371" font-size="12" font-weight="normal" fill="#1f2328">🏛️ Architecture &amp; Built Env. (840) · 🕹️ Machine Operator (451) · 🏫 Chilean School Path (10,401)</text>
+<text x="30" y="388" font-size="12" font-weight="normal" fill="#1f2328">🌌 Astronomy &amp; Aerospace (2.077)</text>
+<text x="30" y="405" font-size="12" font-weight="normal" fill="#1f2328">🧭 Lifelong Learning Ecosystem</text>
+<rect x="672" y="242" width="312" height="177" rx="8" fill="#ffeff7" stroke="#bf3989" stroke-width="1.4"/>
 <text x="686" y="264" font-size="13" font-weight="bold" fill="#5c1541">🔬 الحوسبة العلمية · 1</text>
 <text x="686" y="286" font-size="12" font-weight="normal" fill="#1f2328">🧬 Human Genome Labs</text>
-<rect x="16" y="412" width="968" height="211" rx="8" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5 4"/>
-<text x="30" y="434" font-size="13" font-weight="bold" fill="#24292f">🍴 forks لمشاريع أطراف ثالثة · 54</text>
-<text x="970" y="434" text-anchor="end" font-size="11" font-weight="normal" fill="#57606a" font-style="italic">للمرجع والدراسة · ليست عملاً خاصًا</text>
-<text x="30" y="458" font-size="12" font-weight="bold" fill="#24292f">🤖 18</text>
-<text x="100" y="458" font-size="11" font-weight="normal" fill="#1f2328">OpenHands · cline · opencode · qwen-code · goose · pi · hermes-agent · deepagents · crewAI · agent-framework · deepseek-harness · agent-orchestrator · orca</text>
-<text x="100" y="473" font-size="11" font-weight="normal" fill="#1f2328">kander · OpenBot · browser-use · agent-desktop · treg</text>
-<text x="30" y="495" font-size="12" font-weight="bold" fill="#24292f">🧩 11</text>
-<text x="100" y="495" font-size="11" font-weight="normal" fill="#1f2328">claude-plugins-official · agentic-awesome-skills · claude-review-all · blender-skills · diagram-design · elephant-goldfish-model · Claude-Code-Game-Studios</text>
-<text x="100" y="510" font-size="11" font-weight="normal" fill="#1f2328">headcount · agentic-qe · OpenExecutive · n8n-mcp</text>
-<text x="30" y="532" font-size="12" font-weight="bold" fill="#24292f">🛡️ 8</text>
-<text x="100" y="532" font-size="11" font-weight="normal" fill="#1f2328">raptor · Cybersecurity-Projects · SkillSpector · Anthropic-Cybersecurity-Skills · security-audit-skill · siteone-crawler · rea · craft-anything</text>
-<text x="30" y="554" font-size="12" font-weight="bold" fill="#24292f">🧠 5</text>
-<text x="100" y="554" font-size="11" font-weight="normal" fill="#1f2328">marin · prime-rl · Olmo-core · DeepInfer · heretic</text>
-<text x="30" y="576" font-size="12" font-weight="bold" fill="#24292f">🏢 6</text>
-<text x="100" y="576" font-size="11" font-weight="normal" fill="#1f2328">erpnext · odoo · mautic · crm · harness · traccar</text>
-<text x="30" y="598" font-size="12" font-weight="bold" fill="#24292f">🎓 6</text>
-<text x="100" y="598" font-size="11" font-weight="normal" fill="#1f2328">computer-science · math · manim · asm-atari-2600 · SPHEREX · SpacePixels</text>
+<rect x="16" y="431" width="968" height="211" rx="8" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="30" y="453" font-size="13" font-weight="bold" fill="#24292f">🍴 forks لمشاريع أطراف ثالثة · 54</text>
+<text x="970" y="453" text-anchor="end" font-size="11" font-weight="normal" fill="#57606a" font-style="italic">للمرجع والدراسة · ليست عملاً خاصًا</text>
+<text x="30" y="477" font-size="12" font-weight="bold" fill="#24292f">🤖 18</text>
+<text x="100" y="477" font-size="11" font-weight="normal" fill="#1f2328">OpenHands · cline · opencode · qwen-code · goose · pi · hermes-agent · deepagents · crewAI · agent-framework · deepseek-harness · agent-orchestrator · orca</text>
+<text x="100" y="492" font-size="11" font-weight="normal" fill="#1f2328">kander · OpenBot · browser-use · agent-desktop · treg</text>
+<text x="30" y="514" font-size="12" font-weight="bold" fill="#24292f">🧩 11</text>
+<text x="100" y="514" font-size="11" font-weight="normal" fill="#1f2328">claude-plugins-official · agentic-awesome-skills · claude-review-all · blender-skills · diagram-design · elephant-goldfish-model · Claude-Code-Game-Studios</text>
+<text x="100" y="529" font-size="11" font-weight="normal" fill="#1f2328">headcount · agentic-qe · OpenExecutive · n8n-mcp</text>
+<text x="30" y="551" font-size="12" font-weight="bold" fill="#24292f">🛡️ 8</text>
+<text x="100" y="551" font-size="11" font-weight="normal" fill="#1f2328">raptor · Cybersecurity-Projects · SkillSpector · Anthropic-Cybersecurity-Skills · security-audit-skill · siteone-crawler · rea · craft-anything</text>
+<text x="30" y="573" font-size="12" font-weight="bold" fill="#24292f">🧠 5</text>
+<text x="100" y="573" font-size="11" font-weight="normal" fill="#1f2328">marin · prime-rl · Olmo-core · DeepInfer · heretic</text>
+<text x="30" y="595" font-size="12" font-weight="bold" fill="#24292f">🏢 6</text>
+<text x="100" y="595" font-size="11" font-weight="normal" fill="#1f2328">erpnext · odoo · mautic · crm · harness · traccar</text>
+<text x="30" y="617" font-size="12" font-weight="bold" fill="#24292f">🎓 6</text>
+<text x="100" y="617" font-size="11" font-weight="normal" fill="#1f2328">computer-science · math · manim · asm-atari-2600 · SPHEREX · SpacePixels</text>
 </svg>

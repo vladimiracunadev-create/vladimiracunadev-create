@@ -208,7 +208,7 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 ## 🗺️Bir bakışta ekosistem
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.1b9f3a75.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.e655fc31.svg)
 
 ## 🗂️ Ekosistem: ürünler, laboratuvarlar, uygulamalı yapay zekâ, müfredatlar ve bilimsel hesaplama
 
