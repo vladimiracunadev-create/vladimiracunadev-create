@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#पारिस्थितिकी-तंत्र-एक-झलक-में) ·
 [🛠️ टेक्नोलॉजी स्टैक](#-टेक्नोलॉजी-स्टैक) ·
-[⚡ Evaluate me in 10 minutes](#यदि-आपके-पास-10-मिनट-हैं-तो-मुझे-खाली-करने-के-लिए) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.hi.md) ·
 [✅ Professional scope](#व्यावसायिक-क्षेत्र) ·
 [🧭 Non-coding management](#प्रबंधन-प्रशासन-और-गैर-कोडिंग-कैरियर-के-अवसर) ·
 [📋 पद मैट्रिक्स](PROFESIONAL_ROLES.hi.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **मेरा हिस्सा:** डेटा एक्सेस (कैश के साथ IRSA क्वेरी और डेमो क्षेत्रों की पूर्व-गणना), पैकेजिंग (PWA, Tauri से डेस्कटॉप इंस्टॉलर और Capacitor से Android APK), “डाउनलोड” दृश्य, और दस्तावेज़ों व कोड के बीच संगति की ऑडिट।
 - **सत्यापन-योग्य डिलीवरी:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) में SHA-256 चेकसम के साथ 7 रिलीज़ (v0.1.0 से v0.4.2) हैं · [वेब ऐप](https://spherex-planet-x-tau.vercel.app/) · [टीम रिपॉज़िटरी](https://github.com/mauriciovalenzuela742/SPHEREX)।
 - **घोषित सीमाएँ:** व्यूअर, डिज़ाइन और बाकी बैकएंड टीम के अन्य सदस्यों का काम है; इंस्टॉलर हस्ताक्षरित नहीं हैं और असली उपकरणों पर परखे नहीं गए; मैंने सहायक के रूप में AI (Claude Code) का उपयोग किया, जैसा रिपॉज़िटरी में घोषित है। यह मेरे योगदान का वर्णन है, हैकाथॉन का परिणाम नहीं।
-
-## ⚡यदि आपके पास 10 मिनट हैं तो मुझे खाली करने के लिए
-
-यह विचार सिर्फ कोड को देखने के लिए नहीं है: यह देखना है**मैं कैसे सोचूं**मैं सब कुछ कैसे कर सकता हूँ, मैं कैसे कर सकता हूँ, कैसे मैं सब कुछ कर सकता हूँ।
-
-**रूट A - रियल servability और orchestration***(मेरे पसंदीदा)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-आप 20 मामलों और 18+ डीबी इंजनों में वर्कफ़्लो, मैट्रिक, डैशबोर्ड और रेलिंग देखेंगे।
-
-**रूट B - मिनटों में पुन: प्रयोज्य बुनियादी ढांचे**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**रूट C — टाइप्ड स्टेट के साथ एजेंट**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**रूट डी - जंग फोरेंसिक उत्पाद, क्लोनिंग के बिना**
-
-इंस्टॉलर या सीएलआई द्विआधारी डाउनलोड करें[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)सत्यापित करना`SHA256SUMS`.
 
 ## 🧠वे मानक जिन्हें मैं सभी रिपॉज़िटरी में लागू करता हूँ
 

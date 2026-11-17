@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#экосистема-с-первого-взгляда) ·
 [🛠️ Технологический стек](#-технологический-стек) ·
-[⚡ Evaluate me in 10 minutes](#если-у-вас-есть-10-минут-чтобы-оценить-меня) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.ru.md) ·
 [✅ Professional scope](#профессиональный-уровень) ·
 [🧭 Non-coding management](#управление-администрирование-и-некодирование-карьерных-возможностей) ·
 [📋 Матрица должностей](PROFESIONAL_ROLES.ru.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **Моя часть:** доступ к данным (запросы к IRSA с кэшем и заранее рассчитанные поля демо), упаковка (PWA, настольные установщики на Tauri и APK для Android на Capacitor), раздел «Загрузки» и аудит согласованности документации и кода.
 - **Проверяемая поставка:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) собирает 7 релизов (от v0.1.0 до v0.4.2) с контрольными суммами SHA-256 · [веб-приложение](https://spherex-planet-x-tau.vercel.app/) · [репозиторий команды](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Заявленные ограничения:** просмотрщик, дизайн и остальной бэкенд — работа других участников команды; установщики не подписаны и не проверялись на реальных устройствах; я использовал ИИ (Claude Code) как помощника, что указано в репозитории. Это описывает мой вклад, а не результат хакатона.
-
-## ⚡Если у вас есть 10 минут, чтобы оценить меня
-
-Идея не просто посмотреть на код: это увидеть.**Как я думаю**Как я документирую и как делаю все исполняемым.
-
-**Маршрут А — Реальная наблюдательность и оркестровка***(Мой любимый)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Вы увидите рабочие процессы, метрики, панели приборов и ограждения в 20 корпусах и 18 двигателях DB.
-
-**Маршрут B: Воспроизводимая инфраструктура за считанные минуты**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Маршрут C — Агенты с типизированным состоянием**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Маршрут D — судебный продукт Rust без клонирования**
-
-Скачать инсталлятор или CLI бинарный от[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)и проверить`SHA256SUMS`.
 
 ## 🧠Стандарты, которые я применяю в репозиториях
 

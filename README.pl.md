@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ekosystem-w-odblasku) ·
 [🛠️ Stos technologiczny](#-stos-technologiczny) ·
-[⚡ Evaluate me in 10 minutes](#jeśli-masz-10-minut-na-ocenę-mnie) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.pl.md) ·
 [✅ Professional scope](#zakres-działalności) ·
 [🧭 Non-coding management](#zarządzanie-administracja-i-niekodujące-szanse-na-karierę) ·
 [📋 Macierz stanowisk](PROFESIONAL_ROLES.pl.md) ·
@@ -232,34 +232,6 @@ Wziąłem udział w **NASA Space Apps Challenge 2026** (Santiago, 14–15 listop
 - **Moja część:** dostęp do danych (zapytania do IRSA z pamięcią podręczną i wstępnie obliczone pola dema), pakowanie (PWA, instalatory desktopowe w Tauri i APK Androida w Capacitor), widok „Pobieranie” oraz audyt spójności dokumentacji z kodem.
 - **Weryfikowalne dostarczenie:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) zbiera 7 wydań (od v0.1.0 do v0.4.2) z sumami SHA-256 · [aplikacja web](https://spherex-planet-x-tau.vercel.app/) · [repozytorium zespołu](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Deklarowane ograniczenia:** podgląd, projekt i reszta backendu to praca innych osób z zespołu; instalatory nie są podpisane i nie testowano ich na prawdziwych urządzeniach; używałem AI (Claude Code) jako asystenta, co jest zadeklarowane w repozytorium. To opisuje mój wkład, a nie wynik hackathonu.
-
-## ⚡Jeśli masz 10 minut na ocenę mnie
-
-Idea nie polega tylko na patrzeniu na kod: to jest zobaczyć**Jak myślę**Jak dokumentuję i jak wszystko wykonywalne.
-
-**Trasa A - Realna obserwacja i orchestracja*** (my favorite) *
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Zobaczysz przepływ pracy, pomiary, deski rozdzielcze i poręcze w 20 przypadkach i 18 + silniki DB.
-
-**Trasa B - Infrastruktura powtarzalna w minutach**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Trasa C - Agenci z wpisanym stanem**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Trasa D - Produkt sądowy z rdzy, bez klonowania**
-
-Pobierz instalator lub CLI binarne z[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)i zweryfikować`SHA256SUMS`.
 
 ## 🧠Normy I stosowane w różnych repozytoriach
 

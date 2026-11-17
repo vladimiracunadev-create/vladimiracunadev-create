@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ecosystem-σε-μια-λάμψη) ·
 [🛠️ Στοίβα τεχνολογιών](#-στοίβα-τεχνολογιών) ·
-[⚡ Evaluate me in 10 minutes](#αν-έχετε-10-λεπτά-για-να-με-αξιολογήσετε) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.el.md) ·
 [✅ Professional scope](#επαγγελματικό-πεδίο-εφαρμογής) ·
 [🧭 Non-coding management](#διαχείριση-διοίκηση-και-μη-κωδικοποίηση-ευκαιρίες-καριέρας) ·
 [📋 Μήτρα θέσεων](PROFESIONAL_ROLES.el.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **Το μερίδιό μου:** πρόσβαση σε δεδομένα (ερωτήματα IRSA με cache και προϋπολογισμένα πεδία του demo), πακετάρισμα (PWA, desktop installers με Tauri και Android APK με Capacitor), η προβολή «Λήψεις» και έλεγχος συνέπειας μεταξύ τεκμηρίωσης και κώδικα.
 - **Επαληθεύσιμη παράδοση:** το [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) συγκεντρώνει 7 εκδόσεις (v0.1.0 έως v0.4.2) με αθροίσματα SHA-256 · [web εφαρμογή](https://spherex-planet-x-tau.vercel.app/) · [αποθετήριο της ομάδας](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Δηλωμένα όρια:** ο viewer, ο σχεδιασμός και το υπόλοιπο backend είναι δουλειά άλλων μελών της ομάδας· οι installers δεν είναι υπογεγραμμένοι και δεν δοκιμάστηκαν σε πραγματικές συσκευές· χρησιμοποίησα AI (Claude Code) ως βοηθό, όπως δηλώνεται στο αποθετήριο. Αυτό περιγράφει τη συνεισφορά μου, όχι αποτέλεσμα του hackathon.
-
-## ⚡Αν έχετε 10 λεπτά για να με αξιολογήσετε
-
-Η ιδέα δεν είναι μόνο να δούμε τον κώδικα: είναι να δούμε**Πώς νομίζω**, πώς καταγράφω, και πώς κάνω τα πάντα εκτελέσιμα.
-
-**Διαδρομή Α — Πραγματική παρατηρητικότητα και ενορχήστρωση*** (το αγαπημένο μου) *
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Θα δείτε ροές εργασίας, μετρικούς, ταμπλό, και guardrails σε 20 περιπτώσεις και 18 + DB κινητήρες.
-
-**Διαδρομή Β — Αναπαραγωγή υποδομή σε λεπτά**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Διαδρομή Γ — Πράκτορες με δακτυλογραφημένη κατάσταση**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Διαδρομή Δ — εγκληματολογικό προϊόν Rust, χωρίς κλωνοποίηση**
-
-Κατεβάστε το δυαδικό εγκατάστασης ή CLI από[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)και να επαληθεύσει`SHA256SUMS`.
 
 ## 🧠Πρότυπα που εφαρμόζω σε όλα τα αποθετήρια
 

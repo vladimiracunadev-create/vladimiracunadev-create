@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#النظام-الإيكولوجي-في-غلاف) ·
 [🛠️ المكدس التقني](#-المكدس-التقني) ·
-[⚡ Evaluate me in 10 minutes](#إذا-كان-لديك-10-دقائق-لتقييمي) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.ar.md) ·
 [✅ Professional scope](#النطاق-المهني) ·
 [🧭 Non-coding management](#فرص-العمل-في-مجالات-الإدارة-والإدارة-وغير-الترميز) ·
 [📋 مصفوفة المناصب](PROFESIONAL_ROLES.ar.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **دوري:** الوصول إلى البيانات (استعلامات IRSA مع ذاكرة تخزين مؤقت وحساب مسبق لحقول العرض التجريبي)، والتغليف (PWA ومثبّتات سطح المكتب بـ Tauri وملف APK لأندرويد بـ Capacitor)، وواجهة «التنزيلات»، وتدقيق الاتساق بين التوثيق والشيفرة.
 - **تسليم يمكن التحقق منه:** يجمع [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) 7 إصدارات (من v0.1.0 إلى v0.4.2) مع مجاميع SHA-256 · [تطبيق الويب](https://spherex-planet-x-tau.vercel.app/) · [مستودع الفريق](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **حدود معلنة:** العارض والتصميم وبقية الواجهة الخلفية من عمل أعضاء آخرين في الفريق؛ المثبّتات غير موقّعة ولم تُختبر على أجهزة حقيقية؛ استخدمتُ الذكاء الاصطناعي (Claude Code) مساعدًا كما هو معلن في المستودع. هذا يصف مساهمتي لا نتيجة الهاكاثون.
-
-## ⚡إذا كان لديك 10 دقائق لتقييمي
-
-الفكرة ليست فقط أن ننظر إلى الرمز:**كيف أعتقد**كيف أوثق وكيف أجعل كل شيء قابل للتنفيذ
-
-**الطريق ألف - القابلية للملاحظة والتشائم الحقيقية*** (أفضلي)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-سترون سير العمل، والمقاييس، ولوحات الدبابيس، وأجهزة الحراسة في 20 حالة و18+ محركات الـ دي بي.
-
-**الطريق باء - الهياكل الأساسية القابلة للتكاثر في دقائق**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**الطريق جيم - العملاء الذين لديهم ولاية مطبعة**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**الطريق دال - نتاج الطب الشرعي الشائع، بدون استنساخ**
-
-تحميل المُسلّح أو مُعدّل (كيلي) من[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)التحقق من`SHA256SUMS`.
 
 ## 🧠المعايير التي أطبقها في جميع أنحاء المخازن
 

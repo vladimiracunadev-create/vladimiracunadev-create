@@ -33,7 +33,7 @@
 [🌐 Portfólio (22 idiomas)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecossistema](#-ecossistema-em-uma-visão) ·
 [🛠️ Stack tecnológico](#-stack-tecnológico) ·
-[⚡ Avalie-me em 10 minutos](#-se-você-tem-10-minutos-para-me-avaliar) ·
+[⚡ Avalie-me em 10 minutos](docs/guides/TECH_LEAD.pt.md) ·
 [✅ Escopo profissional](#-escopo-profissional) ·
 [🧭 Gestão sem programação](#-gestão-administração-e-oportunidades-profissionais-sem-programação) ·
 [📋 Matriz de cargos](PROFESIONAL_ROLES.pt.md) ·
@@ -231,34 +231,6 @@ Participei do **NASA Space Apps Challenge 2026** (Santiago, 14 e 15 de novembro)
 - **Minha parte:** acesso a dados (consultas ao IRSA com cache e pré-cálculo dos campos da demo), empacotamento (PWA, instaladores de desktop com Tauri e APK Android com Capacitor), a tela «Downloads» e uma auditoria de coerência entre documentação e código.
 - **Entrega verificável:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) reúne 7 releases (v0.1.0 a v0.4.2) com somas SHA-256 · [aplicação web](https://spherex-planet-x-tau.vercel.app/) · [repositório da equipe](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Limites declarados:** o visualizador, o design e o restante do backend são trabalho de outras pessoas da equipe; os instaladores não são assinados nem foram testados em equipamentos reais; usei IA (Claude Code) como assistente, o que está declarado no repositório. Isto descreve a minha contribuição, não um resultado do hackathon.
-
-## ⚡ Se Você Tem 10 Minutos Para Me Avaliar
-
-A ideia não é apenas olhar código: é ver **como penso**, como documento e como faço tudo ser executável.
-
-**Rota A — Observabilidade e orquestração real** *(minha favorita)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Você verá workflows, métricas, dashboards e guardrails sobre 20 casos e 18+ motores de BD.
-
-**Rota B — Infraestrutura reproduzível em minutos**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Rota C — Agentes com estado tipado**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Rota D — Produto forense em Rust, sem clonar**
-
-Baixe o instalador ou binário CLI em [releases do RootCause](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases) e verifique `SHA256SUMS`.
 
 ## 🧠 Padrões Que Aplico Em Todos Os Repositórios
 

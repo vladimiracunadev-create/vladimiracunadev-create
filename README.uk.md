@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#екосистема-на-погляді) ·
 [🛠️ Технологічний стек](#-технологічний-стек) ·
-[⚡ Evaluate me in 10 minutes](#якщо-ви-маєте-10-хвилин-щоб-оцінити-мене) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.uk.md) ·
 [✅ Professional scope](#професійний-scope) ·
 [🧭 Non-coding management](#управління-адміністрування-та-незгодні-можливості-карєри) ·
 [📋 Матриця посад](PROFESIONAL_ROLES.uk.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **Моя частина:** доступ до даних (запити до IRSA з кешем і наперед обчислені поля демо), пакування (PWA, настільні інсталятори на Tauri та APK для Android на Capacitor), розділ «Завантаження» та аудит узгодженості документації й коду.
 - **Перевірювана поставка:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) збирає 7 релізів (від v0.1.0 до v0.4.2) із контрольними сумами SHA-256 · [вебзастосунок](https://spherex-planet-x-tau.vercel.app/) · [репозиторій команди](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Заявлені обмеження:** переглядач, дизайн і решта бекенду — робота інших учасників команди; інсталятори не підписані й не перевірялися на реальних пристроях; я використовував ШІ (Claude Code) як помічника, що зазначено в репозиторії. Це описує мій внесок, а не результат хакатону.
-
-## ⚡Якщо ви маєте 10 хвилин, щоб оцінити мене
-
-Ідея не просто подивитися на код: це подивитися**Як я думаю**, як я документ, і як я зробити все прийнятним.
-
-**Маршрут А — Реал спостережності та оркестрування***(my улюблений)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Ви побачите робочі процеси, метрики, прилади, охоронці по 20 корпусах та 18+ ДБ-двигунів.
-
-**Маршрут B — Відповідна інфраструктура за хвилину**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Маршрут С — Агенти з типом**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Маршрут D — Rust forensic продукт, без склінінгу**
-
-Завантажити інсталятор або CLI бінарні з[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)і перевірка`SHA256SUMS`.
 
 ## 🧠Стандарти, які я застосовую в усіх репозиторіях
 

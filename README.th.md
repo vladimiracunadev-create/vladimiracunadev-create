@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ภาพรวมระบบนิเวศ) ·
 [🛠️ เทคโนโลยีสแตก](#-เทคโนโลยีสแตก) ·
-[⚡ Evaluate me in 10 minutes](#หากคุณมีเวลา-10-นาทีเพื่อประเมินผม) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.th.md) ·
 [✅ Professional scope](#ขอบเขตงาน) ·
 [🧭 Non-coding management](#การจัดการ-การบริหาร-และโอกาสงานที่ไม่ประสบความสําเร็จ) ·
 [📋 เมทริกซ์ตำแหน่งงาน](PROFESIONAL_ROLES.th.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **ส่วนของฉัน:** การเข้าถึงข้อมูล (คิวรี IRSA พร้อมแคชและคำนวณพื้นที่เดโมล่วงหน้า) การแพ็กเกจ (PWA ตัวติดตั้งเดสก์ท็อปด้วย Tauri และ APK Android ด้วย Capacitor) หน้า “ดาวน์โหลด” และการตรวจสอบความสอดคล้องระหว่างเอกสารกับโค้ด
 - **ส่งมอบที่ตรวจสอบได้:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) รวม 7 รีลีส (v0.1.0 ถึง v0.4.2) พร้อมค่า SHA-256 · [เว็บแอป](https://spherex-planet-x-tau.vercel.app/) · [ที่เก็บของทีม](https://github.com/mauriciovalenzuela742/SPHEREX)
 - **ข้อจำกัดที่แจ้งไว้:** ตัวแสดงผล การออกแบบ และแบ็กเอนด์ส่วนที่เหลือเป็นผลงานของสมาชิกคนอื่นในทีม ตัวติดตั้งไม่ได้ลงนามและยังไม่ได้ทดสอบบนอุปกรณ์จริง ฉันใช้ AI (Claude Code) เป็นผู้ช่วยตามที่ระบุไว้ในที่เก็บ นี่คือการอธิบายส่วนที่ฉันทำ ไม่ใช่ผลการแข่งขัน
-
-## ⚡หากคุณมีเวลา 10 นาทีเพื่อประเมินผม
-
-แนวคิดไม่ใช่แค่ดูรหัสเท่านั้น คือต้องมอง**ที่ฉันคิด**ผมบันทึกเอกสารอย่างไร และทําทุกสิ่งให้สําเร็จได้อย่างไร
-
-**เส้น ทาง เอ — ความ ทุกข์ จริง ๆ และ การ ร้อง เพลง บรรเลง ออร์ เคส ตรา**♪ (โปรดของฉัน) ♪
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-คุณจะเห็นการไหลของแรงงาน เมตริก แผงหน้าปัด และรางรถข้าม 20 กรณี และเครื่องยนต์ DB 18+
-
-**เส้น ทาง บี — โครง สร้าง แบบ โครงสร้าง ที่ สามารถ ทดแทน ได้ ใน เวลา ไม่ กี่ นาที**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**เส้น ทาง C — เจ้า หน้าที่ ที่ มี ขนาด พิมพ์**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**เส้น ทาง ดี — สินค้า ทาง การ แพทย์ ที่ แยบยล ปราศจาก การ ปลอม แปลง**
-
-ดาวน์โหลดตัวติดตั้งหรือเลขฐานสองของ CLI จาก[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)และตรวจสอบ`SHA256SUMS`.
 
 ## 🧠มาตรฐานที่ผมใช้ในทุกคลัง
 

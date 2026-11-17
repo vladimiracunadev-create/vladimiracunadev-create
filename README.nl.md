@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ecosysteem-bij-een-glance) ·
 [🛠️ Technologiestack](#-technologiestack) ·
-[⚡ Evaluate me in 10 minutes](#als-je-10-minuten-hebt-om-mij-te-evalueren) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.nl.md) ·
 [✅ Professional scope](#beroepsterrein) ·
 [🧭 Non-coding management](#management-administratie-en-niet-coding-carrièremogelijkheden) ·
 [📋 Functiematrix](PROFESIONAL_ROLES.nl.md) ·
@@ -232,34 +232,6 @@ Ik deed mee aan de **NASA Space Apps Challenge 2026** (Santiago, 14 en 15 novemb
 - **Mijn deel:** gegevenstoegang (IRSA-query's met cache en vooraf berekende demovelden), verpakking (PWA, desktopinstallers met Tauri en een Android-APK met Capacitor), de weergave “Downloads” en een consistentie-audit tussen documentatie en code.
 - **Verifieerbare oplevering:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) bundelt 7 releases (v0.1.0 t/m v0.4.2) met SHA-256-checksums · [webapp](https://spherex-planet-x-tau.vercel.app/) · [teamrepository](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Verklaarde grenzen:** de viewer, het ontwerp en de rest van de backend zijn werk van andere teamleden; de installers zijn niet ondertekend en niet op echte apparaten getest; ik gebruikte AI (Claude Code) als assistent, zoals in de repository vermeld. Dit beschrijft mijn bijdrage, geen hackathonresultaat.
-
-## ⚡Als je 10 minuten hebt om mij te evalueren
-
-Het idee is niet alleen om naar code te kijken: het is om te zien**hoe ik denk**, hoe ik documenteer, en hoe ik alles uitvoerbaar maak.
-
-**Route A ***(my favorite) *
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-U ziet workflows, metrics, dashboards en vangrails in 20 gevallen en 18+ DB motoren.
-
-**Route B . . . Reproduceerbare infrastructuur in minuten**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Route C **
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Route D **
-
-Download de installatie of CLI binair van[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)en controleren`SHA256SUMS`.
 
 ## 🧠Standaarden die ik toepaste in alle repositories
 

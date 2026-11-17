@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#hệ-thống-sinh-thái-đang-hưng-thịnh) ·
 [🛠️ Ngăn xếp công nghệ](#-ngăn-xếp-công-nghệ) ·
-[⚡ Evaluate me in 10 minutes](#nếu-anh-có-10-phút-để-đánh-giá-tôi) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.vi.md) ·
 [✅ Professional scope](#phạm-vi-chuyên-nghiệp) ·
 [🧭 Non-coding management](#quản-lý-quản-lý-và-không-kiểm-soát-sự-bất-tiện-của-các-nhà-kinh-doanh) ·
 [📋 Ma trận vị trí](PROFESIONAL_ROLES.vi.md) ·
@@ -232,34 +232,6 @@ Tôi đã tham gia **NASA Space Apps Challenge 2026** (Santiago, 14–15/11), �
 - **Phần của tôi:** truy cập dữ liệu (truy vấn IRSA có bộ nhớ đệm và tính trước các vùng demo), đóng gói (PWA, trình cài đặt máy tính dùng Tauri và APK Android dùng Capacitor), màn hình “Tải xuống” và kiểm toán tính nhất quán giữa tài liệu và mã.
 - **Bàn giao có thể kiểm chứng:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) tập hợp 7 bản phát hành (v0.1.0 đến v0.4.2) kèm tổng kiểm SHA-256 · [ứng dụng web](https://spherex-planet-x-tau.vercel.app/) · [kho mã của nhóm](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Giới hạn đã nêu:** trình xem, thiết kế và phần backend còn lại là công sức của các thành viên khác; trình cài đặt chưa được ký và chưa thử trên thiết bị thật; tôi dùng AI (Claude Code) làm trợ lý, như đã khai báo trong kho mã. Đây mô tả đóng góp của tôi, không phải kết quả hackathon.
-
-## ⚡Nếu anh có 10 phút để đánh giá tôi
-
-Ý tưởng không chỉ là chỉ nhìn vào mã: nó là để xem**Tôi nghĩ sao?**tài liệu của tôi, và cách tôi làm mọi thứ có thể thực hiện được.
-
-**Đường A — Thật sự khó đi và có sự dàn xếp***(người tôi yêu thích)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Bạn sẽ thấy dòng chảy, số đo, bảng điều khiển và đường ống bảo vệ trong 20 trường hợp và 18+DB động cơ.
-
-**Đường B — Cơ sở hạ tầng có khả năng phục hồi trong vài phút**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Đường C — Các đặc vụ có chữ**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Đường D — Đi quá trình pháp y, không nhân bản**
-
-Tải về các chương trình cài đặt hay clI từ[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)và xác nhận`SHA256SUMS`.
 
 ## 🧠Những tiêu chuẩn tôi áp dụng xuyên qua các kho
 

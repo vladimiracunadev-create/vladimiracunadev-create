@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#ekosistem-pada-a-glance) ·
 [🛠️ Tumpukan teknologi](#-tumpukan-teknologi) ·
-[⚡ Evaluate me in 10 minutes](#jika-kau-memiliki-10-menit-untuk-mengevaluasi-aku) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.id.md) ·
 [✅ Professional scope](#scope-profesional) ·
 [🧭 Non-coding management](#manajemen-administrasi-dan-non--coding-kesempatan-karir) ·
 [📋 Matriks jabatan](PROFESIONAL_ROLES.id.md) ·
@@ -232,34 +232,6 @@ Saya berpartisipasi dalam **NASA Space Apps Challenge 2026** (Santiago, 14–15 
 - **Bagian saya:** akses data (kueri IRSA dengan cache dan prakomputasi bidang demo), pengemasan (PWA, installer desktop dengan Tauri, dan APK Android dengan Capacitor), tampilan “Unduhan”, serta audit konsistensi antara dokumentasi dan kode.
 - **Penyerahan yang dapat diverifikasi:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) menghimpun 7 rilis (v0.1.0 hingga v0.4.2) dengan checksum SHA-256 · [aplikasi web](https://spherex-planet-x-tau.vercel.app/) · [repositori tim](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Batasan yang dinyatakan:** penampil, desain, dan sisa backend adalah hasil kerja anggota tim lain; installer tidak ditandatangani dan belum diuji pada perangkat nyata; saya memakai AI (Claude Code) sebagai asisten, sebagaimana dinyatakan di repositori. Ini menjelaskan kontribusi saya, bukan hasil hackathon.
-
-## ⚡Jika kau memiliki 10 menit untuk mengevaluasi aku
-
-Idenya bukan hanya untuk melihat kode: itu adalah untuk melihat**bagaimana saya berpikir**, bagaimana saya mendokumentasikan, dan bagaimana saya membuat semuanya dapat dieksekusi.
-
-**Rute A-Observabilitas nyata dan orkestra**♪ (Favoritku) ♪
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-Anda akan melihat aliran kerja, metrik, dashboard, dan pagar di 20 kasus dan 18 + mesin DB.
-
-**Rute B - infrastruktur reproduksi dalam beberapa menit**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Route C - Agen dengan keadaan diketik**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Route D - Produk forensik Rust, tanpa kloning**
-
-Unduh pemasang atau biner CLI dari[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)dan memverifikasi`SHA256SUMS`.
 
 ## 🧠Standar yang saya terapkan di semua repositori
 

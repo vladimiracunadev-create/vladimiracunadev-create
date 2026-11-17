@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#한눈에-보는-생태계) ·
 [🛠️ 기술 스택](#-기술-스택) ·
-[⚡ Evaluate me in 10 minutes](#저를-평가할-시간이-10분이라면) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.ko.md) ·
 [✅ Professional scope](#전문-범위) ·
 [🧭 Non-coding management](#관리-관리-비-코딩-경력-기회) ·
 [📋 직무 매트릭스](PROFESIONAL_ROLES.ko.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **제가 맡은 부분:** 데이터 접근(캐시를 둔 IRSA 쿼리와 데모 영역 사전 계산), 패키징(PWA, Tauri 데스크톱 설치 프로그램, Capacitor 기반 Android APK), '다운로드' 화면, 문서와 코드 간 일관성 감사.
 - **검증 가능한 산출물:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases)에 SHA-256 체크섬이 포함된 7개 릴리스(v0.1.0~v0.4.2)가 모여 있습니다 · [웹 앱](https://spherex-planet-x-tau.vercel.app/) · [팀 저장소](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **밝혀 둔 한계:** 뷰어, 디자인, 나머지 백엔드는 팀의 다른 구성원이 만들었습니다. 설치 프로그램은 서명되지 않았고 실제 기기에서 테스트하지 않았습니다. AI(Claude Code)를 보조 도구로 사용했으며 저장소에 명시했습니다. 이는 제 기여를 설명하는 것이며 해커톤 결과가 아닙니다.
-
-## ⚡저를 평가할 시간이 10분이라면
-
-아이디어는 코드를 볼 수 없습니다 : 그것은 볼 수 있습니다**어떻게 생각**, 어떻게 문서, 그리고 어떻게 모든 실행을 만드는.
-
-**A 루트 - 실제 관찰성 및 관현*** (내가 좋아)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-워크플로우, 메트릭, 대시보드, 가드 레일을 20건 이상, 18+ DB엔드를 볼 수 있습니다.
-
-**Route B - 몇 분 안에 재현 가능한 인프라**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Route C - 유형 상태와 에이전트**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Route D - cloning없이 Rust forensic 제품**
-
-installer 또는 CLI 바이너리를 다운로드[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)관련 기사`SHA256SUMS`.
 
 ## 🧠모든 저장소에 적용하는 표준
 

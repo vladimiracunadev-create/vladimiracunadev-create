@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#地球の環境システム) ·
 [🛠️ 技術スタック](#-技術スタック) ·
-[⚡ Evaluate me in 10 minutes](#自分を評価するために10分を持っている場合) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.ja.md) ·
 [✅ Professional scope](#プロフェッショナルスコープ) ·
 [🧭 Non-coding management](#経営管理非コーディングのキャリア機会) ·
 [📋 職種マトリクス](PROFESIONAL_ROLES.ja.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **私の担当：**データアクセス（キャッシュ付きの IRSA クエリとデモ領域の事前計算）、パッケージング（PWA、Tauri のデスクトップインストーラー、Capacitor の Android APK）、「ダウンロード」画面、ドキュメントとコードの整合性監査。
 - **検証可能な成果物：**[spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) に SHA-256 チェックサム付きの7つのリリース（v0.1.0〜v0.4.2）をまとめています · [ウェブアプリ](https://spherex-planet-x-tau.vercel.app/) · [チームのリポジトリ](https://github.com/mauriciovalenzuela742/SPHEREX)。
 - **明示する限界：**ビューア、デザイン、残りのバックエンドはチームの他のメンバーの成果です。インストーラーは未署名で、実機では試していません。AI（Claude Code）をアシスタントとして使い、リポジトリに明記しています。これは私の貢献を述べたもので、ハッカソンの結果ではありません。
-
-## ⚡自分を評価するために10分を持っている場合
-
-アイデアはコードを見るだけでなく、: それは参照することです**考え方**、どのようにドキュメントをするか、そして、どのようにして実行可能かを全て作ります。
-
-**ルートA — 実質の観察とオーケストラ***(お気に入り)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-20例と18以上のDBエンジンのワークフロー、メトリック、ダッシュボード、ガードレールなどがご覧いただけます。
-
-**B号線 — 数分で再発可能なインフラ**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**ルートC — 型付き状態のエージェント**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**ルートD — 錆びない製品、クローニングなし**
-
-インストーラーまたはCLIバイナリーをダウンロード[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)確認・確認`SHA256SUMS`.
 
 ## 🧠リポジトリ全体で適用する標準
 

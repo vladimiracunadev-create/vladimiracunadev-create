@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#生態系統一一) ·
 [🛠️ 技術堆疊](#-技術堆疊) ·
-[⚡ Evaluate me in 10 minutes](#如果你有十分鐘的時間來評價我) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.zh-TW.md) ·
 [✅ Professional scope](#專業範圍) ·
 [🧭 Non-coding management](#管理行政和非編碼職業機會) ·
 [📋 職位矩陣](PROFESIONAL_ROLES.zh-TW.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **我的部分：**資料訪問（帶快取的 IRSA 查詢和預先計算的演示區域）、打包（PWA、基於 Tauri 的桌面安裝包和基於 Capacitor 的 Android APK）、“下載”頁面，以及文件與程式碼之間的一致性審計。
 - **可驗證的交付：**[spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) 彙集了 7 個釋出版本（v0.1.0 至 v0.4.2），附 SHA-256 校驗和 · [網頁應用](https://spherex-planet-x-tau.vercel.app/) · [團隊倉庫](https://github.com/mauriciovalenzuela742/SPHEREX)。
 - **宣告的侷限：**檢視器、設計和其餘後端由團隊其他成員完成；安裝包未簽名，也未在真實裝置上測試；我使用 AI（Claude Code）作為助手，並已在倉庫中宣告。這描述的是我的貢獻，而不是駭客松的成績。
-
-## ⚡如果你有十分鐘的時間來評價我
-
-想法不僅僅是看程式碼,而是看**怎麼樣**記錄我的方式 以及我如何使一切可以執行
-
-**A道——真正可觀察和有條理***(我最喜歡的) *
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-將會看到工作流程, 度量衡,儀表板, 和護欄, 覆蓋20個案例和18+ DB引擎。
-
-**B道——幾分鐘內可複製的基礎設施**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**C道——具有型別狀態的代理**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**D道——不克隆的粗糙法證產品**
-
-從中下載安裝器或 CLI 二進位制[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)並核實`SHA256SUMS`.
 
 ## 🧠標準一應用到所有倉庫
 

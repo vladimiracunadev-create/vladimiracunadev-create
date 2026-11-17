@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#سیستم-در-یک-نگاه) ·
 [🛠️ پشتهٔ فناوری](#-پشتهٔ-فناوری) ·
-[⚡ Evaluate me in 10 minutes](#اگر-10-دقیقه-وقت-دارید-تا-من-را-ارزیابی-کنید) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.fa.md) ·
 [✅ Professional scope](#حرفه-ای) ·
 [🧭 Non-coding management](#مدیریت-مدیریت-و-فرصت-های-شغلی-غیر-مشارکتی) ·
 [📋 ماتریس مشاغل](PROFESIONAL_ROLES.fa.md) ·
@@ -232,34 +232,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **سهم من:** دسترسی به داده (پرس‌وجوهای IRSA با حافظهٔ نهان و پیش‌محاسبهٔ ناحیه‌های دمو)، بسته‌بندی (PWA، نصب‌کنندهٔ دسکتاپ با Tauri و APK اندروید با Capacitor)، بخش «دانلودها» و ممیزی انسجام میان مستندات و کد.
 - **تحویل قابل راستی‌آزمایی:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) هفت انتشار (از v0.1.0 تا v0.4.2) را با جمع‌های SHA-256 گردآوری می‌کند · [برنامهٔ وب](https://spherex-planet-x-tau.vercel.app/) · [مخزن تیم](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **محدودیت‌های اعلام‌شده:** نمایشگر، طراحی و بقیهٔ بک‌اند کار دیگر اعضای تیم است؛ نصب‌کننده‌ها امضا نشده‌اند و روی دستگاه واقعی آزمایش نشده‌اند؛ از هوش مصنوعی (Claude Code) به‌عنوان دستیار استفاده کردم و در مخزن اعلام شده است. این توصیف سهم من است، نه نتیجهٔ هکاتون.
-
-## ⚡اگر 10 دقیقه وقت دارید تا من را ارزیابی کنید
-
-ایده فقط نگاه کردن به کد نیست: دیدن کد است.**چگونه فکر می کنم**چگونه سند می کنم و چگونه همه چیز را اجرا می کنم.
-
-**مسیر A – قابلیت های واقعی و ارکستر**(من مورد علاقه ام)
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-شما گردش های کاری، معیارها، داشبورد ها و محافظ ها را در 20 مورد و 18 موتور DB مشاهده خواهید کرد.
-
-**جاده B – زیرساخت های قابل بازیافت در دقیقه**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**مسیر C – نمایندگان با حالت تایپ**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**مسیر D – محصول قانونی Rust بدون نظارت**
-
-دانلود بازی The installer یا binary از[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)و تایید`SHA256SUMS`.
 
 ## 🧠استانداردهایی که در سراسر مخازن اعمال می کنم
 

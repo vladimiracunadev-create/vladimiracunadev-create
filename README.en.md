@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#-ecosystem-at-a-glance) ·
 [🛠️ Technology stack](#-technology-stack) ·
-[⚡ Evaluate me in 10 minutes](#-if-you-have-10-minutes-to-evaluate-me) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.en.md) ·
 [✅ Professional scope](#-professional-scope) ·
 [🧭 Non-coding management](#-management-administration-and-non-coding-career-opportunities) ·
 [📋 Role matrix](PROFESIONAL_ROLES.en.md) ·
@@ -232,34 +232,6 @@ I took part in the **NASA Space Apps Challenge 2026** (Santiago, November 14–1
 - **My part:** data access (IRSA queries with caching and precomputed demo fields), packaging (PWA, Tauri desktop installers and a Capacitor Android APK), the “Downloads” view, and a consistency audit between documentation and code.
 - **Verifiable delivery:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) gathers 7 releases (v0.1.0 to v0.4.2) with SHA-256 checksums · [web app](https://spherex-planet-x-tau.vercel.app/) · [team repository](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Declared limits:** the viewer, the design and the rest of the backend are the work of other team members; the installers are unsigned and were not tested on real devices; I used AI (Claude Code) as an assistant, as declared in the repository. This describes my contribution, not a hackathon result.
-
-## ⚡ If You Have 10 Minutes To Evaluate Me
-
-The idea is not just to look at code: it is to see **how I think**, how I document, and how I make everything executable.
-
-**Route A — Real observability and orchestration** *(my favorite)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-You will see workflows, metrics, dashboards, and guardrails across 20 cases and 18+ DB engines.
-
-**Route B — Reproducible infrastructure in minutes**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Route C — Agents with typed state**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Route D — Rust forensic product, without cloning**
-
-Download the installer or CLI binary from [RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases) and verify `SHA256SUMS`.
 
 ## 🧠 Standards I Apply Across Repositories
 

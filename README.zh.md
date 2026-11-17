@@ -33,7 +33,7 @@
 [🌐 作品集（22 种语言）](https://vladimiracunadev-create.github.io/) ·
 [🧩 生态系统](#-生态系统概览) ·
 [🛠️ 技术栈](#-技术栈) ·
-[⚡ 10 分钟评估我](#-如果你有-10-分钟评估我) ·
+[⚡ 10 分钟评估我](docs/guides/TECH_LEAD.zh.md) ·
 [✅ 专业范围](#-专业范围) ·
 [🧭 无需编程的管理机会](#-管理行政与无需编程的职业机会) ·
 [📋 岗位矩阵](PROFESIONAL_ROLES.zh.md) ·
@@ -231,34 +231,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **我的部分：**数据访问（带缓存的 IRSA 查询和预先计算的演示区域）、打包（PWA、基于 Tauri 的桌面安装包和基于 Capacitor 的 Android APK）、“下载”页面，以及文档与代码之间的一致性审计。
 - **可验证的交付：**[spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) 汇集了 7 个发布版本（v0.1.0 至 v0.4.2），附 SHA-256 校验和 · [网页应用](https://spherex-planet-x-tau.vercel.app/) · [团队仓库](https://github.com/mauriciovalenzuela742/SPHEREX)。
 - **声明的局限：**查看器、设计和其余后端由团队其他成员完成；安装包未签名，也未在真实设备上测试；我使用 AI（Claude Code）作为助手，并已在仓库中声明。这描述的是我的贡献，而不是黑客松的成绩。
-
-## ⚡ 如果你有 10 分钟评估我
-
-重点不只是看代码，而是看**我如何思考**、如何写文档、如何让一切可运行。
-
-**路线 A — 真实可观测性与编排** *(我最推荐)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-你会看到 workflows、metrics、dashboards 和 guardrails，覆盖 20 cases 与 18+ DB engines。
-
-**路线 B — 几分钟内复现基础设施**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**路线 C — 带 typed state 的 agents**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**路线 D — Rust 取证产品，无需 clone**
-
-从 [RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases) 下载 installer 或 CLI binary，并验证 `SHA256SUMS`。
 
 ## 🧠 我在所有仓库中应用的标准
 

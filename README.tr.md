@@ -33,7 +33,7 @@
 [🌐 Portfolio (22 languages)](https://vladimiracunadev-create.github.io/) ·
 [🧩 Ecosystem](#bir-bakışta-ekosistem) ·
 [🛠️ Teknoloji yığını](#-teknoloji-yığını) ·
-[⚡ Evaluate me in 10 minutes](#beni-değerlendirmek-için-10-dakikanız-varsa) ·
+[⚡ Evaluate me in 10 minutes](docs/guides/TECH_LEAD.tr.md) ·
 [✅ Professional scope](#profesyonel-kapsam) ·
 [🧭 Non-coding management](#yönetim-yönetim-ve-kariyer-fırsatları) ·
 [📋 Rol matrisi](PROFESIONAL_ROLES.tr.md) ·
@@ -232,34 +232,6 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 - **Benim payım:** veri erişimi (önbellekli IRSA sorguları ve demo alanlarının önceden hesaplanması), paketleme (PWA, Tauri ile masaüstü yükleyicileri ve Capacitor ile Android APK), “İndirmeler” görünümü ve belgeler ile kod arasında tutarlılık denetimi.
 - **Doğrulanabilir teslimat:** [spherex-releases](https://github.com/vladimiracunadev-create/spherex-releases) SHA-256 toplamlarıyla 7 sürümü (v0.1.0–v0.4.2) bir araya getirir · [web uygulaması](https://spherex-planet-x-tau.vercel.app/) · [ekip deposu](https://github.com/mauriciovalenzuela742/SPHEREX).
 - **Beyan edilen sınırlar:** görüntüleyici, tasarım ve arka uç geri kalanı ekibin diğer üyelerinin işidir; yükleyiciler imzasız olup gerçek cihazlarda denenmemiştir; depoda beyan edildiği gibi yardımcı olarak yapay zekâ (Claude Code) kullandım. Bu, benim katkımı anlatır; hackathon sonucu değildir.
-
-## ⚡Beni değerlendirmek için 10 dakikanız varsa
-
-Fikir sadece koda bakmak değildir: görmektir**Nasıl düşündüğümü nasıl düşünüyorum**Nasıl belgeliyim ve her şeyi nasıl genişletebilirim.
-
-**Yol A - Gerçek gözlemlenebilirlik ve orkestration***(En sevdiğim)*
-
-```bash
-git clone https://github.com/vladimiracunadev-create/social-bot-scheduler.git
-```
-
-İş akışlarını, ölçümleri, panoları ve 20 vaka ve 18+ DB motorlarında bekçileri göreceksiniz.
-
-**B - Reproducible altyapı dakikalar içinde**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/docker-labs.git
-```
-
-**Yol C - Tiplenmiş devletli Ajanlar**
-
-```bash
-git clone https://github.com/vladimiracunadev-create/langgraph-realworld.git
-```
-
-**Route D – Rust adli ürün, klonlama olmadan**
-
-Yüklemeci veya Küçlüyü İndirin[RootCause releases](https://github.com/vladimiracunadev-create/rootcause-windows-inspector/releases)ve doğruyu doğrulayın`SHA256SUMS`.
 
 ## 🧠Tüm depolarda uyguladığım standartlar
 
