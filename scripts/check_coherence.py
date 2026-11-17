@@ -117,6 +117,15 @@ if ref and len(ref) > 3:
         if badge_prog and filas != int(badge_prog.group(1)):
             err(f"{p}: {filas} programas en la tabla y la insignia dice {badge_prog.group(1)}")
 
+# 6b) el gráfico de cada idioma debe mostrar el total de clases y el número de programas del contador
+if ref and len(ref) > 3 and badge_prog:
+    PERS8 = str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")
+    for sv in sorted(glob.glob("docs/img/ecosystem*.svg")):
+        tit = next((l for l in read(sv).splitlines() if "📚" in l and 'font-weight="bold"' in l), "")
+        digitos = re.sub(r"\D", "", re.sub(r"<[^>]*>", "", tit).translate(PERS8))
+        if f"{badge_prog.group(1)}{ref[3]}" not in digitos:
+            err(f"{sv}: el título de currículos no muestra {badge_prog.group(1)} programas y {ref[3]} clases")
+
 # 7) forks: el total del encabezado, la suma de sus categorías y las filas deben coincidir con el contador de forks de terceros
 if ref and len(ref) > 5:
     PERS7 = str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")
