@@ -207,7 +207,7 @@ Technologies détectées dans les dépôts publics (manifestes, dépendances, co
 
 ## 🗺️ L’Écosystème En Un Coup D’Œil
 
-![🧠 Jugement technique — architecture · modernisation · opération](docs/img/ecosystem.fr.bb40ab4a.svg)
+![🧠 Jugement technique — architecture · modernisation · opération](docs/img/ecosystem.fr.92cf4481.svg)
 
 ## 🗂️ Écosystème : produits, laboratoires, IA appliquée, cursus et calcul scientifique
 

@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️سیستم در یک نگاه
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.8d6c153f.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.a07c8ce2.svg)
 
 ## 🗂️ اکوسیستم: محصولات، آزمایشگاه‌ها، هوش مصنوعی کاربردی، برنامه‌های آموزشی و محاسبات علمی
 

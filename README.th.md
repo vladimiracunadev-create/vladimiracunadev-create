@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️ภาพรวมระบบนิเวศ
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.th.0d27879d.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.th.6f623d66.svg)
 
 ## 🗂️ ระบบนิเวศ: ผลิตภัณฑ์ ห้องปฏิบัติการ AI ประยุกต์ หลักสูตร และการคำนวณเชิงวิทยาศาสตร์
 

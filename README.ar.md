@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️النظام الإيكولوجي في غلاف
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ar.c3181c72.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ar.9e606c90.svg)
 
 ## 🗂️ المنظومة: المنتجات والمختبرات والذكاء الاصطناعي التطبيقي والمناهج والحوسبة العلمية
 
