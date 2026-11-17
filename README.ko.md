@@ -18,10 +18,10 @@
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#한눈에-보는-생태계)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-16858-3fb950?style=for-the-badge)](#완전한-기술-교육과정)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](#완전한-기술-교육과정)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.ko.md#forks)
-[![Commits](https://img.shields.io/badge/commits-4689-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
@@ -317,6 +317,6 @@ installer 또는 CLI 바이너리를 다운로드[RootCause releases](https://gi
 [🛡️ Security](SECURITY.ko.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.ko.md)
 
-<sub>README는 공개 저장소의 검증 가능한 상태와 동기화되어 있습니다 —수치와 변경 사항은 API로 읽음— · 최종 검증: <!-- VERIFIED:START -->2026-11-16<!-- VERIFIED:END -->.</sub>
+<sub>README는 공개 저장소의 검증 가능한 상태와 동기화되어 있습니다 —수치와 변경 사항은 API로 읽음— · 최종 검증: <!-- VERIFIED:START -->2026-11-17<!-- VERIFIED:END -->.</sub>
 
 </div>

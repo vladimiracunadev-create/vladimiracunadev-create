@@ -18,10 +18,10 @@
 [![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-16858-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-18418-3fb950?style=for-the-badge)](#-currículos-técnicos-completos)
 [![Forks recibidos](https://img.shields.io/badge/forks%20recibidos-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Forks de terceros](https://img.shields.io/badge/forks%20de%20terceros-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.md#forks)
-[![Commits](https://img.shields.io/badge/commits-4689-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
@@ -317,6 +317,6 @@ Análisis de negocio y procesos · Gestión de proyectos tecnológicos · Produc
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: <!-- VERIFIED:START -->2026-11-16<!-- VERIFIED:END -->.</sub>
+<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: <!-- VERIFIED:START -->2026-11-17<!-- VERIFIED:END -->.</sub>
 
 </div>
