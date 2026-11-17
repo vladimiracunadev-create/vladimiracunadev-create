@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️पारिस्थितिकी तंत्र एक झलक में
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.hi.ae1758d7.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.hi.29ae41f7.svg)
 
 ## 🗂️ पारिस्थितिकी तंत्र: उत्पाद, प्रयोगशालाएँ, अनुप्रयुक्त AI, पाठ्यक्रम और वैज्ञानिक कम्प्यूटिंग
 

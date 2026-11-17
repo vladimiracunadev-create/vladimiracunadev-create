@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️地球の環境システム
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ja.31ca1be4.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ja.6e88c7b1.svg)
 
 ## 🗂️ エコシステム：プロダクト、ラボ、応用AI、カリキュラム、科学計算
 

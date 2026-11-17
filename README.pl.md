@@ -208,7 +208,7 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 ## 🗺️Ekosystem w odblasku
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.pl.ad2c0d37.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.pl.6ea1c1ba.svg)
 
 ## 🗂️ Ekosystem: produkty, laboratoria, stosowana AI, programy nauczania i obliczenia naukowe
 

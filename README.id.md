@@ -208,7 +208,7 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 ## 🗺️Ekosistem Pada A Glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.97d3bbf2.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.5d475142.svg)
 
 ## 🗂️ Ekosistem: produk, laboratorium, AI terapan, kurikulum, dan komputasi ilmiah
 

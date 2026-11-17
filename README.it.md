@@ -207,7 +207,7 @@ Tecnologie rilevate nei repository pubblici (manifest, dipendenze, container e c
 
 ## 🗺️ Ecosistema In Sintesi
 
-![🧠 Criterio tecnico — architettura · modernizzazione · operazioni](docs/img/ecosystem.it.4e782f90.svg)
+![🧠 Criterio tecnico — architettura · modernizzazione · operazioni](docs/img/ecosystem.it.00be5c98.svg)
 
 ## 🗂️ Ecosistema: prodotti, laboratori, IA applicata, curricula e calcolo scientifico
 
