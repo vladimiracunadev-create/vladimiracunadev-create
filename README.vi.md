@@ -208,7 +208,7 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 ## 🗺️Hệ thống sinh thái đang hưng thịnh
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.01c45648.svg)
 
 ## 🗂️ Hệ sinh thái: sản phẩm, phòng thí nghiệm, AI ứng dụng, giáo trình và tính toán khoa học
 

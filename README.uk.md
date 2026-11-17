@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️Екосистема на погляді
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.uk.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.uk.2316af2d.svg)
 
 ## 🗂️ Екосистема: продукти, лабораторії, прикладний ШІ, навчальні програми та наукові обчислення
 
