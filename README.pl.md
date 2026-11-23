@@ -18,10 +18,10 @@
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#ekosystem-w-odblasku)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-18418-3fb950?style=for-the-badge)](docs/ECOSYSTEM.pl.md#curricula)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-21235-3fb950?style=for-the-badge)](docs/ECOSYSTEM.pl.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Third-party forks](https://img.shields.io/badge/third-party%20forks-54-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.pl.md#forks)
-[![Commits](https://img.shields.io/badge/commits-4823-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-58-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.pl.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4892-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
@@ -297,6 +297,6 @@ Liderem technologicznym · Zarządzanie projektami · Administracja biznesowa ·
 [🛡️ Security](SECURITY.pl.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.pl.md)
 
-<sub>README zsynchronizowany z weryfikowalnym stanem publicznych repozytoriów —dane i zmiany odczytywane przez API— · ostatnia weryfikacja: <!-- VERIFIED:START -->2026-11-17<!-- VERIFIED:END -->.</sub>
+<sub>README zsynchronizowany z weryfikowalnym stanem publicznych repozytoriów —dane i zmiany odczytywane przez API— · ostatnia weryfikacja: <!-- VERIFIED:START -->2026-11-23<!-- VERIFIED:END -->.</sub>
 
 </div>
