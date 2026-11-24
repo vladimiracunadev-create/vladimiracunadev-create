@@ -138,7 +138,7 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 **Analitik data dan BI**
 
-![Analitik data dan BI](https://skillicons.dev/icons?i=powerbi&perline=11)
+![Analitik data dan BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 

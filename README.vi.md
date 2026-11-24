@@ -138,7 +138,7 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 **Phân tích dữ liệu và BI**
 
-![Phân tích dữ liệu và BI](https://skillicons.dev/icons?i=powerbi&perline=11)
+![Phân tích dữ liệu và BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 

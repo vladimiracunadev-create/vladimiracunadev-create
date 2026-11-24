@@ -138,7 +138,7 @@ Technologies detected in the public repositories (manifests, dependencies, conta
 
 **Data analytics and BI**
 
-![Data analytics and BI](https://skillicons.dev/icons?i=powerbi&perline=11)
+![Data analytics and BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 

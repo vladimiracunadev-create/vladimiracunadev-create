@@ -138,7 +138,7 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 **Analityka danych i BI**
 
-![Analityka danych i BI](https://skillicons.dev/icons?i=powerbi&perline=11)
+![Analityka danych i BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 

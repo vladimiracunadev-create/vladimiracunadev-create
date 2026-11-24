@@ -138,7 +138,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 **تحليل البيانات وذكاء الأعمال (BI)**
 
-![تحليل البيانات وذكاء الأعمال (BI)](https://skillicons.dev/icons?i=powerbi&perline=11)
+![تحليل البيانات وذكاء الأعمال (BI)](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 

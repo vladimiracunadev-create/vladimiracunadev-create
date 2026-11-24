@@ -138,7 +138,7 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 **Data-analyse en BI**
 
-![Data-analyse en BI](https://skillicons.dev/icons?i=powerbi&perline=11)
+![Data-analyse en BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 

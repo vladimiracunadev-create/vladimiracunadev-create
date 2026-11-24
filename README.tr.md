@@ -138,7 +138,7 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 **Veri analitiği ve BI**
 
-![Veri analitiği ve BI](https://skillicons.dev/icons?i=powerbi&perline=11)
+![Veri analitiği ve BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 
