@@ -46,7 +46,7 @@
 | 重播( R) | 所顯示的 |
 |---|---|
 | [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20個真正的問題**(負載下緯度,N+1,重試風暴,出洩,單層,快取被印出,回壓,零下行遷移,被遺忘 DLQ) 具有高純度注入出故障,解入.**7個堆**: 首頁8·蟒蛇·節點.js·爪哇島21·.NET 8 資料· **衝出1.23** · **粗口1.83 號** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20個案件**來源=n8n=收件者**18+ DB 發動機** —**19起業務**,個人審計 與多克 -**8層**審計、一手護欄、斷路器和DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20個案件**來源=n8n=收件者**18+ DB 發動機** —**19起業務**,個人審計 與多克 -**8層**審計、一手護欄、斷路器和DLQ · **Power BI** 分析：3 份 `.pbix` 報表、星型模型和 24 個 DAX 度量值 · [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
 | [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **13個診斷和現代化微型應用程式**用於最高階·本地只讀的 MCP 伺服器·分三個階段進行硬化· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **12個實驗室**4個服務平臺+自動`.exe`裝有發射裝置的安裝器· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12個案件**開啟`wslc`,本地WSL集裝箱發動機——**不掛起子桌面** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
@@ -55,7 +55,7 @@
 | [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux 隔離: 執行第三方程式碼、檔案, 以及宣佈的政策下的商務模式**簽發了實際適用控制措施的簽名證據** · **36個案件**15個技術市場和21個資本市場,·* 已申報為實驗和教育產品,* 不是安全產品*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28個支付家庭**當地自我解釋演示:狀態、分類賬、對賬、安全和執行指南· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | 原生的Decentraliand 社交 三維體驗:一個MVP和多遊戲架構,並配有 SDK7, ECS, 和 TypeScript·西班牙文文件·無付款或遙測 |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage · 在 GitLab 上由 [proyectos-aws-gitlab](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab) 補充：16 個案例（A–P），使用 GitLab CI → AWS |
 
 <a id="ai"></a>
 

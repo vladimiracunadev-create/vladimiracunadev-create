@@ -46,7 +46,7 @@
 | Repo | ما يُظهره |
 |---|---|
 | [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 مشكلة حقيقية**(البطء تحت الحمولة، N+1، عواصف الاستحمام، التسرب، الأحاديث، الختم، الكساد، التراجع، الهجرة غير المتفرغة، النسيان DLQ) مع إخفاقات عالية في الحقن، حلت في**7 أكوام**: PHP 8·Python·Node.js·Java 21·-الشبكة 8· **Go 1.23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20 حالة**المصدر →n8nrereceiver over**18+ محركات ثنائي الفينيل متعدد البروم** —**19 تشغيلية**"مراجعة بشكل فردي مع "دوكر**8 طوابق**مراجعة الحسابات، وحرس الايدز، وكسر الدوائر، وأجهزة الاتصال· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20 حالة**المصدر →n8nrereceiver over**18+ محركات ثنائي الفينيل متعدد البروم** —**19 تشغيلية**"مراجعة بشكل فردي مع "دوكر**8 طوابق**مراجعة الحسابات، وحرس الايدز، وكسر الدوائر، وأجهزة الاتصال · تحليلات **Power BI**: 3 تقارير `.pbix` ومخطط نجمي و24 مقياس DAX · [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
 | [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **13 جهازاً تشخيصياً وتحديثياً**PHP·خادم برنامج إم بي سي المحلي·التصلب في ثلاث مراحل· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **12 مختبرا**على منصة 4 خدمات + مؤتمتة`.exe`مطلي مع مُطلق· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 قضية**على`wslc`محرك حاوية دبليو إس إل**بدون دوكر ديسكتوب** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
@@ -55,7 +55,7 @@
 | [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | العزلة: يدير القانون الخاص بالأطراف الثالثة والملفات ونماذج الأعمال في إطار السياسات المعلنة**دليل موقع على أيّة ضوابط طبقت** · **36 قضية**في أسرتين - ٥١١ أسرة تقنية و ٢١ سوقا رأسمالية -·* لم يُعلن عن إنتاج تجريبي وتثقيفي*· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 أسرة مستفيدة**في مركز محلي للتفسير الذاتي: الولايات، ودفتر الأستاذ، والمصالحة، والأمن، وأدلة التنفيذ· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland social 3D experience: one MVP and a multi-game structure with SDK7, ECS, and TypeScript·الوثائق الإسبانية·عدم دفع أي مدفوعات أو قياس عن بعد |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | حالات تقدم حيث يضيف كل واحد خدمة واحدة من خدمات الأسلحة النووية**و**(أ) قدرة جديدة على العمل في (غيت هوب·SA-C03·DVA-C02·SOA-C02 coverage |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | حالات تقدم حيث يضيف كل واحد خدمة واحدة من خدمات الأسلحة النووية**و**(أ) قدرة جديدة على العمل في (غيت هوب·SA-C03·DVA-C02·SOA-C02 coverage · يكمّله على GitLab مشروع [proyectos-aws-gitlab](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab): 16 حالة A–P باستخدام GitLab CI → AWS |
 
 <a id="ai"></a>
 

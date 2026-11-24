@@ -46,7 +46,7 @@
 | 의논하기 | 어떤 의미 |
 |---|---|
 | [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 실제 문제**(부하, N+1의 재기 폭풍, 누출, 모놀리, 캐시 스탬프, backpressure, 0-downtime 마이그레이션, 잊어 DLQ) 높은-피델리 인젝트 실패, 해결**7개의 더미**: PHP 8·팟캐스트·Node.js를 사용하려면·Java 21의·.NET 8의· **1.23로 이동** · **녹 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20 건**source→n8n→receiver에**18+ DB 엔진** —**19 운영**, 독수리로 개별적으로 감사-**8 층**감사, 불투명 난간, 회로 차단기 및 DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20 건**source→n8n→receiver에**18+ DB 엔진** —**19 운영**, 독수리로 개별적으로 감사-**8 층**감사, 불투명 난간, 회로 차단기 및 DLQ · **Power BI** 분석: `.pbix` 보고서 3개, 스타 스키마, DAX 측정값 24개 · [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
 | [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **13 진단과 현대화 microapps**PHP에 대한·로컬 읽기 전용 MCP 서버·3 단계의 경화· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **12 실험실**4대 서비스 플랫폼 + 자동화`.exe`launcher와 설치· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 cases** on `wslc`, the native WSL container engine — **without Docker Desktop** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
@@ -55,7 +55,7 @@
 | [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | Linux isolation: 선언된 정책과 밑에 제삼자 부호, 파일 및 사업 모형을 실행하십시오**실제로 적용되는 통제의 서명한 증거** · **36 건**2개의 가족 —15명의 기술 및 21개의 자본 시장—·실험 및 교육 선언, * 보안 제품 *· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 결제 가족**로컬 자체 설명 데모: 상태, ledger, 재건축, 보안, 구현 가이드· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | Native Decentraland 소셜 3D 경험: MVP와 SDK7, ECS, TypeScript를 가진 멀티게임 아키텍처·English 한국어·지불 또는 원격 측정 |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | Progressive cases where each one adds one AWS service **and** a new GitHub Actions capability · SAA-C03 · DVA-C02 · SOA-C02 coverage · GitLab의 [proyectos-aws-gitlab](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab)가 보완: GitLab CI → AWS 사례 16개(A–P) |
 
 <a id="ai"></a>
 

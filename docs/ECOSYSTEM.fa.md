@@ -46,7 +46,7 @@
 | Repo | آنچه که نشان می دهد |
 |---|---|
 | [🐳 **Problem-Driven Systems Lab**](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) | **20 real problems** (latency under load, N+1, retry storms, leaks, monoliths, cache stampede, backpressure, zero-downtime migration, forgotten DLQ) with high-fidelity injected failures, solved in **7 stacks**: PHP 8 · Python · Node.js · Java 21 · .NET 8 · **Go 1.23** · **Rust 1.83** · [landing](https://vladimiracunadev-create.github.io/problem-driven-systems-lab/) |
-| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20 مورد**منبع: n8n**18+ موتورهای DB** —**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.**8 لایه**حسابرسی، محافظان، شکستن مدار و DLQ· [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
+| [📆 **Social Bot Scheduler**](https://github.com/vladimiracunadev-create/social-bot-scheduler) | **v4.11.0** · **20 مورد**منبع: n8n**18+ موتورهای DB** —**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.**8 لایه**حسابرسی، محافظان، شکستن مدار و DLQ · تحلیل با **Power BI**: ۳ گزارش `.pbix`، طرح‌وارهٔ ستاره‌ای و ۲۴ سنجهٔ DAX · [landing](https://vladimiracunadev-create.github.io/social-bot-scheduler/) |
 | [🧰 **Microsistemas**](https://github.com/vladimiracunadev-create/microsistemas) | **13 میکروکارهای تشخیصی و مدرن سازی**PHP·محلی Read- Only MCP server·سخت شدن در 3 مرحله· [landing](https://vladimiracunadev-create.github.io/microsistemas/) |
 | [🧪 **Docker Labs**](https://github.com/vladimiracunadev-create/docker-labs) | **12 آزمایشگاه**در یک پلت فرم 4service + خودکار`.exe`نصب کننده با Launcher· [landing](https://vladimiracunadev-create.github.io/docker-labs/) |
 | [🐳 **WSL Labs**](https://github.com/vladimiracunadev-create/wsl-labs) | **12 مورد**در`wslc`موتور ظروف بومی WSL –**بدون Docker Desktop** · [landing](https://vladimiracunadev-create.github.io/wsl-labs/) |
@@ -55,7 +55,7 @@
 | [🛡️ **Sandbox Labs**](https://github.com/vladimiracunadev-create/sandbox-labs) | انزوای لینوکس: اجرای کد شخص ثالث، فایل ها و مدل های تجاری تحت سیاست های اعلام شده و**گزارش های امضا شده که در واقع کنترل ها اعمال می شوند** · **۳۶ مورد**در دو خانواده – ۱۵ بازار فنی و ۲۱ سرمایه –·گواهی تجربی و آموزشی، * نه یک محصول امنیتی *· [landing](https://vladimiracunadev-create.github.io/sandbox-labs/) |
 | [💳 **Universal Payments Engineering Lab**](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) | **28 خانواده پرداخت**در یک دموی محلی خود توضیحی: دولت ها، کللی، آشتی، امنیت و راهنماهای پیاده سازی· [landing](https://vladimiracunadev-create.github.io/universal-payments-engineering-lab/) |
 | [🕹️ **Decentraland Social Arcade**](https://github.com/vladimiracunadev-create/decentraland-social-arcade) | تجربه بومی Decentraland Social 3D: یک MVP و یک معماری چند بازی با SDK7، ECS و TypeScript·مستند اسپانیایی·پرداخت یا تلهومتر |
-| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | موارد پیشرفته که هر یک از آنها یک سرویس AWS را اضافه می کند**و**قابلیت جدید GitHub Actions·SAA-C03·DVA-C02·پوشش SOA-C02 |
+| [☁️ **AWS Projects**](https://github.com/vladimiracunadev-create/proyectos-aws) | موارد پیشرفته که هر یک از آنها یک سرویس AWS را اضافه می کند**و**قابلیت جدید GitHub Actions·SAA-C03·DVA-C02·پوشش SOA-C02 · در GitLab با [proyectos-aws-gitlab](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab) تکمیل می‌شود: ۱۶ مورد A–P با GitLab CI → AWS |
 
 <a id="ai"></a>
 

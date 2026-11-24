@@ -101,7 +101,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![框架、运行时与库](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
 
-<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde</sub>
+<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde · gRPC</sub>
 
 **软件架构**
 
@@ -133,19 +133,59 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ![数据库](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
 
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · GabySQL (Rust)</sub>
+<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · Hasura · GabySQL (Rust)</sub>
+
+**数据分析与商业智能（BI）**
+
+![数据分析与商业智能（BI）](https://skillicons.dev/icons?i=powerbi&perline=11)
+
+<sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 
 **云、容器与 DevOps**
 
-![云、容器与 DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
+![云、容器与 DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
 
-<sub>AWS · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+<sub>AWS · Azure · Google Cloud · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
+
+**AWS：已使用的服务（GitLab CI 案例）**
+
+![AWS](https://skillicons.dev/icons?i=aws,gitlab&perline=11)
+
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square)
+![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square)
+![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=flat-square)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square)
+![SAM](https://img.shields.io/badge/SAM-FF9900?style=flat-square)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square)
+![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=flat-square)
+![WAF](https://img.shields.io/badge/WAF-FF9900?style=flat-square)
+![IAM / OIDC](https://img.shields.io/badge/IAM%20%2F%20OIDC-FF9900?style=flat-square)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square)
+![X-Ray](https://img.shields.io/badge/X--Ray-FF9900?style=flat-square)
+![Synthetics](https://img.shields.io/badge/Synthetics-FF9900?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square)
+![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square)
+![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-FF9900?style=flat-square)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square)
+![Cost Explorer / Budgets](https://img.shields.io/badge/Cost%20Explorer%20%2F%20Budgets-FF9900?style=flat-square)
+
+<sub>案例 A–P → [proyectos-aws-gitlab](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab) (GitLab CI → AWS; 16 个均声明已完成；案例 M 仅完成第 1 阶段) · [proyectos-aws](https://github.com/vladimiracunadev-create/proyectos-aws) (GitHub Actions) · EC2, RDS, VPC, Secrets Manager, CloudFormation, Cost Explorer → [aws-desktop-studio](https://github.com/vladimiracunadev-create/aws-desktop-studio) (真实的资源清单查询；EC2 支持启动、停止和重启，并有双重确认)</sub>
 
 **可观测性与消息**
 
-![可观测性与消息](https://skillicons.dev/icons?i=prometheus,grafana,kafka,elasticsearch&perline=11)
+![可观测性与消息](https://skillicons.dev/icons?i=prometheus,grafana,kafka,rabbitmq,elasticsearch&perline=11)
 
-<sub>Prometheus · Grafana · OpenTelemetry · Kafka · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
+<sub>Prometheus · Grafana · OpenTelemetry · Kafka · RabbitMQ · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
 
 **AI、代理、技能与 MCP**
 
