@@ -15,13 +15,13 @@
 [![Curricula](https://img.shields.io/badge/curricula-22%20programmi-3fb950?style=for-the-badge)](docs/ECOSYSTEM.it.md#curricula)
 
 <!-- STATS:START -->
-[![Repository pubblici](https://img.shields.io/badge/repository%20pubblici-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repository pubblici](https://img.shields.io/badge/repository%20pubblici-68-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Release pubblicate](https://img.shields.io/badge/release%20pubblicate-166-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Linguaggi](https://img.shields.io/badge/linguaggi%20principali-10-0366d6?style=for-the-badge)](#-ecosistema-in-sintesi)
-[![Classi](https://img.shields.io/badge/classi%20curricolari-22337-3fb950?style=for-the-badge)](docs/ECOSYSTEM.it.md#curricula)
+[![Classi](https://img.shields.io/badge/classi%20curricolari-22915-3fb950?style=for-the-badge)](docs/ECOSYSTEM.it.md#curricula)
 [![Fork ricevuti](https://img.shields.io/badge/fork%20ricevuti-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Fork di terzi](https://img.shields.io/badge/fork%20di%20terzi-60-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.it.md#forks)
-[![Commit](https://img.shields.io/badge/commit-4999-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Commit](https://img.shields.io/badge/commit-5011-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PR](https://img.shields.io/badge/PR-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issue](https://img.shields.io/badge/issue-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->

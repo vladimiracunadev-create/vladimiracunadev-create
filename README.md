@@ -15,13 +15,13 @@
 [![Currículos](https://img.shields.io/badge/currículos-22%20programas-3fb950?style=for-the-badge)](docs/ECOSYSTEM.md#curricula)
 
 <!-- STATS:START -->
-[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-68-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-166-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
-[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-22337-3fb950?style=for-the-badge)](docs/ECOSYSTEM.md#curricula)
+[![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-22915-3fb950?style=for-the-badge)](docs/ECOSYSTEM.md#curricula)
 [![Forks recibidos](https://img.shields.io/badge/forks%20recibidos-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Forks de terceros](https://img.shields.io/badge/forks%20de%20terceros-60-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.md#forks)
-[![Commits](https://img.shields.io/badge/commits-4999-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Commits](https://img.shields.io/badge/commits-5011-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
