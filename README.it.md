@@ -177,7 +177,7 @@ La mia formazione doppia —**Ingegneria Informatica e della Computazione + Ammi
 
 ### ↗ Espansione Naturale
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consulente di Trasformazione Digitale** · **Advisor Tecnico (tecnologia, dati e IA)** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docente / Formatore / Istruttore tecnologico** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Advisor Tecnico (tecnologia, dati e IA)** · **AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consulente di Trasformazione Digitale** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docente / Formatore / Istruttore tecnologico** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️ Ambito Complementare
 

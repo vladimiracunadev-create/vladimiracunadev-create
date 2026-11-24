@@ -178,7 +178,7 @@ Mein dualer Hintergrund -**Informatik und Computing Engineering + Business Admin
 
 ### ↗ Natürliche Erweiterung
 
-**AI Orchestration Engineer** · **Systeme / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technischer Produktbauer** · **Technischer Trainer** · **Digital Transformation Berater** · **Technischer Berater (Technologie, Daten und KI)** · **Business / Funktionaler Analyst** · **Technische Produktoperationen** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Dozent / Trainer / Technologie-Instruktor** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Technischer Berater (Technologie, Daten und KI)** · **AI Orchestration Engineer** · **Systeme / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technischer Produktbauer** · **Technischer Trainer** · **Digital Transformation Berater** · **Business / Funktionaler Analyst** · **Technische Produktoperationen** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Dozent / Trainer / Technologie-Instruktor** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Ergänzender Anwendungsbereich
 

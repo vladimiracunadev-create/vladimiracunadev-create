@@ -178,7 +178,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ گسترش طبیعی
 
-**مهندسی ارکستر AI** · **سیستم ها / مهندس Rust** · **مهندس موبایل (Flutter)** · **راه حل های مهندسی** · **سازنده محصول فنی** · **مربی فنی** · **مشاور تحول دیجیتال** · **مشاور فنی (فناوری، داده و هوش مصنوعی)** · **Business / Applied Analysis** · **عملیات محصول فنی** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **مدرس / مربی / مربی فناوری** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**مشاور فنی (فناوری، داده و هوش مصنوعی)** · **مهندسی ارکستر AI** · **سیستم ها / مهندس Rust** · **مهندس موبایل (Flutter)** · **راه حل های مهندسی** · **سازنده محصول فنی** · **مربی فنی** · **مشاور تحول دیجیتال** · **Business / Applied Analysis** · **عملیات محصول فنی** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **مدرس / مربی / مربی فناوری** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️محدوده های تکمیلی
 

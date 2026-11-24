@@ -178,7 +178,7 @@ Moje podwójne tło...**Informatyka i informatyka + Administracja Biznesu**- pom
 
 ### ↗ Naturalne rozszerzenie
 
-**Inżynier orkiestracji AI** · **Systemy / Inżynier Rust** · **Inżynier mobilny (Flutter)** · **Inżynier rozwiązań** · **Techniczny budowniczy produktów** · **Trener techniczny** · **Cyfrowy konsultant transformacji** · **Doradca Techniczny (technologia, dane i AI)** · **Business / Functional Analyst** · **Operacje techniczne dotyczące produktu** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Wykładowca / Trener / Instruktor technologii** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Doradca Techniczny (technologia, dane i AI)** · **Inżynier orkiestracji AI** · **Systemy / Inżynier Rust** · **Inżynier mobilny (Flutter)** · **Inżynier rozwiązań** · **Techniczny budowniczy produktów** · **Trener techniczny** · **Cyfrowy konsultant transformacji** · **Business / Functional Analyst** · **Operacje techniczne dotyczące produktu** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Wykładowca / Trener / Instruktor technologii** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Zakres uzupełniający
 

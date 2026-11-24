@@ -178,7 +178,7 @@ Mijn dubbele achtergrond .**Computerwetenschappen en computersystemen en bedrijf
 
 ### ↗ Natuurlijke uitbreiding
 
-**AI Orchestration Engineer** · **Systemen / Rust ingenieur** · **Mobiele ingenieur (Flutter)** · **Oplossingen ingenieur** · **Technische productbouwer** · **Technische trainer** · **Digitale Transformatie Consultant** · **Technisch adviseur (technologie, data en AI)** · **Bedrijfs-/functionele analist** · **Technische productbewerkingen** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docent / Trainer / Technologie-instructeur** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Technisch adviseur (technologie, data en AI)** · **AI Orchestration Engineer** · **Systemen / Rust ingenieur** · **Mobiele ingenieur (Flutter)** · **Oplossingen ingenieur** · **Technische productbouwer** · **Technische trainer** · **Digitale Transformatie Consultant** · **Bedrijfs-/functionele analist** · **Technische productbewerkingen** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docent / Trainer / Technologie-instructeur** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Aanvullende werkingssfeer
 

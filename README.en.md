@@ -178,7 +178,7 @@ My dual background —**Computer Science and Computing Engineering + Business Ad
 
 ### ↗ Natural Expansion
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Technical Advisor (technology, data and AI)** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Teacher / Trainer / Technology Instructor** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Technical Advisor (technology, data and AI)** · **AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Teacher / Trainer / Technology Instructor** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️ Complementary Scope
 

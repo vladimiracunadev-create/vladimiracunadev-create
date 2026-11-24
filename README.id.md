@@ -178,7 +178,7 @@ Latar belakangku...**Ilmu Komputer dan Teknik Komputer + Administrasi Bisnis**- 
 
 ### ↗ Ekspansi alami
 
-**Insinyur Orkestra AI** · **Sistem / Mesin Rust** · **Engineer Mobile (Flutter)** · **Insinyur Solusi** · **Pembangun Produk Teknis** · **Teknisi Trainer** · **Konsultan Transformasi Digital** · **Penasihat Teknis (teknologi, data, dan AI)** · **Penganalisa Bisnis / Fungsional** · **Operasi Produk Teknis** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Pengajar / Pelatih / Instruktur teknologi** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Penasihat Teknis (teknologi, data, dan AI)** · **Insinyur Orkestra AI** · **Sistem / Mesin Rust** · **Engineer Mobile (Flutter)** · **Insinyur Solusi** · **Pembangun Produk Teknis** · **Teknisi Trainer** · **Konsultan Transformasi Digital** · **Penganalisa Bisnis / Fungsional** · **Operasi Produk Teknis** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Pengajar / Pelatih / Instruktur teknologi** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Ruang lingkup pelengkap
 

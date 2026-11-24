@@ -178,7 +178,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ 自然延伸
 
-**AI 管絃樂工程師** · **系統/粗糙工程師** · **移動工程師(Flutter)** · **解決方案工程師** · **技術產品構建器** · **技術培訓人員** · **數字轉換顧問** · **技術顧問（技術、資料與 AI）** · **業務/職能分析員** · **技術產品業務** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **講師 / 培訓師 / 技術講師** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**技術顧問（技術、資料與 AI）** · **AI 管絃樂工程師** · **系統/粗糙工程師** · **移動工程師(Flutter)** · **解決方案工程師** · **技術產品構建器** · **技術培訓人員** · **數字轉換顧問** · **業務/職能分析員** · **技術產品業務** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **講師 / 培訓師 / 技術講師** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️補充範圍
 

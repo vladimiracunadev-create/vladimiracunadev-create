@@ -178,7 +178,7 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 
 ### ↗ Doğal genişleme
 
-**AI Oryantasyon Mühendisi** · **Systems / Rust Mühendis** · **Mobile Mühendis (Flutter)** · **Çözümleri Mühendis** · **Teknik Ürün Builder** · **Teknik Trener** · **Dijital Dönüşüm Danışmanı** · **Teknik Danışman (teknoloji, veri ve yapay zekâ)** · **İş / Fonksiyonel Analist** · **Teknik Ürün Operasyonları** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Öğretmen / Eğitmen / Teknoloji Eğitmeni** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Teknik Danışman (teknoloji, veri ve yapay zekâ)** · **AI Oryantasyon Mühendisi** · **Systems / Rust Mühendis** · **Mobile Mühendis (Flutter)** · **Çözümleri Mühendis** · **Teknik Ürün Builder** · **Teknik Trener** · **Dijital Dönüşüm Danışmanı** · **İş / Fonksiyonel Analist** · **Teknik Ürün Operasyonları** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Öğretmen / Eğitmen / Teknoloji Eğitmeni** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Tamamlayıcı Kapsam
 

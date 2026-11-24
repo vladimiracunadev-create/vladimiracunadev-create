@@ -178,7 +178,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ التوسع الطبيعي
 
-**مهندس أورشات** · **مهندس /مهند** · **مهندس متنقل (مُتمر)** · **مهندس الحلول** · **بناء المنتجات التقنية** · **التدريب التقني** · **خبير استشاري في التحول الرقمي** · **مستشار تقني (التقنية والبيانات والذكاء الاصطناعي)** · **محلل أعمال/عمليات** · **العمليات التقنية للمنتجات** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **مدرّس / مدرّب / مُعلّم تقنية** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**مستشار تقني (التقنية والبيانات والذكاء الاصطناعي)** · **مهندس أورشات** · **مهندس /مهند** · **مهندس متنقل (مُتمر)** · **مهندس الحلول** · **بناء المنتجات التقنية** · **التدريب التقني** · **خبير استشاري في التحول الرقمي** · **محلل أعمال/عمليات** · **العمليات التقنية للمنتجات** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **مدرّس / مدرّب / مُعلّم تقنية** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️النطاق التكميلي
 

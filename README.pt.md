@@ -177,7 +177,7 @@ Minha formação dupla —**Engenharia em Informática e Computação + Administ
 
 ### ↗ Expansão Natural
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultor de Transformação Digital** · **Assessor Técnico (tecnologia, dados e IA)** · **Business / Functional Analyst** · **Product Operations Técnico** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docente / Relator / Instrutor de tecnologia** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Assessor Técnico (tecnologia, dados e IA)** · **AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultor de Transformação Digital** · **Business / Functional Analyst** · **Product Operations Técnico** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docente / Relator / Instrutor de tecnologia** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️ Escopo Complementar
 

@@ -178,7 +178,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ 自然な展開
 
-**AI のオーケストレーション エンジニア** · **システム/錆エンジニア** · **モバイルエンジニア(Flutter)** · **ソリューションエンジニア** · **技術的なプロダクト ビルダー** · **テクニカルトレーナー** · **デジタル変革コンサルタント** · **技術アドバイザー（技術・データ・AI）** · **事業・機能アナリスト** · **技術的なプロダクト操作** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **講師 / 研修トレーナー / テクノロジーインストラクター** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**技術アドバイザー（技術・データ・AI）** · **AI のオーケストレーション エンジニア** · **システム/錆エンジニア** · **モバイルエンジニア(Flutter)** · **ソリューションエンジニア** · **技術的なプロダクト ビルダー** · **テクニカルトレーナー** · **デジタル変革コンサルタント** · **事業・機能アナリスト** · **技術的なプロダクト操作** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **講師 / 研修トレーナー / テクノロジーインストラクター** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️補完スコープ
 

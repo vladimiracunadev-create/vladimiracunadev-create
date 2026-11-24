@@ -178,7 +178,7 @@ Cả hai nền tảng —**Khoa học máy tính và cơ chế tính và quản 
 
 ### ↗ Mở rộng tự nhiên
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Cố vấn kỹ thuật (công nghệ, dữ liệu và AI)** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Giảng viên / Người đào tạo / Giảng viên công nghệ** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Cố vấn kỹ thuật (công nghệ, dữ liệu và AI)** · **AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Giảng viên / Người đào tạo / Giảng viên công nghệ** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Phạm vi khen ngợi
 

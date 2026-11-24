@@ -178,7 +178,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ 자연스러운 확장
 
-**AI 관현 엔지니어** · **시스템 / Rust 엔지니어** · **모바일 엔지니어 (Flutter)** · **솔루션 엔지니어** · **기술 제품 Builder** · **기술 트레이너** · **디지털 전환 컨설턴트** · **기술 자문역(기술·데이터·AI)** · **사업/기능분석** · **기술 제품 운영** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **강사 / 트레이너 / 기술 교육 강사** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**기술 자문역(기술·데이터·AI)** · **AI 관현 엔지니어** · **시스템 / Rust 엔지니어** · **모바일 엔지니어 (Flutter)** · **솔루션 엔지니어** · **기술 제품 Builder** · **기술 트레이너** · **디지털 전환 컨설턴트** · **사업/기능분석** · **기술 제품 운영** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **강사 / 트레이너 / 기술 교육 강사** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️관련 범위
 

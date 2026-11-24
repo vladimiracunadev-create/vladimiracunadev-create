@@ -177,7 +177,7 @@ Ma double formation —**Ingénierie informatique et sciences du calcul + Admini
 
 ### ↗ Expansion Naturelle
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultant en transformation numérique** · **Conseiller Technique (technologie, données et IA)** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Enseignant / Formateur / Instructeur en technologie** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Conseiller Technique (technologie, données et IA)** · **AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultant en transformation numérique** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Enseignant / Formateur / Instructeur en technologie** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️ Périmètre Complémentaire
 
