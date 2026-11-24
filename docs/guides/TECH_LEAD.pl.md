@@ -38,6 +38,7 @@ Wszystkie liczby ze źródłem są w [Stan weryfikowalny](../../README.pl.md#sta
 ## Gdzie zgłębić temat
 
 - [Stos technologiczny](../../README.pl.md#-stos-technologiczny) wykryty w repozytoriach.
+- [Skąd bierze się stos technologiczny](../STACK_SOURCES.pl.md)
 - [Zobacz pełny ekosystem](../ECOSYSTEM.pl.md): każdy produkt z wersją, testami i wydaniem.
 - Forki cudzych projektów są trzymane osobno i nie liczą się jako dzieło własne: [Forki projektów osób trzecich](../ECOSYSTEM.pl.md#forks).
 

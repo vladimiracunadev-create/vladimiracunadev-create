@@ -38,6 +38,7 @@ Semua angka beserta sumbernya ada di [Status Dapat Diverifikasi](../../README.id
 ## Untuk mendalami
 
 - [Tumpukan teknologi](../../README.id.md#-tumpukan-teknologi) yang terdeteksi di repositori.
+- [Dari mana Stack teknologi berasal](../STACK_SOURCES.id.md)
 - [Lihat ekosistem lengkap](../ECOSYSTEM.id.md): setiap produk dengan versi, tes, dan rilisnya.
 - Fork pihak ketiga dipisahkan dan tidak dihitung sebagai karya sendiri: [Fork proyek pihak ketiga](../ECOSYSTEM.id.md#forks).
 

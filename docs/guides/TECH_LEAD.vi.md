@@ -38,6 +38,7 @@ Mọi con số kèm nguồn nằm trong [Trạng thái có thể truy cập](../
 ## Để tìm hiểu sâu hơn
 
 - [Ngăn xếp công nghệ](../../README.vi.md#-ngăn-xếp-công-nghệ) được phát hiện trong các kho mã.
+- [Stack công nghệ đến từ đâu](../STACK_SOURCES.vi.md)
 - [Xem toàn bộ hệ sinh thái](../ECOSYSTEM.vi.md): mỗi sản phẩm kèm phiên bản, kiểm thử và bản phát hành.
 - Các fork của bên thứ ba được tách riêng và không tính là sản phẩm tự thực hiện: [Fork của dự án bên thứ ba](../ECOSYSTEM.vi.md#forks).
 

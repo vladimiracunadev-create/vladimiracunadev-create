@@ -38,6 +38,7 @@ All figures with their source are in [Verifiable Status](../../README.en.md#-ver
 ## Where to go deeper
 
 - [Technology stack](../../README.en.md#-technology-stack) detected in the repos.
+- [Where the Technology Stack comes from](../STACK_SOURCES.en.md)
 - [Full ecosystem](../ECOSYSTEM.en.md): each product with its version, tests and release.
 - Third-party forks are kept apart and do not count as own work: [see forks](../ECOSYSTEM.en.md#forks).
 

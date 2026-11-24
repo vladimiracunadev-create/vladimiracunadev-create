@@ -38,6 +38,7 @@ Alle cijfers met hun bron staan in [Verifieerbare status](../../README.nl.md#ver
 ## Verder verdiepen
 
 - [Technologiestack](../../README.nl.md#-technologiestack) gedetecteerd in de repos.
+- [Waar de Technologiestack vandaan komt](../STACK_SOURCES.nl.md)
 - [Bekijk het volledige ecosysteem](../ECOSYSTEM.nl.md): elk product met versie, tests en release.
 - Forks van derden worden apart gehouden en tellen niet als eigen werk: [Forks van projecten van derden](../ECOSYSTEM.nl.md#forks).
 

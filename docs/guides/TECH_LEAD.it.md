@@ -38,6 +38,7 @@ Tutte le cifre con la loro fonte sono in [Stato Verificabile](../../README.it.md
 ## Per approfondire
 
 - [Stack tecnologico](../../README.it.md#-stack-tecnologico) rilevato nei repository.
+- [Da dove nasce lo Stack tecnologico](../STACK_SOURCES.it.md)
 - [Vedi l'ecosistema completo](../ECOSYSTEM.it.md): ogni prodotto con versione, test e release.
 - I fork di terzi restano separati e non contano come opera propria: [Fork di progetti di terzi](../ECOSYSTEM.it.md#forks).
 

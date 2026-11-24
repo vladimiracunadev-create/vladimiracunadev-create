@@ -38,6 +38,7 @@ Alle Zahlen mit Quelle stehen in [Nachprüfbarer Status](../../README.de.md#nach
 ## Zum Vertiefen
 
 - [Technologie-Stack](../../README.de.md#-technologie-stack), in den Repos erkannt.
+- [Woher der Technologie-Stack kommt](../STACK_SOURCES.de.md)
 - [Das vollständige Ökosystem ansehen](../ECOSYSTEM.de.md): jedes Produkt mit Version, Tests und Release.
 - Forks von Dritten werden getrennt geführt und zählen nicht als eigene Arbeit: [Forks von Drittprojekten](../ECOSYSTEM.de.md#forks).
 

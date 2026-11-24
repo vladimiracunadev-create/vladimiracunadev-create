@@ -11,7 +11,7 @@ from pathlib import Path
 LANGS = ["en", "pt", "it", "fr", "zh", "zh-TW", "ja", "ko", "tr", "ru", "vi", "th", "de",
          "uk", "pl", "ar", "fa", "id", "nl", "hi", "el"]
 FAMILIES = ["README", "PROFESIONAL_ROLES", "CONTRIBUTING", "SECURITY", "CODE_OF_CONDUCT",
-            "docs/ECOSYSTEM", "docs/MANAGEMENT", "docs/START_HERE",
+            "docs/ECOSYSTEM", "docs/STACK_SOURCES", "docs/MANAGEMENT", "docs/START_HERE",
             *[f"docs/guides/{g}" for g in ("RECRUITER", "FREELANCE", "TECH_LEAD", "BUSINESS", "COLLABORATOR", "LEARNER")]]
 errors = []
 

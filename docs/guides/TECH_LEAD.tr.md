@@ -38,6 +38,7 @@ Kaynaklı tüm rakamlar [Doğrulanabilir durum](../../README.tr.md#doğrulanabil
 ## Daha derine inmek için
 
 - Depolarda tespit edilen [Teknoloji yığını](../../README.tr.md#-teknoloji-yığını).
+- [Teknoloji Stack'i nereden geliyor](../STACK_SOURCES.tr.md)
 - [Ekosistemin tamamını gör](../ECOSYSTEM.tr.md): her ürün sürümü, testleri ve sürümüyle.
 - Üçüncü taraf fork'lar ayrı tutulur ve kendi eseri sayılmaz: [Üçüncü taraf projelerin fork'ları](../ECOSYSTEM.tr.md#forks).
 

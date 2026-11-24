@@ -38,6 +38,7 @@
 ## 深入了解
 
 - 在各儲存庫中偵測到的[技術堆疊](../../README.zh-TW.md#-技術堆疊)。
+- [技術棧的來源](../STACK_SOURCES.zh-TW.md)
 - [查看完整生態系統](../ECOSYSTEM.zh-TW.md)：每個產品都有版本、測試與發行。
 - 第三方 fork 另行存放，不計入自有作品：[第三方專案的 fork](../ECOSYSTEM.zh-TW.md#forks)。
 

@@ -38,6 +38,7 @@ Tous les chiffres avec leur source se trouvent dans [État Vérifiable](../../RE
 ## Pour aller plus loin
 
 - [Stack technologique](../../README.fr.md#-stack-technologique) détecté dans les dépôts.
+- [D'où vient le Stack technologique](../STACK_SOURCES.fr.md)
 - [Voir l'écosystème complet](../ECOSYSTEM.fr.md) : chaque produit avec sa version, ses tests et sa release.
 - Les forks de tiers sont séparés et ne comptent pas comme œuvre propre : [Forks de projets tiers](../ECOSYSTEM.fr.md#forks).
 

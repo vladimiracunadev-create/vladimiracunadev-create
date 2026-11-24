@@ -38,6 +38,7 @@
 ## 深入了解
 
 - 在各仓库中检测到的[技术栈](../../README.zh.md#-技术栈)。
+- [技术栈的来源](../STACK_SOURCES.zh.md)
 - [查看完整生态系统](../ECOSYSTEM.zh.md)：每个产品都有版本、测试与发布。
 - 第三方 fork 单独存放，不计入自有作品：[第三方项目的 fork](../ECOSYSTEM.zh.md#forks)。
 
