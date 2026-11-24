@@ -20,7 +20,7 @@ Choisissez votre cas et allez droit à l'essentiel. Chaque guide se lit en 1 à 
 
 - **Qui :** Ingénieur en Informatique et Calcul et Administrateur d'Entreprise, plus de 16 ans à construire et exploiter des logiciels.
 - **Ce que je fais :** architecture de solutions, modernisation de systèmes hérités, automatisation et IA appliquée, ainsi que leur livraison et leur exploitation.
-- **Preuves :** 67 dépôts publics propres, 164 releases, tests et CI dans les produits, et chaque dépôt déclare aussi ce qu'il **ne** fait **pas**.
+- **Preuves :** 67 dépôts publics propres, 166 releases, tests et CI dans les produits, et chaque dépôt déclare aussi ce qu'il **ne** fait **pas**.
 - **Modalité :** à distance ou hybride, selon le projet.
 - **Contact:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

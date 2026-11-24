@@ -20,7 +20,7 @@ Kies je situatie en ga direct naar wat je nodig hebt. Elke gids lees je in 1–2
 
 - **Wie:** Ingenieur Informatica en Computing en Bedrijfskundige, 16+ jaar software bouwen en beheren.
 - **Wat ik doe:** oplossingsarchitectuur, modernisering van legacy-systemen, automatisering en toegepaste AI, plus oplevering en beheer daarvan.
-- **Bewijs:** 67 eigen openbare repositories, 164 releases, tests en CI in de producten, en elke repo vermeldt ook wat hij **niet** doet.
+- **Bewijs:** 67 eigen openbare repositories, 166 releases, tests en CI in de producten, en elke repo vermeldt ook wat hij **niet** doet.
 - **Werkwijze:** remote of hybride, afhankelijk van het project.
 - **Contact:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

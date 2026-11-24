@@ -25,7 +25,7 @@ Các kho mã được thiết kế để clone, chạy và xác thực; đóng g
 
 ## Những gì không phải sản phẩm của riêng tôi
 
-Tài khoản lưu giữ [54 forks](../ECOSYSTEM.vi.md#forks) của các dự án bên thứ ba. Chúng không phải sản phẩm của riêng tôi: muốn đóng góp, hãy làm ở dự án gốc (cột «Dự án gốc» dẫn tới từng dự án).
+Tài khoản lưu giữ [60 forks](../ECOSYSTEM.vi.md#forks) của các dự án bên thứ ba. Chúng không phải sản phẩm của riêng tôi: muốn đóng góp, hãy làm ở dự án gốc (cột «Dự án gốc» dẫn tới từng dự án).
 
 ## Bước tiếp theo
 

@@ -25,7 +25,7 @@ Les dépôts sont conçus pour être clonés, exécutés et validés ; contribut
 
 ## Ce qui n'est pas une œuvre propre
 
-Le compte conserve [54 forks](../ECOSYSTEM.fr.md#forks) de projets tiers. Ce ne sont pas des œuvres propres : pour y contribuer, faites-le dans le projet d'origine (la colonne « Projet d'origine » renvoie à chacun).
+Le compte conserve [60 forks](../ECOSYSTEM.fr.md#forks) de projets tiers. Ce ne sont pas des œuvres propres : pour y contribuer, faites-le dans le projet d'origine (la colonne « Projet d'origine » renvoie à chacun).
 
 ## Prochaine étape
 

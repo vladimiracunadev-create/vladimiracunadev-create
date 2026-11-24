@@ -81,9 +81,9 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **850 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **230 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **23 agentes** con **69 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **164 releases** publicadas en un ecosistema de **67 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
+| 📦 **Distribución** | **166 releases** publicadas en un ecosistema de **67 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **18.418 clases** verificables en 22 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
+| 📚 **Currículos** | **22.337 clases** verificables en 22 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
 | 🌐 **Portafolio** | PWA instalable · **22 idiomas** · **154 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
 | 🌐 **Sitios publicados** | **57 sitios** en GitHub Pages —56 landings, una por producto, programa o navegador del ecosistema, más el portafolio— cada uno desplegado desde su propio repositorio · los 57 comprobados con respuesta `200` |
@@ -208,7 +208,7 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 
 ## 🗺️ El ecosistema de un vistazo
 
-![🧠 Criterio técnico — arquitectura · modernización · operación](docs/img/ecosystem.es.bc6e9880.svg)
+![🧠 Criterio técnico — arquitectura · modernización · operación](docs/img/ecosystem.es.97ae87f9.svg)
 
 ## 🗂️ Ecosistema: productos, laboratorios, IA aplicada, currículos y computación científica
 
@@ -219,7 +219,7 @@ La obra práctica del perfil vive en un documento propio: software que se descar
 - 🤖 [**IA aplicada**](docs/ECOSYSTEM.md#ai) (6)
 - 📚 [**Currículos técnicos completos**](docs/ECOSYSTEM.md#curricula) (22)
 - 🔬 [**Computación científica**](docs/ECOSYSTEM.md#science) (1)
-- 🍴 [**Forks de proyectos de terceros**](docs/ECOSYSTEM.md#forks) (54)
+- 🍴 [**Forks de proyectos de terceros**](docs/ECOSYSTEM.md#forks) (60)
 
 👉 **[Ver el ecosistema completo](docs/ECOSYSTEM.md)** · [🍴 Forks de proyectos de terceros](docs/ECOSYSTEM.md#forks)
 
@@ -243,7 +243,7 @@ Participé en el **NASA Space Apps Challenge 2026** (Santiago, 14 y 15 de noviem
 - **Honestidad sobre el estado** — un repo se renombró (`Multisimulador` → `machine-operator-program`) para no prometer software que aún no existe.
 - **Los badges son señales, no evidencia** — cada repo declara también **lo que NO hace**.
 - **Del modelo hacia afuera** — el dominio se diseña primero; la interfaz es una proyección.
-- **Lo ajeno se declara ajeno** — los [54 forks](docs/ECOSYSTEM.md#forks) de proyectos de terceros se describen uno a uno y quedan fuera de todas las cifras de obra propia de este perfil.
+- **Lo ajeno se declara ajeno** — los [60 forks](docs/ECOSYSTEM.md#forks) de proyectos de terceros se describen uno a uno y quedan fuera de todas las cifras de obra propia de este perfil.
 
 ## ✅ Alcance profesional
 

@@ -20,7 +20,7 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần. Mỗ
 
 - **Ai:** Kỹ sư Tin học và Máy tính kiêm Quản trị Kinh doanh, hơn 16 năm xây dựng và vận hành phần mềm.
 - **Tôi làm gì:** kiến trúc giải pháp, hiện đại hóa hệ thống cũ, tự động hóa và AI ứng dụng, cùng việc bàn giao và vận hành chúng.
-- **Bằng chứng:** 67 kho mã công khai tự thực hiện, 164 bản phát hành, kiểm thử và CI trong các sản phẩm, và mỗi kho cũng nêu rõ điều nó **không** làm.
+- **Bằng chứng:** 67 kho mã công khai tự thực hiện, 166 bản phát hành, kiểm thử và CI trong các sản phẩm, và mỗi kho cũng nêu rõ điều nó **không** làm.
 - **Hình thức:** từ xa hoặc kết hợp, tùy dự án.
 - **Liên hệ:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Hồ sơ năng lực](https://vladimiracunadev-create.github.io/)
 

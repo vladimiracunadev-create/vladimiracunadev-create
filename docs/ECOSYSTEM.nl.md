@@ -74,7 +74,7 @@ Software die wordt gedownload, geïnstalleerd en gebruikt ..niet alleen gekloond
 
 ## 📚Complete technische Curricula
 
-Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 22 programma's tellen samen tot**18,418 klassen**, geteld door[a workflow](../.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
+Sequentiële programma's in het Spaans, met status en toepassingsgebied die door elke repository worden opgegeven. De 22 programma's tellen samen tot**22,337 klassen**, geteld door[a workflow](../.github/workflows/stats.yml)van een echte repository structuur of een verifieerbare bron die in de repository is opgegeven; de badge ververst wekelijks en wordt niet met de hand geschreven.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)is een gefedereerd kompas dat 30 echte paden over 6 gebieden verbindt via visuele kaarten en een[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); het wordt niet als een aanvullend programma gerekend.
 
@@ -87,8 +87,8 @@ Sequentiële programma's in het Spaans, met status en toepassingsgebied die door
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 delen met operationele definities, meetbladen, controleerbare bibliografie en Chileense regelgeving· **v1.6.0** ·1.29M woorden·17 op rollen gebaseerde paden· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Een echt bedrijf in Chili oprichten en exploiteren: van idee tot integratie, belastingautoriteit, operaties, crisis en exit·360 diagrammen·1.251-term glossarium·1 548 pagina's handleiding· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 delen·60 integratieve sessies·35 paden·traceerbare bronnen·Markdown, offline lezer, en GitHub pagina's· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | Graad 1· **4.156 geïntegreerde cross-curriculaire ervaringen** · **3 153 leerdoelstellingen** ·MINEDUC-bronnen·geen hangende voorstellen en gespecialiseerde menselijke evaluatie nog in behandeling· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 delen en 8 fasen·foundations → product, architectuur, beveiliging, DevOps, SRE, SPEC, AI en multi-agent systemen·redactionele status opgegeven door het archief· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | Graad 1· **4.156 geïntegreerde cross-curriculaire ervaringen** · **4 024 leerdoelstellingen** ·MINEDUC-bronnen·geen hangende voorstellen en gespecialiseerde menselijke evaluatie nog in behandeling· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 delen en 8 fasen·foundations → product, architectuur, beveiliging, DevOps, SRE, SPEC, AI en multi-agent systemen·redactionele status opgegeven door het archief· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Van hoe iemand leert hoe leraren worden opgeleid·25 delen· **elke klasse verklaart zijn bewijsstaat en -limieten** ·vroege alfabetisering, vergelijkende methoden, specifieke onderwijsbehoeften, coëxistentie, culturele diversiteit en internationale bewijzen·1 097-term glossarium, 325 diagrammen en een 60-activiteitsklaslokaalbank·14 loopbaantrajecten naar rol·LMS-exporteerbaar· **v21,0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetten·Terraform·SRE·FinOps· **1,288 uur** ·288 labs met JSON bewijs·1.032 getraceerde bronnen·2,884-pagina PDF handleiding· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Van het bezitten van uw eerste resultaat tot het leiden van een bedrijf en het oprichten van uw eigen: teams, KPI/OKR, financiën, product, risico, bestuur, en M&A·24 gevallen, 96 labs en 39 templates· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@ Sequentiële programma's in het Spaans, met status en toepassingsgebied die door
 
 <a id="forks"></a>
 
-## 🍴 Forks van projecten van derden (54)
+## 🍴 Forks van projecten van derden (60)
 
 Dit zijn forks van projecten van anderen die in dit account worden bewaard. **Ze zijn geen eigen werk**: de eer komt toe aan de oorspronkelijke auteurs, ze tellen niet mee in enig cijfer van dit profiel en elke beschrijving vat samen wat het oorspronkelijke project zelf aangeeft, zonder ondersteuning, audit of eigen productie-ervaring te impliceren. Beschrijvingen volgens het oorspronkelijke project · 2026-11-09.
 
-### 🤖 Codeeragents en agent-frameworks (18)
+### 🤖 Codeeragents en agent-frameworks (19)
 
 | Fork | Oorspronkelijk project | Taal | Wat het is |
 |---|---|---|---|
@@ -139,8 +139,9 @@ Dit zijn forks van projecten van anderen die in dit account worden bewaard. **Ze
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Python-bibliotheek voor AI-agents die de browser bedienen |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | Computer-use-CLI voor AI-agents |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter voor agenttools» |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Open-source persoonlijke agent met een eigen computer: jaagt facturen na, bereidt gesprekken voor en zegt proefabonnementen op echte websites op, en vraagt eerst toestemming |
 
-### 🧩 Skills, plug-ins en workflows voor agents (11)
+### 🧩 Skills, plug-ins en workflows voor agents (12)
 
 | Fork | Oorspronkelijk project | Taal | Wat het is |
 |---|---|---|---|
@@ -155,8 +156,9 @@ Dit zijn forks van projecten van anderen die in dit account worden bewaard. **Ze
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Open QA/QE-platform met agents en skills voor de hele softwarelevenscyclus |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Virtueel directieteam: één leidinggevende figuur ondersteund door 8 gespecialiseerde Claude-agents |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | MCP-server waarmee Claude, Cursor of Windsurf n8n-workflows bouwt |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Platform voor workflowautomatisering met ingebouwde AI: visueel bouwen of eigen code, meer dan 400 integraties |
 
-### 🛡️ Beveiliging en software-analyse (8)
+### 🛡️ Beveiliging en software-analyse (11)
 
 | Fork | Oorspronkelijk project | Taal | Wat het is |
 |---|---|---|---|
@@ -168,8 +170,11 @@ Dit zijn forks van projecten van anderen die in dit account worden bewaard. **Ze
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Websitecrawler en -analyzer voor SEO, beveiliging, toegankelijkheid en prestaties |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Reverse engineering met agents, van appgedrag tot native binaries |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Begrijpen hoe software werkt en je eigen software bouwen |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Autonoom AI-systeem voor penetratietests (Engelse vertaling; oorsprong: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Framework voor reverse engineering van software (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Cyberspace-mapping: subdomeinenumeratie, poortscans, opsporen van gevoelige informatie, kwetsbaarheidsscans en gedistribueerde nodes |
 
-### 🧠 AI-modellen en infrastructuur (5)
+### 🧠 AI-modellen en infrastructuur (6)
 
 | Fork | Oorspronkelijk project | Taal | Wat het is |
 |---|---|---|---|
@@ -178,6 +183,7 @@ Dit zijn forks van projecten van anderen die in dit account worden bewaard. **Ze
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | PyTorch-bouwstenen voor het OLMo-ecosysteem |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Hoogwaardig inferentieframework op grote schaal voor DeepSeek-modellen |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Taalmodellen aanpassen zonder hertraining (censuur, slijmerigheid, enz.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Eén OpenAI-compatibel /v1-endpoint met slimme routering over tientallen gratis LLM-aanbieders |
 
 ### 🏢 Bedrijfsbeheer en platforms (6)
 

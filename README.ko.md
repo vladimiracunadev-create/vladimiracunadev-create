@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **시험 적용** | 프로젝트**850 테스트**+ 훈제 이상**503.8M 쿼리**(0개의 판)·Empresa, 칠레**230 테스트** ·오토마**150 파이트** ·멀티OS CI |
 | 🤖 **생산 급료 대리인** | 랭그라프 RealWorld**25/25 운영한 후원**(케이스 01-25, 100% 적용)·운영 AI 에이전트**23 대리인**으로**69개의 신중한 evals** |
 | 🔗 **Polyglot 통합** | **20 건**sender→n8n→receiver —**19 운영**, 독수리로 개별적으로 감사-· **18+ DB 엔진** · **20 + 용기** ·11 패턴 |
-| 📦 **의 특징** | **164 릴리스**생태계의 전반**67개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
+| 📦 **의 특징** | **166 릴리스**생태계의 전반**67개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
 | 🛡️ **공급 체인** | 코드QL·뚱 베어·팟캐스트·팟캐스트·뚱 베어·팟캐스트·TruffleHog의 특징·사이클론디X SBOM·팟캐스트 |
-| 📚 **의약** | **18,418 클래스**22개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
+| 📚 **의약** | **22,337 클래스**22개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
 | 🌐 **의논하기** | PWA 설치· **22 개 언어** · **154 PDF의**생성물 : 파이프라인·CV 자료 API·축전기 인조 인간·등대 100 |
 | 🔒 **원격 측정** | forensic 제품 및 Empresa Operativa Chile의 Zero telemetry - 모든 빌드에서 확인 (안드로이드 없음)`INTERNET`(주) |
 | 🌐 **관련 사이트** | **57 GitHub 페이지 사이트**—56 착륙, 제품, 프로그램, 또는 생태계 항해자 당 하나, 포트폴리오 플러스 - 각각 자체 저장소에서 배치·모든 57 HTTP로 확인`200` |
@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️한눈에 보는 생태계
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ko.24a14aac.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ko.77578c0a.svg)
 
 ## 🗂️ 생태계: 제품, 연구소, 응용 AI, 교육과정, 과학 컴퓨팅
 
@@ -219,7 +219,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 🤖 [**응용 AI**](docs/ECOSYSTEM.ko.md#ai) (6)
 - 📚 [**완전한 기술 교육과정**](docs/ECOSYSTEM.ko.md#curricula) (22)
 - 🔬 [**과학 컴퓨팅**](docs/ECOSYSTEM.ko.md#science) (1)
-- 🍴 [**제3자 프로젝트의 포크**](docs/ECOSYSTEM.ko.md#forks) (54)
+- 🍴 [**제3자 프로젝트의 포크**](docs/ECOSYSTEM.ko.md#forks) (60)
 
 👉 **[전체 생태계 보기](docs/ECOSYSTEM.ko.md)** · [🍴 제3자 프로젝트의 포크](docs/ECOSYSTEM.ko.md#forks)
 
@@ -243,7 +243,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **상태에 대해 정직**— 1개의 repo는 이름이 되었습니다 (`Multisimulador` → `machine-operator-program`) 아직 존재하지 않는 Promising 소프트웨어를 피하기 위해.
 - **배지는 신호, 증거가 아닙니다**— 각 repo는 또한 선언합니다**그것은하지 않습니다**.
 - **모델 outward**— 도메인은 먼저 설계; 인터페이스는 투사입니다.
-- **외부 작업은 외부로 선언됩니다.** — 제3자 프로젝트의 [포크 54개](docs/ECOSYSTEM.ko.md#forks)는 하나씩 설명하며, 이 프로필의 자체 작업물 수치에서 제외됩니다.
+- **외부 작업은 외부로 선언됩니다.** — 제3자 프로젝트의 [포크 60개](docs/ECOSYSTEM.ko.md#forks)는 하나씩 설명하며, 이 프로필의 자체 작업물 수치에서 제외됩니다.
 
 ## ✅전문 범위
 

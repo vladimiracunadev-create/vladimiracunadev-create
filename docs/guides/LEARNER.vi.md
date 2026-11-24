@@ -4,7 +4,7 @@
 
 ## Trong một dòng
 
-22 chương trình tuần tự bằng tiếng Tây Ban Nha, với 18.418 bài học do workflow đếm, mỗi chương trình nêu trạng thái biên tập và giới hạn của mình.
+22 chương trình tuần tự bằng tiếng Tây Ban Nha, với 22.337 bài học do workflow đếm, mỗi chương trình nêu trạng thái biên tập và giới hạn của mình.
 
 ## Chọn theo mục tiêu
 

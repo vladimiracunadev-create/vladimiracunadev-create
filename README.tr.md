@@ -81,9 +81,9 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 | 🧪 **Test kapsamı** | GabySQL**850 test testleri**+ söndürücü**503.8M sorguları**(0 Panik)·Empresa Operativa Chile**230 Test testleri** ·Automa**150 pytest** ·multi-OS CI |
 | 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **Polyglot integration** | **20 cases** sender→n8n→receiver —**19 operational**, individually audited with Docker— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **Distribution** | **164 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **166 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **Tedarik zinciri** | KodQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **18,418 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **22,337 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **Portföy Portföyü** | Yükleme edilebilir PWA· **22 dil dili** · **154 PDFs**Boru hattı tarafından üretilen·CV Data API·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Adli ürünler ve Empresa Operativa Chile'de Sıfır telemetri - her binada doğrulandı (no Android`INTERNET`İzin) |
 | 🌐 **Yayınlanmış siteleri** | **57 GitHub Pages siteleri**-56 iniş, bir ürün, program veya ekosistem navigator, artı portföy - her biri kendi depolarından dağıtıldı·57 kişi HTTP ile doğrulandı`200` |
@@ -208,7 +208,7 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 ## 🗺️Bir bakışta ekosistem
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.1155d08e.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.3480b5b4.svg)
 
 ## 🗂️ Ekosistem: ürünler, laboratuvarlar, uygulamalı yapay zekâ, müfredatlar ve bilimsel hesaplama
 
@@ -219,7 +219,7 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 - 🤖 [**Uygulamalı yapay zekâ**](docs/ECOSYSTEM.tr.md#ai) (6)
 - 📚 [**Eksiksiz teknik müfredatlar**](docs/ECOSYSTEM.tr.md#curricula) (22)
 - 🔬 [**Bilimsel Bilgi**](docs/ECOSYSTEM.tr.md#science) (1)
-- 🍴 [**Üçüncü taraf projelerin fork'ları**](docs/ECOSYSTEM.tr.md#forks) (54)
+- 🍴 [**Üçüncü taraf projelerin fork'ları**](docs/ECOSYSTEM.tr.md#forks) (60)
 
 👉 **[Ekosistemin tamamını gör](docs/ECOSYSTEM.tr.md)** · [🍴 Üçüncü taraf projelerin fork'ları](docs/ECOSYSTEM.tr.md#forks)
 
@@ -243,7 +243,7 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 - **Dürüst statü hakkında**– bir repo yeniden adlandırılmıştı (`Multisimulador` → `machine-operator-program`Henüz mevcut olmayan umut verici yazılımlardan kaçınmak.
 - **İşaretler sinyalleridir, kanıt değil**Her bir repo da aynı zamanda ilan eder**Ne yapmaz**.
 - **Model outward** — the domain is designed first; the interface is a projection.
-- **Dış çalışma dışsal olarak ilan edilir** — üçüncü taraf projelerin [54 fork'u](docs/ECOSYSTEM.tr.md#forks) tek tek açıklanır ve bu profildeki tüm kendi eser rakamlarının dışında kalır.
+- **Dış çalışma dışsal olarak ilan edilir** — üçüncü taraf projelerin [60 fork'u](docs/ECOSYSTEM.tr.md#forks) tek tek açıklanır ve bu profildeki tüm kendi eser rakamlarının dışında kalır.
 
 ## ✅Profesyonel Kapsam
 

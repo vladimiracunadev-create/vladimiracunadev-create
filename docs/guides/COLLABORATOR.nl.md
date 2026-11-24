@@ -25,7 +25,7 @@ De repositories zijn bedoeld om te worden gekloond, uitgevoerd en gevalideerd; b
 
 ## Wat niet mijn eigen werk is
 
-Het account bewaart [54 forks](../ECOSYSTEM.nl.md#forks) van projecten van derden. Ze zijn niet mijn eigen werk: wil je eraan bijdragen, doe dat dan in het oorspronkelijke project (de kolom «Oorspronkelijk project» verwijst naar elk daarvan).
+Het account bewaart [60 forks](../ECOSYSTEM.nl.md#forks) van projecten van derden. Ze zijn niet mijn eigen werk: wil je eraan bijdragen, doe dat dan in het oorspronkelijke project (de kolom «Oorspronkelijk project» verwijst naar elk daarvan).
 
 ## Volgende stap
 

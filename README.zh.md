@@ -80,9 +80,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **测试覆盖** | GabySQL **850 tests** + **503.8M queries** fuzz（0 panics）· Empresa Operativa Chile **230 tests** · Automa **150 pytest** · multi-OS CI |
 | 🤖 **生产级 Agent** | LangGraph RealWorld **25/25 operational backends**（cases 01–25，100% 覆盖）· Operational AI Agents **23 agents** 和 **69 deterministic evals** |
 | 🔗 **多语言集成** | **20 cases** sender→n8n→receiver —**19 operational**，逐一用 Docker 审计— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **分发** | 在 **67 个自有公共仓库**生态中发布 **164 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
+| 📦 **分发** | 在 **67 个自有公共仓库**生态中发布 **166 releases** · `.exe` · `.msi` · `.dmg` · `.apk` 安装器和制品，带 checksum 与 build 证据；适用时商业/商店签名标注为进行中 |
 | 🛡️ **供应链** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · CycloneDX SBOM · Scorecard |
-| 📚 **课程** | **18,418 classes**，覆盖 22 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
+| 📚 **课程** | **22,337 classes**，覆盖 22 个项目，由 [workflow](.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计 —不是手写数字— · 每个项目都声明其编辑状态和限制 |
 | 🌐 **作品集** | 可安装 PWA · **22 种语言** · pipeline 生成 **154 PDFs** · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **遥测** | 取证产品和 Empresa Operativa Chile 中为零 — 每次 build 验证（Android 无 `INTERNET` 权限） |
 | 🌐 **已发布站点** | **57 个 GitHub Pages 站点** —56 个产品、项目或生态导航 landing 加主作品集— 每个都从自己的仓库部署 · 57 个均验证 HTTP `200` |
@@ -207,7 +207,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️ 生态系统概览
 
-![🧠 技术判断 — architecture · modernization · operations](docs/img/ecosystem.zh.0bcc2264.svg)
+![🧠 技术判断 — architecture · modernization · operations](docs/img/ecosystem.zh.25ccddcb.svg)
 
 ## 🗂️ 生态系统：产品、实验室、应用 AI、课程与科学计算
 
@@ -218,7 +218,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 🤖 [**应用 AI**](docs/ECOSYSTEM.zh.md#ai) (6)
 - 📚 [**完整技术课程**](docs/ECOSYSTEM.zh.md#curricula) (22)
 - 🔬 [**科学计算**](docs/ECOSYSTEM.zh.md#science) (1)
-- 🍴 [**第三方项目的 fork**](docs/ECOSYSTEM.zh.md#forks) (54)
+- 🍴 [**第三方项目的 fork**](docs/ECOSYSTEM.zh.md#forks) (60)
 
 👉 **[查看完整生态系统](docs/ECOSYSTEM.zh.md)** · [🍴 第三方项目的 fork](docs/ECOSYSTEM.zh.md#forks)
 
@@ -242,7 +242,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **Honesty about status** — 一个 repo 从 `Multisimulador` 改名为 `machine-operator-program`，避免承诺尚不存在的软件。
 - **Badges are signals, not evidence** — 每个 repo 也声明**它不做什么**。
 - **Model outward** — 先设计 domain，interface 只是 projection。
-- **外部作品会明确标注** — 第三方项目的 [54 个 fork](docs/ECOSYSTEM.zh.md#forks) 逐一说明，并不计入本档案任何自有作品数字。
+- **外部作品会明确标注** — 第三方项目的 [60 个 fork](docs/ECOSYSTEM.zh.md#forks) 逐一说明，并不计入本档案任何自有作品数字。
 
 ## ✅ 专业范围
 

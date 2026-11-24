@@ -81,9 +81,9 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 | 🧪 **Kiểm tra tin tức** | GabySQUL**Thử ra 850**+ fuzzing trên**503. 8M truy vấn**(0 hoảng loạn)·Empresa Operativa Chile**Thử ra 230** ·Automa**150 py thử** ·Thông tin đa MSName |
 | 🤖 **Các tác vụ cấp sản xuất** | Thế giới thật LangGraph**Hậu phương hoạt động 25/25**(case 01–25, 100% tin tức)·Đặc vụ AI hoạt động**23 đặc vụ**có**69 phép đánh giá xác định** |
 | 🔗 **Sự kết hợp của bản sắc** | **20 thùng**Trình gửi ảnh cho người nhận thư —**19 Hoạt động**Từng cá nhân được kiểm toán với Docker· **18+B động cơ** · **20+ container** ·11 mẫu |
-| 📦 **Phân phối** | **164 bản phát hành**xuyên qua hệ sinh thái của**67 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
+| 📦 **Phân phối** | **166 bản phát hành**xuyên qua hệ sinh thái của**67 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
 | 🛡️ **Chuỗi cung cấp** | CodeQL·Semgrep·Cướp·Trivy·Grype·Gitleaks·TruffleHog·CM SBOM CcconeDX·Điểm |
-| 📚 **Curricula** | **18.418 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
+| 📚 **Curricula** | **22.337 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
 | 🌐 **Portfolio** | PWA có thể cài đặt· **22 ngôn ngữ** · **154 PDFs**tạo bởi ống dẫn·Name·Bộ tạo tích hợp a- rô- bốt·Căn nhà sáng 100 |
 | 🔒 **Kính viễn vọng** | Không có máy đo trong sản phẩm pháp y và Empresa Operativa Chile — được kiểm tra trong mỗi tòa nhà (không có người máy)`INTERNET`Cho phép |
 | 🌐 **Xuất ra các trang** | **57 trang GitHub**-56 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 57 được kiểm tra với HTTP`200` |
@@ -208,7 +208,7 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 ## 🗺️Hệ thống sinh thái đang hưng thịnh
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.d506d5e0.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.94c77be6.svg)
 
 ## 🗂️ Hệ sinh thái: sản phẩm, phòng thí nghiệm, AI ứng dụng, giáo trình và tính toán khoa học
 
@@ -219,7 +219,7 @@ Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần 
 - 🤖 [**AI ứng dụng**](docs/ECOSYSTEM.vi.md#ai) (6)
 - 📚 [**Máy tính trình duyệt kỹ thuật toàn bộ**](docs/ECOSYSTEM.vi.md#curricula) (22)
 - 🔬 [**Tính toán khoa học**](docs/ECOSYSTEM.vi.md#science) (1)
-- 🍴 [**Fork của dự án bên thứ ba**](docs/ECOSYSTEM.vi.md#forks) (54)
+- 🍴 [**Fork của dự án bên thứ ba**](docs/ECOSYSTEM.vi.md#forks) (60)
 
 👉 **[Xem toàn bộ hệ sinh thái](docs/ECOSYSTEM.vi.md)** · [🍴 Fork của dự án bên thứ ba](docs/ECOSYSTEM.vi.md#forks)
 
@@ -243,7 +243,7 @@ Tôi đã tham gia **NASA Space Apps Challenge 2026** (Santiago, 14–15/11), �
 - **Trung thực về tình trạng**- Một lần nữa được đổi tên (`Multisimulador` → `machine-operator-program`Để tránh phần mềm hứa hẹn mà chưa tồn tại.
 - **Huy hiệu là tín hiệu, không phải bằng chứng.**— mỗi người trả tiền cũng tuyên bố**những gì nó không làm**.
 - **Mô hình bên ngoài**— lĩnh vực được thiết kế trước; giao diện là một hình chiếu.
-- **Công việc bên ngoài được công bố là bên ngoài** — [54 fork](docs/ECOSYSTEM.vi.md#forks) của dự án bên thứ ba được mô tả từng cái một và nằm ngoài mọi con số sản phẩm tự thực hiện của hồ sơ này.
+- **Công việc bên ngoài được công bố là bên ngoài** — [60 fork](docs/ECOSYSTEM.vi.md#forks) của dự án bên thứ ba được mô tả từng cái một và nằm ngoài mọi con số sản phẩm tự thực hiện của hồ sơ này.
 
 ## ✅Phạm vi chuyên nghiệp
 

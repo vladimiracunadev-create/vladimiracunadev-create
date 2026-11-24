@@ -74,7 +74,7 @@
 
 ## 📚ویژگی های فنی کامل
 
-برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 22 برنامه اضافه شده به**18418 کلاس**شمارش شده توسط[a workflow](../.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
+برنامه های اکتشافی در اسپانیایی، با وضعیت و محدوده اعلام شده توسط هر مخزن. 22 برنامه اضافه شده به**22337 کلاس**شمارش شده توسط[a workflow](../.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است؛ نشان هر هفته تازه می شود و توسط دست نوشته نمی شود.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)یک قطب نمای تغذیه شده است که 30 مسیر واقعی را در 6 ناحیه از طریق نقشه های بصری و یک قطب نمای بصری متصل می کند.[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)این به عنوان یک برنامه اضافی شمرده نمی شود.
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 بخش با تعاریف عملیاتی، ورق های اندازه گیری، بی اعتبار بودن واقعی، و زمینه تنظیم مقررات شیلی· **v1.6.0** ·1.29M کلمات·17 مسیر مبتنی بر نقش· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | ایجاد و کار یک شرکت واقعی در شیلی: از ایده به مشارکت، اقتدار مالیاتی، عملیات، بحران و خروج·360 نمودار·1،251-termary·1،548 صفحه راهنمای· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 قسمت·60 جلسه ی یکپارچه·35 مسیر·منابع قابل ردیابی·مارک معکوس، خواننده آفلاین و صفحات GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | درجه 1 -12· **۴،۱۵ تجربه برنامه های درسی یکپارچه** · **3153 اهداف یادگیری** ·منابع ذهنی·هیچ پیشنهادی و بررسی تخصصی انسانی هنوز در انتظار نیست· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 قسمت و 8 مرحله·پایه ها، محصول، معماری، امنیت، DevOps، SRE، SPEC، AI و سیستم های چند عاملی·وضعیت سرمقاله اعلام شده توسط مخزن· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | درجه 1 -12· **۴،۱۵ تجربه برنامه های درسی یکپارچه** · **4024 اهداف یادگیری** ·منابع ذهنی·هیچ پیشنهادی و بررسی تخصصی انسانی هنوز در انتظار نیست· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 قسمت و 8 مرحله·پایه ها، محصول، معماری، امنیت، DevOps، SRE، SPEC، AI و سیستم های چند عاملی·وضعیت سرمقاله اعلام شده توسط مخزن· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | از چگونگی یادگیری یک فرد به چگونگی آموزش معلمان·25 قسمت· **هر کلاسی وضعیت و محدودیت های خود را اعلام می کند.** ·سواد اولیه، روش های مقایسه ای، نیازهای آموزشی خاص، همزیستی، تنوع فرهنگی و شواهد بین المللی·1097-termary, 325 Dias و 60-active Class bank·14 مسیر شغلی با نقش·LMS-Exportable· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·سازنده : Terraform·SRE·FinOps· **1،288 ساعت** ·288 آزمایشگاه با شواهد JSON·1032 منابع ردیابی·2884 صفحه راهنمای PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | از داشتن اولین نتیجه خود برای رهبری یک شرکت و تاسیس خود: تیم ها، KPI /OKR، امور مالی، محصول، خطر، هیئت مدیره و M&A·24 مورد، 96 آزمایشگاه و 39 قالب· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 forkهای پروژه‌های اشخاص ثالث (54)
+## 🍴 forkهای پروژه‌های اشخاص ثالث (60)
 
 این‌ها forkهایی از پروژه‌های دیگران هستند که در این حساب نگهداری می‌شوند. **کار خودم نیستند**: اعتبار آن‌ها متعلق به نویسندگان اصلی است، در هیچ رقمی از این پروفایل به حساب نمی‌آیند و هر توضیح فقط آنچه را پروژهٔ اصلی خودش اعلام کرده خلاصه می‌کند، بدون آنکه به معنای پشتیبانی، ممیزی یا تجربهٔ عملیاتی من باشد. توضیحات بر پایهٔ پروژهٔ اصلی · 2026-11-09.
 
-### 🤖 عامل‌های کدنویسی و چارچوب‌های عامل (18)
+### 🤖 عامل‌های کدنویسی و چارچوب‌های عامل (19)
 
 | Fork | پروژهٔ اصلی | زبان | چیست |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | کتابخانهٔ Python برای عامل‌های هوش مصنوعی که مرورگر را کنترل می‌کنند |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI استفادهٔ رایانه (computer use) برای عامل‌های هوش مصنوعی |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter برای ابزارهای عامل» |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | عامل شخصی متن‌باز با رایانهٔ مخصوص خود: پیگیر فاکتورها می‌شود، تماس‌ها را آماده می‌کند و آزمایش‌های رایگان را در سایت‌های واقعی لغو می‌کند، و پیش از اقدام می‌پرسد |
 
-### 🧩 مهارت‌ها، افزونه‌ها و گردش‌کارها برای عامل‌ها (11)
+### 🧩 مهارت‌ها، افزونه‌ها و گردش‌کارها برای عامل‌ها (12)
 
 | Fork | پروژهٔ اصلی | زبان | چیست |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | پلتفرم باز QA/QE با عامل‌ها و مهارت‌ها برای کل چرخهٔ عمر نرم‌افزار |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | تیم اجرایی مجازی: یک شخصیت اجرایی با پشتیبانی ۸ عامل تخصصی Claude |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | سرور MCP تا Claude، Cursor یا Windsurf گردش‌کارهای n8n بسازند |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | پلتفرم خودکارسازی گردش‌کار با هوش مصنوعی بومی: ساخت بصری یا با کد دلخواه، بیش از ۴۰۰ یکپارچه‌سازی |
 
-### 🛡️ امنیت و تحلیل نرم‌افزار (8)
+### 🛡️ امنیت و تحلیل نرم‌افزار (11)
 
 | Fork | پروژهٔ اصلی | زبان | چیست |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | خزنده و تحلیلگر وب‌سایت برای سئو، امنیت، دسترس‌پذیری و کارایی |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | مهندسی معکوس با عامل‌ها، از رفتار برنامه تا باینری‌های بومی |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | فهمیدن چگونگی کار هر نرم‌افزار و ساختن نرم‌افزار خودتان |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | سامانهٔ خودمختار تست نفوذ با هوش مصنوعی (ترجمهٔ انگلیسی؛ منبع اصلی: Autumn-27/ARTEX، AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | چارچوب مهندسی معکوس نرم‌افزار (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | نگاشت فضای سایبری: شمارش زیردامنه‌ها، اسکن پورت، کشف اطلاعات حساس، اسکن آسیب‌پذیری و گره‌های توزیع‌شده |
 
-### 🧠 مدل‌های هوش مصنوعی و زیرساخت (5)
+### 🧠 مدل‌های هوش مصنوعی و زیرساخت (6)
 
 | Fork | پروژهٔ اصلی | زبان | چیست |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | بلوک‌های سازندهٔ PyTorch برای اکوسیستم OLMo |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | چارچوب استنتاج پرکارایی و در مقیاس بزرگ برای مدل‌های DeepSeek |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | تغییر مدل‌های زبانی بدون بازآموزی (سانسور، چاپلوسی و غیره) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | یک نقطهٔ پایانی /v1 سازگار با OpenAI با مسیریابی هوشمند میان ده‌ها ارائه‌دهندهٔ رایگان LLM |
 
 ### 🏢 مدیریت کسب‌وکار و پلتفرم‌ها (6)
 

@@ -81,9 +81,9 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 | 🧪 **Uji cakupan** | GabySQL**850 tes**+ fuzzing over**Kueri 503.8M**(0 panik)·Empresa Operativa Chile**230 tests** ·Automa**150 pytest** ·multi- OS CI |
 | 🤖 **Agen-kelas-produksi** | LangGrafik RealWorld**25 / 25 backend operasional**(kasus 01- 25, 100% cakupan)·Agen AI Operasional**23 agen**dengan**69 deterministik eval** |
 | 🔗 **Integrasi Polyglot** | **20 kasus**- = Sender Avern8n Penerima = -**19 operasional**, secara individual diaudit dengan Docker -· **18 + mesin DB** · **20 + kontainer** ·11 pola |
-| 📦 **Distribusi** | **164 rilis**di seluruh ekosistem**67 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
+| 📦 **Distribusi** | **166 rilis**di seluruh ekosistem**67 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
 | 🛡️ **Rantai Supply** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **Kelas 18,418**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
+| 📚 **Curricula** | **Kelas 22,337**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
 | 🌐 **Portfolio** | PWA yang dapat dipasang· **22 bahasa** · **154 PDFs**dihasilkan oleh pipeline·API Data CV·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Zero telemetry in forensic products and Empresa operativa Chile - verified in every build (no Android`INTERNET`ijin) |
 | 🌐 **Situs yang dipublikasikan** | **57 Situs Halaman GitHub**- 56 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 57 diverifikasi dengan HTTP`200` |
@@ -208,7 +208,7 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 ## 🗺️Ekosistem Pada A Glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.dcfbea01.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.6b89079a.svg)
 
 ## 🗂️ Ekosistem: produk, laboratorium, AI terapan, kurikulum, dan komputasi ilmiah
 
@@ -219,7 +219,7 @@ Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh
 - 🤖 [**AI Terapan**](docs/ECOSYSTEM.id.md#ai) (6)
 - 📚 [**Curricula Teknis Lengkap**](docs/ECOSYSTEM.id.md#curricula) (22)
 - 🔬 [**Komputer Ilmiah**](docs/ECOSYSTEM.id.md#science) (1)
-- 🍴 [**Fork proyek pihak ketiga**](docs/ECOSYSTEM.id.md#forks) (54)
+- 🍴 [**Fork proyek pihak ketiga**](docs/ECOSYSTEM.id.md#forks) (60)
 
 👉 **[Lihat ekosistem lengkap](docs/ECOSYSTEM.id.md)** · [🍴 Fork proyek pihak ketiga](docs/ECOSYSTEM.id.md#forks)
 
@@ -243,7 +243,7 @@ Saya berpartisipasi dalam **NASA Space Apps Challenge 2026** (Santiago, 14–15 
 - **Kejujuran tentang status**- satu repo diganti namanya (`Multisimulador` → `machine-operator-program`) untuk menghindari perangkat lunak yang menjanjikan yang belum ada.
 - **Lencana adalah sinyal, bukan bukti**- Setiap repo juga menyatakan**apa TIDAK DILAKUKAN**.
 - **Model keluar**- domain dirancang pertama; antarmuka adalah proyeksi.
-- **Pekerjaan eksternal dinyatakan sebagai eksternal** — [54 fork](docs/ECOSYSTEM.id.md#forks) proyek pihak ketiga dijelaskan satu per satu dan berada di luar semua angka karya sendiri di profil ini.
+- **Pekerjaan eksternal dinyatakan sebagai eksternal** — [60 fork](docs/ECOSYSTEM.id.md#forks) proyek pihak ketiga dijelaskan satu per satu dan berada di luar semua angka karya sendiri di profil ini.
 
 ## ✅Scope Profesional
 

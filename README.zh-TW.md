@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **測試覆蓋率** | 蓋比SQL**850個測試**+ 模糊過**503.8M次查詢**(0恐慌) (笑聲)·智利企業**230次試驗** ·自動**150個火試** ·多作業系統分類 |
 | 🤖 **生產級製劑** | 朗格勒真實世界**25/25 業務後端**(病例01-25,100%覆蓋)·業務助理**23名特工人員**與**69個確定性評估** |
 | 🔗 **多塊塊融合** | **20個案件**傳送者 n8n 收發者-**19起業務**,個人審計 與多克 -· **18+ DB 發動機** · **20個以上集裝箱** ·11種模式 |
-| 📦 **分發** | **164次釋放**跨越生態系統的**67個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
+| 📦 **分發** | **166次釋放**跨越生態系統的**67個擁有的公共儲存庫** ·安裝器和文物`.exe` · `.msi` · `.dmg` · `.apk`核對和建立證據; 酌情在商業/儲存中籤名 |
 | 🛡️ **供應鏈** | 程式碼QL·衛星·匪幫·特里維·格萊普·巨頭·旋轉木偶·旋風DX SBOM·計分卡 |
-| 📚 **課程** | **18 418個班級**22個方案可核查,按[a workflow](.github/workflows/stats.yml)或可核查的來源,·每個節目都宣佈其編輯地位和限制 |
+| 📚 **課程** | **22 337個班級**22個方案可核查,按[a workflow](.github/workflows/stats.yml)或可核查的來源,·每個節目都宣佈其編輯地位和限制 |
 | 🌐 **組合** | 可安裝的 PWA· **22種語言** · **154個PDF**管道產生的·CV 資料 API·電容安卓·燈塔 100 |
 | 🔒 **遙測** | 法證產品和智利企業的零遙測——在每個建築中都得到核實(無Android)`INTERNET`許可權) |
 | 🌐 **出版網站** | **57個基特胡佈網頁網站**-56次著陸,每件產品、程式或生態系統導航員一次,加上組合——從自己的儲存庫部署·全部57個已與HTTP核實`200` |
@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️生態系統一一
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.zh-TW.fa5c1c78.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.zh-TW.3bb105a5.svg)
 
 ## 🗂️ 生態系統：產品、實驗室、應用 AI、課程與科學運算
 
@@ -219,7 +219,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 🤖 [**應用AI**](docs/ECOSYSTEM.zh-TW.md#ai) (6)
 - 📚 [**完成技術課程**](docs/ECOSYSTEM.zh-TW.md#curricula) (22)
 - 🔬 [**科學計算**](docs/ECOSYSTEM.zh-TW.md#science) (1)
-- 🍴 [**第三方專案的 fork**](docs/ECOSYSTEM.zh-TW.md#forks) (54)
+- 🍴 [**第三方專案的 fork**](docs/ECOSYSTEM.zh-TW.md#forks) (60)
 
 👉 **[查看完整生態系統](docs/ECOSYSTEM.zh-TW.md)** · [🍴 第三方專案的 fork](docs/ECOSYSTEM.zh-TW.md#forks)
 
@@ -243,7 +243,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **誠實的狀態**——一雷波被更名(.`Multisimulador` → `machine-operator-program`),以避免尚不存在的有希望的軟體.
 - **徽章是訊號,不是證據**——每筆還本付息也宣告**做它不做的東西**.
 - **型號向外**——域名設計為先;介面為投影.
-- **對外工作被宣佈為對外工作** — 第三方專案的 [54 個 fork](docs/ECOSYSTEM.zh-TW.md#forks) 逐一說明，且不計入本檔案任何自有作品數字。
+- **對外工作被宣佈為對外工作** — 第三方專案的 [60 個 fork](docs/ECOSYSTEM.zh-TW.md#forks) 逐一說明，且不計入本檔案任何自有作品數字。
 
 ## ✅專業範圍
 

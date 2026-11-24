@@ -74,7 +74,7 @@
 
 ## 📚 完整技术课程
 
-这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **18,418 classes**，由 [workflow](../.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
+这些是西班牙语顺序课程，每个仓库都明确声明状态和范围。22 个项目共 **22,337 classes**，由 [workflow](../.github/workflows/stats.yml) 从真实仓库结构或仓库内声明的可验证来源统计；徽章每周刷新，不是手写数字。
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) 是一个联邦式学习导航器，通过可视化地图和[可访问的离线门户](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)连接 6 个领域的 30 条真实路径；它不计为额外课程项目。
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 parts with operational definitions、measurement sheets、verifiable bibliography and Chilean regulatory context · **v1.6.0** · 1.29M words · 17 role paths · [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Create and operate a real company in Chile：idea、incorporation、SII、operations、crisis、exit · 360 diagrams · 1,251-term glossary · 1,548-page manual · [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 parts · 60 场综合课程 · 35 paths · 可追溯来源 · Markdown、offline reader、GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **智利学校课程路径**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 覆盖小学一年级至高中四年级 · **4,156 项跨学科整合活动** · **3,153 个学习目标** · MINEDUC 来源 · 无待处理提案，仍需专业人工复核 · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 部分、8 个阶段 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · 编辑状态由仓库明确声明 · [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **智利学校课程路径**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | 覆盖小学一年级至高中四年级 · **4,156 项跨学科整合活动** · **4,024 个学习目标** · MINEDUC 来源 · 无待处理提案，仍需专业人工复核 · [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **现代软件工程**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 部分、8 个阶段 · 基础 → 产品、架构、安全、DevOps、SRE、SPEC、AI 与多智能体系统 · 编辑状态由仓库明确声明 · [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares evidence state and limits** · literacy、methods、special needs、coexistence、cultural diversity · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1,288 hours** · 288 labs with JSON evidence · 1,032 sources · 2,884-page PDF manual · [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | From owning first outcome to leading a company and founding one：teams、KPI/OKR、finance、product、risk、board、M&A · [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 第三方项目的 fork (54)
+## 🍴 第三方项目的 fork (60)
 
 这些是保存在本账号中的他人项目的 fork。**它们不是我的原创作品**：功劳属于原作者，不计入本档案的任何数字，每条说明仅概括原项目自身的声明，并不意味着我提供支持、审计或拥有生产环境经验。说明依据原项目 · 2026-11-09。
 
-### 🤖 编码代理与代理框架 (18)
+### 🤖 编码代理与代理框架 (19)
 
 | Fork | 原项目 | 语言 | 简介 |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 让 AI 代理操作浏览器的 Python 库 |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 面向 AI 代理的 computer use CLI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | “面向代理工具的 OpenRouter” |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | 拥有自己电脑的开源个人智能体：追收发票、准备通话、在真实网站上取消试用，并在行动前先询问 |
 
-### 🧩 面向代理的技能、插件与工作流 (11)
+### 🧩 面向代理的技能、插件与工作流 (12)
 
 | Fork | 原项目 | 语言 | 简介 |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | 开放的 QA/QE 平台，代理与技能覆盖软件全生命周期 |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | 虚拟管理团队：由 8 个专业 Claude 代理支撑的一位管理者形象 |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 让 Claude、Cursor 或 Windsurf 构建 n8n 工作流的 MCP 服务器 |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | 原生集成 AI 的工作流自动化平台：可视化构建或自定义代码，400 多个集成 |
 
-### 🛡️ 安全与软件分析 (8)
+### 🛡️ 安全与软件分析 (11)
 
 | Fork | 原项目 | 语言 | 简介 |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | 面向 SEO、安全、无障碍与性能的网站爬取与分析工具 |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 借助代理做逆向工程，从应用行为到原生二进制 |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | 弄懂任何软件如何运作，并打造自己的软件 |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | 基于 AI 的自主渗透测试系统（英文译本；上游：Autumn-27/ARTEX，AGPL-3.0） |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 软件逆向工程（SRE）框架 |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | 网络空间测绘：子域名枚举、端口扫描、敏感信息发现、漏洞扫描和分布式节点 |
 
-### 🧠 AI 模型与基础设施 (5)
+### 🧠 AI 模型与基础设施 (6)
 
 | Fork | 原项目 | 语言 | 简介 |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | OLMo 生态系统的 PyTorch 基础模块 |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | 面向 DeepSeek 模型的高性能大规模推理框架 |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 无需重新训练即可修改语言模型（审查、谄媚等） |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | 单一的 OpenAI 兼容 /v1 端点，可在数十家免费 LLM 提供商之间智能路由 |
 
 ### 🏢 企业管理与平台 (6)
 

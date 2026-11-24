@@ -80,9 +80,9 @@ Ce n’est pas « un repo » : c’est un écosystème avec des standards commun
 | 🧪 **Couverture de tests** | GabySQL **850 tests** + fuzz de **503,8 M requêtes** (0 panic) · Empresa Operativa Chile **230 tests** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agents en production** | LangGraph RealWorld **25/25 backends opérationnels** (cas 01–25, couverture 100 %) · Operational AI Agents **23 agents** avec **69 evals déterministes** |
 | 🔗 **Intégration polyglotte** | **20 cas** émetteur→n8n→récepteur —**19 opérationnels**, audités un par un avec Docker— · **18+ moteurs BD** · **20+ conteneurs** · 11 patterns |
-| 📦 **Distribution** | **164 releases** publiées dans un écosystème de **67 dépôts publics propres** · installateurs et artefacts `.exe` · `.msi` · `.dmg` · `.apk` avec checksums et preuves de build ; signatures commerciales/store en cours quand applicable |
+| 📦 **Distribution** | **166 releases** publiées dans un écosystème de **67 dépôts publics propres** · installateurs et artefacts `.exe` · `.msi` · `.dmg` · `.apk` avec checksums et preuves de build ; signatures commerciales/store en cours quand applicable |
 | 🛡️ **Supply chain** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Cursus** | **18 418 classes** vérifiables dans 22 programmes, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt —pas écrites à la main— · chaque programme déclare son état éditorial et ses limites |
+| 📚 **Cursus** | **22 337 classes** vérifiables dans 22 programmes, comptées par [un workflow](.github/workflows/stats.yml) depuis la structure réelle ou une source vérifiable déclarée dans le dépôt —pas écrites à la main— · chaque programme déclare son état éditorial et ses limites |
 | 🌐 **Portfolio** | PWA installable · **22 langues** · **154 PDF** par pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Télémétrie** | Zéro dans les produits forensiques et Empresa Operativa Chile — vérifié à chaque build (aucune permission Android `INTERNET`) |
 | 🌐 **Sites publiés** | **57 sites** GitHub Pages —56 landings, une par produit, programme ou navigateur de l'écosystème, plus le portfolio— chacun déployé depuis son propre dépôt · les 57 vérifiés avec réponse `200` |
@@ -207,7 +207,7 @@ Technologies détectées dans les dépôts publics (manifestes, dépendances, co
 
 ## 🗺️ L’Écosystème En Un Coup D’Œil
 
-![🧠 Jugement technique — architecture · modernisation · opération](docs/img/ecosystem.fr.92cf4481.svg)
+![🧠 Jugement technique — architecture · modernisation · opération](docs/img/ecosystem.fr.f434b22b.svg)
 
 ## 🗂️ Écosystème : produits, laboratoires, IA appliquée, cursus et calcul scientifique
 
@@ -218,7 +218,7 @@ Le travail concret du profil vit dans un document à part : logiciels à téléc
 - 🤖 [**IA Appliquée**](docs/ECOSYSTEM.fr.md#ai) (6)
 - 📚 [**Cursus Techniques Complets**](docs/ECOSYSTEM.fr.md#curricula) (22)
 - 🔬 [**Calcul Scientifique**](docs/ECOSYSTEM.fr.md#science) (1)
-- 🍴 [**Forks de projets tiers**](docs/ECOSYSTEM.fr.md#forks) (54)
+- 🍴 [**Forks de projets tiers**](docs/ECOSYSTEM.fr.md#forks) (60)
 
 👉 **[Voir l'écosystème complet](docs/ECOSYSTEM.fr.md)** · [🍴 Forks de projets tiers](docs/ECOSYSTEM.fr.md#forks)
 
@@ -242,7 +242,7 @@ J'ai participé au **NASA Space Apps Challenge 2026** (Santiago, 14 et 15 novemb
 - **Honnêteté sur l’état** — un repo a été renommé (`Multisimulador` → `machine-operator-program`) pour ne pas promettre un logiciel qui n’existe pas encore.
 - **Les badges sont des signaux, pas des preuves** — chaque repo déclare aussi **ce qu’il ne fait PAS**.
 - **Du modèle vers l’extérieur** — le domaine est conçu d’abord ; l’interface est une projection.
-- **Ce qui est externe est déclaré** — les [54 forks](docs/ECOSYSTEM.fr.md#forks) de projets tiers sont décrits un par un et restent en dehors de tous les chiffres d'œuvre personnelle de ce profil.
+- **Ce qui est externe est déclaré** — les [60 forks](docs/ECOSYSTEM.fr.md#forks) de projets tiers sont décrits un par un et restent en dehors de tous les chiffres d'œuvre personnelle de ce profil.
 
 ## ✅ Périmètre Professionnel
 

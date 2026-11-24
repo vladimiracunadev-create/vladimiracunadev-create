@@ -20,7 +20,7 @@ Pick your case and go straight to what you need. Each guide takes 1–2 minutes 
 
 - **Who:** Computer & Informatics Engineer and Business Administrator, 16+ years building and operating software.
 - **What I do:** solution architecture, legacy modernization, automation and applied AI, plus their delivery and operation.
-- **Evidence:** 67 own public repositories, 164 releases, tests and CI in the products, and every repo also states what it does **not** do.
+- **Evidence:** 67 own public repositories, 166 releases, tests and CI in the products, and every repo also states what it does **not** do.
 - **Mode:** remote or hybrid, depending on the project.
 - **Contact:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

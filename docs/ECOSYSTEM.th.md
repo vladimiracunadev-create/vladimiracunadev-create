@@ -74,7 +74,7 @@
 
 ## 📚หลักสูตรเทคนิคฉบับสมบูรณ์
 
-รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 22 โครงการรวมกันเป็น**18,418 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](../.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
+รายการ ที่ มี การ จัด ใน ภาษา สเปน ซึ่ง มี สถานะ และ ขอบ เขต ที่ แต่ ละ ห้อง เก็บ ของ ได้ ประกาศ. 22 โครงการรวมกันเป็น**22,337 คลาสเรียน พ.ศ.**นับจํานวน[a workflow](../.github/workflows/stats.yml)จากโครงสร้างคลังสินค้าที่แท้จริง หรือแหล่งที่ตรวจสอบได้ เปิดใช้งานในคลังสินค้า; ตรารีเฟรชรายสัปดาห์และไม่ได้เขียนด้วยมือ
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)เป็นเข็มทิศที่ดูดซึม เชื่อมต่อ 30 เส้นทางจริงผ่านพื้นที่ 6 ผ่านแผนที่และ[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);; ไม่ ได้ ถือ ว่า เป็น รายการ อื่น ๆ.
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 ส่วนที่มีนิยามการทํางาน, แผ่นวัด, ชีวประวัติแบบวัดได้, และบริบทควบคุมชิลี· **v1.6. 0** ·1. 29M คํา·เส้นทางบนบทบาท 17· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | สร้างและดําเนินกิจการจริงในชิลี : จากความคิดไปในทางการเข้าครอบครอง, อํานาจภาษี, การดําเนินงาน, วิกฤตการณ์และออก·แผนภูมิ 360·อภิธานศัพท์ 1,2111 ระยะเวลา·คู่มือ 1,548 หน้า· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 ส่วน·วาระงานของส่วนท้าย 60·35 เส้นทาง·แหล่งข้อมูลที่แกะรอยได้·พิมพ์แบบ Countดาวน์, โปรแกรมอ่านแบบออฟไลน์, และหน้าแบบ GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | คะแนน 1–12· **4,156 ผนวกประสบการณ์การข้ามห้อง** · **3,153 วัตถุประสงค์การเรียนรู้** ·แหล่ง ที่ มา ของ ความ สําเร็จ·ไม่มีการเสนองานและวิจารณ์มนุษย์เป็นพิเศษ ที่ยังคงอยู่· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 ส่วน และ 8 ขั้น ตอน·ฐานราก → ผลิตภัณฑ์ สถาปัตยกรรม ความปลอดภัย เดวิสส์ เอสรี เอสพีซี ไอ และระบบหลาย ๆ หน่วยงาน·สถานะส่วนแก้ไขข้อความประกาศโดยคลังเก็บ· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | คะแนน 1–12· **4,156 ผนวกประสบการณ์การข้ามห้อง** · **4,024 วัตถุประสงค์การเรียนรู้** ·แหล่ง ที่ มา ของ ความ สําเร็จ·ไม่มีการเสนองานและวิจารณ์มนุษย์เป็นพิเศษ ที่ยังคงอยู่· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 ส่วน และ 8 ขั้น ตอน·ฐานราก → ผลิตภัณฑ์ สถาปัตยกรรม ความปลอดภัย เดวิสส์ เอสรี เอสพีซี ไอ และระบบหลาย ๆ หน่วยงาน·สถานะส่วนแก้ไขข้อความประกาศโดยคลังเก็บ· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | จากวิธีที่คนเรียนรู้ ถึงวิธีสอนครู·25 ส่วน· **แต่ ละ ชั้น ประกาศ สภาพ และ ขีด จํากัด ของ หลัก ฐาน** ·การ อ่าน หนังสือ, วิธี การ ที่ ไม่ มี การ ควบคุม ใน ตอน แรก, ความ ต้องการ ทาง การ ศึกษา เฉพาะ อย่าง, การ อยู่ ร่วม กัน, ความ หลาก หลาย ทาง วัฒนธรรม, และ หลัก ฐาน จาก นานา ชาติ·1,097 แว่นขยาย 325 แผนภาพ และธนาคารห้องเรียน 60 มาตรา·14 เส้นทางอาชีพตามบทบาท·นําเข้าได้โดย LMM· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | ขนาด AWS·เสน่ห์·เข้ารหัสแบบ GCP·คูแบร์เน็ตส์·เทอร์ราฟอร์ม·ครี·ฟอสเฟต· **1,288 ชั่วโมง** ·288 ห้องแล็ปพร้อมหลักฐาน Json·1,032 แกะรอยแหล่ง·ขนาด 2,884 หน้าคู่มือ PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | จากการเป็นเจ้าของผลลัพธ์แรกของคุณ เพื่อเป็นผู้นําบริษัท และก่อตั้งบริษัทของคุณเอง: ทีม, PDF/OKR, การเงิน, ผลิตภัณฑ์, ความเสี่ยง, คณะกรรมการและ M&A·24 คดี, 96 ห้องปฏิบัติการ และเอกสาร 39 ฉบับ· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 Fork ของโปรเจกต์บุคคลที่สาม (54)
+## 🍴 Fork ของโปรเจกต์บุคคลที่สาม (60)
 
 นี่คือ fork ของโปรเจกต์ของผู้อื่นที่เก็บไว้ในบัญชีนี้ **ไม่ใช่ผลงานของผมเอง**: เครดิตเป็นของผู้เขียนต้นฉบับ ไม่นับรวมในตัวเลขใดของโปรไฟล์นี้ และแต่ละคำอธิบายสรุปสิ่งที่โปรเจกต์ต้นฉบับระบุไว้เอง โดยไม่ได้หมายถึงการสนับสนุน การตรวจสอบ หรือประสบการณ์การใช้งานจริงของผม คำอธิบายอ้างอิงโปรเจกต์ต้นฉบับ · 2026-11-09
 
-### 🤖 เอเจนต์เขียนโค้ดและเฟรมเวิร์กเอเจนต์ (18)
+### 🤖 เอเจนต์เขียนโค้ดและเฟรมเวิร์กเอเจนต์ (19)
 
 | Fork | โปรเจกต์ต้นฉบับ | ภาษา | คืออะไร |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | ไลบรารี Python สำหรับเอเจนต์ AI ที่ควบคุมเบราว์เซอร์ |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI computer use สำหรับเอเจนต์ AI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | "OpenRouter สำหรับเครื่องมือเอเจนต์" |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | เอเจนต์ส่วนตัวโอเพนซอร์สที่มีคอมพิวเตอร์ของตัวเอง: ตามเรื่องใบแจ้งหนี้ เตรียมสายสนทนา และยกเลิกการทดลองใช้บนเว็บไซต์จริง และถามก่อนลงมือ |
 
-### 🧩 สกิล ปลั๊กอิน และเวิร์กโฟลว์สำหรับเอเจนต์ (11)
+### 🧩 สกิล ปลั๊กอิน และเวิร์กโฟลว์สำหรับเอเจนต์ (12)
 
 | Fork | โปรเจกต์ต้นฉบับ | ภาษา | คืออะไร |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | แพลตฟอร์ม QA/QE แบบเปิดที่มีเอเจนต์และสกิลตลอดวงจรชีวิตซอฟต์แวร์ |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | ทีมผู้บริหารเสมือน: บุคลิกผู้บริหารหนึ่งเดียวที่หนุนหลังด้วยเอเจนต์ Claude เฉพาะทาง 8 ตัว |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | เซิร์ฟเวอร์ MCP ให้ Claude, Cursor หรือ Windsurf สร้างเวิร์กโฟลว์ n8n |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | แพลตฟอร์มอัตโนมัติเวิร์กโฟลว์ที่มี AI ในตัว: สร้างด้วยภาพหรือเขียนโค้ดเอง มีการเชื่อมต่อมากกว่า 400 รายการ |
 
-### 🛡️ ความปลอดภัยและการวิเคราะห์ซอฟต์แวร์ (8)
+### 🛡️ ความปลอดภัยและการวิเคราะห์ซอฟต์แวร์ (11)
 
 | Fork | โปรเจกต์ต้นฉบับ | ภาษา | คืออะไร |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | ตัวรวบรวมและวิเคราะห์เว็บไซต์สำหรับ SEO ความปลอดภัย การเข้าถึง และประสิทธิภาพ |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | วิศวกรรมย้อนกลับด้วยเอเจนต์ ตั้งแต่พฤติกรรมแอปถึงไบนารีเนทีฟ |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | เข้าใจว่าซอฟต์แวร์ใดๆ ทำงานอย่างไรแล้วสร้างของตัวเอง |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | ระบบทดสอบเจาะระบบอัตโนมัติด้วย AI (ฉบับแปลภาษาอังกฤษ ต้นฉบับ: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | เฟรมเวิร์กวิศวกรรมย้อนกลับซอฟต์แวร์ (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | การทำแผนที่ไซเบอร์สเปซ: การไล่หาซับโดเมน การสแกนพอร์ต การค้นหาข้อมูลอ่อนไหว การสแกนช่องโหว่ และโหนดแบบกระจาย |
 
-### 🧠 โมเดล AI และโครงสร้างพื้นฐาน (5)
+### 🧠 โมเดล AI และโครงสร้างพื้นฐาน (6)
 
 | Fork | โปรเจกต์ต้นฉบับ | ภาษา | คืออะไร |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | ส่วนประกอบ PyTorch สำหรับระบบนิเวศ OLMo |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | เฟรมเวิร์กอนุมานประสิทธิภาพสูงระดับใหญ่สำหรับโมเดล DeepSeek |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | ปรับแต่งโมเดลภาษาโดยไม่ต้องฝึกใหม่ (การเซ็นเซอร์ การประจบ ฯลฯ) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | endpoint /v1 เดียวที่เข้ากันได้กับ OpenAI พร้อมการกำหนดเส้นทางอัจฉริยะข้ามผู้ให้บริการ LLM ฟรีหลายสิบราย |
 
 ### 🏢 การบริหารธุรกิจและแพลตฟอร์ม (6)
 

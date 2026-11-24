@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **टेस्ट कवरेज** | GabySQL**850 टेस्ट**+ फ्यूज़िंग ओवर**503.8M क्वेरीज़**(0 panics)·Empresa ओपेरा चिल**230 परीक्षण** ·ऑटोमा**150 pytest** ·बहु-OS CI |
 | 🤖 **उत्पादन ग्रेड एजेंट** | लैंग्वेज रियलवर्ल्ड**25/25 परिचालन परिवर्धन**(मामसूम 01-25, 100% कवरेज)·ऑपरेशनल एआई एजेंट**23 एजेंट**साथ**69 नियतिवादी evals** |
 | 🔗 **Polyglot एकीकरण** | **20 मामले**प्रेषक → n8n → receiver —**19 परिचालन**व्यक्तिगत रूप से डॉकर के साथ लेखा परीक्षा· **18+ DB इंजन** · **20+ कंटेनर** ·11 पैटर्न |
-| 📦 **वितरण** | **164 रिलीज़**एक पारिस्थितिकी तंत्र के पार**67 स्वामित्व वाली सार्वजनिक भंडार** ·संस्थापक और कलाकृतियों`.exe` · `.msi` · `.dmg` · `.apk`चेकसम और साक्ष्य का निर्माण; प्रगति पर वाणिज्यिक / स्टोर हस्ताक्षर जहां लागू हो |
+| 📦 **वितरण** | **166 रिलीज़**एक पारिस्थितिकी तंत्र के पार**67 स्वामित्व वाली सार्वजनिक भंडार** ·संस्थापक और कलाकृतियों`.exe` · `.msi` · `.dmg` · `.apk`चेकसम और साक्ष्य का निर्माण; प्रगति पर वाणिज्यिक / स्टोर हस्ताक्षर जहां लागू हो |
 | 🛡️ **आपूर्ति श्रृंखला** | कोड·Semgrep·बंदी·त्रिवी·Grype·गिटलाक·TruffleHog·चक्रवातDX SBOM·स्कोरकार्ड |
-| 📚 **Curricula** | **18,418 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **22,337 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **पोर्टफोलियो** | इंस्टॉल करने योग्य PWA· **22 भाषाएँ** · **154 PDF**पाइपलाइन द्वारा उत्पन्न·CV डेटा API·संधारित्र एंड्रॉयड·लाइटहाउस 100 |
 | 🔒 **टेलीमेट्री** | फोरेंसिक उत्पादों और Empresa ओपेरा चिले में शून्य टेलीमेट्री - हर निर्माण में सत्यापित (कोई Android नहीं)`INTERNET`अनुमति |
 | 🌐 **प्रकाशित स्थल** | **57 GitHub पेज साइटें**-56 लैंडिंग, एक प्रति उत्पाद, कार्यक्रम, या पारिस्थितिकी तंत्र नेविगेटर, साथ ही पोर्टफोलियो- प्रत्येक अपने स्वयं के भंडार से तैनात·सभी 57 HTTP के साथ सत्यापित`200` |
@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️पारिस्थितिकी तंत्र एक झलक में
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.hi.6455e2c2.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.hi.38e00a52.svg)
 
 ## 🗂️ पारिस्थितिकी तंत्र: उत्पाद, प्रयोगशालाएँ, अनुप्रयुक्त AI, पाठ्यक्रम और वैज्ञानिक कम्प्यूटिंग
 
@@ -219,7 +219,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 🤖 [**नुप्रयुक्त AI**](docs/ECOSYSTEM.hi.md#ai) (6)
 - 📚 [**तकनीकी पाठ्यक्रम**](docs/ECOSYSTEM.hi.md#curricula) (22)
 - 🔬 [**वैज्ञानिक कम्प्यूटिंग**](docs/ECOSYSTEM.hi.md#science) (1)
-- 🍴 [**तृतीय-पक्ष प्रोजेक्ट्स के fork**](docs/ECOSYSTEM.hi.md#forks) (54)
+- 🍴 [**तृतीय-पक्ष प्रोजेक्ट्स के fork**](docs/ECOSYSTEM.hi.md#forks) (60)
 
 👉 **[पूरा पारिस्थितिकी तंत्र देखें](docs/ECOSYSTEM.hi.md)** · [🍴 तृतीय-पक्ष प्रोजेक्ट्स के fork](docs/ECOSYSTEM.hi.md#forks)
 
@@ -243,7 +243,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **स्थिति के बारे में ईमानदारी**— एक रेपो का नाम बदल दिया गया था (`Multisimulador` → `machine-operator-program`) आशाजनक सॉफ्टवेयर से बचने के लिए जो अभी तक मौजूद नहीं है।
 - **बैज संकेत हैं, सबूत नहीं**प्रत्येक रेपो भी घोषणा करता है**क्या नहीं करना चाहिए**.
 - **मॉडल बाहरी**- डोमेन को पहले डिजाइन किया गया है; इंटरफ़ेस एक प्रक्षेपण है।
-- **बाह्य कार्य को बाह्य घोषित किया जाता है** — तृतीय-पक्ष प्रोजेक्ट्स के [54 fork](docs/ECOSYSTEM.hi.md#forks) एक-एक करके वर्णित हैं और इस प्रोफ़ाइल की स्वयं के कार्य की सभी संख्याओं से बाहर रहते हैं।
+- **बाह्य कार्य को बाह्य घोषित किया जाता है** — तृतीय-पक्ष प्रोजेक्ट्स के [60 fork](docs/ECOSYSTEM.hi.md#forks) एक-एक करके वर्णित हैं और इस प्रोफ़ाइल की स्वयं के कार्य की सभी संख्याओं से बाहर रहते हैं।
 
 ## ✅व्यावसायिक क्षेत्र
 

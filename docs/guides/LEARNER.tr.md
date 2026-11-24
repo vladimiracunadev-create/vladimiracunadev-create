@@ -4,7 +4,7 @@
 
 ## Tek satırda
 
-İspanyolca 22 ardışık program; bir workflow ile sayılan 18.418 ders; her biri editoryal durumunu ve sınırlarını beyan eder.
+İspanyolca 22 ardışık program; bir workflow ile sayılan 22.337 ders; her biri editoryal durumunu ve sınırlarını beyan eder.
 
 ## Hedefe göre seçin
 

@@ -74,7 +74,7 @@
 
 ## 📚तकनीकी पाठ्यक्रम
 
-स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 22 कार्यक्रम में शामिल हो गए**18,418 कक्षा**, द्वारा गिना[a workflow](../.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
+स्पेनिश में अनुक्रमिक कार्यक्रम, प्रत्येक भंडार द्वारा घोषित स्थिति और दायरे के साथ। 22 कार्यक्रम में शामिल हो गए**22,337 कक्षा**, द्वारा गिना[a workflow](../.github/workflows/stats.yml)वास्तविक भंडार संरचना या एक सत्यापन योग्य स्रोत से जो भंडार में घोषित किया गया है; बैज साप्ताहिक ताज़ा करता है और हाथ से नहीं लिखा जाता है।
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)दृश्य मानचित्रों और एक के माध्यम से 6 क्षेत्रों में 30 वास्तविक पथों को जोड़ने वाला एक federated कम्पास है[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)इसे अतिरिक्त प्रोग्राम के रूप में नहीं गिना जाता है।
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | परिचालन परिभाषाओं, माप पत्रों, सत्यापन योग्य ग्रंथ सूची और चिली नियामक संदर्भ के साथ 24 भागों· **v1.6.0** ·1.29M शब्द·17 भूमिका-आधारित पथ· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | चिली में एक वास्तविक कंपनी बनाएं और संचालित करें: विचार से लेकर निगमन, कर प्राधिकरण, संचालन, संकट और निकास तक·360 आरेख·1,251-term शब्दावली·1,548-पृष्ठ मैनुअल· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 भाग·60 एकीकृत सत्र·35 पथ·पता लगाने योग्य सूत्र·Markdown, ऑफ़लाइन रीडर, और गिटहब पेज· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | ग्रेड 1-12· **4,156 एकीकृत क्रॉस-करिकुलर अनुभवों** · **3,153 सीखने के उद्देश्य** ·Mineduc सूत्र·कोई लंबित प्रस्ताव और विशेष मानव समीक्षा अभी भी लंबित· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 भाग और 8 चरण·नींव → उत्पाद, वास्तुकला, सुरक्षा, देवोप्स, SRE, युक्ति, एआई और बहु-एजेंट सिस्टम·संपादकीय स्थिति को रिपोज़िटरी द्वारा घोषित किया गया· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | ग्रेड 1-12· **4,156 एकीकृत क्रॉस-करिकुलर अनुभवों** · **4,024 सीखने के उद्देश्य** ·Mineduc सूत्र·कोई लंबित प्रस्ताव और विशेष मानव समीक्षा अभी भी लंबित· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 भाग और 8 चरण·नींव → उत्पाद, वास्तुकला, सुरक्षा, देवोप्स, SRE, युक्ति, एआई और बहु-एजेंट सिस्टम·संपादकीय स्थिति को रिपोज़िटरी द्वारा घोषित किया गया· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | From how a person learns to how teachers are trained · 25 parts · **each class declares its evidence state and limits** · early literacy, comparative methods, specific educational needs, coexistence, cultural diversity, and international evidence · 1,097-term glossary, 325 diagrams, and a 60-activity classroom bank · 14 career paths by role · LMS-exportable · **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·नीला·जीसीपी·कुबेरनेट्स·टेरेफॉर्म·SRE·फिनोप· **1,288 घंटे** ·JSON सबूत के साथ 288 लैब्स·1,032 ट्रेस स्रोत·2,884-page PDF मैनुअल· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | अपने पहले परिणाम के मालिक से एक कंपनी का नेतृत्व करने और अपने आप को ढूंढने के लिए: टीमों, KPI/OKR, वित्त, उत्पाद, जोखिम, बोर्ड और M&A·24 मामले, 96 लैब्स और 39 टेम्पलेट· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 तृतीय-पक्ष प्रोजेक्ट्स के fork (54)
+## 🍴 तृतीय-पक्ष प्रोजेक्ट्स के fork (60)
 
 ये दूसरों के प्रोजेक्ट्स के fork हैं जो इस खाते में रखे गए हैं। **ये मेरा अपना कार्य नहीं हैं**: श्रेय उनके मूल लेखकों का है, ये इस प्रोफ़ाइल की किसी भी संख्या में नहीं गिने जाते, और हर विवरण केवल वही सारांशित करता है जो मूल प्रोजेक्ट स्वयं घोषित करता है; इसका अर्थ मेरी ओर से सपोर्ट, ऑडिट या प्रोडक्शन अनुभव नहीं है। विवरण मूल प्रोजेक्ट के अनुसार · 2026-11-09।
 
-### 🤖 कोडिंग एजेंट और एजेंट फ़्रेमवर्क (18)
+### 🤖 कोडिंग एजेंट और एजेंट फ़्रेमवर्क (19)
 
 | Fork | मूल प्रोजेक्ट | भाषा | यह क्या है |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | ब्राउज़र चलाने वाले AI एजेंटों के लिए Python लाइब्रेरी |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | AI एजेंटों के लिए computer use CLI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | "एजेंट टूल्स के लिए OpenRouter" |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | अपने कंप्यूटर वाला ओपन-सोर्स व्यक्तिगत एजेंट: बिल पर नज़र रखता है, कॉल की तैयारी करता है और असली वेबसाइटों पर ट्रायल रद्द करता है, और कार्रवाई से पहले पूछता है |
 
-### 🧩 एजेंटों के लिए स्किल, प्लगइन और वर्कफ़्लो (11)
+### 🧩 एजेंटों के लिए स्किल, प्लगइन और वर्कफ़्लो (12)
 
 | Fork | मूल प्रोजेक्ट | भाषा | यह क्या है |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | सॉफ़्टवेयर के पूरे जीवनचक्र के लिए एजेंट और स्किल्स वाला खुला QA/QE प्लेटफ़ॉर्म |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | वर्चुअल कार्यकारी टीम: 8 विशेषज्ञ Claude एजेंटों द्वारा समर्थित एक कार्यकारी व्यक्तित्व |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | ऐसा MCP सर्वर जिससे Claude, Cursor या Windsurf n8n वर्कफ़्लो बना सकें |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | नेटिव AI वाला वर्कफ़्लो ऑटोमेशन प्लेटफ़ॉर्म: विज़ुअल निर्माण या अपना कोड, 400 से अधिक इंटीग्रेशन |
 
-### 🛡️ सुरक्षा और सॉफ़्टवेयर विश्लेषण (8)
+### 🛡️ सुरक्षा और सॉफ़्टवेयर विश्लेषण (11)
 
 | Fork | मूल प्रोजेक्ट | भाषा | यह क्या है |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | SEO, सुरक्षा, पहुँच-योग्यता और प्रदर्शन के लिए वेबसाइट क्रॉलर और विश्लेषक |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | एजेंटों के साथ रिवर्स इंजीनियरिंग, ऐप व्यवहार से नेटिव बाइनरी तक |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | किसी भी सॉफ़्टवेयर के काम करने का तरीका समझना और अपना बनाना |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | AI-आधारित स्वायत्त पेनिट्रेशन-टेस्टिंग प्रणाली (अंग्रेज़ी अनुवाद; मूल: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | सॉफ़्टवेयर रिवर्स इंजीनियरिंग (SRE) फ़्रेमवर्क |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | साइबरस्पेस मैपिंग: सबडोमेन गणना, पोर्ट स्कैनिंग, संवेदनशील जानकारी की खोज, भेद्यता स्कैनिंग और वितरित नोड |
 
-### 🧠 AI मॉडल और इन्फ्रास्ट्रक्चर (5)
+### 🧠 AI मॉडल और इन्फ्रास्ट्रक्चर (6)
 
 | Fork | मूल प्रोजेक्ट | भाषा | यह क्या है |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | OLMo पारिस्थितिकी तंत्र के लिए PyTorch बिल्डिंग ब्लॉक |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepSeek मॉडलों के लिए उच्च-प्रदर्शन, बड़े पैमाने का इन्फ़रेंस फ़्रेमवर्क |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | बिना पुनः प्रशिक्षण के भाषा मॉडल में बदलाव (सेंसरशिप, चापलूसी आदि) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | एक ही OpenAI-संगत /v1 एंडपॉइंट, दर्जनों मुफ़्त LLM प्रदाताओं के बीच स्मार्ट रूटिंग के साथ |
 
 ### 🏢 व्यवसाय प्रबंधन और प्लेटफ़ॉर्म (6)
 

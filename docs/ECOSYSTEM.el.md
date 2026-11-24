@@ -74,7 +74,7 @@
 
 ## 📚Πλήρης τεχνική επιμέλεια
 
-Αλληλοσυσσωρεύσιμα προγράμματα στα ισπανικά, με κατάσταση και πεδίο εφαρμογής δηλωμένα από κάθε χώρο αποθήκευσης. Τα 22 προγράμματα προσθέτουν έως και**18.418 κατηγορίες**, μετρά με[a workflow](../.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο· το σήμα ανανεώνεται κάθε εβδομάδα και δεν γράφεται με το χέρι.
+Αλληλοσυσσωρεύσιμα προγράμματα στα ισπανικά, με κατάσταση και πεδίο εφαρμογής δηλωμένα από κάθε χώρο αποθήκευσης. Τα 22 προγράμματα προσθέτουν έως και**22.337 κατηγορίες**, μετρά με[a workflow](../.github/workflows/stats.yml)από πραγματική δομή αποθετηρίου ή επαληθεύσιμη πηγή που δηλώνεται στο αποθετήριο· το σήμα ανανεώνεται κάθε εβδομάδα και δεν γράφεται με το χέρι.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)είναι μια υποτροφιασμένη πυξίδα που συνδέει 30 πραγματικές διαδρομές σε 6 περιοχές μέσω οπτικών χαρτών και[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)· δεν υπολογίζεται ως ένα πρόσθετο πρόγραμμα.
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 μέρη με επιχειρησιακούς ορισμούς, δελτία μέτρησης, επαληθεύσιμη βιβλιογραφία και κανονιστικό πλαίσιο της Χιλής· **v1.6.0** ·1.29M λέξεις·17 διαδρομές με βάση το ρόλο· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Δημιουργία και λειτουργία μιας πραγματικής εταιρείας στη Χιλή: από την ιδέα στην ενσωμάτωση, φορολογική αρχή, επιχειρήσεις, κρίση, και έξοδος·360 διαγράμματα·1,251-τερματικό γλωσσάριο·Εγχειρίδιο 1.548 σελίδων· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 μέρη·60 ολοκληρωτικές συνεδρίες·35 μονοπάτια·ιχνηλάσιμες πηγές·Markdown, offline αναγνώστης, και GitHub Σελίδες· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | Βαθμοί 1–12· **4.156 ολοκληρωμένες διασχολικές εμπειρίες** · **3.153 μαθησιακοί στόχοι** ·Πηγές MINEDUC·δεν εκκρεμούν προτάσεις και εξειδικευμένη ανθρώπινη αναθεώρηση που εκκρεμεί ακόμη· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 μέρη και 8 στάδια·θεμέλια → προϊόν, αρχιτεκτονική, ασφάλεια, DevOps, SRE, SPEC, AI, και συστήματα πολλαπλών παραγόντων·συντακτική κατάσταση που δηλώνεται από το αποθετήριο· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | Βαθμοί 1–12· **4.156 ολοκληρωμένες διασχολικές εμπειρίες** · **4.024 μαθησιακοί στόχοι** ·Πηγές MINEDUC·δεν εκκρεμούν προτάσεις και εξειδικευμένη ανθρώπινη αναθεώρηση που εκκρεμεί ακόμη· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 μέρη και 8 στάδια·θεμέλια → προϊόν, αρχιτεκτονική, ασφάλεια, DevOps, SRE, SPEC, AI, και συστήματα πολλαπλών παραγόντων·συντακτική κατάσταση που δηλώνεται από το αποθετήριο· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Από το πώς μαθαίνει ένα άτομο μέχρι το πώς εκπαιδεύονται οι δάσκαλοι·25 μέρη· **κάθε τάξη δηλώνει την κατάσταση και τα όρια των αποδείξεων της** ·Πρώιμη παιδεία, συγκριτικές μέθοδοι, ειδικές εκπαιδευτικές ανάγκες, συνύπαρξη, πολιτιστική πολυμορφία και διεθνή στοιχεία·1,097-τερματικό γλωσσάριο, 325 διαγράμματα, και μια 60-δραστηριότητα τράπεζα τάξη·14 πορείες σταδιοδρομίας ανά ρόλο·LMS-εξαγώγιμο· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS (ΣΥΜ)·Αζούρ·GCP·Κουμπερνέτες·Τεραμόμορφο·ΣΡΕ·Φινόπς· **1.288 ώρες** ·288 εργαστήρια με στοιχεία JSON·1,032 πηγές που εντοπίστηκαν·2,884-σελίδα εγχειρίδιο PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Από την ιδιοκτησία του πρώτου αποτελέσματος σας να ηγηθεί μια εταιρεία και την ίδρυση της δικής σας: ομάδες, KPI / OKR, χρηματοδότηση, προϊόν, κίνδυνος, διοικητικό συμβούλιο, και M&A·24 περιπτώσεις, 96 εργαστήρια, και 39 πρότυπα· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 Forks έργων τρίτων (54)
+## 🍴 Forks έργων τρίτων (60)
 
 Πρόκειται για forks έργων άλλων που φυλάσσονται σε αυτόν τον λογαριασμό. **Δεν είναι δικό μου έργο**: τα εύσημα ανήκουν στους αρχικούς δημιουργούς, δεν μετρούν σε κανένα νούμερο αυτού του προφίλ και κάθε περιγραφή συνοψίζει όσα δηλώνει το ίδιο το αρχικό έργο, χωρίς να υπονοεί υποστήριξη, έλεγχο ή δική μου εμπειρία παραγωγής. Περιγραφές σύμφωνα με το αρχικό έργο · 2026-11-09.
 
-### 🤖 Πράκτορες κώδικα και πλαίσια πρακτόρων (18)
+### 🤖 Πράκτορες κώδικα και πλαίσια πρακτόρων (19)
 
 | Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Βιβλιοθήκη Python για πράκτορες ΤΝ που χειρίζονται τον περιηγητή |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI computer use για πράκτορες ΤΝ |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter για εργαλεία πρακτόρων» |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Προσωπικός πράκτορας ανοιχτού κώδικα με δικό του υπολογιστή: κυνηγά τιμολόγια, προετοιμάζει κλήσεις και ακυρώνει δοκιμαστικές συνδρομές σε πραγματικούς ιστότοπους, και ρωτά πριν ενεργήσει |
 
-### 🧩 Skills, πρόσθετα και ροές εργασίας για πράκτορες (11)
+### 🧩 Skills, πρόσθετα και ροές εργασίας για πράκτορες (12)
 
 | Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Ανοικτή πλατφόρμα QA/QE με πράκτορες και skills για όλο τον κύκλο ζωής του λογισμικού |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Εικονική εκτελεστική ομάδα: μία διευθυντική περσόνα με υποστήριξη 8 εξειδικευμένων πρακτόρων Claude |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Διακομιστής MCP ώστε το Claude, το Cursor ή το Windsurf να δημιουργούν ροές n8n |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Πλατφόρμα αυτοματοποίησης ροών εργασίας με ενσωματωμένη AI: οπτική δόμηση ή δικός σας κώδικας, πάνω από 400 ενσωματώσεις |
 
-### 🛡️ Ασφάλεια και ανάλυση λογισμικού (8)
+### 🛡️ Ασφάλεια και ανάλυση λογισμικού (11)
 
 | Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Crawler και αναλυτής ιστοτόπων για SEO, ασφάλεια, προσβασιμότητα και απόδοση |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Αντίστροφη μηχανική με πράκτορες, από τη συμπεριφορά μιας εφαρμογής έως εγγενή δυαδικά αρχεία |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Κατανόηση του πώς λειτουργεί οποιοδήποτε λογισμικό και δημιουργία του δικού σας |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Αυτόνομο σύστημα δοκιμών διείσδυσης με AI (αγγλική μετάφραση· πηγή: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Framework αντίστροφης μηχανικής λογισμικού (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Χαρτογράφηση του κυβερνοχώρου: καταγραφή υποτομέων, σάρωση θυρών, εντοπισμός ευαίσθητων πληροφοριών, σάρωση ευπαθειών και κατανεμημένοι κόμβοι |
 
-### 🧠 Μοντέλα ΤΝ και υποδομή (5)
+### 🧠 Μοντέλα ΤΝ και υποδομή (6)
 
 | Fork | Αρχικό έργο | Γλώσσα | Τι είναι |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Δομικά στοιχεία PyTorch για το οικοσύστημα OLMo |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Πλαίσιο συμπερασμού υψηλής απόδοσης και μεγάλης κλίμακας για μοντέλα DeepSeek |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Τροποποίηση γλωσσικών μοντέλων χωρίς επανεκπαίδευση (λογοκρισία, κολακεία κ.ά.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Ένα ενιαίο OpenAI-συμβατό endpoint /v1 με έξυπνη δρομολόγηση μεταξύ δεκάδων δωρεάν παρόχων LLM |
 
 ### 🏢 Διοίκηση επιχειρήσεων και πλατφόρμες (6)
 

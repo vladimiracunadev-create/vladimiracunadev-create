@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **پوشش تست** | GabySQL**850 تست**+  fu**503.8M**(0 وحشت)·عملیات Empresa در شیلی**230 تست** ·Automa**150 pytest** ·CI چند بعدیOS CI |
 | 🤖 **تولید کنندگان** | LangGraph RealWorld**25/25 بازگشت عملیاتی**(مورد های 01 تا 25، 100٪ پوشش)·بازیگران AI عملیاتی**23 عامل**با**69 معیاری برای evals** |
 | 🔗 **Polyglot یکپارچگی** | **20 مورد**فرستنده:n8n**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.· **18+ موتورهای DB** · **20+** ·11 الگو |
-| 📦 **Distribution** | **164 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **166 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **زنجیره تامین** | کدQL·Semgrep·Bandit·Trivy·Grype·گیتیکوس·تروفه ها·CycloneDX SBOM·کارت امتیاز |
-| 📚 **Curricula** | **18418 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
+| 📚 **Curricula** | **22337 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
 | 🌐 **نمونه کارها** | نصب PWA· **22 زبان** · **154 PDF**تولید شده توسط خط لوله·CV Data API·Android·فانوس دریایی 100 |
 | 🔒 **تله** | عدم تقارن صفر در محصولات قانونی و عملکرد Empresa در هر ساخت (بدون Android)`INTERNET`اجازه) |
 | 🌐 **سایت های منتشر شده** | **57 صفحه**56 فرود، یک محصول، برنامه یا هدایت کننده اکوسیستم، به علاوه نمونه کارها – هر کدام از مخزن خود را·همه 57 تایید شده با HTTP`200` |
@@ -208,7 +208,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️سیستم در یک نگاه
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.a07c8ce2.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.37ee65b3.svg)
 
 ## 🗂️ اکوسیستم: محصولات، آزمایشگاه‌ها، هوش مصنوعی کاربردی، برنامه‌های آموزشی و محاسبات علمی
 
@@ -219,7 +219,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - 🤖 [**کاربردی AI**](docs/ECOSYSTEM.fa.md#ai) (6)
 - 📚 [**ویژگی های فنی کامل**](docs/ECOSYSTEM.fa.md#curricula) (22)
 - 🔬 [**محاسبات علمی**](docs/ECOSYSTEM.fa.md#science) (1)
-- 🍴 [**forkهای پروژه‌های اشخاص ثالث**](docs/ECOSYSTEM.fa.md#forks) (54)
+- 🍴 [**forkهای پروژه‌های اشخاص ثالث**](docs/ECOSYSTEM.fa.md#forks) (60)
 
 👉 **[مشاهدهٔ کل اکوسیستم](docs/ECOSYSTEM.fa.md)** · [🍴 forkهای پروژه‌های اشخاص ثالث](docs/ECOSYSTEM.fa.md#forks)
 
@@ -243,7 +243,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 - **صداقت در مورد وضعیت**یک بار تغییر نام داده شد (`Multisimulador` → `machine-operator-program`برای جلوگیری از نرم افزار امیدوار کننده که هنوز وجود ندارد.
 - **نشانه ها هستند، نه شواهد**هر بار که دوباره اعلام می کند**آنچه که انجام نمی دهد**.
 - **مدل خارجی**- دامنه ابتدا طراحی شده است؛ رابط یک پیش بینی است.
-- **کار خارجی به عنوان خارجی اعلام می شود** — [54 fork](docs/ECOSYSTEM.fa.md#forks) پروژه‌های اشخاص ثالث یکی‌یکی توصیف می‌شوند و از همهٔ ارقام کارهای شخصی این پروفایل بیرون می‌مانند.
+- **کار خارجی به عنوان خارجی اعلام می شود** — [60 fork](docs/ECOSYSTEM.fa.md#forks) پروژه‌های اشخاص ثالث یکی‌یکی توصیف می‌شوند و از همهٔ ارقام کارهای شخصی این پروفایل بیرون می‌مانند.
 
 ## ✅حرفه ای
 

@@ -74,7 +74,7 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 
 ## 📚Eksiksiz teknik müfredatlar
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **18,418 classes**, counted by [a workflow](../.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **22,337 classes**, counted by [a workflow](../.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)6 alanda görsel haritalar ve bir akış ile 30 gerçek yol birbirine bağlayan bir pupassdir.[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); ek bir program olarak sayılmıyor.
 
@@ -87,8 +87,8 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | Operasyonel tanımlarla 24 parça, ölçüm çarşafları, doğrulanabilir bibliyografi ve Şili düzenleyici bağlam· **v1.6.0** ·1.29M kelime sözleri·17 rol tabanlı yol· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Şili'de gerçek bir şirket oluşturun: katılmak, vergi otoritesi, operasyonları, kriz ve çıkış yapmak için fikirden·360 diyagramlar·1.251-term·1.548-sayfa manuel· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 parts · 60 integrative sessions · 35 paths · traceable sources · Markdown, offline reader, and GitHub Pages · [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 1. Sınıflar 1-12· **4,156 bütünleşik çapraz-kullanıcı deneyimler** · **3,153 öğrenme hedefleri** ·MINEDUC kaynakları·Beklenmeyen teklifler ve uzman insan incelemesi hala beklemeye devam· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 parça ve 8 aşama·Temeller → ürün, mimarlık, güvenlik, DevOps, SRE, SPEC, AI ve multi-agent sistemler·Editör statüsü, havuz tarafından ilan edildi· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | 1. Sınıflar 1-12· **4,156 bütünleşik çapraz-kullanıcı deneyimler** · **4,024 öğrenme hedefleri** ·MINEDUC kaynakları·Beklenmeyen teklifler ve uzman insan incelemesi hala beklemeye devam· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 parça ve 8 aşama·Temeller → ürün, mimarlık, güvenlik, DevOps, SRE, SPEC, AI ve multi-agent sistemler·Editör statüsü, havuz tarafından ilan edildi· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Bir kişinin öğretmenlerin nasıl eğitildiğini nasıl öğrendiğinden·25 parça· **Her sınıf kanıt durumunu ve sınırları ilan eder** ·Erken okuryazarlık, karşılaştırmalı yöntemler, özel eğitim ihtiyaçları, karşılıklılık, kültürel çeşitlilik ve uluslararası kanıtlar·1.097-term parlak, 325 diyagramlar ve 60-aktivite sınıfı banka·rolü ile 14 kariyer yolu·LMS-exportable· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS · Azure · GCP · Kubernetes · Terraform · SRE · FinOps · **1,288 hours** · 288 labs with JSON evidence · 1,032 traced sources · 2,884-page PDF manual · [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Bir şirketin lider ve kendi kurucu için ilk sonucunuzu kendi: takımlar, KPI/OKR, finans, ürün, risk, yönetim ve M&A·24 vaka, 96 laboratuvar ve 39 şablon· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 
 <a id="forks"></a>
 
-## 🍴 Üçüncü taraf projelerin fork'ları (54)
+## 🍴 Üçüncü taraf projelerin fork'ları (60)
 
 Bunlar bu hesapta tutulan başkalarının projelerinin fork'larıdır. **Kendi eserim değildir**: emek asıl yazarlarına aittir, bu profildeki hiçbir rakama dahil edilmez ve her açıklama özgün projenin kendi beyan ettiğini özetler; destek, denetim veya kendi üretim deneyimim anlamına gelmez. Açıklamalar özgün projeye göredir · 2026-11-09.
 
-### 🤖 Kodlama ajanları ve ajan çerçeveleri (18)
+### 🤖 Kodlama ajanları ve ajan çerçeveleri (19)
 
 | Fork | Özgün proje | Dil | Nedir |
 |---|---|---|---|
@@ -139,8 +139,9 @@ Bunlar bu hesapta tutulan başkalarının projelerinin fork'larıdır. **Kendi e
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Tarayıcıyı kullanan yapay zekâ ajanları için Python kütüphanesi |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | Yapay zekâ ajanları için computer use CLI'si |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | "Ajan araçları için OpenRouter" |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Kendi bilgisayarı olan açık kaynaklı kişisel ajan: faturaları takip eder, görüşmelere hazırlanır ve gerçek sitelerdeki denemeleri iptal eder; harekete geçmeden önce sorar |
 
-### 🧩 Ajanlar için skill'ler, eklentiler ve iş akışları (11)
+### 🧩 Ajanlar için skill'ler, eklentiler ve iş akışları (12)
 
 | Fork | Özgün proje | Dil | Nedir |
 |---|---|---|---|
@@ -155,8 +156,9 @@ Bunlar bu hesapta tutulan başkalarının projelerinin fork'larıdır. **Kendi e
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Yazılımın tüm yaşam döngüsü için ajanlar ve skill'lerle açık QA/QE platformu |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Sanal yönetici ekibi: 8 uzman Claude ajanının desteklediği tek bir yönetici kişiliği |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Claude, Cursor veya Windsurf'ün n8n iş akışları kurması için MCP sunucusu |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Yerel yapay zekâlı iş akışı otomasyon platformu: görsel veya özel kodla geliştirme, 400'den fazla entegrasyon |
 
-### 🛡️ Güvenlik ve yazılım analizi (8)
+### 🛡️ Güvenlik ve yazılım analizi (11)
 
 | Fork | Özgün proje | Dil | Nedir |
 |---|---|---|---|
@@ -168,8 +170,11 @@ Bunlar bu hesapta tutulan başkalarının projelerinin fork'larıdır. **Kendi e
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | SEO, güvenlik, erişilebilirlik ve performans için web sitesi tarayıcı ve çözümleyici |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Ajanlarla tersine mühendislik; uygulama davranışından yerel ikili dosyalara |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Herhangi bir yazılımın nasıl çalıştığını anlayıp kendininkini inşa etmek |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Yapay zekâ ile otonom sızma testi sistemi (İngilizce çeviri; kaynak: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Yazılım tersine mühendislik (SRE) çerçevesi |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Siber uzay haritalama: alt alan adı keşfi, port taraması, hassas bilgi keşfi, güvenlik açığı taraması ve dağıtık düğümler |
 
-### 🧠 Yapay zekâ modelleri ve altyapı (5)
+### 🧠 Yapay zekâ modelleri ve altyapı (6)
 
 | Fork | Özgün proje | Dil | Nedir |
 |---|---|---|---|
@@ -178,6 +183,7 @@ Bunlar bu hesapta tutulan başkalarının projelerinin fork'larıdır. **Kendi e
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | OLMo ekosistemi için PyTorch yapı taşları |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepSeek modelleri için yüksek performanslı, büyük ölçekli çıkarım çerçevesi |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Yeniden eğitim olmadan dil modeli değişikliği (sansür, dalkavukluk vb.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Onlarca ücretsiz LLM sağlayıcısı arasında akıllı yönlendirme yapan, OpenAI uyumlu tek bir /v1 uç noktası |
 
 ### 🏢 İşletme yönetimi ve platformlar (6)
 

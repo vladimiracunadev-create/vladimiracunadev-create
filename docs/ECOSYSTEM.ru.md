@@ -74,7 +74,7 @@
 
 ## 📚Полная техническая программа
 
-Последовательные программы на испанском языке, с статусом и объемом, объявленным каждым репозиторием. 22 программа, которая включает в себя**18 418 классов**Подсчитано по[a workflow](../.github/workflows/stats.yml)от реальной структуры хранилища или проверяемого источника, объявленного в хранилище; значок обновляется еженедельно и не пишется от руки.
+Последовательные программы на испанском языке, с статусом и объемом, объявленным каждым репозиторием. 22 программа, которая включает в себя**22 337 классов**Подсчитано по[a workflow](../.github/workflows/stats.yml)от реальной структуры хранилища или проверяемого источника, объявленного в хранилище; значок обновляется еженедельно и не пишется от руки.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)Это федеративный компас, соединяющий 30 реальных путей через 6 областей через визуальные карты и компьютерные карты.[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/)Не считается дополнительной программой.
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 части с рабочими определениями, таблицами измерений, проверяемой библиографией и чилийским нормативным контекстом· **v1.6.0** ·1.29 млн слов·17 ролевых путей· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Создание и управление реальной компанией в Чили: от идеи до регистрации, налогового органа, операций, кризиса и выхода из ЕС.·360 диаграмм·1251-срочный глоссарий·1548-страничное руководство· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 части·60 интегративных сессий·35 пути·отслеживаемые источники·Markdown, офлайн-читатель и страницы GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 1-12 классы· **4 156 интегрированных кросс-курсов** · **3153 учебных целей** ·Источники MINEDUC·не выдвигаются предложения и не проводится специализированный обзор положения в области людских ресурсов· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 частей и 8 этапов·Основы → продукт, архитектура, безопасность, DevOps, SRE, SPEC, AI и мультиагентные системы·редакционный статус, объявленный репозиторием· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | 1-12 классы· **4 156 интегрированных кросс-курсов** · **4024 учебных целей** ·Источники MINEDUC·не выдвигаются предложения и не проводится специализированный обзор положения в области людских ресурсов· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 частей и 8 этапов·Основы → продукт, архитектура, безопасность, DevOps, SRE, SPEC, AI и мультиагентные системы·редакционный статус, объявленный репозиторием· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | От того, как человек учится, к тому, как обучаются учителя·25 частей· **Каждый класс заявляет о своем состоянии доказательств и ограничениях.** ·ранняя грамотность, сравнительные методы, конкретные образовательные потребности, сосуществование, культурное разнообразие и международные доказательства·1097-срочный глоссарий, 325 диаграмм и 60-ти развлекательный банк·14 карьерных путей по ролям·LMS-экспортируемый· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Азур·ГКП·Куберне·терраформ·Срэ·Финапс· **1288 часов** ·288 лабораторий с доказательствами JSON·1032 источника·2 884-страничное руководство по PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | От владения первым результатом до руководства компанией и создания собственного: команды, KPI / OKR, финансы, продукт, риск, совет директоров и слияния и поглощения·24 случая, 96 лабораторий и 39 шаблонов· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 Форки сторонних проектов (54)
+## 🍴 Форки сторонних проектов (60)
 
 Это форки чужих проектов, хранящиеся в этом аккаунте. **Это не моя собственная работа**: заслуга принадлежит их первоначальным авторам, они не входят ни в одну цифру этого профиля, а каждое описание пересказывает то, что заявляет исходный проект, и не подразумевает поддержки, аудита или собственного производственного опыта. Описания по исходному проекту · 2026-11-09.
 
-### 🤖 Кодирующие агенты и фреймворки агентов (18)
+### 🤖 Кодирующие агенты и фреймворки агентов (19)
 
 | Форк | Исходный проект | Язык | Что это |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Библиотека Python для ИИ-агентов, управляющих браузером |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI для computer use ИИ-агентов |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter для инструментов агентов» |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Персональный агент с открытым кодом и собственным компьютером: напоминает об оплате счетов, готовит звонки и отменяет пробные подписки на реальных сайтах, а перед действием спрашивает |
 
-### 🧩 Навыки (skills), плагины и сценарии для агентов (11)
+### 🧩 Навыки (skills), плагины и сценарии для агентов (12)
 
 | Форк | Исходный проект | Язык | Что это |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Открытая платформа QA/QE с агентами и навыками на всём жизненном цикле ПО |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Виртуальная команда руководителей: одна управленческая персона на базе 8 специализированных агентов Claude |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | MCP-сервер, чтобы Claude, Cursor или Windsurf строили процессы n8n |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Платформа автоматизации рабочих процессов со встроенным ИИ: визуальная сборка или собственный код, более 400 интеграций |
 
-### 🛡️ Безопасность и анализ ПО (8)
+### 🛡️ Безопасность и анализ ПО (11)
 
 | Форк | Исходный проект | Язык | Что это |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Краулер и анализатор сайтов для SEO, безопасности, доступности и производительности |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Обратная разработка с агентами — от поведения приложения до нативных бинарников |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Понять, как устроено любое ПО, и создать собственное |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Автономная система тестирования на проникновение на основе ИИ (перевод на английский; первоисточник: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Фреймворк обратной разработки ПО (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Картографирование киберпространства: перебор поддоменов, сканирование портов, поиск чувствительной информации, сканирование уязвимостей и распределённые узлы |
 
-### 🧠 Модели ИИ и инфраструктура (5)
+### 🧠 Модели ИИ и инфраструктура (6)
 
 | Форк | Исходный проект | Язык | Что это |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Строительные блоки PyTorch для экосистемы OLMo |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Высокопроизводительный фреймворк масштабного инференса для моделей DeepSeek |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Модификация языковых моделей без дообучения (цензура, угодливость и др.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Единая OpenAI-совместимая точка /v1 с умной маршрутизацией между десятками бесплатных провайдеров LLM |
 
 ### 🏢 Управление бизнесом и платформы (6)
 

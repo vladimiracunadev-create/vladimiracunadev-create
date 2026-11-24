@@ -25,7 +25,7 @@ The repositories are meant to be cloned, run and validated; contributions, repor
 
 ## What is not my own work
 
-The account keeps [54 forks of third-party projects](../ECOSYSTEM.en.md#forks). They are not my own work: to contribute to them, do it in the original project (the "Original project" column links to each one).
+The account keeps [60 forks of third-party projects](../ECOSYSTEM.en.md#forks). They are not my own work: to contribute to them, do it in the original project (the "Original project" column links to each one).
 
 ## Next step
 

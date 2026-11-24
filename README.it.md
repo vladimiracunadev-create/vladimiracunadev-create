@@ -80,9 +80,9 @@ Non è “un repo”: è un ecosistema con standard comuni.
 | 🧪 **Copertura test** | GabySQL **850 test** + fuzz di **503,8 M query** (0 panic) · Empresa Operativa Chile **230 test** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agenti in produzione** | LangGraph RealWorld **25/25 backend operativi** (casi 01–25, copertura 100 %) · Operational AI Agents **23 agenti** con **69 eval deterministici** |
 | 🔗 **Integrazione poliglotta** | **20 casi** emittente→n8n→ricevitore —**19 operativi**, auditati uno a uno con Docker— · **18+ motori DB** · **20+ container** · 11 pattern |
-| 📦 **Distribuzione** | **164 release** pubblicate in un ecosistema di **67 repository pubblici propri** · installer e artefatti `.exe` · `.msi` · `.dmg` · `.apk` con checksum e prove di build; firme commerciali/store in corso quando applicabile |
+| 📦 **Distribuzione** | **166 release** pubblicate in un ecosistema di **67 repository pubblici propri** · installer e artefatti `.exe` · `.msi` · `.dmg` · `.apk` con checksum e prove di build; firme commerciali/store in corso quando applicabile |
 | 🛡️ **Supply chain** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Curricula** | **18.418 classi** verificabili in 22 programmi, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository —non scritte a mano— · ogni programma dichiara il proprio stato editoriale e i propri limiti |
+| 📚 **Curricula** | **22.337 classi** verificabili in 22 programmi, contate da [un workflow](.github/workflows/stats.yml) sulla struttura reale o su una fonte verificabile dichiarata nel repository —non scritte a mano— · ogni programma dichiara il proprio stato editoriale e i propri limiti |
 | 🌐 **Portfolio** | PWA installabile · **22 lingue** · **154 PDF** via pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetria** | Zero nei prodotti forensi e in Empresa Operativa Chile — verificata in ogni build (senza permesso Android `INTERNET`) |
 | 🌐 **Siti pubblicati** | **57 siti** su GitHub Pages —56 landing, una per prodotto, programma o navigatore dell'ecosistema, più il portfolio— tutti distribuiti dal proprio repository · tutti verificati con risposta `200` |
@@ -207,7 +207,7 @@ Tecnologie rilevate nei repository pubblici (manifest, dipendenze, container e c
 
 ## 🗺️ Ecosistema In Sintesi
 
-![🧠 Criterio tecnico — architettura · modernizzazione · operazioni](docs/img/ecosystem.it.2c82db98.svg)
+![🧠 Criterio tecnico — architettura · modernizzazione · operazioni](docs/img/ecosystem.it.5901c4d4.svg)
 
 ## 🗂️ Ecosistema: prodotti, laboratori, IA applicata, curricula e calcolo scientifico
 
@@ -218,7 +218,7 @@ Il lavoro pratico del profilo vive in un documento a parte: software da scaricar
 - 🤖 [**IA Applicata**](docs/ECOSYSTEM.it.md#ai) (6)
 - 📚 [**Curricula Tecnici Completi**](docs/ECOSYSTEM.it.md#curricula) (22)
 - 🔬 [**Calcolo Scientifico**](docs/ECOSYSTEM.it.md#science) (1)
-- 🍴 [**Fork di progetti di terzi**](docs/ECOSYSTEM.it.md#forks) (54)
+- 🍴 [**Fork di progetti di terzi**](docs/ECOSYSTEM.it.md#forks) (60)
 
 👉 **[Vedi l'ecosistema completo](docs/ECOSYSTEM.it.md)** · [🍴 Fork di progetti di terzi](docs/ECOSYSTEM.it.md#forks)
 
@@ -242,7 +242,7 @@ Ho partecipato al **NASA Space Apps Challenge 2026** (Santiago, 14 e 15 novembre
 - **Onestà sullo stato** — un repo è stato rinominato (`Multisimulador` → `machine-operator-program`) per non promettere software che non esiste ancora.
 - **I badge sono segnali, non evidenza** — ogni repo dichiara anche **cosa NON fa**.
 - **Dal modello verso l'esterno** — prima il dominio, poi l'interfaccia come proiezione.
-- **Ciò che è esterno viene dichiarato** — i [54 fork](docs/ECOSYSTEM.it.md#forks) di progetti di terzi sono descritti uno per uno e restano fuori da tutti i numeri di opera propria di questo profilo.
+- **Ciò che è esterno viene dichiarato** — i [60 fork](docs/ECOSYSTEM.it.md#forks) di progetti di terzi sono descritti uno per uno e restano fuori da tutti i numeri di opera propria di questo profilo.
 
 ## ✅ Ambito Professionale
 

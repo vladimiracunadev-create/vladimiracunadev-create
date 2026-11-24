@@ -74,7 +74,7 @@ Phần mềm được tải về, cài đặt và sử dụng — không chỉ l
 
 ## 📚Máy tính trình duyệt kỹ thuật toàn bộ
 
-Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **18,418 classes**, counted by [a workflow](../.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
+Sequential programs in Spanish, with status and scope declared by each repository. The 22 programs add up to **22,337 classes**, counted by [a workflow](../.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository; the badge refreshes weekly and is not written by hand.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)là một la bàn liên kết 30 con đường thật trên 6 khu vực thông qua bản đồ thị giác và một[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); nó không được tính là một chương trình bổ sung.
 
@@ -87,8 +87,8 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 phần với định nghĩa hoạt động, bảng đo đạc, tính toán bản thảo, và ngữ cảnh điều chỉnh Chile· **v1. 6. 0** ·1.29M từ·17 đường đi dựa trên vai trò· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Tạo và điều hành một công ty thực sự ở Chile: từ ý tưởng đến hợp tác, quyền thuế, hoạt động, khủng hoảng và thoát·360 sơ đồ·1, 251 hạn·Sổ tay 1, 548 trang· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 phần·60 phiên chạy không có tính chất cao·35 đường·Nguồn có thể theo dõi·Đánh dấu, đọc ngoài và trang GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | Lớp 1–12· **4.156 kinh nghiệm kết hợp giữa các chu kỳ** · **3.153 mục tiêu học tập** ·Nguồn của Jimmy·Không có đề nghị chờ đợi và phê bình chuyên môn của con người vẫn còn chờ· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 phần và 8 giai đoạn·Nền tảng sản phẩm, kiến trúc, an ninh, DevOps, SRE, SPEC, Al và nhiều hệ thống đa tác nhân·Trạng thái biên tập được tuyên bố bởi kho· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | Lớp 1–12· **4.156 kinh nghiệm kết hợp giữa các chu kỳ** · **4.024 mục tiêu học tập** ·Nguồn của Jimmy·Không có đề nghị chờ đợi và phê bình chuyên môn của con người vẫn còn chờ· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 phần và 8 giai đoạn·Nền tảng sản phẩm, kiến trúc, an ninh, DevOps, SRE, SPEC, Al và nhiều hệ thống đa tác nhân·Trạng thái biên tập được tuyên bố bởi kho· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Từ cách một người học hỏi đến cách giáo viên được huấn luyện·25 phần· **Mỗi lớp tuyên bố trạng thái và giới hạn của mình** ·Việc biết chữ sớm, phương pháp so sánh, nhu cầu giáo dục cụ thể, sự tồn tại, đa dạng văn hóa và bằng chứng quốc tế·1,097 năm bóng loáng, 325 biểu đồ, và một ngân hàng lớp học 60 hoạt động·14 con đường sự nghiệp·Name· **v2.1. 0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·Name·SRE·FinOps· **1,288 giờ** ·288 phòng thí nghiệm với bằng chứng JSON·1,032 nguồn theo dõi·Sổ tay PDF 2. 884 trang· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Từ việc sở hữu kết quả đầu tiên của bạn đến việc lãnh đạo một công ty và thành lập các nhóm riêng của bạn: các nhóm, KPI/OKR, tài chính, sản phẩm, rủi ro, bảng điều khiển và M&A·24 vụ án, 96 phòng thí nghiệm và 39 mẫu vật· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 
 <a id="forks"></a>
 
-## 🍴 Fork của dự án bên thứ ba (54)
+## 🍴 Fork của dự án bên thứ ba (60)
 
 Đây là các fork của dự án người khác được lưu trong tài khoản này. **Không phải sản phẩm của riêng tôi**: công lao thuộc về tác giả gốc, không nằm trong bất kỳ con số nào của hồ sơ này, và mỗi mô tả chỉ tóm tắt những gì dự án gốc tuyên bố, không hàm ý hỗ trợ, kiểm toán hay kinh nghiệm vận hành thực tế của tôi. Mô tả theo dự án gốc · 2026-11-09.
 
-### 🤖 Agent lập trình và framework agent (18)
+### 🤖 Agent lập trình và framework agent (19)
 
 | Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
 |---|---|---|---|
@@ -139,8 +139,9 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Thư viện Python cho agent AI điều khiển trình duyệt |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI computer use cho agent AI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter cho công cụ của agent» |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Tác tử cá nhân mã nguồn mở có máy tính riêng: theo dõi hóa đơn, chuẩn bị cuộc gọi và hủy dùng thử trên các trang web thật, và hỏi trước khi hành động |
 
-### 🧩 Skill, plugin và quy trình cho agent (11)
+### 🧩 Skill, plugin và quy trình cho agent (12)
 
 | Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
 |---|---|---|---|
@@ -155,8 +156,9 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Nền tảng QA/QE mở với agent và skill cho toàn bộ vòng đời phần mềm |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Đội điều hành ảo: một nhân vật điều hành được 8 agent Claude chuyên biệt hỗ trợ |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Máy chủ MCP để Claude, Cursor hoặc Windsurf dựng quy trình n8n |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Nền tảng tự động hóa quy trình với AI tích hợp: xây dựng trực quan hoặc bằng mã riêng, hơn 400 tích hợp |
 
-### 🛡️ Bảo mật và phân tích phần mềm (8)
+### 🛡️ Bảo mật và phân tích phần mềm (11)
 
 | Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
 |---|---|---|---|
@@ -168,8 +170,11 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Trình thu thập và phân tích website cho SEO, bảo mật, khả năng truy cập và hiệu năng |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Dịch ngược cùng agent, từ hành vi ứng dụng đến tệp nhị phân gốc |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Hiểu cách mọi phần mềm hoạt động và tự xây phần mềm của mình |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Hệ thống kiểm thử xâm nhập tự động bằng AI (bản dịch tiếng Anh; gốc: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Framework dịch ngược phần mềm (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Lập bản đồ không gian mạng: liệt kê tên miền phụ, quét cổng, phát hiện thông tin nhạy cảm, quét lỗ hổng và các nút phân tán |
 
-### 🧠 Mô hình AI và hạ tầng (5)
+### 🧠 Mô hình AI và hạ tầng (6)
 
 | Fork | Dự án gốc | Ngôn ngữ | Đó là gì |
 |---|---|---|---|
@@ -178,6 +183,7 @@ Sequential programs in Spanish, with status and scope declared by each repositor
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Khối xây dựng PyTorch cho hệ sinh thái OLMo |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Framework suy luận hiệu năng cao quy mô lớn cho các mô hình DeepSeek |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Sửa đổi mô hình ngôn ngữ không cần huấn luyện lại (kiểm duyệt, xu nịnh, v.v.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Một endpoint /v1 tương thích OpenAI duy nhất, định tuyến thông minh giữa hàng chục nhà cung cấp LLM miễn phí |
 
 ### 🏢 Quản trị doanh nghiệp và nền tảng (6)
 

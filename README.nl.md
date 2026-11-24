@@ -81,9 +81,9 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 | 🧪 **Testdekking** | GabySQL**850 tests**+ fuzzing over**503.8M queries**(0 paniek)·Empresa Operativa Chili**230 tests** ·Automatisch**150 pytest** ·multi-OS CI |
 | 🤖 **Productie-kwaliteitsagenten** | LangGraph RealWorld**25/25 operationele backends**(gevallen 01·Operationele AI-agenten**23 agentia**met**69 deterministische evaluaties** |
 | 🔗 **Integratie van polygloten** | **20 zaken**afzender→n8n→ ontvanger **19 operationeel**, individueel gecontroleerd met Docker· **18+ DB motoren** · **20+ containers** ·11 patronen |
-| 📦 **Distributie** | **164 releases**over een ecosysteem van**67 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
+| 📦 **Distributie** | **166 releases**over een ecosysteem van**67 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
 | 🛡️ **Leveringsketen** | CodeQL·Semgrep·Bandiet·Trivy·GrypeCity in New Jersey USA·Gitleaks·Truffelhog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **18,418 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
+| 📚 **Curricula** | **22,337 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
 | 🌐 **Portefeuille** | Installeerbare PWA· **22 talen** · **154 PDF's**door pijpleiding gegenereerd·CV Data API·Android-condensator·Vuurtoren 100 |
 | 🔒 **Telemetrie** | Zero telemetrie in forensische producten en Empresa Operativa Chili `INTERNET`toestemming) |
 | 🌐 **Gepubliceerde sites** | **57 GitHub Pagina's sites**·alle 57 geverifieerd met HTTP`200` |
@@ -208,7 +208,7 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 ## 🗺️Ecosysteem bij een glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.6d7310aa.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.34f6a22e.svg)
 
 ## 🗂️ Ecosysteem: producten, laboratoria, toegepaste AI, curricula en wetenschappelijk rekenen
 
@@ -219,7 +219,7 @@ Het praktische werk van dit profiel staat in een eigen document: software die je
 - 🤖 [**Toegepaste AI**](docs/ECOSYSTEM.nl.md#ai) (6)
 - 📚 [**Complete technische Curricula**](docs/ECOSYSTEM.nl.md#curricula) (22)
 - 🔬 [**Wetenschappelijke berekeningen**](docs/ECOSYSTEM.nl.md#science) (1)
-- 🍴 [**Forks van projecten van derden**](docs/ECOSYSTEM.nl.md#forks) (54)
+- 🍴 [**Forks van projecten van derden**](docs/ECOSYSTEM.nl.md#forks) (60)
 
 👉 **[Bekijk het volledige ecosysteem](docs/ECOSYSTEM.nl.md)** · [🍴 Forks van projecten van derden](docs/ECOSYSTEM.nl.md#forks)
 
@@ -243,7 +243,7 @@ Ik deed mee aan de **NASA Space Apps Challenge 2026** (Santiago, 14 en 15 novemb
 - **Eerlijkheid over status**`Multisimulador` → `machine-operator-program`) om veelbelovende software die nog niet bestaat te vermijden.
 - **Badges zijn signalen, geen bewijs.****wat het NIET doet**.
 - **Model naar buiten**. . het domein is eerst ontworpen; de interface is een projectie.
-- **Extern werk wordt als extern aangegeven** — de [54 forks](docs/ECOSYSTEM.nl.md#forks) van projecten van derden worden één voor één beschreven en vallen buiten alle cijfers van eigen werk in dit profiel.
+- **Extern werk wordt als extern aangegeven** — de [60 forks](docs/ECOSYSTEM.nl.md#forks) van projecten van derden worden één voor één beschreven en vallen buiten alle cijfers van eigen werk in dit profiel.
 
 ## ✅Beroepsterrein
 

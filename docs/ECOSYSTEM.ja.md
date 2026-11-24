@@ -74,7 +74,7 @@
 
 ## 📚完全な技術的なカリキュラム
 
-スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**18,418 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
+スペイン語のシーケンシャルプログラム、各リポジトリで宣言されたステータスとスコープ。 22プログラムが最大で追加**22,337 クラス**, カウント[a workflow](../.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、バッジは週1回更新され、手元では書かれていません。
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)ビジュアルマップと6つの領域を横断して30の実パスを接続するフェデレーションコンパスです。[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); 追加プログラムとしてカウントされません。
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 運用定義、測定シート、検証可能なバイブリグラフィー、チリ規制のコンテキストを持つ24部品· **..6.0 の v1.6.0** ·1.29M の言葉·17 のロールベースのパス· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | チリの会社を創出し、運営する: 設立、税務当局、運用、危機、出退社を考え、·360 の図·1,251 用語集·1,548ページマニュアル· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 パーツ·60の統合セッション·35 パス·トレーサブルなソース·マークダウン、オフラインリーダー、GitHubページ· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | グレード 1～12· **4,156 統合されたクロスカリキュラムの経験** · **3,153 学習目的** ·MINEDUC ソース·未完成の提案や専門的ヒューマンレビューはまだ終わらない· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 部・8 段·基礎 → 製品・アーキテクチャ・セキュリティ・デベロッパー・SRE・SPEC・AI・マルチエージェント・システム·リポジトリによって宣言される編集状態· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | グレード 1～12· **4,156 統合されたクロスカリキュラムの経験** · **4,024 学習目的** ·MINEDUC ソース·未完成の提案や専門的ヒューマンレビューはまだ終わらない· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 部・8 段·基礎 → 製品・アーキテクチャ・セキュリティ・デベロッパー・SRE・SPEC・AI・マルチエージェント・システム·リポジトリによって宣言される編集状態· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 教師が訓練される方法を学ぶ人から·25 部· **各クラスは、証拠状態と限界を宣言します。** ·初期のリテラシー、比較方法、特定の教育ニーズ、共存性、文化的多様性、および国際的証拠·1,097 用語集、325 図、60 アクティビティの教室銀行·役割による14のキャリアパス·LMS エクスポート可能· **.1.0 の** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS の·リファレンス·ギガシー·クーベルネ·テラフォーム·プレステージ·フィンオプス· **1,288時間** ·JSON 証拠による 288 件のラボ·1,032 個のトレースされたソース·2,884ページ PDFマニュアル· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 貴社の第一次成果を保有し、自社をリードし、チーム、KPI/OKR、ファイナンス、製品、リスク、ボード、M&A·24 ケース、96 ラボ、39 テンプレート· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 サードパーティプロジェクトのフォーク (54)
+## 🍴 サードパーティプロジェクトのフォーク (60)
 
 このアカウントに保管している他者のプロジェクトのフォークです。**自作ではありません**。功績は元の作者にあり、このプロフィールのどの数値にも含めません。各説明は元プロジェクトが自ら宣言している内容の要約であり、サポート、監査、自身の本番運用経験を意味するものではありません。説明は元プロジェクトに基づく · 2026-11-09。
 
-### 🤖 コーディングエージェントとエージェントフレームワーク (18)
+### 🤖 コーディングエージェントとエージェントフレームワーク (19)
 
 | フォーク | 元プロジェクト | 言語 | 概要 |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | ブラウザを操作するAIエージェント向けPythonライブラリ |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | AIエージェント向けのcomputer use CLI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | 「エージェントツール版OpenRouter」 |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | 専用のコンピューターを持つオープンソースの個人エージェント：請求書の督促、通話の準備、実在サイトでの試用解約を行い、実行前に確認を取る |
 
-### 🧩 エージェント向けスキル・プラグイン・ワークフロー (11)
+### 🧩 エージェント向けスキル・プラグイン・ワークフロー (12)
 
 | フォーク | 元プロジェクト | 言語 | 概要 |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | ソフトウェアのライフサイクル全体をエージェントとスキルで支えるオープンなQA/QEプラットフォーム |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | 仮想の経営チーム：8つの専門Claudeエージェントが支える一人の経営者像 |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Claude・Cursor・Windsurfにn8nワークフローを構築させるMCPサーバー |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | AI をネイティブに備えたワークフロー自動化プラットフォーム：ビジュアル構築または独自コード、400 以上の連携 |
 
-### 🛡️ セキュリティとソフトウェア解析 (8)
+### 🛡️ セキュリティとソフトウェア解析 (11)
 
 | フォーク | 元プロジェクト | 言語 | 概要 |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | SEO・セキュリティ・アクセシビリティ・性能のためのWebサイトクローラー兼アナライザー |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | エージェントによるリバースエンジニアリング。アプリの挙動からネイティブバイナリまで |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | あらゆるソフトウェアの仕組みを理解し、自分のものを作る |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | AI による自律型ペネトレーションテストシステム（英訳版。元：Autumn-27/ARTEX、AGPL-3.0） |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | ソフトウェアリバースエンジニアリング（SRE）フレームワーク |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | サイバー空間のマッピング：サブドメイン列挙、ポートスキャン、機密情報の発見、脆弱性スキャン、分散ノード |
 
-### 🧠 AIモデルとインフラ (5)
+### 🧠 AIモデルとインフラ (6)
 
 | フォーク | 元プロジェクト | 言語 | 概要 |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | OLMoエコシステム向けのPyTorch構成要素 |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepSeekモデル向けの高性能・大規模推論フレームワーク |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 再学習なしで言語モデルを改変（検閲、迎合など） |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | OpenAI 互換の単一 /v1 エンドポイントで、数十の無料 LLM プロバイダーをスマートにルーティング |
 
 ### 🏢 企業経営とプラットフォーム (6)
 

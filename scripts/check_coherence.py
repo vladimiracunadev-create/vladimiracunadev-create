@@ -83,6 +83,8 @@ else:
         for f in mds:
             for m in re.finditer(r"(?<![\d.,])(\d{2})[.,\s  ]?(\d{3})(?![\d])", read(f)):
                 n = m.group(1) + m.group(2)
+                if re.search(r"(ISO|IEC|NIST|RFC|PCI)\s*$", read(f)[max(0, m.start() - 8):m.start()]):
+                    continue  # número de norma (p. ej. ISO 22301), no una cifra de clases
                 if n.startswith(clases[:2]) and len(clases) == 5 and n != clases and abs(int(n) - int(clases)) < 3000:
                     # cifra cercana a las clases pero distinta: probablemente desactualizada
                     ctx = read(f)[max(0, m.start() - 40):m.end() + 40].replace("\n", " ")

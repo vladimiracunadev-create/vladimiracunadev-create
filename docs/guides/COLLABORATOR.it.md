@@ -25,7 +25,7 @@ I repository sono pensati per essere clonati, eseguiti e validati; contributi, s
 
 ## Cosa non è opera propria
 
-L'account conserva [54 forks](../ECOSYSTEM.it.md#forks) di progetti di terzi. Non sono opera propria: per contribuire, fallo nel progetto originale (la colonna «Progetto originale» rimanda a ciascuno).
+L'account conserva [60 forks](../ECOSYSTEM.it.md#forks) di progetti di terzi. Non sono opera propria: per contribuire, fallo nel progetto originale (la colonna «Progetto originale» rimanda a ciascuno).
 
 ## Passo successivo
 

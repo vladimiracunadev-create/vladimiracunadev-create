@@ -81,9 +81,9 @@ Dies ist kein „One Repo: Es ist ein Ökosystem mit gemeinsamen Standards.
 | 🧪 **Testabdeckung** | GabySQL**850 Prüfungen**+ Fuzzing over**503,8 Mio. Abfragen**(0 Paniken)·Empresa Operativa Chile**230 Prüfungen** ·Automa**150 pytest** ·Mehrfach-OS-KI |
 | 🤖 **Mittel zur Herstellung** | LangGraph RealWorld**25/25 operative Backends**(Fälle 01-25, 100% Abdeckung)·Operationelle KI-Agenten**23 Agenten**mit**69 deterministische Evals** |
 | 🔗 **Polyglotte** | **20 Fälle**Sender → n8n → Empfänger —**19 Einsatzkräfte**, einzeln mit Docker auditiert -· **18+ DB-Motoren** · **20+ Container** ·11 Muster |
-| 📦 **Verteilung** | **164 Releases**In einem Ökosystem von**67 im Eigentum stehende öffentliche Datenspeicher** ·Installateure und Artefakte`.exe` · `.msi` · `.dmg` · `.apk`mit Prüfsummen und Baunachweisen; ggf. laufende Signaturen von Geschäfts-/Ladengeschäften |
+| 📦 **Verteilung** | **166 Releases**In einem Ökosystem von**67 im Eigentum stehende öffentliche Datenspeicher** ·Installateure und Artefakte`.exe` · `.msi` · `.dmg` · `.apk`mit Prüfsummen und Baunachweisen; ggf. laufende Signaturen von Geschäfts-/Ladengeschäften |
 | 🛡️ **Lieferkette** | CodeQL·Semgrep·Bandit·Triviolett·Grype·Gitleaks·TrüffelHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **18.418 Klassen**über 22 Programme nachprüfbar, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist – nicht von Hand geschrieben –·Jedes Programm erklärt seinen redaktionellen Status und seine Einschränkungen |
+| 📚 **Curricula** | **22.337 Klassen**über 22 Programme nachprüfbar, gezählt nach[a workflow](.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist – nicht von Hand geschrieben –·Jedes Programm erklärt seinen redaktionellen Status und seine Einschränkungen |
 | 🌐 **Portfolio** | Installierbare PWA· **22 Sprachen** · **154 PDFs**erzeugt durch Pipeline·CV Daten-API·Kondensator Android·Lighthouse 100 |
 | 🔒 **Telemetrie** | Null Telemetrie in forensischen Produkten und Empresa Operativa Chile - in jedem Build verifiziert (kein Android)`INTERNET`Erlaubnis |
 | 🌐 **Veröffentlichte Websites** | **57 GitHub Seiten**56 Landungen, eine pro Produkt, Programm oder Ökosystem-Navigator, plus das Portfolio - jede aus ihrem eigenen Repository bereitgestellt·alle 57 verifiziert mit HTTP`200` |
@@ -208,7 +208,7 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 ## 🗺️Ökosystem auf einen Blick
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.de.885a3ff7.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.de.107921d7.svg)
 
 ## 🗂️ Ökosystem: Produkte, Labore, angewandte KI, Lehrpläne und wissenschaftliches Rechnen
 
@@ -219,7 +219,7 @@ Die praktische Arbeit des Profils steht in einem eigenen Dokument: Software zum 
 - 🤖 [**Angewandte KI**](docs/ECOSYSTEM.de.md#ai) (6)
 - 📚 [**Komplette technische Lehrpläne**](docs/ECOSYSTEM.de.md#curricula) (22)
 - 🔬 [**Wissenschaftliche Datenverarbeitung**](docs/ECOSYSTEM.de.md#science) (1)
-- 🍴 [**Forks von Drittprojekten**](docs/ECOSYSTEM.de.md#forks) (54)
+- 🍴 [**Forks von Drittprojekten**](docs/ECOSYSTEM.de.md#forks) (60)
 
 👉 **[Das vollständige Ökosystem ansehen](docs/ECOSYSTEM.de.md)** · [🍴 Forks von Drittprojekten](docs/ECOSYSTEM.de.md#forks)
 
@@ -243,7 +243,7 @@ Ich habe an der **NASA Space Apps Challenge 2026** (Santiago, 14. und 15. Novemb
 - **Ehrlichkeit über Status**Ein Repo wurde umbenannt ()`Multisimulador` → `machine-operator-program`) vielversprechende Software zu vermeiden, die noch nicht existiert.
 - **Abzeichen sind Signale, keine Beweise**Jedes Repo erklärt auch**Was er nicht tut**.
 - **Modell nach außen**- die Domäne wird zuerst entworfen; die Schnittstelle ist eine Projektion.
-- **Externe Arbeit wird als extern deklariert** — die [54 Forks](docs/ECOSYSTEM.de.md#forks) von Drittprojekten werden einzeln beschrieben und bleiben außerhalb aller Zahlen eigener Arbeit in diesem Profil.
+- **Externe Arbeit wird als extern deklariert** — die [60 Forks](docs/ECOSYSTEM.de.md#forks) von Drittprojekten werden einzeln beschrieben und bleiben außerhalb aller Zahlen eigener Arbeit in diesem Profil.
 
 ## ✅Berufsumfang
 

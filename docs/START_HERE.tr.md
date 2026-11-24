@@ -20,7 +20,7 @@ Durumunuzu seçin ve doğrudan ihtiyacınız olana gidin. Her rehber 1–2 dakik
 
 - **Kim:** Bilişim ve Bilgisayar Mühendisi ve İşletmeci, 16+ yıldır yazılım geliştiriyor ve işletiyor.
 - **Ne yapıyorum:** çözüm mimarisi, eski sistemlerin modernizasyonu, otomasyon ve uygulamalı yapay zekâ ile bunların teslimi ve işletimi.
-- **Kanıt:** 67 kendi herkese açık deposu, 164 sürüm, ürünlerde testler ve CI; her depo ayrıca neyi **yapmadığını** da belirtir.
+- **Kanıt:** 67 kendi herkese açık deposu, 166 sürüm, ürünlerde testler ve CI; her depo ayrıca neyi **yapmadığını** da belirtir.
 - **Çalışma şekli:** projeye göre uzaktan veya hibrit.
 - **İletişim:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portföy](https://vladimiracunadev-create.github.io/)
 

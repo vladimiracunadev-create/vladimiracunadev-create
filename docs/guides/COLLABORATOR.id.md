@@ -25,7 +25,7 @@ Repositori dirancang untuk di-clone, dijalankan, dan divalidasi; kontribusi, lap
 
 ## Yang bukan karya sendiri
 
-Akun ini menyimpan [54 forks](../ECOSYSTEM.id.md#forks) dari proyek pihak ketiga. Itu bukan karya sendiri: untuk berkontribusi, lakukan di proyek aslinya (kolom «Proyek asli» menaut ke masing-masing).
+Akun ini menyimpan [60 forks](../ECOSYSTEM.id.md#forks) dari proyek pihak ketiga. Itu bukan karya sendiri: untuk berkontribusi, lakukan di proyek aslinya (kolom «Proyek asli» menaut ke masing-masing).
 
 ## Langkah berikutnya
 

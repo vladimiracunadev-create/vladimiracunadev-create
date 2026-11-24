@@ -74,7 +74,7 @@ Software, die heruntergeladen, installiert und verwendet wird – nicht nur gekl
 
 ## 📚Komplette technische Lehrpläne
 
-Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 22 Programme addieren sich zu**18.418 Klassen**, gezählt nach[a workflow](../.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
+Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Repository deklariert wird. Die 22 Programme addieren sich zu**22.337 Klassen**, gezählt nach[a workflow](../.github/workflows/stats.yml)aus einer realen Repository-Struktur oder einer überprüfbaren Quelle, die im Repository deklariert ist; das Abzeichen wird wöchentlich aktualisiert und nicht von Hand geschrieben.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)ist ein föderierter Kompass, der 30 reale Pfade über 6 Bereiche durch visuelle Karten und eine[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); es wird nicht als zusätzliches Programm gezählt.
 
@@ -87,8 +87,8 @@ Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Reposit
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 Teile mit operativen Definitionen, Messblättern, überprüfbarer Bibliographie und chilenischem regulatorischen Kontext· **v1.6.0** ·1.29M Wörter·17 Rollenbasierte Pfade· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Erstellen und betreiben Sie ein echtes Unternehmen in Chile: von der Idee über die Gründung, die Steuerbehörde, den Betrieb, die Krise und den Ausstieg·360 Diagramme·1.251-Term-Glossar·1.548-seitiges Handbuch· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 Teile·60 integrative Sitzungen·35 Wege·Rückverfolgbare Quellen·Markdown, Offline-Reader und GitHub Pages· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | Klassen 1–12· **4.156 integrierte lehrplanübergreifende Erfahrungen** · **3.153 Lernziele** ·MINEDUC-Quellen·Keine anhängigen Vorschläge und spezialisierte menschliche Überprüfung noch anhängig· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 Teile und 8 Bühnen·foundations → Produkt-, Architektur-, Sicherheits-, DevOps-, SRE-, SPEC-, AI- und Multiagentensysteme·Redaktioneller Status, der vom Repository erklärt wird· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | Klassen 1–12· **4.156 integrierte lehrplanübergreifende Erfahrungen** · **4.024 Lernziele** ·MINEDUC-Quellen·Keine anhängigen Vorschläge und spezialisierte menschliche Überprüfung noch anhängig· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 Teile und 8 Bühnen·foundations → Produkt-, Architektur-, Sicherheits-, DevOps-, SRE-, SPEC-, AI- und Multiagentensysteme·Redaktioneller Status, der vom Repository erklärt wird· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Von wie eine Person lernt, wie Lehrer ausgebildet werden·25 Teile· **Jede Klasse erklärt ihren Beweiszustand und ihre Grenzen** ·Frühe Alphabetisierung, vergleichende Methoden, spezifische Bildungsbedürfnisse, Koexistenz, kulturelle Vielfalt und internationale Evidenz·1.097-Term-Glossar, 325 Diagramme und eine 60-Aktivitäts-Klassenzimmerbank·14 Karrierewege nach Rolle·LMS exportierbar· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | A. A.·Azure·GCP·Kubernets·Terraform·SRE·FinOps· **1.288 Stunden** ·288 Labore mit JSON-Beweis·1.032 nachverfolgte Quellen·2884 Seiten PDF Handbuch· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Vom Besitz Ihres ersten Ergebnisses bis hin zur Führung eines Unternehmens und der Gründung Ihres eigenen: Teams, KPI / OKR, Finanzen, Produkt, Risiko, Board und M & A·24 Fälle, 96 Labore und 39 Vorlagen· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@ Sequenzielle Programme in Spanisch, mit Status und Umfang, der von jedem Reposit
 
 <a id="forks"></a>
 
-## 🍴 Forks von Drittprojekten (54)
+## 🍴 Forks von Drittprojekten (60)
 
 Dies sind Forks fremder Projekte, die in diesem Konto liegen. **Sie sind keine eigene Arbeit**: Das Verdienst gehört den ursprünglichen Autoren, sie fließen in keine Zahl dieses Profils ein, und jede Beschreibung fasst zusammen, was das Originalprojekt selbst angibt – ohne Support, Audit oder eigene Produktionserfahrung zu implizieren. Beschreibungen gemäß Originalprojekt · 2026-11-09.
 
-### 🤖 Coding-Agenten und Agenten-Frameworks (18)
+### 🤖 Coding-Agenten und Agenten-Frameworks (19)
 
 | Fork | Originalprojekt | Sprache | Was es ist |
 |---|---|---|---|
@@ -139,8 +139,9 @@ Dies sind Forks fremder Projekte, die in diesem Konto liegen. **Sie sind keine e
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Python-Bibliothek für KI-Agenten, die den Browser bedienen |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | Computer-Use-CLI für KI-Agenten |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | „OpenRouter für Agenten-Tools“ |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Open-Source-Persönlichkeitsagent mit eigenem Computer: verfolgt Rechnungen, bereitet Anrufe vor und kündigt Probeabos auf echten Websites, und fragt vor dem Handeln |
 
-### 🧩 Skills, Plugins und Workflows für Agenten (11)
+### 🧩 Skills, Plugins und Workflows für Agenten (12)
 
 | Fork | Originalprojekt | Sprache | Was es ist |
 |---|---|---|---|
@@ -155,8 +156,9 @@ Dies sind Forks fremder Projekte, die in diesem Konto liegen. **Sie sind keine e
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Offene QA/QE-Plattform mit Agenten und Skills für den gesamten Software-Lebenszyklus |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Virtuelles Führungsteam: eine Führungsfigur, gestützt auf 8 spezialisierte Claude-Agenten |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | MCP-Server, mit dem Claude, Cursor oder Windsurf n8n-Workflows bauen |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Plattform für Workflow-Automatisierung mit nativer KI: visuell oder mit eigenem Code, über 400 Integrationen |
 
-### 🛡️ Sicherheit und Softwareanalyse (8)
+### 🛡️ Sicherheit und Softwareanalyse (11)
 
 | Fork | Originalprojekt | Sprache | Was es ist |
 |---|---|---|---|
@@ -168,8 +170,11 @@ Dies sind Forks fremder Projekte, die in diesem Konto liegen. **Sie sind keine e
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Website-Crawler und -Analyzer für SEO, Sicherheit, Barrierefreiheit und Performance |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Reverse Engineering mit Agenten – vom App-Verhalten bis zu nativen Binärdateien |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Verstehen, wie beliebige Software funktioniert, und eigene bauen |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Autonomes KI-System für Penetrationstests (englische Übersetzung; Ursprung: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Framework für Software-Reverse-Engineering (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Kartierung des Cyberraums: Subdomain-Enumeration, Port-Scans, Auffinden sensibler Informationen, Schwachstellen-Scans und verteilte Knoten |
 
-### 🧠 KI-Modelle und Infrastruktur (5)
+### 🧠 KI-Modelle und Infrastruktur (6)
 
 | Fork | Originalprojekt | Sprache | Was es ist |
 |---|---|---|---|
@@ -178,6 +183,7 @@ Dies sind Forks fremder Projekte, die in diesem Konto liegen. **Sie sind keine e
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | PyTorch-Bausteine für das OLMo-Ökosystem |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Hochleistungs-Inferenz-Framework im großen Maßstab für DeepSeek-Modelle |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Sprachmodelle ohne Neutraining verändern (Zensur, Anbiederung usw.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Ein einziger OpenAI-kompatibler /v1-Endpunkt mit intelligentem Routing über Dutzende kostenlose LLM-Anbieter |
 
 ### 🏢 Unternehmensführung und Plattformen (6)
 

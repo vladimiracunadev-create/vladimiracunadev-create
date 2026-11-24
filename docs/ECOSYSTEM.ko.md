@@ -74,7 +74,7 @@
 
 ## 📚완전한 기술 교육과정
 
-스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**18,418 클래스**, 으로 계산[a workflow](../.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
+스페인어의 순차적 프로그램, 상태 및 범위는 각 저장소에 의해 선언. 22개의 프로그램 추가**22,337 클래스**, 으로 계산[a workflow](../.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서; 배지는 매주 새로 고침하고 손으로 작성되지 않습니다.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem) is a federated compass connecting 30 real paths across 6 areas through visual maps and an [accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); it is not counted as an additional program.
 
@@ -87,8 +87,8 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 운영 정의, 측정 시트, 검증 가능한 생물학적, 칠레 규제 상황에 24 부품· **0.0.0.0 다운로드** ·1.29M 단어·17개의 역할 기반 경로· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | 칠레에서 실제 회사를 만들고 운영합니다. 설립, 세금 기관, 운영, 위기 및 출구에 대한 아이디어에서·360도·1,251 용어 광택·1,548 페이지 설명서· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 부품·60개의 통합 세션·35 경로·추적 가능한 소스·Markdown, 오프라인 리더, GitHub 페이지· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | 학년 1-12· **4,156 통합 크로스 컬리어** · **3,153 학습 목표** ·MINEDUC 소스·공개 제안 및 전문 인적 검토는 여전히 종료· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 부품 및 8 단계·기초 → 제품, 건축, 안전, DevOps, SRE, SPEC, AI 및 다중 시약 체계·repository에 의해 선언 된 편집 상태· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | 학년 1-12· **4,156 통합 크로스 컬리어** · **4,024 학습 목표** ·MINEDUC 소스·공개 제안 및 전문 인적 검토는 여전히 종료· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 부품 및 8 단계·기초 → 제품, 건축, 안전, DevOps, SRE, SPEC, AI 및 다중 시약 체계·repository에 의해 선언 된 편집 상태· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 선생님이 훈련하는 방법을 배우는 방법·25 부품· **각 클래스는 증거 국가와 한계를 선언합니다.** ·초기의 문학, 비교 방법, 특정 교육 요구, 협동, 문화 다양성, 국제 증거·1,097-term 광택, 325 다이어그램 및 60-activity 교실 은행·14 역할에 의한 경력 경로·LMS 호환· **₢ 킹** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS 지원·는·GCP(주)·쿠버네티스·의 특징·₢ 킹·핀 핑· **1,288 시간** ·288 JSON 증거와 실험실·1,032 추적 소스·2,884 페이지 PDF 설명서· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | 회사를 선도하고 자신만의 팀을 이끌고, KPI/OKR, 금융, 제품, 위험, 보드 및 M&A를 자체적으로 관리하여·24건, 96건, 39건· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@
 
 <a id="forks"></a>
 
-## 🍴 제3자 프로젝트의 포크 (54)
+## 🍴 제3자 프로젝트의 포크 (60)
 
 이 계정에 보관된 타인 프로젝트의 포크입니다. **제 자체 작업물이 아닙니다**. 공로는 원저자에게 있으며, 이 프로필의 어떤 수치에도 포함되지 않고, 각 설명은 원 프로젝트가 스스로 밝힌 내용을 요약한 것으로 지원, 감사 또는 제 운영 경험을 뜻하지 않습니다. 설명은 원 프로젝트 기준 · 2026-11-09.
 
-### 🤖 코딩 에이전트와 에이전트 프레임워크 (18)
+### 🤖 코딩 에이전트와 에이전트 프레임워크 (19)
 
 | 포크 | 원 프로젝트 | 언어 | 설명 |
 |---|---|---|---|
@@ -139,8 +139,9 @@
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 브라우저를 조작하는 AI 에이전트용 Python 라이브러리 |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | AI 에이전트용 computer use CLI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | "에이전트 도구용 OpenRouter" |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | 자기만의 컴퓨터를 가진 오픈 소스 개인 에이전트: 청구서를 챙기고 통화를 준비하며 실제 사이트의 체험판을 해지하고, 실행 전에 먼저 묻습니다 |
 
-### 🧩 에이전트용 스킬, 플러그인, 워크플로 (11)
+### 🧩 에이전트용 스킬, 플러그인, 워크플로 (12)
 
 | 포크 | 원 프로젝트 | 언어 | 설명 |
 |---|---|---|---|
@@ -155,8 +156,9 @@
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | 소프트웨어 전체 수명주기를 에이전트와 스킬로 지원하는 오픈 QA/QE 플랫폼 |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | 가상 경영진 팀: 8개의 전문 Claude 에이전트가 뒷받침하는 한 명의 경영자 페르소나 |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Claude, Cursor, Windsurf가 n8n 워크플로를 만들 수 있게 하는 MCP 서버 |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | AI를 기본 탑재한 워크플로 자동화 플랫폼: 시각적 구성 또는 자체 코드, 400개 이상의 연동 |
 
-### 🛡️ 보안 및 소프트웨어 분석 (8)
+### 🛡️ 보안 및 소프트웨어 분석 (11)
 
 | 포크 | 원 프로젝트 | 언어 | 설명 |
 |---|---|---|---|
@@ -168,8 +170,11 @@
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | SEO, 보안, 접근성, 성능을 위한 웹사이트 크롤러 및 분석기 |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 에이전트로 하는 리버스 엔지니어링. 앱 동작부터 네이티브 바이너리까지 |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | 어떤 소프트웨어든 작동 원리를 이해하고 나만의 것을 만들기 |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | AI 기반 자율 침투 테스트 시스템(영어 번역본, 원본: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 소프트웨어 리버스 엔지니어링(SRE) 프레임워크 |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | 사이버 공간 매핑: 서브도메인 열거, 포트 스캔, 민감 정보 탐지, 취약점 스캔, 분산 노드 |
 
-### 🧠 AI 모델과 인프라 (5)
+### 🧠 AI 모델과 인프라 (6)
 
 | 포크 | 원 프로젝트 | 언어 | 설명 |
 |---|---|---|---|
@@ -178,6 +183,7 @@
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | OLMo 생태계를 위한 PyTorch 구성 요소 |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepSeek 모델용 고성능 대규모 추론 프레임워크 |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 재학습 없이 언어 모델 수정 (검열, 아첨 등) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | 수십 개의 무료 LLM 제공자를 지능적으로 라우팅하는 OpenAI 호환 단일 /v1 엔드포인트 |
 
 ### 🏢 기업 경영과 플랫폼 (6)
 

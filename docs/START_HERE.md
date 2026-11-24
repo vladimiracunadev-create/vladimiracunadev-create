@@ -20,7 +20,7 @@ Elige tu caso y ve directo a lo que necesitas. Cada guía se lee en 1–2 minuto
 
 - **Quién:** Ingeniero en Informática y Computación y Administrador de Empresas, +16 años construyendo y operando software.
 - **Qué hago:** arquitectura de soluciones, modernización de sistemas heredados, automatización e IA aplicada, y su entrega y operación.
-- **Evidencia:** 67 repositorios públicos propios, 164 releases, pruebas y CI en los productos, y cada repo declara también lo que **no** hace.
+- **Evidencia:** 67 repositorios públicos propios, 166 releases, pruebas y CI en los productos, y cada repo declara también lo que **no** hace.
 - **Modalidad:** remoto o híbrido, según proyecto.
 - **Contacto:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portafolio](https://vladimiracunadev-create.github.io/)
 

@@ -20,7 +20,7 @@ Scegli il tuo caso e vai dritto a ciò che ti serve. Ogni guida si legge in 1–
 
 - **Chi:** Ingegnere in Informatica e Calcolo e Amministratore d'Impresa, oltre 16 anni a costruire e gestire software.
 - **Cosa faccio:** architettura di soluzioni, modernizzazione di sistemi legacy, automazione e IA applicata, più la loro consegna e gestione.
-- **Evidenza:** 67 repository pubblici propri, 164 release, test e CI nei prodotti, e ogni repository dichiara anche ciò che **non** fa.
+- **Evidenza:** 67 repository pubblici propri, 166 release, test e CI nei prodotti, e ogni repository dichiara anche ciò che **non** fa.
 - **Modalità:** remoto o ibrido, secondo il progetto.
 - **Contatto:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

@@ -74,7 +74,7 @@ Perangkat lunak yang diunduh, terpasang, dan dipakai - tidak hanya dikloning.
 
 ## 📚Curricula Teknis Lengkap
 
-Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 22 program ditambahkan ke**Kelas 18,418**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](../.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
+Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasikan oleh setiap repositori. 22 program ditambahkan ke**Kelas 22,337**(Yang dihitung dengan hisab) oleh malaikat Jibril.[a workflow](../.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori; lencana menyegarkan mingguan dan tidak ditulis dengan tangan.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)adalah kompas federasi menghubungkan 30 jalur nyata di 6 daerah melalui peta visual dan[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/); ini tidak dihitung sebagai sebuah program tambahan.
 
@@ -87,8 +87,8 @@ Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasika
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24 bagian dengan definisi operasional, lembar pengukuran, bibliografi yang dapat diverifikasi, dan konteks regulasi Chili· **v1.6.0** ·1.29M kata·17 jalur berbasis· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | Membuat dan mengoperasikan perusahaan nyata di Chili: dari ide untuk memasukkan, otoritas pajak, operasi, krisis, dan keluar·Metagram 360·1,251-term glossary·1.548- halaman manual· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84 bagian·60 sesi integratif·35 path·sumber terlacak·Markdown, pembaca luring, dan Halaman GitHub· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 10,401 | Kelas 1-12· **4.156 pengalaman terintegrasi.** · **3,153 belajar tujuan** ·Sumber MINEDUC·tidak ada proposal yang tertunda dan tinjauan khusus manusia masih tertunda· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
-| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 540 | 45 bagian dan 8 tahap·fondasi produk strenk, arsitektur, keamanan, DevOps, SRE, SPEC, AI, dan multi- sistem agen·status editorial dideklarasikan oleh repositori· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | Kelas 1-12· **4.156 pengalaman terintegrasi.** · **4,024 belajar tujuan** ·Sumber MINEDUC·tidak ada proposal yang tertunda dan tinjauan khusus manusia masih tertunda· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51 bagian dan 8 tahap·fondasi produk strenk, arsitektur, keamanan, DevOps, SRE, SPEC, AI, dan multi- sistem agen·status editorial dideklarasikan oleh repositori· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | Dari bagaimana seseorang belajar bagaimana guru dilatih·25 bagian· **setiap kelas menyatakan bukti negara dan batas** ·literasi awal, metode komparatif, kebutuhan pendidikan spesifik, koeksistensi, keragaman budaya, dan bukti internasional·1,097- istilah Glossary, 325 diagram, dan 60-aktivitas bank kelas·14 jalur karir oleh peran·LMS-exportable· **v2.1.0** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | AWS·Azure·GCP·Kubernetes·Terraform·SRE·FinOps· **1.288 jam** ·288 laboratorium dengan bukti JSON·1,032 sumber dilacak·Manual 2.884- halaman PDF· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |
 | [🎖️ **Executive Leadership**](https://github.com/vladimiracunadev-create/executive-leadership-founder-program) | 288 | Dari memiliki hasil pertama Anda untuk memimpin perusahaan dan mendirikan tim Anda sendiri: tim, KPI / OKR, keuangan, produk, risiko, papan, dan M & A·24 kasus, 96 lab, dan 39 contoh· [site](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) |
@@ -113,11 +113,11 @@ Program Sequential dalam bahasa Spanyol, dengan status dan lingkup dideklarasika
 
 <a id="forks"></a>
 
-## 🍴 Fork proyek pihak ketiga (54)
+## 🍴 Fork proyek pihak ketiga (60)
 
 Ini adalah fork proyek milik orang lain yang disimpan di akun ini. **Bukan karya sendiri**: penghargaan milik penulis aslinya, tidak masuk ke angka mana pun di profil ini, dan setiap deskripsi merangkum apa yang dinyatakan proyek aslinya, tanpa menyiratkan dukungan, audit, atau pengalaman produksi saya sendiri. Deskripsi mengikuti proyek asli · 2026-11-09.
 
-### 🤖 Agen pengodean dan framework agen (18)
+### 🤖 Agen pengodean dan framework agen (19)
 
 | Fork | Proyek asli | Bahasa | Apa itu |
 |---|---|---|---|
@@ -139,8 +139,9 @@ Ini adalah fork proyek milik orang lain yang disimpan di akun ini. **Bukan karya
 | [**browser-use**](https://github.com/vladimiracunadev-create/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Pustaka Python untuk agen AI yang mengoperasikan browser |
 | [**agent-desktop**](https://github.com/vladimiracunadev-create/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | CLI computer use untuk agen AI |
 | [**treg**](https://github.com/vladimiracunadev-create/treg) | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | «OpenRouter untuk alat agen» |
+| [**nod**](https://github.com/vladimiracunadev-create/nod) | [n8n-io/nod](https://github.com/n8n-io/nod) | TypeScript | Agen pribadi sumber terbuka dengan komputernya sendiri: menagih faktur, menyiapkan panggilan, dan membatalkan uji coba di situs nyata, serta bertanya sebelum bertindak |
 
-### 🧩 Skill, plugin, dan alur kerja untuk agen (11)
+### 🧩 Skill, plugin, dan alur kerja untuk agen (12)
 
 | Fork | Proyek asli | Bahasa | Apa itu |
 |---|---|---|---|
@@ -155,8 +156,9 @@ Ini adalah fork proyek milik orang lain yang disimpan di akun ini. **Bukan karya
 | [**agentic-qe**](https://github.com/vladimiracunadev-create/agentic-qe) | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | TypeScript | Platform QA/QE terbuka dengan agen dan skill untuk seluruh siklus hidup perangkat lunak |
 | [**OpenExecutive**](https://github.com/vladimiracunadev-create/OpenExecutive) | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | Tim eksekutif virtual: satu sosok eksekutif yang didukung 8 agen Claude spesialis |
 | [**n8n-mcp**](https://github.com/vladimiracunadev-create/n8n-mcp) | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | Server MCP agar Claude, Cursor, atau Windsurf membangun alur kerja n8n |
+| [**n8n**](https://github.com/vladimiracunadev-create/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Platform otomasi alur kerja dengan AI bawaan: pembuatan visual atau kode sendiri, lebih dari 400 integrasi |
 
-### 🛡️ Keamanan dan analisis perangkat lunak (8)
+### 🛡️ Keamanan dan analisis perangkat lunak (11)
 
 | Fork | Proyek asli | Bahasa | Apa itu |
 |---|---|---|---|
@@ -168,8 +170,11 @@ Ini adalah fork proyek milik orang lain yang disimpan di akun ini. **Bukan karya
 | [**siteone-crawler**](https://github.com/vladimiracunadev-create/siteone-crawler) | [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) | Rust | Crawler dan penganalisis situs web untuk SEO, keamanan, aksesibilitas, dan performa |
 | [**rea**](https://github.com/vladimiracunadev-create/rea) | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Rekayasa balik dengan agen, dari perilaku aplikasi hingga biner native |
 | [**craft-anything**](https://github.com/vladimiracunadev-create/craft-anything) | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | Memahami cara kerja perangkat lunak apa pun dan membangun milik sendiri |
+| [**ARTEX**](https://github.com/vladimiracunadev-create/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Go | Sistem uji penetrasi otonom berbasis AI (terjemahan bahasa Inggris; sumber: Autumn-27/ARTEX, AGPL-3.0) |
+| [**ghidra**](https://github.com/vladimiracunadev-create/ghidra) | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Framework rekayasa balik perangkat lunak (SRE) |
+| [**ScopeSentry**](https://github.com/vladimiracunadev-create/ScopeSentry) | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | Go | Pemetaan dunia maya: enumerasi subdomain, pemindaian port, penemuan informasi sensitif, pemindaian kerentanan, dan node terdistribusi |
 
-### 🧠 Model AI dan infrastruktur (5)
+### 🧠 Model AI dan infrastruktur (6)
 
 | Fork | Proyek asli | Bahasa | Apa itu |
 |---|---|---|---|
@@ -178,6 +183,7 @@ Ini adalah fork proyek milik orang lain yang disimpan di akun ini. **Bukan karya
 | [**Olmo-core**](https://github.com/vladimiracunadev-create/Olmo-core) | [allenai/Olmo-core](https://github.com/allenai/Olmo-core) | Python | Blok bangunan PyTorch untuk ekosistem OLMo |
 | [**DeepInfer**](https://github.com/vladimiracunadev-create/DeepInfer) | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | Framework inferensi berkinerja tinggi berskala besar untuk model DeepSeek |
 | [**heretic**](https://github.com/vladimiracunadev-create/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Modifikasi model bahasa tanpa pelatihan ulang (sensor, sikap menjilat, dll.) |
+| [**freellmapi**](https://github.com/vladimiracunadev-create/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | Satu endpoint /v1 yang kompatibel dengan OpenAI dengan perutean cerdas di puluhan penyedia LLM gratis |
 
 ### 🏢 Manajemen bisnis dan platform (6)
 
