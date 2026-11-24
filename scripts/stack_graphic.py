@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Genera el gráfico SVG del Stack tecnológico (docs/img/stack.<idioma>.svg).
 
-Las tecnologías salen del README en español (nombres propios, iguales en todos
-los idiomas) y los títulos de cada categoría salen del README de cada idioma.
+Las tecnologías y los títulos de cada categoría (por idioma) viven en
+scripts/stack_data.json: es la fuente de verdad del Stack; el README solo
+muestra el gráfico y la evidencia que el gráfico no contiene.
 Los logos se incrustan en el SVG (sin depender de internet) desde una caché
 (scripts/stack_icons.json); si falta, se descarga de skillicons.dev y
 simple-icons y se guarda.
@@ -12,11 +13,12 @@ Uso, desde la raíz del repositorio:
     python3 scripts/stack_graphic.py            # genera los 22 SVG y sella los nombres
     python3 scripts/stack_graphic.py --refresh   # vuelve a descargar los logos
 
-Después de cambiar el Stack del README, vuelve a ejecutarlo.
+Para cambiar el Stack, edita scripts/stack_data.json y vuelve a ejecutarlo.
 Requiere Pillow (medir texto) y opencc-python-reimplemented (chino tradicional).
 """
 import base64
 import concurrent.futures as cf
+import glob
 import json
 import os
 import re
@@ -186,18 +188,20 @@ def construir(lg, titulos, h2, items, iconos):
 def main():
     if FUENTE is None:
         sys.exit("No se encontró una fuente para medir el texto")
-    base = "README.md"
-    h2_es, bl_es = bloques(base)
-    items = [elementos(i, tx) for i, (_, tx) in enumerate(bl_es)]
+    datos = json.load(open("scripts/stack_data.json", encoding="utf-8"))
+    items = datos["items"]
     if len(items) != len(EMO):
         sys.exit(f"Se esperaban {len(EMO)} bloques y hay {len(items)}")
     iconos = cache_iconos(sorted({i for its in items for i in its}), "--refresh" in sys.argv)
     for lg in LANGS:
         rd = "README.md" if lg == "es" else f"README.{lg}.md"
-        h2, bl = bloques(rd)
-        if len(bl) != len(items):
-            sys.exit(f"{rd}: {len(bl)} bloques en el Stack y se esperaban {len(items)}")
-        svg = construir(lg, [t for t, _ in bl], h2, items, iconos)
+        h2, _ = bloques(rd)
+        titulos = datos["titles"][lg]
+        if len(titulos) != len(items):
+            sys.exit(f"{lg}: {len(titulos)} títulos y se esperaban {len(items)}")
+        svg = construir(lg, titulos, h2, items, iconos)
+        for viejo in glob.glob(f"docs/img/stack.{lg}." + "[0-9a-f]" * 8 + ".svg"):
+            os.remove(viejo)  # la versión sellada anterior; graphic_names.py estrena la nueva
         open(f"docs/img/stack.{lg}.svg", "w", encoding="utf-8", newline="\n").write(svg)
     print("SVG generados:", len(LANGS), "| con logo:", sum(1 for its in items for i in its if i in iconos), "de", sum(len(i) for i in items))
     subprocess.run([sys.executable, "-X", "utf8", "scripts/graphic_names.py"], check=True)

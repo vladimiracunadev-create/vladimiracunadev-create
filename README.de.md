@@ -94,124 +94,19 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 ![🛠️ Technologie-Stack](docs/img/stack.de.ee155024.svg)
 
-**Sprachen**
-
-![Sprachen](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
-
-<sub>Python · JavaScript · TypeScript · Rust · Go · Java · PHP · C# · Dart · Kotlin · Swift · Ruby · Elixir · Zig · Clojure · C · Solidity · Bash · PowerShell · HTML · CSS · WebAssembly · SQL · Erlang · F# · Crystal · GDScript · HCL</sub>
-
-**Frameworks, Laufzeitumgebungen und Bibliotheken**
-
-![Frameworks, Laufzeitumgebungen und Bibliotheken](https://skillicons.dev/icons?i=nodejs,express,react,vue,svelte,astro,vite,vitest,fastapi,flask,django,spring,dotnet,laravel,rails,flutter,tauri,electron,qt,godot,pytorch,sklearn&perline=11)
-
-<sub>Node.js · Express · React · Vue · Svelte · Astro · Vite · Vitest · FastAPI · Flask · Django · Spring Boot · ASP.NET / .NET · Laravel · Rails · Flutter · Tauri · Electron · Qt / PySide6 · Capacitor · Godot · PyTorch · scikit-learn · Polars · pandas · NumPy · Optuna · SHAP · Transformers · PEFT / LoRA · Playwright · pytest · Jupyter · Streamlit · Pydantic · Tokio · Axum · SQLx · Serde · gRPC</sub>
-
 **Softwarearchitekturen**
-
-![Local-first](https://img.shields.io/badge/Local--first-0969da?style=flat-square)
-![Offline-first / PWA](https://img.shields.io/badge/Offline--first%20/%20PWA-0969da?style=flat-square)
-![Event-driven (n8n)](https://img.shields.io/badge/Event--driven%20(n8n)-0969da?style=flat-square)
-![Idempotency](https://img.shields.io/badge/Idempotency-0969da?style=flat-square)
-![Circuit breaker](https://img.shields.io/badge/Circuit%20breaker-0969da?style=flat-square)
-![Dead-letter queue](https://img.shields.io/badge/Dead--letter%20queue-0969da?style=flat-square)
-![Outbox](https://img.shields.io/badge/Outbox-0969da?style=flat-square)
-![Backpressure](https://img.shields.io/badge/Backpressure-0969da?style=flat-square)
-![State machines](https://img.shields.io/badge/State%20machines-0969da?style=flat-square)
-![Agent graphs](https://img.shields.io/badge/Agent%20graphs-0969da?style=flat-square)
-![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-0969da?style=flat-square)
-![Plugin architecture](https://img.shields.io/badge/Plugin%20architecture-0969da?style=flat-square)
-![Domain-first](https://img.shields.io/badge/Domain--first-0969da?style=flat-square)
-![Monorepo](https://img.shields.io/badge/Monorepo-0969da?style=flat-square)
-![Micro-apps](https://img.shields.io/badge/Micro--apps-0969da?style=flat-square)
-![Embedded database](https://img.shields.io/badge/Embedded%20database-0969da?style=flat-square)
-![Read-only by default](https://img.shields.io/badge/Read--only%20by%20default-0969da?style=flat-square)
-![Double-entry ledger](https://img.shields.io/badge/Double--entry%20ledger-0969da?style=flat-square)
-![ADRs](https://img.shields.io/badge/ADRs-0969da?style=flat-square)
-![IaC / CI-CD](https://img.shields.io/badge/IaC%20/%20CI--CD-0969da?style=flat-square)
-![Docker-first](https://img.shields.io/badge/Docker--first-0969da?style=flat-square)
 
 <sub>Local-first → [empresa-operativa-chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [ai-dataset-foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry) · Event-driven → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler) · Resilience → [problem-driven-systems-lab](https://github.com/vladimiracunadev-create/problem-driven-systems-lab) · Ledger → [universal-payments-engineering-lab](https://github.com/vladimiracunadev-create/universal-payments-engineering-lab) · Plugins → [agentic-plugins-toolkit](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) · Agents → [langgraph-realworld](https://github.com/vladimiracunadev-create/langgraph-realworld), [operational-ai-agents](https://github.com/vladimiracunadev-create/operational-ai-agents) · Domain-first → [rhino-suite](https://github.com/vladimiracunadev-create/rhino-suite) · Micro-apps → [microsistemas](https://github.com/vladimiracunadev-create/microsistemas) · Embedded DB → [gabysql](https://github.com/vladimiracunadev-create/gabysql) · IaC → [proyectos-aws](https://github.com/vladimiracunadev-create/proyectos-aws)</sub>
 
-**Datenbanken**
-
-![Datenbanken](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,elasticsearch,graphql&perline=11)
-
-<sub>PostgreSQL · MySQL · MariaDB · SQLite · MongoDB · Redis · Neo4j · Cassandra · Elasticsearch · ClickHouse · CockroachDB · InfluxDB · TimescaleDB · DuckDB · SQL Server · Oracle · pgvector · PostgREST · GraphQL · Hasura · GabySQL (Rust)</sub>
-
 **Datenanalyse und BI**
-
-![Datenanalyse und BI](docs/img/icon-powerbi.svg)
 
 <sub>Power BI (.pbix ×3) · DAX · Star schema → [social-bot-scheduler](https://github.com/vladimiracunadev-create/social-bot-scheduler)</sub>
 
-**Cloud, Container und DevOps**
-
-![Cloud, Container und DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,githubactions,git,github,gitlab,linux,nginx&perline=11)
-
-<sub>AWS · Azure · Google Cloud · Terraform · Kubernetes · Docker / Compose · GitHub Actions · Git · GitHub · GitLab · Linux · Nginx · Make · Inno Setup · FinOps · CI/CD</sub>
-
 **AWS: genutzte Dienste (Fälle auf GitLab CI)**
-
-![AWS](https://skillicons.dev/icons?i=aws,gitlab&perline=11)
-
-![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square)
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square)
-![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=flat-square)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square)
-![SAM](https://img.shields.io/badge/SAM-FF9900?style=flat-square)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square)
-![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=flat-square)
-![WAF](https://img.shields.io/badge/WAF-FF9900?style=flat-square)
-![IAM / OIDC](https://img.shields.io/badge/IAM%20%2F%20OIDC-FF9900?style=flat-square)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square)
-![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square)
-![X-Ray](https://img.shields.io/badge/X--Ray-FF9900?style=flat-square)
-![Synthetics](https://img.shields.io/badge/Synthetics-FF9900?style=flat-square)
-![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square)
-![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square)
-![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square)
-![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-FF9900?style=flat-square)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square)
-![Cost Explorer / Budgets](https://img.shields.io/badge/Cost%20Explorer%20%2F%20Budgets-FF9900?style=flat-square)
 
 <sub>Fälle A–P → [proyectos-aws-gitlab](https://gitlab.com/vladimir.acuna.dev-group/proyectos-aws-gitlab) (GitLab CI → AWS; alle 16 als abgeschlossen erklärt; Fall M nur Phase 1) · [proyectos-aws](https://github.com/vladimiracunadev-create/proyectos-aws) (GitHub Actions) · EC2, RDS, VPC, Secrets Manager, CloudFormation, Cost Explorer → [aws-desktop-studio](https://github.com/vladimiracunadev-create/aws-desktop-studio) (echte Bestandsabfrage; EC2 mit Start, Stopp und Neustart unter doppelter Kontrolle)</sub>
 
-**Observability und Messaging**
-
-![Observability und Messaging](https://skillicons.dev/icons?i=prometheus,grafana,kafka,rabbitmq,elasticsearch&perline=11)
-
-<sub>Prometheus · Grafana · OpenTelemetry · Kafka · RabbitMQ · MQTT (Mosquitto) · Elasticsearch / Kibana · cAdvisor · k6</sub>
-
-**KI, Agenten, Skills und MCP**
-
-![Claude Code 22 skills](https://img.shields.io/badge/Claude%20Code-22%20skills-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex 19 skills](https://img.shields.io/badge/Codex-19%20skills-10A37F?style=flat-square)
-![Operational AI Agents 23 agents](https://img.shields.io/badge/Operational%20AI%20Agents-23%20agents-7c5cff?style=flat-square)
-![Agentic Plugins 6 plugins](https://img.shields.io/badge/Agentic%20Plugins-6%20plugins-8957e5?style=flat-square)
-![LangGraph 25 backends](https://img.shields.io/badge/LangGraph-25%20backends-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP servers](https://img.shields.io/badge/MCP-servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Ollama local LLM](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white)
-![n8n workflows](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Hugging Face Transformers · PEFT](https://img.shields.io/badge/Hugging%20Face-Transformers%20·%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
-
-<sub>Claude Code · Claude Skills · Codex Skills · Agentic Plugins · MCP · LangGraph · Ollama · n8n · RAG · Whisper · Transformers · PEFT / LoRA · Optuna · SHAP · Polars · PyTorch</sub>
-
 **AI-unterstützter Entwicklungsfluss**
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT Plus](https://img.shields.io/badge/ChatGPT%20Plus-10A37F?style=flat-square)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
-![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
 
 | Werkzeug | Hauptverwendung |
 |---|---|
@@ -223,28 +118,7 @@ In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkei
 
 > Ich kombiniere mein eigenes technisches Urteil, menschliche Validierung und architektonische Richtung. KI verstärkt Kapazität, Geschwindigkeit und Reichweite – sie ersetzt nicht die Erfahrung.
 
-**Sicherheit und Lieferkette**
-
-![CodeQL](https://img.shields.io/badge/CodeQL-2b3137?style=flat-square&logo=github&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-2b3137?style=flat-square)
-![Bandit](https://img.shields.io/badge/Bandit-2b3137?style=flat-square)
-![Trivy](https://img.shields.io/badge/Trivy-2b3137?style=flat-square)
-![Grype](https://img.shields.io/badge/Grype-2b3137?style=flat-square)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-2b3137?style=flat-square)
-![TruffleHog](https://img.shields.io/badge/TruffleHog-2b3137?style=flat-square)
-![SBOM CycloneDX](https://img.shields.io/badge/SBOM%20CycloneDX-2b3137?style=flat-square)
-![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-2b3137?style=flat-square)
-![Dependabot](https://img.shields.io/badge/Dependabot-2b3137?style=flat-square&logo=github&logoColor=white)
-
-**Zielplattformen**
-
-![Zielplattformen](https://skillicons.dev/icons?i=windows,apple,linux,androidstudio&perline=11)
-
-<sub>Windows · macOS · iOS · Linux · Android · Web / PWA</sub>
-
 **Veröffentlichungs-Technologien**
-
-![Veröffentlichungs-Technologien](https://skillicons.dev/icons?i=cloudflare,vercel,aws&perline=11)
 
 <sub>Cloudflare (persönliche Arbeit) · Vercel (NASA-Space-Apps-Hackathon) · AWS (operative Websites, mit GitLab verbunden) · GitHub Pages</sub>
 
