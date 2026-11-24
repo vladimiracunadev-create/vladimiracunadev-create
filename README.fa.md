@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **پوشش تست** | GabySQL**850 تست**+  fu**503.8M**(0 وحشت)·عملیات Empresa در شیلی**230 تست** ·Automa**150 pytest** ·CI چند بعدیOS CI |
 | 🤖 **تولید کنندگان** | LangGraph RealWorld**25/25 بازگشت عملیاتی**(مورد های 01 تا 25، 100٪ پوشش)·بازیگران AI عملیاتی**23 عامل**با**69 معیاری برای evals** |
 | 🔗 **Polyglot یکپارچگی** | **20 مورد**فرستنده:n8n**19 عملیات عملیاتی**به صورت جداگانه با Docker حسابرسی می شود.· **18+ موتورهای DB** · **20+** ·11 الگو |
-| 📦 **Distribution** | **166 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **166 releases** across an ecosystem of **68 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **زنجیره تامین** | کدQL·Semgrep·Bandit·Trivy·Grype·گیتیکوس·تروفه ها·CycloneDX SBOM·کارت امتیاز |
-| 📚 **Curricula** | **22337 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
+| 📚 **Curricula** | **22915 کلاس**قابل تایید در 22 برنامه، شمارش شده توسط[a workflow](.github/workflows/stats.yml)از ساختار مخزن واقعی یا یک منبع قابل راستی که در مخزن اعلام شده است – که نه با دست نوشته شده است –·هر برنامه وضعیت و محدودیت های سرمقاله خود را اعلام می کند |
 | 🌐 **نمونه کارها** | نصب PWA· **22 زبان** · **154 PDF**تولید شده توسط خط لوله·CV Data API·Android·فانوس دریایی 100 |
 | 🔒 **تله** | عدم تقارن صفر در محصولات قانونی و عملکرد Empresa در هر ساخت (بدون Android)`INTERNET`اجازه) |
 | 🌐 **سایت های منتشر شده** | **57 صفحه**56 فرود، یک محصول، برنامه یا هدایت کننده اکوسیستم، به علاوه نمونه کارها – هر کدام از مخزن خود را·همه 57 تایید شده با HTTP`200` |
@@ -92,7 +92,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 فناوری‌هایی که در مخزن‌های عمومی شناسایی شده‌اند (مانیفست‌ها، وابستگی‌ها، کانتینرها و کد) و بر اساس حوزه گروه‌بندی شده‌اند. حضور در یک مخزن —از جمله آزمایشگاه‌ها و برنامه‌های آموزشی— شواهدی از استفاده است، نه ادعای سال‌ها تجربهٔ عملیاتی.
 
-![🛠️ پشتهٔ فناوری](docs/img/stack.fa.a8d123ec.svg)
+![🛠️ پشتهٔ فناوری](docs/img/stack.fa.cf0c7b54.svg)
 
 **معماری‌های نرم‌افزار**
 
@@ -124,7 +124,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️سیستم در یک نگاه
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.37ee65b3.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.fa.3d64d17b.svg)
 
 ## 🗂️ اکوسیستم: محصولات، آزمایشگاه‌ها، هوش مصنوعی کاربردی، برنامه‌های آموزشی و محاسبات علمی
 
@@ -132,7 +132,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 - 📦 [**محصولات با توزیع واقعی**](docs/ECOSYSTEM.fa.md#products) (24)
 - 🧪 [**آزمایشگاه های مهندسی**](docs/ECOSYSTEM.fa.md#labs) (11)
-- 🤖 [**کاربردی AI**](docs/ECOSYSTEM.fa.md#ai) (6)
+- 🤖 [**کاربردی AI**](docs/ECOSYSTEM.fa.md#ai) (7)
 - 📚 [**ویژگی های فنی کامل**](docs/ECOSYSTEM.fa.md#curricula) (22)
 - 🔬 [**محاسبات علمی**](docs/ECOSYSTEM.fa.md#science) (1)
 - 🍴 [**forkهای پروژه‌های اشخاص ثالث**](docs/ECOSYSTEM.fa.md#forks) (60)
@@ -176,7 +176,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ گسترش طبیعی
 
-**مهندسی ارکستر AI** · **سیستم ها / مهندس Rust** · **مهندس موبایل (Flutter)** · **راه حل های مهندسی** · **سازنده محصول فنی** · **مربی فنی** · **مشاور تحول دیجیتال** · **Business / Applied Analysis** · **عملیات محصول فنی** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **مدرس / مربی / مربی فناوری** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**مهندسی ارکستر AI** · **سیستم ها / مهندس Rust** · **مهندس موبایل (Flutter)** · **راه حل های مهندسی** · **سازنده محصول فنی** · **مربی فنی** · **مشاور تحول دیجیتال** · **مشاور فنی (فناوری، داده و هوش مصنوعی)** · **Business / Applied Analysis** · **عملیات محصول فنی** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **مدرس / مربی / مربی فناوری** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️محدوده های تکمیلی
 

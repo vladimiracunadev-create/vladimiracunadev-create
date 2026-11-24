@@ -81,9 +81,9 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 | 🧪 **Testdekking** | GabySQL**850 tests**+ fuzzing over**503.8M queries**(0 paniek)·Empresa Operativa Chili**230 tests** ·Automatisch**150 pytest** ·multi-OS CI |
 | 🤖 **Productie-kwaliteitsagenten** | LangGraph RealWorld**25/25 operationele backends**(gevallen 01·Operationele AI-agenten**23 agentia**met**69 deterministische evaluaties** |
 | 🔗 **Integratie van polygloten** | **20 zaken**afzender→n8n→ ontvanger **19 operationeel**, individueel gecontroleerd met Docker· **18+ DB motoren** · **20+ containers** ·11 patronen |
-| 📦 **Distributie** | **166 releases**over een ecosysteem van**67 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
+| 📦 **Distributie** | **166 releases**over een ecosysteem van**68 openbare registers in eigendom** ·installateurs en artefacten`.exe` · `.msi` · `.dmg` · `.apk`met controlesom en bouwbewijs; commerciële/store-handtekeningen, indien van toepassing |
 | 🛡️ **Leveringsketen** | CodeQL·Semgrep·Bandiet·Trivy·GrypeCity in New Jersey USA·Gitleaks·Truffelhog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **22,337 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
+| 📚 **Curricula** | **22,915 klassen**controleerbare in 22 programma's, geteld door[a workflow](.github/workflows/stats.yml)van een echte repositorystructuur of een verifieerbare bron die in het repository is opgegeven .·elk programma verklaart zijn redactionele status en beperkingen |
 | 🌐 **Portefeuille** | Installeerbare PWA· **22 talen** · **154 PDF's**door pijpleiding gegenereerd·CV Data API·Android-condensator·Vuurtoren 100 |
 | 🔒 **Telemetrie** | Zero telemetrie in forensische producten en Empresa Operativa Chili `INTERNET`toestemming) |
 | 🌐 **Gepubliceerde sites** | **57 GitHub Pagina's sites**·alle 57 geverifieerd met HTTP`200` |
@@ -92,7 +92,7 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 
 Technologieën die in de openbare repositories zijn aangetroffen (manifesten, afhankelijkheden, containers en code), gegroepeerd per gebied. Voorkomen in een repository —inclusief labs en curricula— is bewijs van gebruik, geen claim van jarenlange productie-ervaring.
 
-![🛠️ Technologiestack](docs/img/stack.nl.ce17ec96.svg)
+![🛠️ Technologiestack](docs/img/stack.nl.13e20743.svg)
 
 **Softwarearchitecturen**
 
@@ -124,7 +124,7 @@ Technologieën die in de openbare repositories zijn aangetroffen (manifesten, af
 
 ## 🗺️Ecosysteem bij een glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.34f6a22e.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.nl.b8dbc88b.svg)
 
 ## 🗂️ Ecosysteem: producten, laboratoria, toegepaste AI, curricula en wetenschappelijk rekenen
 
@@ -132,7 +132,7 @@ Het praktische werk van dit profiel staat in een eigen document: software die je
 
 - 📦 [**Producten met echte distributie**](docs/ECOSYSTEM.nl.md#products) (24)
 - 🧪 [**Technische laboratoria**](docs/ECOSYSTEM.nl.md#labs) (11)
-- 🤖 [**Toegepaste AI**](docs/ECOSYSTEM.nl.md#ai) (6)
+- 🤖 [**Toegepaste AI**](docs/ECOSYSTEM.nl.md#ai) (7)
 - 📚 [**Complete technische Curricula**](docs/ECOSYSTEM.nl.md#curricula) (22)
 - 🔬 [**Wetenschappelijke berekeningen**](docs/ECOSYSTEM.nl.md#science) (1)
 - 🍴 [**Forks van projecten van derden**](docs/ECOSYSTEM.nl.md#forks) (60)
@@ -176,7 +176,7 @@ Mijn dubbele achtergrond .**Computerwetenschappen en computersystemen en bedrijf
 
 ### ↗ Natuurlijke uitbreiding
 
-**AI Orchestration Engineer** · **Systemen / Rust ingenieur** · **Mobiele ingenieur (Flutter)** · **Oplossingen ingenieur** · **Technische productbouwer** · **Technische trainer** · **Digitale Transformatie Consultant** · **Bedrijfs-/functionele analist** · **Technische productbewerkingen** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docent / Trainer / Technologie-instructeur** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**AI Orchestration Engineer** · **Systemen / Rust ingenieur** · **Mobiele ingenieur (Flutter)** · **Oplossingen ingenieur** · **Technische productbouwer** · **Technische trainer** · **Digitale Transformatie Consultant** · **Technisch adviseur (technologie, data en AI)** · **Bedrijfs-/functionele analist** · **Technische productbewerkingen** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docent / Trainer / Technologie-instructeur** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Aanvullende werkingssfeer
 

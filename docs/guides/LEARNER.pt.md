@@ -4,7 +4,7 @@
 
 ## Em uma linha
 
-22 programas sequenciais em espanhol, com 22.337 aulas contadas por um workflow, cada um com seu estado editorial e seus limites declarados.
+22 programas sequenciais em espanhol, com 22.915 aulas contadas por um workflow, cada um com seu estado editorial e seus limites declarados.
 
 ## Escolha conforme o objetivo
 

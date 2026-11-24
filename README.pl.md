@@ -81,9 +81,9 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 | 🧪 **Zakres badania** | GabySQL**850 badań**+ rozmycie**503,8M zapytania**(0 paniki)·Empresa Operativa Chile**230 badań** ·Automa**150 pikseli** ·wieloOS CI |
 | 🤖 **Czynniki klasy produkcyjnej** | LangGraph RealWorld**25 / 25 operacyjnych oparć**(sprawy 01- 25, 100%)·Operacyjne środki do zwalczania ptasiej grypy**23**z**69 determinalistycznych wymienników** |
 | 🔗 **Integracja poliglotów** | **20 spraw**nadawca → n8n → odbiornik -**19 operacyjne**, indywidualnie skontrolowane z Docker -· **Silniki o mocy 18 + DB** · **20 + pojemniki** ·11 wzorów |
-| 📦 **Dystrybucja** | **166 wydaleń**w całym ekosystemie**67 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
+| 📦 **Dystrybucja** | **166 wydaleń**w całym ekosystemie**68 będące własnością repozytoriów publicznych** ·instalatorzy i artefakty`.exe` · `.msi` · `.dmg` · `.apk`z sumami kontrolnymi i dowodami na budowę; w stosownych przypadkach w toku podpisów handlowych / sklepowych |
 | 🛡️ **Łańcuch dostaw** | CodeQL·Semgrep·Bandyta·Trivy·Typ·Gitleaks·TruffleHog Przewodniczący·CycloneDX SBOM·Wyniki |
-| 📚 **Programy nauczania** | **22 337 klas**weryfikowalne w 22 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
+| 📚 **Programy nauczania** | **22 915 klas**weryfikowalne w 22 programach, policzone przez[a workflow](.github/workflows/stats.yml)ze struktury repozytorium rzeczywistego lub źródła weryfikowalnego zadeklarowanego w repozytorium - nie napisane ręcznie -·Każdy program deklaruje swój status redakcyjny i ograniczenia |
 | 🌐 **Portfolio** | Instalowalne PWA· **22 języków** · **154 PDF**generowane przez rurociąg·API danych CV·Capacitor Android·Latarnia morska 100 |
 | 🔒 **Telemetria** | Zero telemetrii w wyrobach kryminalistycznych i Empresa Operativa Chile - zweryfikowane w każdej budowie (nie Android`INTERNET`(pozwolenie) |
 | 🌐 **Published sites** | **57 GitHub Pages sites** —56 landings, one per product, program, or ecosystem navigator, plus the portfolio— each deployed from its own repository · all 57 verified with HTTP `200` |
@@ -92,7 +92,7 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 
 Technologie wykryte w publicznych repozytoriach (manifesty, zależności, kontenery i kod), pogrupowane według obszarów. Obecność w repozytorium —także w laboratoriach i programach nauczania— jest dowodem użycia, a nie deklaracją lat doświadczenia produkcyjnego.
 
-![🛠️ Stos technologiczny](docs/img/stack.pl.eeca4886.svg)
+![🛠️ Stos technologiczny](docs/img/stack.pl.5c689e3a.svg)
 
 **Architektury oprogramowania**
 
@@ -124,7 +124,7 @@ Technologie wykryte w publicznych repozytoriach (manifesty, zależności, konten
 
 ## 🗺️Ekosystem w odblasku
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.pl.ddfa62e9.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.pl.31804970.svg)
 
 ## 🗂️ Ekosystem: produkty, laboratoria, stosowana AI, programy nauczania i obliczenia naukowe
 
@@ -132,7 +132,7 @@ Praktyczna część profilu mieści się w osobnym dokumencie: oprogramowanie do
 
 - 📦 [**Produkty z dystrybucją rzeczywistą**](docs/ECOSYSTEM.pl.md#products) (24)
 - 🧪 [**Laboratoria inżynieryjne**](docs/ECOSYSTEM.pl.md#labs) (11)
-- 🤖 [**Stosowana AI**](docs/ECOSYSTEM.pl.md#ai) (6)
+- 🤖 [**Stosowana AI**](docs/ECOSYSTEM.pl.md#ai) (7)
 - 📚 [**Kompletne programy nauczania technicznego**](docs/ECOSYSTEM.pl.md#curricula) (22)
 - 🔬 [**Konstrukcja naukowa**](docs/ECOSYSTEM.pl.md#science) (1)
 - 🍴 [**Forki projektów osób trzecich**](docs/ECOSYSTEM.pl.md#forks) (60)
@@ -176,7 +176,7 @@ Moje podwójne tło...**Informatyka i informatyka + Administracja Biznesu**- pom
 
 ### ↗ Naturalne rozszerzenie
 
-**Inżynier orkiestracji AI** · **Systemy / Inżynier Rust** · **Inżynier mobilny (Flutter)** · **Inżynier rozwiązań** · **Techniczny budowniczy produktów** · **Trener techniczny** · **Cyfrowy konsultant transformacji** · **Business / Functional Analyst** · **Operacje techniczne dotyczące produktu** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Wykładowca / Trener / Instruktor technologii** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Inżynier orkiestracji AI** · **Systemy / Inżynier Rust** · **Inżynier mobilny (Flutter)** · **Inżynier rozwiązań** · **Techniczny budowniczy produktów** · **Trener techniczny** · **Cyfrowy konsultant transformacji** · **Doradca Techniczny (technologia, dane i AI)** · **Business / Functional Analyst** · **Operacje techniczne dotyczące produktu** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Wykładowca / Trener / Instruktor technologii** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Zakres uzupełniający
 

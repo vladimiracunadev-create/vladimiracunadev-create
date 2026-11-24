@@ -81,9 +81,9 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 | 🧪 **Test kapsamı** | GabySQL**850 test testleri**+ söndürücü**503.8M sorguları**(0 Panik)·Empresa Operativa Chile**230 Test testleri** ·Automa**150 pytest** ·multi-OS CI |
 | 🤖 **Production-grade agents** | LangGraph RealWorld **25/25 operational backends** (cases 01–25, 100% coverage) · Operational AI Agents **23 agents** with **69 deterministic evals** |
 | 🔗 **Polyglot integration** | **20 cases** sender→n8n→receiver —**19 operational**, individually audited with Docker— · **18+ DB engines** · **20+ containers** · 11 patterns |
-| 📦 **Distribution** | **166 releases** across an ecosystem of **67 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
+| 📦 **Distribution** | **166 releases** across an ecosystem of **68 owned public repositories** · installers and artifacts `.exe` · `.msi` · `.dmg` · `.apk` with checksums and build evidence; commercial/store signatures in progress where applicable |
 | 🛡️ **Tedarik zinciri** | KodQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **22,337 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **22,915 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **Portföy Portföyü** | Yükleme edilebilir PWA· **22 dil dili** · **154 PDFs**Boru hattı tarafından üretilen·CV Data API·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Adli ürünler ve Empresa Operativa Chile'de Sıfır telemetri - her binada doğrulandı (no Android`INTERNET`İzin) |
 | 🌐 **Yayınlanmış siteleri** | **57 GitHub Pages siteleri**-56 iniş, bir ürün, program veya ekosistem navigator, artı portföy - her biri kendi depolarından dağıtıldı·57 kişi HTTP ile doğrulandı`200` |
@@ -92,7 +92,7 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 
 Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılıklar, konteynerler ve kod), alanlara göre gruplanmıştır. Bir depoda yer almak —laboratuvarlar ve müfredatlar dahil— kullanım kanıtıdır, yıllarca üretim deneyimi iddiası değildir.
 
-![🛠️ Teknoloji yığını](docs/img/stack.tr.deae3c30.svg)
+![🛠️ Teknoloji yığını](docs/img/stack.tr.39249e6f.svg)
 
 **Yazılım mimarileri**
 
@@ -124,7 +124,7 @@ Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılı
 
 ## 🗺️Bir bakışta ekosistem
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.3480b5b4.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.tr.db2e60c1.svg)
 
 ## 🗂️ Ekosistem: ürünler, laboratuvarlar, uygulamalı yapay zekâ, müfredatlar ve bilimsel hesaplama
 
@@ -132,7 +132,7 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 
 - 📦 [**Gerçek Dağıtım ile Ürünler**](docs/ECOSYSTEM.tr.md#products) (24)
 - 🧪 [**Mühendislik Laboratuvarları**](docs/ECOSYSTEM.tr.md#labs) (11)
-- 🤖 [**Uygulamalı yapay zekâ**](docs/ECOSYSTEM.tr.md#ai) (6)
+- 🤖 [**Uygulamalı yapay zekâ**](docs/ECOSYSTEM.tr.md#ai) (7)
 - 📚 [**Eksiksiz teknik müfredatlar**](docs/ECOSYSTEM.tr.md#curricula) (22)
 - 🔬 [**Bilimsel Bilgi**](docs/ECOSYSTEM.tr.md#science) (1)
 - 🍴 [**Üçüncü taraf projelerin fork'ları**](docs/ECOSYSTEM.tr.md#forks) (60)
@@ -176,7 +176,7 @@ Profilin uygulamalı işleri ayrı bir belgede yer alır: indirilip kurulan yaz�
 
 ### ↗ Doğal genişleme
 
-**AI Oryantasyon Mühendisi** · **Systems / Rust Mühendis** · **Mobile Mühendis (Flutter)** · **Çözümleri Mühendis** · **Teknik Ürün Builder** · **Teknik Trener** · **Dijital Dönüşüm Danışmanı** · **İş / Fonksiyonel Analist** · **Teknik Ürün Operasyonları** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Öğretmen / Eğitmen / Teknoloji Eğitmeni** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**AI Oryantasyon Mühendisi** · **Systems / Rust Mühendis** · **Mobile Mühendis (Flutter)** · **Çözümleri Mühendis** · **Teknik Ürün Builder** · **Teknik Trener** · **Dijital Dönüşüm Danışmanı** · **Teknik Danışman (teknoloji, veri ve yapay zekâ)** · **İş / Fonksiyonel Analist** · **Teknik Ürün Operasyonları** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Öğretmen / Eğitmen / Teknoloji Eğitmeni** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Tamamlayıcı Kapsam
 

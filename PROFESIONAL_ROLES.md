@@ -26,12 +26,12 @@ Esta matriz amplía el campo profesional sin convertir formación, proyectos per
 ## Evidencia reutilizable
 
 - **E1 — trayectoria técnica:** Arquitecto de Soluciones, modernización de legado, Senior Full-Stack / Tech Lead y automatización de IA; +16 años declarados en el perfil.
-- **E2 — entrega y operación:** 67 repositorios públicos propios, 166 releases, CI/CD, observabilidad, runbooks, seguridad de cadena de suministro y artefactos instalables.
+- **E2 — entrega y operación:** 68 repositorios públicos propios, 166 releases, CI/CD, observabilidad, runbooks, seguridad de cadena de suministro y artefactos instalables.
 - **E3 — negocio y operación:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [creación de empresas](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing y ventas](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) y [liderazgo ejecutivo](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Son productos y contenidos verificables, no sustituyen experiencia gerencial.
 - **E4 — proyectos, procesos y calidad:** roadmaps, issues, especificaciones, pruebas, gates, métricas y documentación por audiencia distribuidos en el ecosistema.
 - **E5 — seguridad y continuidad:** familia RootCause, controles, SBOM, análisis de riesgos, resiliencia, incidentes y evidencia reproducible.
 - **E6 — datos e IA:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) y trazabilidad/gates humanos.
-- **E7 — educación:** 22 programas, 22.337 clases, rutas por rol, laboratorios, manuales, portales offline y contenido multiformato. Esto acredita diseño y producción educativa; la docencia formal y los resultados de aprendizaje requieren evidencia separada.
+- **E7 — educación:** 22 programas, 22.915 clases, rutas por rol, laboratorios, manuales, portales offline y contenido multiformato. Esto acredita diseño y producción educativa; la docencia formal y los resultados de aprendizaje requieren evidencia separada.
 - **E8 — finanzas y control:** [Finanzas y Banca](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, métricas y trazabilidad. Son evidencia de conocimiento aplicado en artefactos, no responsabilidad financiera corporativa.
 
 ## 1. Dirección tecnológica
@@ -74,6 +74,7 @@ Esta matriz amplía el campo profesional sin convertir formación, proyectos per
 | **Analista de planificación corporativa / Corporate Planning Analyst** | Convertir estrategia en objetivos, iniciativas, KPI, escenarios y revisiones de desempeño. | Ninguna | 2–5 años; analista/senior | **PP · media** | E3, E4, E8 | Plan corporativo y KPI reales; modelamiento financiero y herramientas BI. |
 | **Gestor de innovación / Innovation Manager** | Administrar pipeline de ideas, experimentos, alianzas, portafolio y escalamiento. | Ninguna | 4–8 años; lead/manager | **CT/PP · media-alta técnica** | E2, E3, E6 | Innovación con terceros, presupuesto, adopción y beneficios; discovery y gestión de portafolio. |
 | **Consultor de transformación empresarial / Business Transformation Consultant** | Rediseñar procesos, capacidades, datos, tecnología y modelo operativo. | Ninguna | 4–8 años; senior/lead | **CT/PP · alta en transformación tecnológica** | E1–E4, E6 | Evidencia de cambio transversal en organización cliente y beneficios medidos. |
+| **Asesor técnico en tecnología, datos e IA / Technical Advisor** | Orientar decisiones de tecnología, arquitectura, datos e IA a directivos, equipos o instituciones, con criterio independiente. | Ocasional | 3–6 años; senior | **CT/PP · alta** | E1, E6, E7 | Casos de asesoría con resultados medibles y referencias verificables; la experiencia contratada como asesor no está acreditada. |
 
 ## 5. Análisis empresarial
 

@@ -26,12 +26,12 @@ Esta matriz amplia o campo profissional sem converter formação, projetos pesso
 ## Evidência reutilizável
 
 - **E1 — trajetória técnica:** Arquiteto de Soluções, modernização de legado, Senior Full-Stack / Tech Lead e automação com IA; mais de 16 anos declarados no perfil.
-- **E2 — entrega e operação:** 67 repositórios públicos próprios, 166 releases, CI/CD, observabilidade, runbooks, segurança da cadeia de suprimentos e artefatos instaláveis.
+- **E2 — entrega e operação:** 68 repositórios públicos próprios, 166 releases, CI/CD, observabilidade, runbooks, segurança da cadeia de suprimentos e artefatos instaláveis.
 - **E3 — negócio e operação:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [criação de empresas](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing e vendas](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) e [liderança executiva](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). São produtos e conteúdos verificáveis, não substituem experiência gerencial.
 - **E4 — projetos, processos e qualidade:** roadmaps, issues, especificações, testes, gates, métricas e documentação por público distribuídos no ecossistema.
 - **E5 — segurança e continuidade:** família RootCause, controles, SBOM, análise de riscos, resiliência, incidentes e evidência reproduzível.
 - **E6 — dados e IA:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) e rastreabilidade/gates humanos.
-- **E7 — educação:** 22 programas, 22.337 aulas, trilhas por papel, laboratórios, manuais, portais offline e conteúdo multiformato. Isso comprova design e produção educacional; a docência formal e os resultados de aprendizagem exigem evidência separada.
+- **E7 — educação:** 22 programas, 22.915 aulas, trilhas por papel, laboratórios, manuais, portais offline e conteúdo multiformato. Isso comprova design e produção educacional; a docência formal e os resultados de aprendizagem exigem evidência separada.
 - **E8 — finanças e controle:** [Finanças e Bancos](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, métricas e rastreabilidade. São evidência de conhecimento aplicado em artefatos, não responsabilidade financeira corporativa.
 
 ## 1. Direção tecnológica
@@ -74,6 +74,7 @@ Esta matriz amplia o campo profissional sem converter formação, projetos pesso
 | **Analista de planejamento corporativo / Corporate Planning Analyst** | Converter estratégia em objetivos, iniciativas, KPI, cenários e revisões de desempenho. | Nenhuma | 2–5 anos; analista/sênior | **PP · média** | E3, E4, E8 | Plano corporativo e KPI reais; modelagem financeira e ferramentas de BI. |
 | **Gestor de inovação / Innovation Manager** | Administrar pipeline de ideias, experimentos, alianças, portfólio e escalonamento. | Nenhuma | 4–8 anos; lead/manager | **CT/PP · média-alta técnica** | E2, E3, E6 | Inovação com terceiros, orçamento, adoção e benefícios; discovery e gestão de portfólio. |
 | **Consultor de transformação empresarial / Business Transformation Consultant** | Redesenhar processos, capacidades, dados, tecnologia e modelo operacional. | Nenhuma | 4–8 anos; sênior/lead | **CT/PP · alta em transformação tecnológica** | E1–E4, E6 | Evidência de mudança transversal em organização cliente e benefícios medidos. |
+| **Assessor técnico em tecnologia, dados e IA / Technical Advisor** | Orientar decisões de tecnologia, arquitetura, dados e IA para dirigentes, equipes ou instituições, com critério independente. | Ocasional | 3–6 anos; sênior | **CT/PP · alta** | E1, E6, E7 | Casos de assessoria com resultados mensuráveis e referências verificáveis; a experiência contratada como assessor não está comprovada. |
 
 ## 5. Análise empresarial
 

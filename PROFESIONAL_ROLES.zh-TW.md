@@ -26,12 +26,12 @@
 ## 可複用證據
 
 - **E1 — 技術履歷：** 解決方案架構師、遺留系統現代化、高階全棧 / Tech Lead 與 AI 自動化；檔案中宣告16年以上。
-- **E2 — 交付與運維：** 67個自有公開倉庫、166個釋出版本、CI/CD、可觀測性、執行手冊、供應鏈安全和可安裝製品。
+- **E2 — 交付與運維：** 68個自有公開倉庫、166個釋出版本、CI/CD、可觀測性、執行手冊、供應鏈安全和可安裝製品。
 - **E3 — 商業與運營：** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile)、[Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system)、[創業](https://github.com/vladimiracunadev-create/modern-business-creation-program)、[營銷與銷售](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) 和 [高管領導力](https://github.com/vladimiracunadev-create/executive-leadership-founder-program)。它們是可驗證的產品和內容，不能替代管理經驗。
 - **E4 — 專案、流程與質量：** 路線圖、issue、規格說明、測試、質量關卡、指標，以及分佈在整個生態中的面向不同受眾的文件。
 - **E5 — 安全與連續性：** RootCause 系列、控制措施、SBOM、風險分析、韌性、事件和可復現的證據。
 - **E6 — 資料與 AI：** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry)、[LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld)、[Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents)，以及可追溯性和人工關卡。
-- **E7 — 教育：** 22個課程專案、22,337節課、按角色劃分的學習路徑、實驗、手冊、離線門戶和多格式內容。這證明了教學設計與內容生產能力；正式授課和學習成果需要另行提供證據。
+- **E7 — 教育：** 22個課程專案、22,915節課、按角色劃分的學習路徑、實驗、手冊、離線門戶和多格式內容。這證明了教學設計與內容生產能力；正式授課和學習成果需要另行提供證據。
 - **E8 — 財務與控制：** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program)、FinOps、指標和可追溯性。它們是成果物中體現的應用知識證據，而不是企業財務責任。
 
 ## 1. 技術領導力
@@ -74,6 +74,7 @@
 | **企業規劃分析師** | 將戰略轉化為目標、舉措、KPI、情景和績效覆盤。 | 無 | 2–5年；分析師/高階 | **PP · 中** | E3, E4, E8 | 真實的企業規劃和 KPI；財務建模和 BI 工具。 |
 | **創新經理** | 管理創意管線、實驗、聯盟、組合和規模化。 | 無 | 4–8年；負責人/經理 | **CT/PP · 技術方向中高** | E2, E3, E6 | 與第三方合作的創新、預算、採用和收益；探索與組合管理。 |
 | **企業轉型顧問** | 重新設計流程、能力、資料、技術和運營模式。 | 無 | 4–8年；高階/負責人 | **CT/PP · 技術轉型方向高** | E1–E4, E6 | 在客戶組織中實施跨部門變革並有可度量收益的證據。 |
+| **技術顧問（技術、資料與 AI） / Technical Advisor** | 為管理層、團隊或機構的技術、架構、資料和 AI 決策提供獨立判斷的指導。 | 偶爾 | 3–6年；高階 | **CT/PP · 高** | E1, E6, E7 | 具有可衡量成果和可核實推薦人的諮詢案例；以顧問身份受聘的經歷尚未得到證明。 |
 
 ## 5. 業務分析
 

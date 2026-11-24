@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **試験カバレッジ** | ガビーSQL**850 件のテスト**+ 上でのしゃべり**503.8M のクエリ**(0 パンク)·Empresa Operativa チリ**230 件のテスト** ·オートマチック**150 ピテスト** ·マルチOS CI |
 | 🤖 **生産等級の代理店** | LangGraph リアルワールド**25/25 操作バックエンド**(ケース 01–25、100% のカバレッジ)·運用AIエージェント**23 代理店**とりあえず**69 の決定的な楕円** |
 | 🔗 **Polyglotの統合** | **20件**sender→n8n→receiver — の**19 業務**, 個別にドッカーで監査· **18 + DBエンジン** · **20以上のコンテナ** ·11パターン |
-| 📦 **流通販売** | **166 リリース**生態系全体**67 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
+| 📦 **流通販売** | **166 リリース**生態系全体**68 所有の公共リポジトリ** ·インストーラーとアーティファクト`.exe` · `.msi` · `.dmg` · `.apk`チェックサムと証拠をビルドする; 商業/ストアのシグネチャは、該当する進行中の |
 | 🛡️ **サプライチェーン** | コードQL·セルムレプ·バンドイト·トリビー·グリペ·ジトルク·トラッフルホッグ·CycloneDX SBOM(サイクロンDX SBOM)·スコアカード |
-| 📚 **カリキュラム** | **22,337 クラス**22プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
+| 📚 **カリキュラム** | **22,915 クラス**22プログラム全体で検証可能、カウント[a workflow](.github/workflows/stats.yml)リポジトリ構造やリポジトリで宣言された検証可能なソースから、手書きではなく、·すべてのプログラムが編集者の状態と制限を宣言します |
 | 🌐 **ポートフォリオ** | インストール可能なPWA· **22 の言語** · **PDF154枚**パイプラインによって生成される·CVデータAPI·コンデンサーのアンドロイド·灯台 100 |
 | 🔒 **テレメトリー** | フォレンジック製品とエンドレスバ・オペラティバ・チリのゼロテレメトリー — あらゆるビルドで検証 (Android なし)`INTERNET`許可) |
 | 🌐 **公開サイト** | **57 GitHub ページサイト**—56 のランディング、製品、プログラム、またはエコシステム・ナビゲーター、およびポートフォリオごとに1つ、それぞれが独自のリポジトリから展開·全て 57 検証済み HTTP で検証済み`200` |
@@ -92,7 +92,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 公開リポジトリで検出された技術（マニフェスト、依存関係、コンテナ、コード）を領域別に整理しています。リポジトリに登場することは（ラボやカリキュラムを含め）使用の証拠であり、長年の本番経験を主張するものではありません。
 
-![🛠️ 技術スタック](docs/img/stack.ja.54ab01d7.svg)
+![🛠️ 技術スタック](docs/img/stack.ja.449fcb7a.svg)
 
 **ソフトウェアアーキテクチャ**
 
@@ -124,7 +124,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️地球の環境システム
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ja.54562d9d.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ja.1a7f17f0.svg)
 
 ## 🗂️ エコシステム：プロダクト、ラボ、応用AI、カリキュラム、科学計算
 
@@ -132,7 +132,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 - 📦 [**実質の配分を用いるプロダクト**](docs/ECOSYSTEM.ja.md#products) (24)
 - 🧪 [**エンジニアリング研究所**](docs/ECOSYSTEM.ja.md#labs) (11)
-- 🤖 [**応用AI**](docs/ECOSYSTEM.ja.md#ai) (6)
+- 🤖 [**応用AI**](docs/ECOSYSTEM.ja.md#ai) (7)
 - 📚 [**完全な技術的なカリキュラム**](docs/ECOSYSTEM.ja.md#curricula) (22)
 - 🔬 [**科学コンピューティング**](docs/ECOSYSTEM.ja.md#science) (1)
 - 🍴 [**サードパーティプロジェクトのフォーク**](docs/ECOSYSTEM.ja.md#forks) (60)
@@ -176,7 +176,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ 自然な展開
 
-**AI のオーケストレーション エンジニア** · **システム/錆エンジニア** · **モバイルエンジニア(Flutter)** · **ソリューションエンジニア** · **技術的なプロダクト ビルダー** · **テクニカルトレーナー** · **デジタル変革コンサルタント** · **事業・機能アナリスト** · **技術的なプロダクト操作** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **講師 / 研修トレーナー / テクノロジーインストラクター** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**AI のオーケストレーション エンジニア** · **システム/錆エンジニア** · **モバイルエンジニア(Flutter)** · **ソリューションエンジニア** · **技術的なプロダクト ビルダー** · **テクニカルトレーナー** · **デジタル変革コンサルタント** · **技術アドバイザー（技術・データ・AI）** · **事業・機能アナリスト** · **技術的なプロダクト操作** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **講師 / 研修トレーナー / テクノロジーインストラクター** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️補完スコープ
 

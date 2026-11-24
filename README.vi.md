@@ -81,9 +81,9 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 | 🧪 **Kiểm tra tin tức** | GabySQUL**Thử ra 850**+ fuzzing trên**503. 8M truy vấn**(0 hoảng loạn)·Empresa Operativa Chile**Thử ra 230** ·Automa**150 py thử** ·Thông tin đa MSName |
 | 🤖 **Các tác vụ cấp sản xuất** | Thế giới thật LangGraph**Hậu phương hoạt động 25/25**(case 01–25, 100% tin tức)·Đặc vụ AI hoạt động**23 đặc vụ**có**69 phép đánh giá xác định** |
 | 🔗 **Sự kết hợp của bản sắc** | **20 thùng**Trình gửi ảnh cho người nhận thư —**19 Hoạt động**Từng cá nhân được kiểm toán với Docker· **18+B động cơ** · **20+ container** ·11 mẫu |
-| 📦 **Phân phối** | **166 bản phát hành**xuyên qua hệ sinh thái của**67 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
+| 📦 **Phân phối** | **166 bản phát hành**xuyên qua hệ sinh thái của**68 thuộc quyền sở hữu các kho công cộng** ·Bộ cài đặt và tạo tác`.exe` · `.msi` · `.dmg` · `.apk`với việc kiểm tra tổng và tạo bằng chứng; thương mại/tore chữ ký trong tiến trình mà có thể ứng dụng |
 | 🛡️ **Chuỗi cung cấp** | CodeQL·Semgrep·Cướp·Trivy·Grype·Gitleaks·TruffleHog·CM SBOM CcconeDX·Điểm |
-| 📚 **Curricula** | **22.337 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
+| 📚 **Curricula** | **22.915 lớp**có thể kiểm tra trên 22 chương trình, được tính bằng[a workflow](.github/workflows/stats.yml)từ cơ cấu kho chứa thực sự hoặc một nguồn có thể xác nhận được tuyên bố trong kho - không phải bằng tay·Mỗi chương trình tuyên bố trạng thái và giới hạn của nó |
 | 🌐 **Portfolio** | PWA có thể cài đặt· **22 ngôn ngữ** · **154 PDFs**tạo bởi ống dẫn·Name·Bộ tạo tích hợp a- rô- bốt·Căn nhà sáng 100 |
 | 🔒 **Kính viễn vọng** | Không có máy đo trong sản phẩm pháp y và Empresa Operativa Chile — được kiểm tra trong mỗi tòa nhà (không có người máy)`INTERNET`Cho phép |
 | 🌐 **Xuất ra các trang** | **57 trang GitHub**-56 hạ cánh, mỗi sản phẩm, chương trình, hay hệ sinh thái, cộng với danh mục đầu tư - mỗi người triển khai từ kho riêng của mình·tất cả 57 được kiểm tra với HTTP`200` |
@@ -92,7 +92,7 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 
 Các công nghệ được phát hiện trong kho mã công khai (tệp manifest, phụ thuộc, container và mã nguồn), nhóm theo lĩnh vực. Xuất hiện trong một kho mã — kể cả phòng thí nghiệm và giáo trình — là bằng chứng về việc sử dụng, không phải tuyên bố về nhiều năm kinh nghiệm vận hành thực tế.
 
-![🛠️ Ngăn xếp công nghệ](docs/img/stack.vi.893706cb.svg)
+![🛠️ Ngăn xếp công nghệ](docs/img/stack.vi.b0c5b2ee.svg)
 
 **Kiến trúc phần mềm**
 
@@ -124,7 +124,7 @@ Các công nghệ được phát hiện trong kho mã công khai (tệp manifest
 
 ## 🗺️Hệ thống sinh thái đang hưng thịnh
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.94c77be6.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.vi.4cfce760.svg)
 
 ## 🗂️ Hệ sinh thái: sản phẩm, phòng thí nghiệm, AI ứng dụng, giáo trình và tính toán khoa học
 
@@ -132,7 +132,7 @@ Phần thực hành của hồ sơ nằm trong một tài liệu riêng: phần 
 
 - 📦 [**Những sản phẩm có thật sự được phân phối**](docs/ECOSYSTEM.vi.md#products) (24)
 - 🧪 [**Phòng thí nghiệm kỹ thuật**](docs/ECOSYSTEM.vi.md#labs) (11)
-- 🤖 [**AI ứng dụng**](docs/ECOSYSTEM.vi.md#ai) (6)
+- 🤖 [**AI ứng dụng**](docs/ECOSYSTEM.vi.md#ai) (7)
 - 📚 [**Máy tính trình duyệt kỹ thuật toàn bộ**](docs/ECOSYSTEM.vi.md#curricula) (22)
 - 🔬 [**Tính toán khoa học**](docs/ECOSYSTEM.vi.md#science) (1)
 - 🍴 [**Fork của dự án bên thứ ba**](docs/ECOSYSTEM.vi.md#forks) (60)
@@ -176,7 +176,7 @@ Cả hai nền tảng —**Khoa học máy tính và cơ chế tính và quản 
 
 ### ↗ Mở rộng tự nhiên
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Giảng viên / Người đào tạo / Giảng viên công nghệ** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Digital Transformation Consultant** · **Cố vấn kỹ thuật (công nghệ, dữ liệu và AI)** · **Business / Functional Analyst** · **Technical Product Operations** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Giảng viên / Người đào tạo / Giảng viên công nghệ** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Phạm vi khen ngợi
 

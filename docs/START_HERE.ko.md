@@ -20,7 +20,7 @@
 
 - **누구:** 정보·컴퓨터공학 엔지니어이자 경영학 전공자로, 16년 넘게 소프트웨어를 만들고 운영해 왔습니다.
 - **하는 일:** 솔루션 아키텍처, 레거시 현대화, 자동화와 응용 AI, 그리고 그 전달과 운영.
-- **근거:** 자체 공개 저장소 67개, 릴리스 166개, 제품의 테스트와 CI이며, 각 저장소는 **하지 않는 일**도 명시합니다.
+- **근거:** 자체 공개 저장소 68개, 릴리스 166개, 제품의 테스트와 CI이며, 각 저장소는 **하지 않는 일**도 명시합니다.
 - **방식:** 프로젝트에 따라 원격 또는 하이브리드.
 - **연락처:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [포트폴리오](https://vladimiracunadev-create.github.io/)
 

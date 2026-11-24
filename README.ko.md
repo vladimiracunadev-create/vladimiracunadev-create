@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **시험 적용** | 프로젝트**850 테스트**+ 훈제 이상**503.8M 쿼리**(0개의 판)·Empresa, 칠레**230 테스트** ·오토마**150 파이트** ·멀티OS CI |
 | 🤖 **생산 급료 대리인** | 랭그라프 RealWorld**25/25 운영한 후원**(케이스 01-25, 100% 적용)·운영 AI 에이전트**23 대리인**으로**69개의 신중한 evals** |
 | 🔗 **Polyglot 통합** | **20 건**sender→n8n→receiver —**19 운영**, 독수리로 개별적으로 감사-· **18+ DB 엔진** · **20 + 용기** ·11 패턴 |
-| 📦 **의 특징** | **166 릴리스**생태계의 전반**67개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
+| 📦 **의 특징** | **166 릴리스**생태계의 전반**68개 소유의 공공 저장소** ·설치 및 artifacts`.exe` · `.msi` · `.dmg` · `.apk`checksums와 build proof; 적용 가능한 진행 상황을 위한 상용/스토어 서명 |
 | 🛡️ **공급 체인** | 코드QL·뚱 베어·팟캐스트·팟캐스트·뚱 베어·팟캐스트·TruffleHog의 특징·사이클론디X SBOM·팟캐스트 |
-| 📚 **의약** | **22,337 클래스**22개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
+| 📚 **의약** | **22,915 클래스**22개 프로그램 전반에 걸쳐 검증 가능[a workflow](.github/workflows/stats.yml)실제 저장소 구조 또는 저장소에 선언 된 검증 가능한 소스에서 - 손으로 작성하지 않음·각 프로그램은 편집 상태 및 제한을 선언합니다. |
 | 🌐 **의논하기** | PWA 설치· **22 개 언어** · **154 PDF의**생성물 : 파이프라인·CV 자료 API·축전기 인조 인간·등대 100 |
 | 🔒 **원격 측정** | forensic 제품 및 Empresa Operativa Chile의 Zero telemetry - 모든 빌드에서 확인 (안드로이드 없음)`INTERNET`(주) |
 | 🌐 **관련 사이트** | **57 GitHub 페이지 사이트**—56 착륙, 제품, 프로그램, 또는 생태계 항해자 당 하나, 포트폴리오 플러스 - 각각 자체 저장소에서 배치·모든 57 HTTP로 확인`200` |
@@ -92,7 +92,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 공개 저장소에서 감지된 기술(매니페스트, 의존성, 컨테이너, 코드)을 영역별로 묶었습니다. 저장소에 나타난다는 것은 (연구소와 교육과정 포함) 사용의 증거일 뿐, 수년간의 운영 경험을 주장하는 것이 아닙니다.
 
-![🛠️ 기술 스택](docs/img/stack.ko.ac6402cd.svg)
+![🛠️ 기술 스택](docs/img/stack.ko.3b762877.svg)
 
 **소프트웨어 아키텍처**
 
@@ -124,7 +124,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️한눈에 보는 생태계
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ko.77578c0a.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.ko.4c5e4a20.svg)
 
 ## 🗂️ 생태계: 제품, 연구소, 응용 AI, 교육과정, 과학 컴퓨팅
 
@@ -132,7 +132,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 - 📦 [**Real Distribution을 통한 제품**](docs/ECOSYSTEM.ko.md#products) (24)
 - 🧪 [**엔지니어링 연구소**](docs/ECOSYSTEM.ko.md#labs) (11)
-- 🤖 [**응용 AI**](docs/ECOSYSTEM.ko.md#ai) (6)
+- 🤖 [**응용 AI**](docs/ECOSYSTEM.ko.md#ai) (7)
 - 📚 [**완전한 기술 교육과정**](docs/ECOSYSTEM.ko.md#curricula) (22)
 - 🔬 [**과학 컴퓨팅**](docs/ECOSYSTEM.ko.md#science) (1)
 - 🍴 [**제3자 프로젝트의 포크**](docs/ECOSYSTEM.ko.md#forks) (60)
@@ -176,7 +176,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ 자연스러운 확장
 
-**AI 관현 엔지니어** · **시스템 / Rust 엔지니어** · **모바일 엔지니어 (Flutter)** · **솔루션 엔지니어** · **기술 제품 Builder** · **기술 트레이너** · **디지털 전환 컨설턴트** · **사업/기능분석** · **기술 제품 운영** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **강사 / 트레이너 / 기술 교육 강사** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**AI 관현 엔지니어** · **시스템 / Rust 엔지니어** · **모바일 엔지니어 (Flutter)** · **솔루션 엔지니어** · **기술 제품 Builder** · **기술 트레이너** · **디지털 전환 컨설턴트** · **기술 자문역(기술·데이터·AI)** · **사업/기능분석** · **기술 제품 운영** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **강사 / 트레이너 / 기술 교육 강사** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️관련 범위
 

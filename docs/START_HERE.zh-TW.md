@@ -20,7 +20,7 @@
 
 - **是誰：**資訊與電腦工程師兼企業管理，16 年以上建置與營運軟體的經驗。
 - **做什麼：**解決方案架構、舊系統現代化、自動化與應用 AI，以及它們的交付與營運。
-- **證據：**67 個自有公開儲存庫、166 個發行版本、產品中的測試與 CI，且每個儲存庫也會說明自己**不做**什麼。
+- **證據：**68 個自有公開儲存庫、166 個發行版本、產品中的測試與 CI，且每個儲存庫也會說明自己**不做**什麼。
 - **方式：**遠端或混合，視專案而定。
 - **聯絡方式:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [作品集](https://vladimiracunadev-create.github.io/)
 

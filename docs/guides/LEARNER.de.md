@@ -4,7 +4,7 @@
 
 ## In einer Zeile
 
-22 aufeinander aufbauende Programme auf Spanisch, mit 22.337 per Workflow gezählten Lektionen; jedes nennt seinen redaktionellen Status und seine Grenzen.
+22 aufeinander aufbauende Programme auf Spanisch, mit 22.915 per Workflow gezählten Lektionen; jedes nennt seinen redaktionellen Status und seine Grenzen.
 
 ## Nach Ziel wählen
 

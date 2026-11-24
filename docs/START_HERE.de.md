@@ -20,7 +20,7 @@ Wählen Sie Ihren Fall und gehen Sie direkt zum Wesentlichen. Jeder Leitfaden is
 
 - **Wer:** Ingenieur für Informatik und Computing sowie Betriebswirt, über 16 Jahre Erfahrung im Bauen und Betreiben von Software.
 - **Was ich tue:** Lösungsarchitektur, Modernisierung von Altsystemen, Automatisierung und angewandte KI sowie deren Auslieferung und Betrieb.
-- **Belege:** 67 eigene öffentliche Repositories, 166 Releases, Tests und CI in den Produkten, und jedes Repo nennt auch, was es **nicht** leistet.
+- **Belege:** 68 eigene öffentliche Repositories, 166 Releases, Tests und CI in den Produkten, und jedes Repo nennt auch, was es **nicht** leistet.
 - **Modus:** remote oder hybrid, je nach Projekt.
 - **Kontakt:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

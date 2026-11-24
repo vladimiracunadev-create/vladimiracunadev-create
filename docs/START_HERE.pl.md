@@ -20,7 +20,7 @@ Wybierz swój przypadek i przejdź prosto do tego, czego potrzebujesz. Każdy pr
 
 - **Kto:** Inżynier informatyki i obliczeń oraz administrator przedsiębiorstw, ponad 16 lat budowania i utrzymywania oprogramowania.
 - **Co robię:** architektura rozwiązań, modernizacja systemów legacy, automatyzacja i stosowana AI oraz ich dostarczanie i utrzymanie.
-- **Dowody:** 67 własnych publicznych repozytoriów, 166 wydań, testy i CI w produktach, a każde repo deklaruje też, czego **nie** robi.
+- **Dowody:** 68 własnych publicznych repozytoriów, 166 wydań, testy i CI w produktach, a każde repo deklaruje też, czego **nie** robi.
 - **Tryb:** zdalnie lub hybrydowo, zależnie od projektu.
 - **Kontakt:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portfolio](https://vladimiracunadev-create.github.io/)
 

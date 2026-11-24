@@ -69,12 +69,13 @@
 | [🧩 **Agentic Plugins Toolkit**](https://github.com/vladimiracunadev-create/agentic-plugins-toolkit) | **6個代理外掛**可從一個來源在克洛德碼、OpenAI/Codex、副駕駛、雙子座和MCP中安裝:`repository-engineering`, `legacy-modernization`, `learning-program-studio`, `product-evolution`, `portfolio-governance`,以及`rootcause-response` · **69個生成的不漂移的檢視**——每次執行時間都從同一份合同中收到其格式.·零讀取·連結·macOS 系統·視窗· [site](https://vladimiracunadev-create.github.io/agentic-plugins-toolkit/) |
 | [🧰 **Claude Skills Toolkit**](https://github.com/vladimiracunadev-create/claude-skills-toolkit) | **22個代理技能**克勞德程式碼· **安保服務**: 12 層`security-audit`維也納(OSV)·開源軟體國際化之簡體中文組·電子軟體系統·薩斯德·容器·保密)和14階段`bitcoin-custody-audit` · **重置閘門**: `pre-commit-guard`, `pre-push-guard`, `yaml-control`, `md-lint-fix`, `python-lint-guard` · **一致性**: `repo-coherence-audit`, `version-bump`, `python-version-control`, `python-deps-pinning` · **掛起點**: `docker-cleanup`, `docker-compose-doctor` · **文件**: `md-to-doc` ·零讀取·跨平臺 |
 | [🧰 **Codex Skills Toolkit**](https://github.com/vladimiracunadev-create/codex-skills-toolkit) | **19個代理技能**用於編碼:安全和供應鏈、飛行前、功能流動、復原力和狀態、釋放證據、Python/YAML/Markdown門、版本、依賴、Docker和檔案·蟒蛇第一號· `pnpm` ·連結·macOS 系統·視窗· [site](https://vladimiracunadev-create.github.io/codex-skills-toolkit/) |
+| [📚 **Learning Path Datasets**](https://github.com/vladimiracunadev-create/learning-path-datasets) | 將學習課程轉換為帶有來源、許可和評估資訊的 JSONL 資料集，並提供本地向量庫（精確 NumPy 與 Qdrant）。首個資料包：智利小學一年級，16,386 條記錄。**只准備資料，不訓練也不分發模型** · 內容由 AI 輔助完成，未經專業人工稽核 · 程式碼 MIT，資料 CC BY-NC-SA 4.0 |
 
 <a id="curricula"></a>
 
 ## 📚完成技術課程
 
-西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**22 337個班級**,計算為[a workflow](../.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
+西班牙語序列程式,每個儲存器都宣告狀態和範圍. 22個方案加起來是:**22 915個班級**,計算為[a workflow](../.github/workflows/stats.yml),從真正的暫存器結構或暫存器中宣告的可核查源;徽章每週重新整理一次,不由手寫.
 
 🧭 [**Lifelong Learning Ecosystem**](https://github.com/vladimiracunadev-create/lifelong-learning-ecosystem)是一個聯邦指南針,透過視覺地圖和影象圖連線6個地區的30個真實路徑[accessible offline portal](https://vladimiracunadev-create.github.io/lifelong-learning-ecosystem/);不計為附加程式。
 
@@ -87,7 +88,7 @@
 | [📈 **Marketing, Sales, and Growth**](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) | 336 | 24個部分,包括業務定義、計量單、可核查的參考書目和智利的監管背景· **千分之一.6.0 千分之一.** ·1.29M字數·17個基於角色的路徑· [site](https://vladimiracunadev-create.github.io/marketing-sales-growth-evolution-program/) |
 | [🏢 **Business Creation**](https://github.com/vladimiracunadev-create/modern-business-creation-program) | 336 | 在智利建立和經營一家真正的公司:從想法到成立、稅務當局、業務、危機和退出·360 個圖表·1 251個任期詞彙表·1 548頁手冊· [site](https://vladimiracunadev-create.github.io/modern-business-creation-program/) |
 | [🏛️ **Architecture and Built Environment**](https://github.com/vladimiracunadev-create/architecture-built-environment-learning-program) | 840 | 84個編·60屆綜合會議·35道路徑·可追蹤來源·下行、離線閱讀器和 GitHub Pages· [site](https://vladimiracunadev-create.github.io/architecture-built-environment-learning-program/) |
-| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,248 | 1至12年級· **4 156次綜合跨課程經驗** · **4 024個學習目標** ·聯剛特派團的訊息來源·尚未提出待決提案和尚未進行專門人力審查· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
+| [🇨🇱 **Chilean School Learning Path**](https://github.com/vladimiracunadev-create/chilean-school-learning-path) | 14,826 | 1至12年級· **4 156次綜合跨課程經驗** · **4 152個學習目標** ·聯剛特派團的訊息來源·尚未提出待決提案和尚未進行專門人力審查· [site](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) |
 | [🧭 **Modern Software Engineering**](https://github.com/vladimiracunadev-create/modern-software-engineering-program) | 612 | 51個部分和8個階段·基礎 → 產品、建築、安全、DevOps、SRE、SPEC、AI和多代理系統·資料庫宣佈的編輯地位· [site](https://vladimiracunadev-create.github.io/modern-software-engineering-program/) |
 | [🎓 **Pedagogy and Learning Sciences**](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program) | 300 | 從一個人如何學習到如何培訓教師·25個部分· **每一類都宣告其證據狀態和限度** ·早期識字、比較方法、具體教育需要、共處、文化多樣性和國際證據·1 097個定期詞彙表、325個圖表和60個活動課堂庫·按角色分列的14個職業道路·LMS 可出口· **維基百科中的相關條目: 維基語錄連結:名人名言 - 分類** · [site](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/) |
 | [☁️ **Multi-Cloud**](https://github.com/vladimiracunadev-create/multi-cloud-engineering-program) | 288 | 自動取款機·阿蘇雷·GCP 常規·庫伯涅斯·地表·塞爾維亞·財務操作· **1 288小時** ·288個有JSON證據的實驗室·1 032個來源·2 884頁PDF手冊· [site](https://vladimiracunadev-create.github.io/multi-cloud-engineering-program/) |

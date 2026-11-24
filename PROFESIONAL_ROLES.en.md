@@ -26,12 +26,12 @@ This matrix widens the professional field without turning education, personal pr
 ## Reusable evidence
 
 - **E1 — technical track record:** Solution Architect, legacy modernization, Senior Full-Stack / Tech Lead and AI automation; 16+ years declared in the profile.
-- **E2 — delivery and operations:** 67 own public repositories, 166 releases, CI/CD, observability, runbooks, supply-chain security and installable artifacts.
+- **E2 — delivery and operations:** 68 own public repositories, 166 releases, CI/CD, observability, runbooks, supply-chain security and installable artifacts.
 - **E3 — business and operations:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [business creation](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing and sales](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) and [executive leadership](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). They are verifiable products and content; they do not replace management experience.
 - **E4 — projects, processes and quality:** roadmaps, issues, specifications, tests, gates, metrics and audience-specific documentation spread across the ecosystem.
 - **E5 — security and continuity:** RootCause family, controls, SBOM, risk analysis, resilience, incidents and reproducible evidence.
 - **E6 — data and AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) and traceability/human gates.
-- **E7 — education:** 22 programs, 22,337 classes, role-based paths, labs, manuals, offline portals and multi-format content. This proves educational design and production; formal teaching and learning outcomes require separate evidence.
+- **E7 — education:** 22 programs, 22,915 classes, role-based paths, labs, manuals, offline portals and multi-format content. This proves educational design and production; formal teaching and learning outcomes require separate evidence.
 - **E8 — finance and control:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metrics and traceability. They are evidence of applied knowledge in artifacts, not corporate financial responsibility.
 
 ## 1. Technology leadership
@@ -74,6 +74,7 @@ This matrix widens the professional field without turning education, personal pr
 | **Corporate Planning Analyst** | Turn strategy into objectives, initiatives, KPIs, scenarios and performance reviews. | None | 2–5 years; analyst/senior | **PP · medium** | E3, E4, E8 | Real corporate plan and KPIs; financial modeling and BI tools. |
 | **Innovation Manager** | Manage the pipeline of ideas, experiments, alliances, portfolio and scaling. | None | 4–8 years; lead/manager | **CT/PP · medium-high technical** | E2, E3, E6 | Innovation with third parties, budget, adoption and benefits; discovery and portfolio management. |
 | **Business Transformation Consultant** | Redesign processes, capabilities, data, technology and operating model. | None | 4–8 years; senior/lead | **CT/PP · high in technology transformation** | E1–E4, E6 | Evidence of cross-cutting change in a client organization and measured benefits. |
+| **Technology, data and AI advisor / Technical Advisor** | Guide technology, architecture, data and AI decisions for executives, teams or institutions, with independent judgment. | Occasional | 3–6 years; senior | **CT/PP · high** | E1, E6, E7 | Advisory cases with measurable results and verifiable references; hired experience as an advisor is not documented. |
 
 ## 5. Business analysis
 

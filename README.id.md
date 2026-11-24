@@ -81,9 +81,9 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 | 🧪 **Uji cakupan** | GabySQL**850 tes**+ fuzzing over**Kueri 503.8M**(0 panik)·Empresa Operativa Chile**230 tests** ·Automa**150 pytest** ·multi- OS CI |
 | 🤖 **Agen-kelas-produksi** | LangGrafik RealWorld**25 / 25 backend operasional**(kasus 01- 25, 100% cakupan)·Agen AI Operasional**23 agen**dengan**69 deterministik eval** |
 | 🔗 **Integrasi Polyglot** | **20 kasus**- = Sender Avern8n Penerima = -**19 operasional**, secara individual diaudit dengan Docker -· **18 + mesin DB** · **20 + kontainer** ·11 pola |
-| 📦 **Distribusi** | **166 rilis**di seluruh ekosistem**67 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
+| 📦 **Distribusi** | **166 rilis**di seluruh ekosistem**68 repositori publik milik** ·installers dan artifak`.exe` · `.msi` · `.dmg` · `.apk`dengan jumlah dan bukti yang ada; tanda tangan komersial / toko dalam proses dimana dapat diterapkan |
 | 🛡️ **Rantai Supply** | CodeQL·Semgrep·Bandit·Trivy·Grype·Gitleaks·TruffleHog·CycloneDX SBOM·Scorecard |
-| 📚 **Curricula** | **Kelas 22,337**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
+| 📚 **Curricula** | **Kelas 22,915**diverifikasi di seluruh 22 program, dihitung oleh[a workflow](.github/workflows/stats.yml)dari struktur repositori nyata atau sumber yang dapat diverifikasi dideklarasikan dalam repositori - tidak ditulis dengan tangan -·setiap program mendeklarasikan status editorial dan keterbatasan |
 | 🌐 **Portfolio** | PWA yang dapat dipasang· **22 bahasa** · **154 PDFs**dihasilkan oleh pipeline·API Data CV·Capacitor Android·Lighthouse 100 |
 | 🔒 **Telemetri** | Zero telemetry in forensic products and Empresa operativa Chile - verified in every build (no Android`INTERNET`ijin) |
 | 🌐 **Situs yang dipublikasikan** | **57 Situs Halaman GitHub**- 56 pendaratan, satu per produk, program, atau navigator ekosistem, ditambah portofolio - masing-masing dikerahkan dari repositori sendiri·semua 57 diverifikasi dengan HTTP`200` |
@@ -92,7 +92,7 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 
 Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, dan kode), dikelompokkan per area. Muncul di sebuah repositori —termasuk laboratorium dan kurikulum— adalah bukti penggunaan, bukan klaim pengalaman produksi bertahun-tahun.
 
-![🛠️ Tumpukan teknologi](docs/img/stack.id.1b5a2a2c.svg)
+![🛠️ Tumpukan teknologi](docs/img/stack.id.a5b30c11.svg)
 
 **Arsitektur perangkat lunak**
 
@@ -124,7 +124,7 @@ Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, 
 
 ## 🗺️Ekosistem Pada A Glance
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.6b89079a.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.id.a0842fee.svg)
 
 ## 🗂️ Ekosistem: produk, laboratorium, AI terapan, kurikulum, dan komputasi ilmiah
 
@@ -132,7 +132,7 @@ Karya praktis profil ini ada di dokumen tersendiri: perangkat lunak yang diunduh
 
 - 📦 [**Produk Dengan Distribusi Nyata**](docs/ECOSYSTEM.id.md#products) (24)
 - 🧪 [**Laboratorium Teknik**](docs/ECOSYSTEM.id.md#labs) (11)
-- 🤖 [**AI Terapan**](docs/ECOSYSTEM.id.md#ai) (6)
+- 🤖 [**AI Terapan**](docs/ECOSYSTEM.id.md#ai) (7)
 - 📚 [**Curricula Teknis Lengkap**](docs/ECOSYSTEM.id.md#curricula) (22)
 - 🔬 [**Komputer Ilmiah**](docs/ECOSYSTEM.id.md#science) (1)
 - 🍴 [**Fork proyek pihak ketiga**](docs/ECOSYSTEM.id.md#forks) (60)
@@ -176,7 +176,7 @@ Latar belakangku...**Ilmu Komputer dan Teknik Komputer + Administrasi Bisnis**- 
 
 ### ↗ Ekspansi alami
 
-**Insinyur Orkestra AI** · **Sistem / Mesin Rust** · **Engineer Mobile (Flutter)** · **Insinyur Solusi** · **Pembangun Produk Teknis** · **Teknisi Trainer** · **Konsultan Transformasi Digital** · **Penganalisa Bisnis / Fungsional** · **Operasi Produk Teknis** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Pengajar / Pelatih / Instruktur teknologi** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**Insinyur Orkestra AI** · **Sistem / Mesin Rust** · **Engineer Mobile (Flutter)** · **Insinyur Solusi** · **Pembangun Produk Teknis** · **Teknisi Trainer** · **Konsultan Transformasi Digital** · **Penasihat Teknis (teknologi, data, dan AI)** · **Penganalisa Bisnis / Fungsional** · **Operasi Produk Teknis** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Pengajar / Pelatih / Instruktur teknologi** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️Ruang lingkup pelengkap
 

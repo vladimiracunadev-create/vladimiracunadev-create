@@ -26,12 +26,12 @@ Deze matrix verbreedt het professionele veld zonder opleiding, persoonlijke proj
 ## Herbruikbaar bewijs
 
 - **E1 — technische staat van dienst:** Solution Architect, modernisering van legacysystemen, Senior Full-Stack / Tech Lead en AI-automatisering; het profiel vermeldt 16+ jaar.
-- **E2 — oplevering en operatie:** 67 eigen openbare repositories, 166 releases, CI/CD, observeerbaarheid, runbooks, supply-chainbeveiliging en installeerbare artefacten.
+- **E2 — oplevering en operatie:** 68 eigen openbare repositories, 166 releases, CI/CD, observeerbaarheid, runbooks, supply-chainbeveiliging en installeerbare artefacten.
 - **E3 — bedrijf en operatie:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [bedrijfsoprichting](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing en verkoop](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) en [executive leadership](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Het zijn verifieerbare producten en inhoud; ze vervangen geen managementervaring.
 - **E4 — projecten, processen en kwaliteit:** roadmaps, issues, specificaties, tests, gates, metrieken en documentatie per doelgroep, verspreid over het ecosysteem.
 - **E5 — beveiliging en continuïteit:** de RootCause-familie, beheersmaatregelen, SBOM, risicoanalyse, veerkracht, incidenten en reproduceerbaar bewijs.
 - **E6 — data en AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) en traceerbaarheid/menselijke gates.
-- **E7 — onderwijs:** 22 programma's, 22.337 lessen, rolgebaseerde leerpaden, labs, handleidingen, offlineportalen en content in meerdere formaten. Dit bewijst onderwijsontwerp en -productie; formeel lesgeven en leerresultaten vragen apart bewijs.
+- **E7 — onderwijs:** 22 programma's, 22.915 lessen, rolgebaseerde leerpaden, labs, handleidingen, offlineportalen en content in meerdere formaten. Dit bewijst onderwijsontwerp en -productie; formeel lesgeven en leerresultaten vragen apart bewijs.
 - **E8 — financiën en beheersing:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metrieken en traceerbaarheid. Dit is bewijs van toegepaste kennis in artefacten, geen zakelijke financiële verantwoordelijkheid.
 
 ## 1. Technologisch leiderschap
@@ -74,6 +74,7 @@ Deze matrix verbreedt het professionele veld zonder opleiding, persoonlijke proj
 | **Analist bedrijfsplanning** | Vertaalt strategie naar doelen, initiatieven, KPI's, scenario's en prestatiebesprekingen. | Geen | 2–5 jaar; analist/senior | **PP · gemiddeld** | E3, E4, E8 | Echt bedrijfsplan en KPI's; financiële modellering en BI-tools. |
 | **Innovatiemanager** | Beheert de pijplijn van ideeën, experimenten, allianties, portfolio en opschaling. | Geen | 4–8 jaar; lead/manager | **CT/PP · technisch gemiddeld-hoog** | E2, E3, E6 | Innovatie met derden, budget, adoptie en baten; discovery en portfoliomanagement. |
 | **Consultant bedrijfstransformatie** | Herontwerpt processen, capaciteiten, data, technologie en bedrijfsmodel. | Geen | 4–8 jaar; senior/lead | **CT/PP · hoog in technologische transformatie** | E1–E4, E6 | Bewijs van afdelingsoverstijgende verandering in een klantorganisatie en gemeten baten. |
+| **Technisch adviseur voor technologie, data en AI / Technical Advisor** | Beslissingen over technologie, architectuur, data en AI begeleiden voor leidinggevenden, teams of instellingen, met onafhankelijk oordeel. | Soms | 3–6 jaar; senior | **CT/PP · hoog** | E1, E6, E7 | Adviesopdrachten met meetbare resultaten en verifieerbare referenties; ervaring als aangestelde adviseur is niet aangetoond. |
 
 ## 5. Bedrijfsanalyse
 

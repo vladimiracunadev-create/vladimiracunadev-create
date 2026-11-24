@@ -4,7 +4,7 @@
 
 ## In una riga
 
-22 programmi sequenziali in spagnolo, con 22.337 lezioni contate da un workflow, ciascuno con stato editoriale e limiti dichiarati.
+22 programmi sequenziali in spagnolo, con 22.915 lezioni contate da un workflow, ciascuno con stato editoriale e limiti dichiarati.
 
 ## Scegli in base all'obiettivo
 

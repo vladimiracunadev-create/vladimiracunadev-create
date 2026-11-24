@@ -26,12 +26,12 @@ Questa matrice amplia il campo professionale senza trasformare formazione, proge
 ## Evidenze riutilizzabili
 
 - **E1 — percorso tecnico:** Solution Architect, modernizzazione del legacy, Senior Full-Stack / Tech Lead e automazione con IA; oltre 16 anni dichiarati nel profilo.
-- **E2 — consegna e operatività:** 67 repository pubblici propri, 166 release, CI/CD, osservabilità, runbook, sicurezza della supply chain e artefatti installabili.
+- **E2 — consegna e operatività:** 68 repository pubblici propri, 166 release, CI/CD, osservabilità, runbook, sicurezza della supply chain e artefatti installabili.
 - **E3 — business e operatività:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [creazione d'impresa](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing e vendite](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) e [leadership esecutiva](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Sono prodotti e contenuti verificabili, non sostituiscono l'esperienza manageriale.
 - **E4 — progetti, processi e qualità:** roadmap, issue, specifiche, test, gate, metriche e documentazione per pubblico distribuiti nell'ecosistema.
 - **E5 — sicurezza e continuità:** famiglia RootCause, controlli, SBOM, analisi dei rischi, resilienza, incidenti ed evidenza riproducibile.
 - **E6 — dati e IA:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) e tracciabilità/gate umani.
-- **E7 — formazione:** 22 programmi, 22.337 lezioni, percorsi per ruolo, laboratori, manuali, portali offline e contenuti multiformato. Questo attesta progettazione e produzione formativa; la docenza formale e i risultati di apprendimento richiedono evidenza separata.
+- **E7 — formazione:** 22 programmi, 22.915 lezioni, percorsi per ruolo, laboratori, manuali, portali offline e contenuti multiformato. Questo attesta progettazione e produzione formativa; la docenza formale e i risultati di apprendimento richiedono evidenza separata.
 - **E8 — finanza e controllo:** [Finanza e Banca](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metriche e tracciabilità. Sono evidenza di conoscenza applicata negli artefatti, non responsabilità finanziaria aziendale.
 
 ## 1. Direzione tecnologica
@@ -74,6 +74,7 @@ Questa matrice amplia il campo professionale senza trasformare formazione, proge
 | **Analista di pianificazione aziendale / Corporate Planning Analyst** | Trasformare la strategia in obiettivi, iniziative, KPI, scenari e revisioni delle prestazioni. | Nessuna | 2–5 anni; analista/senior | **PP · media** | E3, E4, E8 | Piano aziendale e KPI reali; modellazione finanziaria e strumenti di BI. |
 | **Responsabile dell'innovazione / Innovation Manager** | Gestire pipeline di idee, sperimentazioni, alleanze, portfolio e scalabilità. | Nessuna | 4–8 anni; lead/manager | **CT/PP · medio-alta tecnica** | E2, E3, E6 | Innovazione con terze parti, budget, adozione e benefici; discovery e gestione del portfolio. |
 | **Consulente di trasformazione aziendale / Business Transformation Consultant** | Riprogettare processi, capacità, dati, tecnologia e modello operativo. | Nessuna | 4–8 anni; senior/lead | **CT/PP · alta nella trasformazione tecnologica** | E1–E4, E6 | Evidenza di cambiamento trasversale in un'organizzazione cliente e benefici misurati. |
+| **Advisor tecnico in tecnologia, dati e IA / Technical Advisor** | Orientare le decisioni su tecnologia, architettura, dati e IA per dirigenti, team o istituzioni, con giudizio indipendente. | Occasionale | 3–6 anni; senior | **CT/PP · alta** | E1, E6, E7 | Casi di consulenza con risultati misurabili e riferimenti verificabili; l'esperienza come advisor incaricato non è documentata. |
 
 ## 5. Analisi aziendale
 

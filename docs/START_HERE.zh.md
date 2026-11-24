@@ -20,7 +20,7 @@
 
 - **是谁：**信息与计算机工程师兼工商管理，16 年以上构建与运营软件的经验。
 - **做什么：**解决方案架构、遗留系统现代化、自动化与应用 AI，以及它们的交付与运营。
-- **证据：**67 个自有公开仓库、166 个发布版本、产品中的测试与 CI，且每个仓库也会说明自己**不做**什么。
+- **证据：**68 个自有公开仓库、166 个发布版本、产品中的测试与 CI，且每个仓库也会说明自己**不做**什么。
 - **方式：**远程或混合，视项目而定。
 - **联系方式:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [作品集](https://vladimiracunadev-create.github.io/)
 

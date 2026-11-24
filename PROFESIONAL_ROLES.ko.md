@@ -26,12 +26,12 @@
 ## 재사용 가능한 증거
 
 - **E1 — 기술 이력:** 솔루션 아키텍트, 레거시 현대화, 시니어 풀스택 / Tech Lead, AI 자동화. 프로필에 16년 이상으로 명시.
-- **E2 — 딜리버리와 운영:** 자체 공개 저장소 67개, 릴리스 166건, CI/CD, 관측 가능성, 런북, 공급망 보안, 설치 가능한 산출물.
+- **E2 — 딜리버리와 운영:** 자체 공개 저장소 68개, 릴리스 166건, CI/CD, 관측 가능성, 런북, 공급망 보안, 설치 가능한 산출물.
 - **E3 — 비즈니스와 운영:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [창업](https://github.com/vladimiracunadev-create/modern-business-creation-program), [마케팅과 영업](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program), [경영진 리더십](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). 검증 가능한 제품과 콘텐츠이며, 관리 경력을 대체하지 않습니다.
 - **E4 — 프로젝트, 프로세스, 품질:** 로드맵, 이슈, 명세서, 테스트, 게이트, 지표, 그리고 생태계 전반에 흩어져 있는 독자별 문서.
 - **E5 — 보안과 연속성:** RootCause 제품군, 통제, SBOM, 리스크 분석, 복원력, 인시던트, 재현 가능한 증거.
 - **E6 — 데이터와 AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents), 추적성과 사람 승인 게이트.
-- **E7 — 교육:** 22개 프로그램, 22,337개 수업, 역할별 학습 경로, 실습, 매뉴얼, 오프라인 포털, 다중 형식 콘텐츠. 교육 설계와 제작을 입증하며, 공식 강의와 학습 성과에는 별도의 증거가 필요합니다.
+- **E7 — 교육:** 22개 프로그램, 22,915개 수업, 역할별 학습 경로, 실습, 매뉴얼, 오프라인 포털, 다중 형식 콘텐츠. 교육 설계와 제작을 입증하며, 공식 강의와 학습 성과에는 별도의 증거가 필요합니다.
 - **E8 — 재무와 통제:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, 지표, 추적성. 산출물에 나타난 응용 지식의 증거이며, 기업 재무 책임이 아닙니다.
 
 ## 1. 기술 리더십
@@ -74,6 +74,7 @@
 | **기업 기획 분석가** | 전략을 목표, 이니셔티브, KPI, 시나리오, 성과 검토로 옮긴다. | 없음 | 2–5년; 분석가/시니어 | **PP · 중간** | E3, E4, E8 | 실제 기업 계획과 KPI. 재무 모델링과 BI 도구. |
 | **혁신 매니저** | 아이디어 파이프라인, 실험, 제휴, 포트폴리오, 확장을 관리한다. | 없음 | 4–8년; 리드/매니저 | **CT/PP · 기술적으로 중상** | E2, E3, E6 | 제3자와의 혁신, 예산, 정착, 효과. 디스커버리와 포트폴리오 관리. |
 | **비즈니스 트랜스포메이션 컨설턴트** | 프로세스, 역량, 데이터, 기술, 운영 모델을 재설계한다. | 없음 | 4–8년; 시니어/리드 | **CT/PP · 기술 전환 분야에서 높음** | E1–E4, E6 | 고객 조직에서의 부서 간 변화와 측정된 효과의 증거. |
+| **기술·데이터·AI 기술 자문역 / Technical Advisor** | 경영진, 팀 또는 기관의 기술, 아키텍처, 데이터, AI 의사결정을 독립적인 판단으로 안내한다. | 가끔 | 3–6년; 시니어 | **CT/PP · 높음** | E1, E6, E7 | 측정 가능한 성과와 검증 가능한 참조를 갖춘 자문 사례. 자문역으로 고용된 경험은 입증되지 않았다. |
 
 ## 5. 비즈니스 분석
 

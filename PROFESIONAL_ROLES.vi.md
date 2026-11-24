@@ -26,12 +26,12 @@ Ma trận này mở rộng phạm vi nghề nghiệp mà không biến học v�
 ## Bằng chứng có thể tái sử dụng
 
 - **E1 — quá trình làm việc kỹ thuật:** Solution Architect, hiện đại hóa hệ thống kế thừa, Senior Full-Stack / Tech Lead và tự động hóa AI; hồ sơ khai báo hơn 16 năm.
-- **E2 — triển khai và vận hành:** 67 kho mã công khai tự phát triển, 166 bản phát hành, CI/CD, khả năng quan sát, sổ tay vận hành, bảo mật chuỗi cung ứng và sản phẩm có thể cài đặt.
+- **E2 — triển khai và vận hành:** 68 kho mã công khai tự phát triển, 166 bản phát hành, CI/CD, khả năng quan sát, sổ tay vận hành, bảo mật chuỗi cung ứng và sản phẩm có thể cài đặt.
 - **E3 — kinh doanh và vận hành:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [khởi nghiệp](https://github.com/vladimiracunadev-create/modern-business-creation-program), [marketing và bán hàng](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) và [lãnh đạo điều hành](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Đó là sản phẩm và nội dung có thể kiểm chứng; chúng không thay thế kinh nghiệm quản lý.
 - **E4 — dự án, quy trình và chất lượng:** lộ trình, issue, đặc tả, kiểm thử, cổng chất lượng, chỉ số và tài liệu theo từng nhóm đối tượng trải khắp hệ sinh thái.
 - **E5 — bảo mật và liên tục:** họ RootCause, các biện pháp kiểm soát, SBOM, phân tích rủi ro, khả năng phục hồi, sự cố và bằng chứng có thể tái lập.
 - **E6 — dữ liệu và AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) và truy vết/cổng kiểm duyệt của con người.
-- **E7 — giáo dục:** 22 chương trình, 22.337 bài học, lộ trình theo vai trò, phòng thực hành, sổ tay, cổng thông tin ngoại tuyến và nội dung đa định dạng. Điều này chứng minh thiết kế và sản xuất nội dung giáo dục; việc giảng dạy chính thức và kết quả học tập cần bằng chứng riêng.
+- **E7 — giáo dục:** 22 chương trình, 22.915 bài học, lộ trình theo vai trò, phòng thực hành, sổ tay, cổng thông tin ngoại tuyến và nội dung đa định dạng. Điều này chứng minh thiết kế và sản xuất nội dung giáo dục; việc giảng dạy chính thức và kết quả học tập cần bằng chứng riêng.
 - **E8 — tài chính và kiểm soát:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, chỉ số và truy vết. Đó là bằng chứng về kiến thức được áp dụng trong sản phẩm, không phải trách nhiệm tài chính doanh nghiệp.
 
 ## 1. Lãnh đạo công nghệ
@@ -74,6 +74,7 @@ Ma trận này mở rộng phạm vi nghề nghiệp mà không biến học v�
 | **Chuyên viên phân tích kế hoạch doanh nghiệp** | Chuyển chiến lược thành mục tiêu, sáng kiến, KPI, kịch bản và đánh giá hiệu suất. | Không | 2–5 năm; chuyên viên phân tích/senior | **PP · trung bình** | E3, E4, E8 | Kế hoạch doanh nghiệp và KPI thực tế; mô hình hóa tài chính và công cụ BI. |
 | **Quản lý đổi mới** | Quản lý luồng ý tưởng, thử nghiệm, liên minh, danh mục và mở rộng quy mô. | Không | 4–8 năm; lead/quản lý | **CT/PP · trung bình-cao về kỹ thuật** | E2, E3, E6 | Đổi mới cùng bên thứ ba, ngân sách, mức độ chấp nhận và lợi ích; khám phá và quản lý danh mục. |
 | **Chuyên gia tư vấn chuyển đổi doanh nghiệp** | Thiết kế lại quy trình, năng lực, dữ liệu, công nghệ và mô hình vận hành. | Không | 4–8 năm; senior/lead | **CT/PP · cao trong chuyển đổi công nghệ** | E1–E4, E6 | Bằng chứng về thay đổi xuyên suốt tại tổ chức khách hàng và lợi ích đã đo lường. |
+| **Cố vấn kỹ thuật về công nghệ, dữ liệu và AI / Technical Advisor** | Định hướng các quyết định về công nghệ, kiến trúc, dữ liệu và AI cho lãnh đạo, đội ngũ hoặc tổ chức, với nhận định độc lập. | Thỉnh thoảng | 3–6 năm; senior | **CT/PP · cao** | E1, E6, E7 | Các ca tư vấn có kết quả đo lường được và tham chiếu kiểm chứng được; kinh nghiệm được thuê làm cố vấn chưa được chứng minh. |
 
 ## 5. Phân tích nghiệp vụ
 

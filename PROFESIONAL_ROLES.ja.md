@@ -26,12 +26,12 @@
 ## 再利用できるエビデンス
 
 - **E1 — 技術的な実績:** ソリューションアーキテクト、レガシー刷新、シニアフルスタック / Tech Lead、AI 自動化。プロフィールでは16年以上と申告。
-- **E2 — デリバリーと運用:** 自作の公開リポジトリ67件、リリース166件、CI/CD、可観測性、ランブック、サプライチェーンセキュリティ、インストール可能な成果物。
+- **E2 — デリバリーと運用:** 自作の公開リポジトリ68件、リリース166件、CI/CD、可観測性、ランブック、サプライチェーンセキュリティ、インストール可能な成果物。
 - **E3 — ビジネスと運営:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile)、[Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system)、[起業](https://github.com/vladimiracunadev-create/modern-business-creation-program)、[マーケティングと営業](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program)、[エグゼクティブ・リーダーシップ](https://github.com/vladimiracunadev-create/executive-leadership-founder-program)。検証可能なプロダクトとコンテンツであり、マネジメント経験の代わりにはなりません。
 - **E4 — プロジェクト・プロセス・品質:** ロードマップ、issue、仕様書、テスト、ゲート、指標、そしてエコシステム全体に散らばる読者別のドキュメント。
 - **E5 — セキュリティと継続性:** RootCause ファミリー、統制、SBOM、リスク分析、レジリエンス、インシデント、再現可能なエビデンス。
 - **E6 — データと AI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry)、[LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld)、[Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents)、トレーサビリティと人間による承認ゲート。
-- **E7 — 教育:** 22プログラム、22,337クラス、役割別の学習パス、ラボ、マニュアル、オフラインポータル、マルチフォーマットのコンテンツ。教育設計と制作の裏付けにはなりますが、正式な授業や学習成果には別のエビデンスが必要です。
+- **E7 — 教育:** 22プログラム、22,915クラス、役割別の学習パス、ラボ、マニュアル、オフラインポータル、マルチフォーマットのコンテンツ。教育設計と制作の裏付けにはなりますが、正式な授業や学習成果には別のエビデンスが必要です。
 - **E8 — 財務と統制:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program)、FinOps、指標、トレーサビリティ。成果物に表れた応用知識のエビデンスであり、企業の財務責任ではありません。
 
 ## 1. テクノロジーリーダーシップ
@@ -74,6 +74,7 @@
 | **コーポレートプランニング・アナリスト** | 戦略を、目標・施策・KPI・シナリオ・業績レビューへと落とし込む。 | なし | 2〜5年、アナリスト/シニア | **PP · 中** | E3, E4, E8 | 実際の企業計画と KPI。財務モデリングと BI ツール。 |
 | **イノベーションマネージャー** | アイデアのパイプライン、実験、アライアンス、ポートフォリオ、スケールを管理する。 | なし | 4〜8年、リード/マネージャー | **CT/PP · 技術面で中〜高** | E2, E3, E6 | 第三者を巻き込んだイノベーション、予算、定着、効果。ディスカバリーとポートフォリオ管理。 |
 | **ビジネストランスフォーメーション・コンサルタント** | プロセス、ケイパビリティ、データ、テクノロジー、オペレーティングモデルを再設計する。 | なし | 4〜8年、シニア/リード | **CT/PP · テクノロジー変革で高** | E1–E4, E6 | 顧客組織での横断的な変革と、測定された効果のエビデンス。 |
+| **技術アドバイザー（技術・データ・AI） / Technical Advisor** | 経営層・チーム・組織に対し、技術・アーキテクチャ・データ・AI に関する意思決定を独立した立場で導く。 | 時々 | 3〜6年、シニア | **CT/PP · 高** | E1, E6, E7 | 測定可能な成果と検証可能な参照先を伴う助言事例。顧問として契約した経験は実証されていません。 |
 
 ## 5. ビジネス分析
 

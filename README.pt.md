@@ -80,9 +80,9 @@ Não é “um repo”: é um ecossistema com padrões comuns.
 | 🧪 **Cobertura de testes** | GabySQL **850 testes** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **230 testes** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes em produção** | LangGraph RealWorld **25/25 backends operacionais** (casos 01–25, cobertura 100 %) · Operational AI Agents **23 agentes** com **69 evals determinísticos** |
 | 🔗 **Integração políglota** | **20 casos** emissor→n8n→receptor —**19 operacionais**, auditados um a um com Docker— · **18+ motores de BD** · **20+ contêineres** · 11 padrões |
-| 📦 **Distribuição** | **166 releases** publicadas em um ecossistema de **67 repositórios públicos próprios** · instaladores e artefatos `.exe` · `.msi` · `.dmg` · `.apk` com checksums e evidência de build; assinaturas comerciais/de loja em andamento quando aplicável |
+| 📦 **Distribuição** | **166 releases** publicadas em um ecossistema de **68 repositórios públicos próprios** · instaladores e artefatos `.exe` · `.msi` · `.dmg` · `.apk` com checksums e evidência de build; assinaturas comerciais/de loja em andamento quando aplicável |
 | 🛡️ **Cadeia de suprimentos** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
-| 📚 **Currículos** | **22.337 aulas** verificáveis em 22 programas, contadas por [um workflow](.github/workflows/stats.yml) sobre estrutura real ou fonte verificável declarada no repositório —não escritas à mão— · cada programa declara seu estado editorial e seus limites |
+| 📚 **Currículos** | **22.915 aulas** verificáveis em 22 programas, contadas por [um workflow](.github/workflows/stats.yml) sobre estrutura real ou fonte verificável declarada no repositório —não escritas à mão— · cada programa declara seu estado editorial e seus limites |
 | 🌐 **Portfólio** | PWA instalável · **22 idiomas** · **154 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetria** | Zero nos produtos forenses e em Empresa Operativa Chile — verificada em cada build (sem permissão `INTERNET` no Android) |
 | 🌐 **Sites publicados** | **57 sites** no GitHub Pages —56 landings, uma por produto, programa ou navegador do ecossistema, mais o portfólio— todos implantados a partir do próprio repositório · os 57 verificados com resposta `200` |
@@ -91,7 +91,7 @@ Não é “um repo”: é um ecossistema com padrões comuns.
 
 Tecnologias detectadas nos repositórios públicos (manifestos, dependências, contêineres e código), agrupadas por área. Aparecer em um repositório —incluindo laboratórios e currículos— é evidência de uso, não uma afirmação de anos de experiência em produção.
 
-![🛠️ Stack tecnológico](docs/img/stack.pt.1e0fc3b5.svg)
+![🛠️ Stack tecnológico](docs/img/stack.pt.d9e966a6.svg)
 
 **Arquiteturas de software**
 
@@ -123,7 +123,7 @@ Tecnologias detectadas nos repositórios públicos (manifestos, dependências, c
 
 ## 🗺️ Ecossistema Em Uma Visão
 
-![🧠 Critério técnico — arquitetura · modernização · operação](docs/img/ecosystem.pt.0d9e271a.svg)
+![🧠 Critério técnico — arquitetura · modernização · operação](docs/img/ecosystem.pt.2346dec9.svg)
 
 ## 🗂️ Ecossistema: produtos, laboratórios, IA aplicada, currículos e computação científica
 
@@ -131,7 +131,7 @@ O trabalho prático do perfil vive em um documento próprio: software que se bai
 
 - 📦 [**Produtos Com Distribuição Real**](docs/ECOSYSTEM.pt.md#products) (24)
 - 🧪 [**Laboratórios De Engenharia**](docs/ECOSYSTEM.pt.md#labs) (11)
-- 🤖 [**IA Aplicada**](docs/ECOSYSTEM.pt.md#ai) (6)
+- 🤖 [**IA Aplicada**](docs/ECOSYSTEM.pt.md#ai) (7)
 - 📚 [**Currículos Técnicos Completos**](docs/ECOSYSTEM.pt.md#curricula) (22)
 - 🔬 [**Computação Científica**](docs/ECOSYSTEM.pt.md#science) (1)
 - 🍴 [**Forks de projetos de terceiros**](docs/ECOSYSTEM.pt.md#forks) (60)
@@ -175,7 +175,7 @@ Minha formação dupla —**Engenharia em Informática e Computação + Administ
 
 ### ↗ Expansão Natural
 
-**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultor de Transformação Digital** · **Business / Functional Analyst** · **Product Operations Técnico** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docente / Relator / Instrutor de tecnologia** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**AI Orchestration Engineer** · **Systems / Rust Engineer** · **Mobile Engineer (Flutter)** · **Solutions Engineer** · **Technical Product Builder** · **Technical Trainer** · **Consultor de Transformação Digital** · **Assessor Técnico (tecnologia, dados e IA)** · **Business / Functional Analyst** · **Product Operations Técnico** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **Docente / Relator / Instrutor de tecnologia** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️ Escopo Complementar
 

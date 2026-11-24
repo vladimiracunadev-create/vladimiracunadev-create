@@ -4,7 +4,7 @@
 
 ## In één regel
 
-22 opeenvolgende programma's in het Spaans, met 22.337 lessen geteld door een workflow; elk vermeldt zijn redactionele status en zijn grenzen.
+22 opeenvolgende programma's in het Spaans, met 22.915 lessen geteld door een workflow; elk vermeldt zijn redactionele status en zijn grenzen.
 
 ## Kies op basis van je doel
 

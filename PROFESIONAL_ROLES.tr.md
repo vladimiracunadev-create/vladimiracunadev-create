@@ -26,12 +26,12 @@ Bu matris, eğitimi, kişisel projeleri veya belgelenmiş bilgiyi kanıtlanmamı
 ## Yeniden kullanılabilir kanıtlar
 
 - **E1 — teknik geçmiş:** Çözüm Mimarı, eski sistemlerin modernizasyonu, kıdemli Full-Stack / Tech Lead ve yapay zekâ otomasyonu; profilde 16+ yıl beyan edilmiştir.
-- **E2 — teslimat ve operasyon:** 67 kendi herkese açık deposu, 166 sürüm, CI/CD, gözlemlenebilirlik, çalışma kılavuzları, tedarik zinciri güvenliği ve kurulabilir çıktılar.
+- **E2 — teslimat ve operasyon:** 68 kendi herkese açık deposu, 166 sürüm, CI/CD, gözlemlenebilirlik, çalışma kılavuzları, tedarik zinciri güvenliği ve kurulabilir çıktılar.
 - **E3 — iş ve operasyon:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [girişimcilik](https://github.com/vladimiracunadev-create/modern-business-creation-program), [pazarlama ve satış](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) ve [yönetici liderliği](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Doğrulanabilir ürün ve içeriklerdir; yönetim deneyiminin yerini tutmaz.
 - **E4 — projeler, süreçler ve kalite:** yol haritaları, issue'lar, şartnameler, testler, geçitler, metrikler ve ekosisteme yayılmış kitleye özel dokümantasyon.
 - **E5 — güvenlik ve süreklilik:** RootCause ailesi, kontroller, SBOM, risk analizi, dayanıklılık, olaylar ve yeniden üretilebilir kanıt.
 - **E6 — veri ve yapay zekâ:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) ve izlenebilirlik/insan onay geçitleri.
-- **E7 — eğitim:** 22 program, 22.337 ders, role göre öğrenme yolları, laboratuvarlar, kılavuzlar, çevrimdışı portallar ve çok biçimli içerik. Bu, eğitim tasarımını ve üretimini kanıtlar; resmî öğretmenlik ve öğrenme sonuçları ayrı kanıt gerektirir.
+- **E7 — eğitim:** 22 program, 22.915 ders, role göre öğrenme yolları, laboratuvarlar, kılavuzlar, çevrimdışı portallar ve çok biçimli içerik. Bu, eğitim tasarımını ve üretimini kanıtlar; resmî öğretmenlik ve öğrenme sonuçları ayrı kanıt gerektirir.
 - **E8 — finans ve kontrol:** [Finance and Banking](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, metrikler ve izlenebilirlik. Bunlar çıktılarda uygulanmış bilginin kanıtıdır, kurumsal finansal sorumluluk değildir.
 
 ## 1. Teknoloji liderliği
@@ -74,6 +74,7 @@ Bu matris, eğitimi, kişisel projeleri veya belgelenmiş bilgiyi kanıtlanmamı
 | **Kurumsal Planlama Analisti** | Stratejiyi hedeflere, girişimlere, KPI'lara, senaryolara ve performans incelemelerine dönüştürür. | Yok | 2–5 yıl; analist/kıdemli | **PP · orta** | E3, E4, E8 | Gerçek kurumsal plan ve KPI'lar; finansal modelleme ve BI araçları. |
 | **İnovasyon Yöneticisi** | Fikir hattını, deneyleri, ittifakları, portföyü ve ölçeklemeyi yönetir. | Yok | 4–8 yıl; lider/yönetici | **CT/PP · teknik olarak orta-yüksek** | E2, E3, E6 | Üçüncü taraflarla inovasyon, bütçe, benimseme ve faydalar; keşif ve portföy yönetimi. |
 | **İş Dönüşümü Danışmanı** | Süreçleri, yetkinlikleri, veriyi, teknolojiyi ve işletim modelini yeniden tasarlar. | Yok | 4–8 yıl; kıdemli/lider | **CT/PP · teknoloji dönüşümünde yüksek** | E1–E4, E6 | Müşteri kuruluşunda kesişen değişimin ve ölçülmüş faydaların kanıtı. |
+| **Teknoloji, veri ve yapay zekâ teknik danışmanı / Technical Advisor** | Yöneticiler, ekipler veya kurumlar için teknoloji, mimari, veri ve yapay zekâ kararlarına bağımsız bir bakışla yön vermek. | Ara sıra | 3–6 yıl; kıdemli | **CT/PP · yüksek** | E1, E6, E7 | Ölçülebilir sonuçlar ve doğrulanabilir referanslarla danışmanlık vakaları; atanmış danışman olarak deneyim belgelenmemiştir. |
 
 ## 5. İş analizi
 

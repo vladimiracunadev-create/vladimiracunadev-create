@@ -26,12 +26,12 @@ Diese Matrix erweitert das berufliche Feld, ohne Ausbildung, persönliche Projek
 ## Wiederverwendbare Belege
 
 - **E1 — technischer Werdegang:** Lösungsarchitekt, Modernisierung von Altsystemen, Senior Full-Stack / Tech Lead und KI-Automatisierung; über 16 Jahre im Profil angegeben.
-- **E2 — Lieferung und Betrieb:** 67 eigene öffentliche Repositories, 166 Releases, CI/CD, Observability, Runbooks, Sicherheit der Lieferkette und installierbare Artefakte.
+- **E2 — Lieferung und Betrieb:** 68 eigene öffentliche Repositories, 166 Releases, CI/CD, Observability, Runbooks, Sicherheit der Lieferkette und installierbare Artefakte.
 - **E3 — Business und Betrieb:** [Empresa Operativa Chile](https://github.com/vladimiracunadev-create/empresa-operativa-chile), [Commerce OS](https://github.com/vladimiracunadev-create/commerce-operating-system), [Unternehmensgründung](https://github.com/vladimiracunadev-create/modern-business-creation-program), [Marketing und Vertrieb](https://github.com/vladimiracunadev-create/marketing-sales-growth-evolution-program) und [Executive Leadership](https://github.com/vladimiracunadev-create/executive-leadership-founder-program). Es sind überprüfbare Produkte und Inhalte, die keine Führungserfahrung ersetzen.
 - **E4 — Projekte, Prozesse und Qualität:** Roadmaps, Issues, Spezifikationen, Tests, Gates, Metriken und zielgruppengerechte Dokumentation im gesamten Ökosystem.
 - **E5 — Sicherheit und Kontinuität:** RootCause-Familie, Kontrollen, SBOM, Risikoanalysen, Resilienz, Vorfälle und reproduzierbare Belege.
 - **E6 — Daten und KI:** [AI Dataset Foundry](https://github.com/vladimiracunadev-create/ai-dataset-foundry), [LangGraph RealWorld](https://github.com/vladimiracunadev-create/langgraph-realworld), [Operational AI Agents](https://github.com/vladimiracunadev-create/operational-ai-agents) und Nachvollziehbarkeit/menschliche Gates.
-- **E7 — Bildung:** 22 Programme, 22.337 Lektionen, rollenbasierte Pfade, Labore, Handbücher, Offline-Portale und multiformatige Inhalte. Das belegt Konzeption und Produktion von Bildungsangeboten; formale Lehrtätigkeit und Lernergebnisse erfordern gesonderte Belege.
+- **E7 — Bildung:** 22 Programme, 22.915 Lektionen, rollenbasierte Pfade, Labore, Handbücher, Offline-Portale und multiformatige Inhalte. Das belegt Konzeption und Produktion von Bildungsangeboten; formale Lehrtätigkeit und Lernergebnisse erfordern gesonderte Belege.
 - **E8 — Finanzen und Controlling:** [Finanzen und Bankwesen](https://github.com/vladimiracunadev-create/finance-and-banking-evolution-program), FinOps, Metriken und Nachvollziehbarkeit. Sie belegen angewandtes Wissen in Artefakten, keine finanzielle Verantwortung im Unternehmen.
 
 ## 1. Technologische Leitung
@@ -74,6 +74,7 @@ Diese Matrix erweitert das berufliche Feld, ohne Ausbildung, persönliche Projek
 | **Analyst Unternehmensplanung / Corporate Planning Analyst** | Strategie in Ziele, Initiativen, KPIs, Szenarien und Leistungsreviews übersetzen. | Keine | 2–5 Jahre; Analyst/Senior | **PP · mittel** | E3, E4, E8 | Reale Unternehmensplanung und KPIs; Finanzmodellierung und BI-Werkzeuge. |
 | **Innovationsmanager / Innovation Manager** | Ideen-Pipeline, Experimente, Allianzen, Portfolio und Skalierung steuern. | Keine | 4–8 Jahre; Lead/Manager | **CT/PP · mittel-hoch technisch** | E2, E3, E6 | Innovation mit Dritten, Budget, Adoption und Nutzen; Discovery und Portfoliomanagement. |
 | **Berater Unternehmenstransformation / Business Transformation Consultant** | Prozesse, Fähigkeiten, Daten, Technologie und Betriebsmodell neu gestalten. | Keine | 4–8 Jahre; Senior/Lead | **CT/PP · hoch in technologischer Transformation** | E1–E4, E6 | Belege für bereichsübergreifenden Wandel in einer Kundenorganisation und gemessenen Nutzen. |
+| **Technischer Berater für Technologie, Daten und KI / Technical Advisor** | Entscheidungen zu Technologie, Architektur, Daten und KI für Führungskräfte, Teams oder Institutionen mit unabhängigem Urteil begleiten. | Gelegentlich | 3–6 Jahre; Senior | **CT/PP · hoch** | E1, E6, E7 | Beratungsfälle mit messbaren Ergebnissen und überprüfbaren Referenzen; Erfahrung als beauftragter Berater ist nicht nachgewiesen. |
 
 ## 5. Geschäftsanalyse
 

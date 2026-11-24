@@ -81,9 +81,9 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 | 🧪 **टेस्ट कवरेज** | GabySQL**850 टेस्ट**+ फ्यूज़िंग ओवर**503.8M क्वेरीज़**(0 panics)·Empresa ओपेरा चिल**230 परीक्षण** ·ऑटोमा**150 pytest** ·बहु-OS CI |
 | 🤖 **उत्पादन ग्रेड एजेंट** | लैंग्वेज रियलवर्ल्ड**25/25 परिचालन परिवर्धन**(मामसूम 01-25, 100% कवरेज)·ऑपरेशनल एआई एजेंट**23 एजेंट**साथ**69 नियतिवादी evals** |
 | 🔗 **Polyglot एकीकरण** | **20 मामले**प्रेषक → n8n → receiver —**19 परिचालन**व्यक्तिगत रूप से डॉकर के साथ लेखा परीक्षा· **18+ DB इंजन** · **20+ कंटेनर** ·11 पैटर्न |
-| 📦 **वितरण** | **166 रिलीज़**एक पारिस्थितिकी तंत्र के पार**67 स्वामित्व वाली सार्वजनिक भंडार** ·संस्थापक और कलाकृतियों`.exe` · `.msi` · `.dmg` · `.apk`चेकसम और साक्ष्य का निर्माण; प्रगति पर वाणिज्यिक / स्टोर हस्ताक्षर जहां लागू हो |
+| 📦 **वितरण** | **166 रिलीज़**एक पारिस्थितिकी तंत्र के पार**68 स्वामित्व वाली सार्वजनिक भंडार** ·संस्थापक और कलाकृतियों`.exe` · `.msi` · `.dmg` · `.apk`चेकसम और साक्ष्य का निर्माण; प्रगति पर वाणिज्यिक / स्टोर हस्ताक्षर जहां लागू हो |
 | 🛡️ **आपूर्ति श्रृंखला** | कोड·Semgrep·बंदी·त्रिवी·Grype·गिटलाक·TruffleHog·चक्रवातDX SBOM·स्कोरकार्ड |
-| 📚 **Curricula** | **22,337 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
+| 📚 **Curricula** | **22,915 classes** verifiable across 22 programs, counted by [a workflow](.github/workflows/stats.yml) from real repository structure or a verifiable source declared in the repository —not written by hand— · every program declares its editorial status and limitations |
 | 🌐 **पोर्टफोलियो** | इंस्टॉल करने योग्य PWA· **22 भाषाएँ** · **154 PDF**पाइपलाइन द्वारा उत्पन्न·CV डेटा API·संधारित्र एंड्रॉयड·लाइटहाउस 100 |
 | 🔒 **टेलीमेट्री** | फोरेंसिक उत्पादों और Empresa ओपेरा चिले में शून्य टेलीमेट्री - हर निर्माण में सत्यापित (कोई Android नहीं)`INTERNET`अनुमति |
 | 🌐 **प्रकाशित स्थल** | **57 GitHub पेज साइटें**-56 लैंडिंग, एक प्रति उत्पाद, कार्यक्रम, या पारिस्थितिकी तंत्र नेविगेटर, साथ ही पोर्टफोलियो- प्रत्येक अपने स्वयं के भंडार से तैनात·सभी 57 HTTP के साथ सत्यापित`200` |
@@ -92,7 +92,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 सार्वजनिक रिपॉज़िटरी में पाई गई तकनीकें (मैनिफ़ेस्ट, निर्भरताएँ, कंटेनर और कोड), क्षेत्र के अनुसार समूहित। किसी रिपॉज़िटरी में दिखना —प्रयोगशालाओं और पाठ्यक्रमों सहित— उपयोग का प्रमाण है, वर्षों के प्रोडक्शन अनुभव का दावा नहीं।
 
-![🛠️ टेक्नोलॉजी स्टैक](docs/img/stack.hi.08ad947a.svg)
+![🛠️ टेक्नोलॉजी स्टैक](docs/img/stack.hi.a6b05390.svg)
 
 **सॉफ़्टवेयर आर्किटेक्चर**
 
@@ -124,7 +124,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ## 🗺️पारिस्थितिकी तंत्र एक झलक में
 
-![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.hi.38e00a52.svg)
+![🧠 Technical judgment — architecture · modernization · operations](docs/img/ecosystem.hi.664038b0.svg)
 
 ## 🗂️ पारिस्थितिकी तंत्र: उत्पाद, प्रयोगशालाएँ, अनुप्रयुक्त AI, पाठ्यक्रम और वैज्ञानिक कम्प्यूटिंग
 
@@ -132,7 +132,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 - 📦 [**उत्पाद रियल डिस्ट्रीब्यूशन के साथ**](docs/ECOSYSTEM.hi.md#products) (24)
 - 🧪 [**इंजीनियरिंग प्रयोगशाला**](docs/ECOSYSTEM.hi.md#labs) (11)
-- 🤖 [**नुप्रयुक्त AI**](docs/ECOSYSTEM.hi.md#ai) (6)
+- 🤖 [**नुप्रयुक्त AI**](docs/ECOSYSTEM.hi.md#ai) (7)
 - 📚 [**तकनीकी पाठ्यक्रम**](docs/ECOSYSTEM.hi.md#curricula) (22)
 - 🔬 [**वैज्ञानिक कम्प्यूटिंग**](docs/ECOSYSTEM.hi.md#science) (1)
 - 🍴 [**तृतीय-पक्ष प्रोजेक्ट्स के fork**](docs/ECOSYSTEM.hi.md#forks) (60)
@@ -176,7 +176,7 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 ### ↗ स्वाभाविक विस्तार
 
-**एआई ऑर्केस्ट्रेशन इंजीनियर** · **सिस्टम / जंग इंजीनियर** · **मोबाइल इंजीनियर (फ्लटर)** · **समाधान इंजीनियर** · **तकनीकी उत्पाद बिल्डर** · **तकनीकी ट्रेनर** · **डिजिटल ट्रांसफॉर्मेशन सलाहकार** · **व्यापार / कार्यात्मक विश्लेषक** · **तकनीकी उत्पाद संचालन** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **शिक्षक / प्रशिक्षक / प्रौद्योगिकी इंस्ट्रक्टर** · **Instructional Designer (EdTech)** · **Technical Mentor**
+**एआई ऑर्केस्ट्रेशन इंजीनियर** · **सिस्टम / जंग इंजीनियर** · **मोबाइल इंजीनियर (फ्लटर)** · **समाधान इंजीनियर** · **तकनीकी उत्पाद बिल्डर** · **तकनीकी ट्रेनर** · **डिजिटल ट्रांसफॉर्मेशन सलाहकार** · **तकनीकी सलाहकार (प्रौद्योगिकी, डेटा और AI)** · **व्यापार / कार्यात्मक विश्लेषक** · **तकनीकी उत्पाद संचालन** · **AI Engineer (LLM / ML)** · **Data Engineer** · **DevSecOps / AppSec Engineer** · **QA Automation / Test Engineer** · **Technical Writer** · **शिक्षक / प्रशिक्षक / प्रौद्योगिकी इंस्ट्रक्टर** · **Instructional Designer (EdTech)** · **Technical Mentor**
 
 ### ⚙️पूरक क्षेत्र
 

@@ -20,7 +20,7 @@ Pilih kasus Anda dan langsung menuju yang Anda butuhkan. Setiap panduan dibaca d
 
 - **Siapa:** Insinyur Informatika dan Komputasi serta Administrator Bisnis, 16+ tahun membangun dan mengoperasikan perangkat lunak.
 - **Yang saya kerjakan:** arsitektur solusi, modernisasi sistem lawas, otomatisasi dan AI terapan, beserta pengiriman dan operasinya.
-- **Bukti:** 67 repositori publik milik sendiri, 166 rilis, tes dan CI pada produk, dan setiap repositori juga menyatakan apa yang **tidak** dilakukannya.
+- **Bukti:** 68 repositori publik milik sendiri, 166 rilis, tes dan CI pada produk, dan setiap repositori juga menyatakan apa yang **tidak** dilakukannya.
 - **Mode:** jarak jauh atau hibrida, sesuai proyek.
 - **Kontak:** [vladimir.acuna.dev@gmail.com](mailto:vladimir.acuna.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-acu%C3%B1a-valdebenito-11924a29/) · [Portofolio](https://vladimiracunadev-create.github.io/)
 

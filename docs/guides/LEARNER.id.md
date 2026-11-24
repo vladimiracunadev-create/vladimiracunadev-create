@@ -4,7 +4,7 @@
 
 ## Dalam satu baris
 
-22 program berurutan dalam bahasa Spanyol, dengan 22.337 kelas yang dihitung oleh workflow, masing-masing menyatakan status editorial dan batasannya.
+22 program berurutan dalam bahasa Spanyol, dengan 22.915 kelas yang dihitung oleh workflow, masing-masing menyatakan status editorial dan batasannya.
 
 ## Pilih sesuai tujuan
 

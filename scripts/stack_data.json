@@ -113,6 +113,7 @@
    "SQL Server",
    "Oracle",
    "pgvector",
+   "Qdrant",
    "PostgREST",
    "GraphQL",
    "Hasura",
