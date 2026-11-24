@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 公開リポジトリで検出された技術（マニフェスト、依存関係、コンテナ、コード）を領域別に整理しています。リポジトリに登場することは（ラボやカリキュラムを含め）使用の証拠であり、長年の本番経験を主張するものではありません。
 
+![🛠️ 技術スタック](docs/img/stack.ja.54ab01d7.svg)
+
 **言語**
 
 ![言語](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

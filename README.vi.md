@@ -92,6 +92,8 @@ Chọn trường hợp của bạn và đi thẳng đến nội dung cần:
 
 Các công nghệ được phát hiện trong kho mã công khai (tệp manifest, phụ thuộc, container và mã nguồn), nhóm theo lĩnh vực. Xuất hiện trong một kho mã — kể cả phòng thí nghiệm và giáo trình — là bằng chứng về việc sử dụng, không phải tuyên bố về nhiều năm kinh nghiệm vận hành thực tế.
 
+![🛠️ Ngăn xếp công nghệ](docs/img/stack.vi.893706cb.svg)
+
 **Ngôn ngữ**
 
 ![Ngôn ngữ](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

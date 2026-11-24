@@ -92,6 +92,8 @@ Nie jest to "jeden repo": jest to ekosystem o wspólnych standardach.
 
 Technologie wykryte w publicznych repozytoriach (manifesty, zależności, kontenery i kod), pogrupowane według obszarów. Obecność w repozytorium —także w laboratoriach i programach nauczania— jest dowodem użycia, a nie deklaracją lat doświadczenia produkcyjnego.
 
+![🛠️ Stos technologiczny](docs/img/stack.pl.eeca4886.svg)
+
 **Języki**
 
 ![Języki](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

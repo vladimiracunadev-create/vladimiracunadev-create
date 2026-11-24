@@ -92,6 +92,8 @@ Ini bukan "satu repo": ini adalah ekosistem dengan standar bersama.
 
 Teknologi yang terdeteksi di repositori publik (manifes, dependensi, kontainer, dan kode), dikelompokkan per area. Muncul di sebuah repositori —termasuk laboratorium dan kurikulum— adalah bukti penggunaan, bukan klaim pengalaman produksi bertahun-tahun.
 
+![🛠️ Tumpukan teknologi](docs/img/stack.id.1b5a2a2c.svg)
+
 **Bahasa**
 
 ![Bahasa](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

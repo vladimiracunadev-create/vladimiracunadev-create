@@ -91,6 +91,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 在公开仓库中检测到的技术（清单文件、依赖、容器与代码），按领域分组。出现在某个仓库中——包括实验室和课程——是使用的证据，而不是多年生产经验的声明。
 
+![🛠️ 技术栈](docs/img/stack.zh.736f4197.svg)
+
 **编程语言**
 
 ![编程语言](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

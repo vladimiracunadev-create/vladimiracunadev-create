@@ -92,6 +92,8 @@ This is not “one repo”: it is an ecosystem with shared standards.
 
 Technologies detected in the public repositories (manifests, dependencies, containers and code), grouped by area. Appearing in a repository —labs and curricula included— is evidence of use, not a claim of years of production experience.
 
+![🛠️ Technology stack](docs/img/stack.en.0eb8d4f5.svg)
+
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

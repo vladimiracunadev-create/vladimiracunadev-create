@@ -91,6 +91,8 @@ Ce n’est pas « un repo » : c’est un écosystème avec des standards commun
 
 Technologies détectées dans les dépôts publics (manifestes, dépendances, conteneurs et code), regroupées par domaine. Apparaître dans un dépôt —laboratoires et cursus compris— est une preuve d'usage, pas une affirmation d'années d'expérience en production.
 
+![🛠️ Stack technologique](docs/img/stack.fr.527a069d.svg)
+
 **Langages**
 
 ![Langages](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

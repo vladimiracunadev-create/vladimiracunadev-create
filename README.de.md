@@ -92,6 +92,8 @@ Dies ist kein „One Repo: Es ist ein Ökosystem mit gemeinsamen Standards.
 
 In den öffentlichen Repositories erkannte Technologien (Manifeste, Abhängigkeiten, Container und Code), nach Bereichen gruppiert. Das Auftauchen in einem Repository – auch in Laboren und Lehrplänen – ist ein Nutzungsnachweis, keine Behauptung jahrelanger Produktionserfahrung.
 
+![🛠️ Technologie-Stack](docs/img/stack.de.ee155024.svg)
+
 **Sprachen**
 
 ![Sprachen](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

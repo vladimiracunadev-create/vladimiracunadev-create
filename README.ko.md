@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 공개 저장소에서 감지된 기술(매니페스트, 의존성, 컨테이너, 코드)을 영역별로 묶었습니다. 저장소에 나타난다는 것은 (연구소와 교육과정 포함) 사용의 증거일 뿐, 수년간의 운영 경험을 주장하는 것이 아닙니다.
 
+![🛠️ 기술 스택](docs/img/stack.ko.ac6402cd.svg)
+
 **언어**
 
 ![언어](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

@@ -92,6 +92,8 @@ Dit is geen repo: het is een ecosysteem met gedeelde standaarden.
 
 Technologieën die in de openbare repositories zijn aangetroffen (manifesten, afhankelijkheden, containers en code), gegroepeerd per gebied. Voorkomen in een repository —inclusief labs en curricula— is bewijs van gebruik, geen claim van jarenlange productie-ervaring.
 
+![🛠️ Technologiestack](docs/img/stack.nl.ce17ec96.svg)
+
 **Talen**
 
 ![Talen](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 تقنيات رُصدت في المستودعات العامة (ملفات التعريف والاعتماديات والحاويات والشيفرة) ومجمّعة حسب المجال. الظهور في مستودع —بما في ذلك المختبرات والمناهج— دليل على الاستخدام وليس ادعاءً بسنوات من الخبرة الإنتاجية.
 
+![🛠️ المكدس التقني](docs/img/stack.ar.d58b85c6.svg)
+
 **اللغات**
 
 ![اللغات](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

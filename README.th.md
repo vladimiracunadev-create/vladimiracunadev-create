@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 เทคโนโลยีที่ตรวจพบในคลังสาธารณะ (ไฟล์ manifest, ไลบรารีที่พึ่งพา, คอนเทนเนอร์ และโค้ด) จัดกลุ่มตามด้าน การปรากฏในคลังใด ๆ — รวมห้องปฏิบัติการและหลักสูตร — เป็นหลักฐานการใช้งาน ไม่ใช่การอ้างประสบการณ์ใช้งานจริงหลายปี
 
+![🛠️ เทคโนโลยีสแตก](docs/img/stack.th.59e4bbcb.svg)
+
 **ภาษา**
 
 ![ภาษา](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

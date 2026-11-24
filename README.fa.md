@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 فناوری‌هایی که در مخزن‌های عمومی شناسایی شده‌اند (مانیفست‌ها، وابستگی‌ها، کانتینرها و کد) و بر اساس حوزه گروه‌بندی شده‌اند. حضور در یک مخزن —از جمله آزمایشگاه‌ها و برنامه‌های آموزشی— شواهدی از استفاده است، نه ادعای سال‌ها تجربهٔ عملیاتی.
 
+![🛠️ پشتهٔ فناوری](docs/img/stack.fa.a8d123ec.svg)
+
 **زبان‌ها**
 
 ![زبان‌ها](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

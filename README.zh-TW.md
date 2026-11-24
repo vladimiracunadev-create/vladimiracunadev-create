@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 在公開儲存庫中偵測到的技術（清單檔、相依套件、容器與程式碼），依領域分組。出現在某個儲存庫中——包括實驗室與課程——是使用的證據，而非多年正式環境經驗的聲明。
 
+![🛠️ 技術堆疊](docs/img/stack.zh-TW.32879171.svg)
+
 **程式語言**
 
 ![程式語言](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 Технології, виявлені в публічних репозиторіях (маніфести, залежності, контейнери та код), згруповані за напрямами. Присутність у репозиторії — зокрема в лабораторіях і навчальних програмах — є свідченням використання, а не заявою про роки виробничого досвіду.
 
+![🛠️ Технологічний стек](docs/img/stack.uk.a0d88c9b.svg)
+
 **Мови**
 
 ![Мови](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

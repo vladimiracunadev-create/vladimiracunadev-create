@@ -92,6 +92,8 @@ Bu “bir repo” değil: paylaşılan standartlarla bir ekosistemdir.
 
 Herkese açık depolarda tespit edilen teknolojiler (manifestolar, bağımlılıklar, konteynerler ve kod), alanlara göre gruplanmıştır. Bir depoda yer almak —laboratuvarlar ve müfredatlar dahil— kullanım kanıtıdır, yıllarca üretim deneyimi iddiası değildir.
 
+![🛠️ Teknoloji yığını](docs/img/stack.tr.deae3c30.svg)
+
 **Diller**
 
 ![Diller](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

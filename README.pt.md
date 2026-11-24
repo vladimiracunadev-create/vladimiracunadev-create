@@ -91,6 +91,8 @@ Não é “um repo”: é um ecossistema com padrões comuns.
 
 Tecnologias detectadas nos repositórios públicos (manifestos, dependências, contêineres e código), agrupadas por área. Aparecer em um repositório —incluindo laboratórios e currículos— é evidência de uso, não uma afirmação de anos de experiência em produção.
 
+![🛠️ Stack tecnológico](docs/img/stack.pt.1e0fc3b5.svg)
+
 **Linguagens**
 
 ![Linguagens](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

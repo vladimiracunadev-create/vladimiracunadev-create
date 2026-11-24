@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 Τεχνολογίες που εντοπίστηκαν στα δημόσια αποθετήρια (manifests, εξαρτήσεις, containers και κώδικας), ομαδοποιημένες ανά τομέα. Η εμφάνιση σε ένα αποθετήριο —συμπεριλαμβανομένων εργαστηρίων και προγραμμάτων σπουδών— αποτελεί ένδειξη χρήσης, όχι δήλωση ετών εμπειρίας παραγωγής.
 
+![🛠️ Στοίβα τεχνολογιών](docs/img/stack.el.84b3f716.svg)
+
 **Γλώσσες**
 
 ![Γλώσσες](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)

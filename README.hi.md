@@ -92,6 +92,8 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 
 सार्वजनिक रिपॉज़िटरी में पाई गई तकनीकें (मैनिफ़ेस्ट, निर्भरताएँ, कंटेनर और कोड), क्षेत्र के अनुसार समूहित। किसी रिपॉज़िटरी में दिखना —प्रयोगशालाओं और पाठ्यक्रमों सहित— उपयोग का प्रमाण है, वर्षों के प्रोडक्शन अनुभव का दावा नहीं।
 
+![🛠️ टेक्नोलॉजी स्टैक](docs/img/stack.hi.08ad947a.svg)
+
 **भाषाएँ**
 
 ![भाषाएँ](https://skillicons.dev/icons?i=py,js,ts,rust,go,java,php,cs,dart,kotlin,swift,ruby,elixir,zig,clojure,c,solidity,bash,powershell,html,css,wasm&perline=11)
