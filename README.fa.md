@@ -16,12 +16,12 @@
 
 <!-- STATS:START -->
 [![Public repos](https://img.shields.io/badge/public%20repos-67-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Published releases](https://img.shields.io/badge/published%20releases-164-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Published releases](https://img.shields.io/badge/published%20releases-166-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Languages](https://img.shields.io/badge/main%20languages-10-0366d6?style=for-the-badge)](#سیستم-در-یک-نگاه)
-[![Classes](https://img.shields.io/badge/curriculum%20classes-21235-3fb950?style=for-the-badge)](docs/ECOSYSTEM.fa.md#curricula)
+[![Classes](https://img.shields.io/badge/curriculum%20classes-22337-3fb950?style=for-the-badge)](docs/ECOSYSTEM.fa.md#curricula)
 [![Forks received](https://img.shields.io/badge/forks%20received-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Third-party forks](https://img.shields.io/badge/third-party%20forks-58-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.fa.md#forks)
-[![Commits](https://img.shields.io/badge/commits-4892-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Third-party forks](https://img.shields.io/badge/third-party%20forks-60-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.fa.md#forks)
+[![Commits](https://img.shields.io/badge/commits-4999-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
@@ -297,6 +297,6 @@ PHP 8 · Python · Rust · Go · Node/TS · Java 21 · .NET 8 · Dart/Flutter ·
 [🛡️ Security](SECURITY.fa.md) ·
 [⚖️ Code of Conduct](CODE_OF_CONDUCT.fa.md)
 
-<sub>README با وضعیت قابل راستی‌آزمایی مخزن‌های عمومی همگام است —ارقام و تغییرات از طریق API خوانده می‌شوند— · آخرین بررسی: <!-- VERIFIED:START -->2026-11-23<!-- VERIFIED:END -->.</sub>
+<sub>README با وضعیت قابل راستی‌آزمایی مخزن‌های عمومی همگام است —ارقام و تغییرات از طریق API خوانده می‌شوند— · آخرین بررسی: <!-- VERIFIED:START -->2026-11-24<!-- VERIFIED:END -->.</sub>
 
 </div>
