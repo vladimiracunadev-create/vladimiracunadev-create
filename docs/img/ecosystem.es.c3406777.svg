@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 682" width="1000" height="682" role="img" aria-labelledby="t d" font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Noto Sans','Noto Sans CJK SC','Noto Sans Arabic','Noto Sans Thai','Noto Sans Devanagari',Arial,sans-serif">
 <title id="t">🧠 Criterio técnico — arquitectura · modernización · operación</title>
-<desc id="d">Productos con distribución real 24 · Laboratorios de ingeniería 11 · IA aplicada 7 · Currículos técnicos completos 22 · Computación científica 1 · Forks de proyectos de terceros 60</desc>
+<desc id="d">Productos con distribución real 24 · Laboratorios de ingeniería 12 · IA aplicada 7 · Currículos técnicos completos 22 · Computación científica 1 · Forks de proyectos de terceros 65</desc>
 <rect x="0.7" y="0.7" width="998.6" height="680.6" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <rect x="16" y="16" width="968" height="40" rx="8" fill="#1f2328"/>
 <text x="32" y="41" font-size="14" font-weight="bold" fill="#ffffff">🧠 Criterio técnico — arquitectura · modernización · operación</text>
@@ -14,12 +14,13 @@
 <text x="30" y="197" font-size="12" font-weight="normal" fill="#1f2328" textLength="284" lengthAdjust="spacingAndGlyphs">🎨 ChofyAI · 🦏 Rhino Suite · 🔌 API Orchestrator</text>
 <text x="30" y="214" font-size="12" font-weight="normal" fill="#1f2328" textLength="284" lengthAdjust="spacingAndGlyphs">🎻 Violin · 🎸 Guitarra · 🧣 Pañuelo · 🛰️ AstroTrack</text>
 <rect x="344" y="68" width="312" height="162" rx="8" fill="#fff1e5" stroke="#bc4c00" stroke-width="1.4"/>
-<text x="358" y="90" font-size="13" font-weight="bold" fill="#5c2200">🧪 Laboratorios de ingeniería · 11</text>
+<text x="358" y="90" font-size="13" font-weight="bold" fill="#5c2200">🧪 Laboratorios de ingeniería · 12</text>
 <text x="358" y="112" font-size="12" font-weight="normal" fill="#1f2328">🐳 Docker · 🐧 WSL · ⚡ Unikernel Labs</text>
 <text x="358" y="129" font-size="12" font-weight="normal" fill="#1f2328">🧰 QEMU/KVM · 🛡️ Sandbox Labs</text>
 <text x="358" y="146" font-size="12" font-weight="normal" fill="#1f2328">🧪 Problem-Driven · 📆 Social Bot</text>
 <text x="358" y="163" font-size="12" font-weight="normal" fill="#1f2328">🧰 Microsistemas · 💳 Payments</text>
 <text x="358" y="180" font-size="12" font-weight="normal" fill="#1f2328">🕹️ Decentraland · ☁️ Proyectos AWS</text>
+<text x="358" y="197" font-size="12" font-weight="normal" fill="#1f2328">📊 Applied Data Analysis</text>
 <rect x="672" y="68" width="312" height="162" rx="8" fill="#fbefff" stroke="#8250df" stroke-width="1.4"/>
 <text x="686" y="90" font-size="13" font-weight="bold" fill="#3b1d73">🤖 IA aplicada · 7</text>
 <text x="686" y="112" font-size="12" font-weight="normal" fill="#1f2328">🤖 LangGraph ×25 backends</text>
@@ -43,19 +44,19 @@
 <text x="686" y="264" font-size="13" font-weight="bold" fill="#5c1541">🔬 Computación científica · 1</text>
 <text x="686" y="286" font-size="12" font-weight="normal" fill="#1f2328">🧬 Human Genome Labs</text>
 <rect x="16" y="448" width="968" height="226" rx="8" fill="#f6f8fa" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5 4"/>
-<text x="30" y="470" font-size="13" font-weight="bold" fill="#24292f">🍴 Forks de proyectos de terceros · 60</text>
+<text x="30" y="470" font-size="13" font-weight="bold" fill="#24292f">🍴 Forks de proyectos de terceros · 65</text>
 <text x="970" y="470" text-anchor="end" font-size="11" font-weight="normal" fill="#57606a" font-style="italic">referencia y estudio · no son obra propia</text>
 <text x="30" y="494" font-size="12" font-weight="bold" fill="#24292f">🤖 19</text>
 <text x="100" y="494" font-size="11" font-weight="normal" fill="#1f2328">OpenHands · cline · opencode · qwen-code · goose · pi · hermes-agent · deepagents · crewAI · agent-framework · deepseek-harness · agent-orchestrator · orca</text>
 <text x="100" y="509" font-size="11" font-weight="normal" fill="#1f2328">kander · OpenBot · browser-use · agent-desktop · treg · nod</text>
-<text x="30" y="531" font-size="12" font-weight="bold" fill="#24292f">🧩 12</text>
+<text x="30" y="531" font-size="12" font-weight="bold" fill="#24292f">🧩 14</text>
 <text x="100" y="531" font-size="11" font-weight="normal" fill="#1f2328">claude-plugins-official · agentic-awesome-skills · claude-review-all · blender-skills · diagram-design · elephant-goldfish-model · Claude-Code-Game-Studios</text>
-<text x="100" y="546" font-size="11" font-weight="normal" fill="#1f2328">headcount · agentic-qe · OpenExecutive · n8n-mcp · n8n</text>
-<text x="30" y="568" font-size="12" font-weight="bold" fill="#24292f">🛡️ 11</text>
+<text x="100" y="546" font-size="11" font-weight="normal" fill="#1f2328">headcount · agentic-qe · OpenExecutive · n8n-mcp · n8n · fast-anything · dbeaver</text>
+<text x="30" y="568" font-size="12" font-weight="bold" fill="#24292f">🛡️ 13</text>
 <text x="100" y="568" font-size="11" font-weight="normal" fill="#1f2328">raptor · Cybersecurity-Projects · SkillSpector · Anthropic-Cybersecurity-Skills · security-audit-skill · siteone-crawler · rea · craft-anything · ARTEX · ghidra</text>
-<text x="100" y="583" font-size="11" font-weight="normal" fill="#1f2328">ScopeSentry</text>
-<text x="30" y="605" font-size="12" font-weight="bold" fill="#24292f">🧠 6</text>
-<text x="100" y="605" font-size="11" font-weight="normal" fill="#1f2328">marin · prime-rl · Olmo-core · DeepInfer · heretic · freellmapi</text>
+<text x="100" y="583" font-size="11" font-weight="normal" fill="#1f2328">ScopeSentry · open-code-review · jmeter</text>
+<text x="30" y="605" font-size="12" font-weight="bold" fill="#24292f">🧠 7</text>
+<text x="100" y="605" font-size="11" font-weight="normal" fill="#1f2328">marin · prime-rl · Olmo-core · DeepInfer · heretic · freellmapi · PixelRAG</text>
 <text x="30" y="627" font-size="12" font-weight="bold" fill="#24292f">🏢 6</text>
 <text x="100" y="627" font-size="11" font-weight="normal" fill="#1f2328">erpnext · odoo · mautic · crm · harness · traccar</text>
 <text x="30" y="649" font-size="12" font-weight="bold" fill="#24292f">🎓 6</text>
