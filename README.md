@@ -15,13 +15,13 @@
 [![Currículos](https://img.shields.io/badge/currículos-22%20programas-3fb950?style=for-the-badge)](docs/ECOSYSTEM.md#curricula)
 
 <!-- STATS:START -->
-[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-68-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-166-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Repos públicos](https://img.shields.io/badge/repos%20p%C3%BAblicos-69-7c5cff?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Releases publicadas](https://img.shields.io/badge/releases%20publicadas-178-f39c12?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![Lenguajes](https://img.shields.io/badge/lenguajes%20principales-10-0366d6?style=for-the-badge)](#-el-ecosistema-de-un-vistazo)
 [![Clases](https://img.shields.io/badge/clases%20de%20curr%C3%ADculo-22915-3fb950?style=for-the-badge)](docs/ECOSYSTEM.md#curricula)
 [![Forks recibidos](https://img.shields.io/badge/forks%20recibidos-3-8957e5?style=for-the-badge&logo=github)](https://github.com/vladimiracunadev-create?tab=repositories)
-[![Forks de terceros](https://img.shields.io/badge/forks%20de%20terceros-60-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.md#forks)
-[![Commits](https://img.shields.io/badge/commits-5011-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
+[![Forks de terceros](https://img.shields.io/badge/forks%20de%20terceros-65-6e7681?style=for-the-badge&logo=github)](docs/ECOSYSTEM.md#forks)
+[![Commits](https://img.shields.io/badge/commits-5126-238636?style=for-the-badge&logo=git)](https://github.com/vladimiracunadev-create?tab=repositories)
 [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=for-the-badge&logo=github)](https://github.com/pulls?q=author%3Avladimiracunadev-create+type%3Apr)
 [![Issues](https://img.shields.io/badge/issues-14-d29922?style=for-the-badge&logo=github)](https://github.com/issues?q=author%3Avladimiracunadev-create+type%3Aissue)
 <!-- STATS:END -->
@@ -81,12 +81,12 @@ No es «un repo»: es un ecosistema con estándares comunes.
 | 🧪 **Cobertura de pruebas** | GabySQL **850 tests** + fuzz de **503,8 M queries** (0 panics) · Empresa Operativa Chile **230 pruebas** · Automa **150 pytest** · CI multi-OS |
 | 🤖 **Agentes en producción** | LangGraph RealWorld **25/25 backends operativos** (casos 01–25, cobertura 100 %) · Operational AI Agents **23 agentes** con **69 evals deterministas** |
 | 🔗 **Integración políglota** | **20 casos** emisor→n8n→receptor —**19 operativos**, auditados uno a uno con Docker— · **18+ motores de BD** · **20+ contenedores** · 11 patrones |
-| 📦 **Distribución** | **166 releases** publicadas en un ecosistema de **68 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
+| 📦 **Distribución** | **178 releases** publicadas en un ecosistema de **69 repositorios públicos propios** · instaladores y artefactos `.exe` · `.msi` · `.dmg` · `.apk` con checksums y evidencia de build; firmas comerciales/en tiendas en trámite cuando aplica |
 | 🛡️ **Cadena de suministro** | CodeQL · Semgrep · Bandit · Trivy · Grype · Gitleaks · TruffleHog · SBOM CycloneDX · Scorecard |
 | 📚 **Currículos** | **22.915 clases** verificables en 22 programas, contadas por [un workflow](.github/workflows/stats.yml) sobre estructura real o fuente verificable declarada en el repositorio —no escritas a mano— · cada programa declara su estado editorial y sus límites |
 | 🌐 **Portafolio** | PWA instalable · **22 idiomas** · **154 PDFs** por pipeline · CV Data API · Capacitor Android · Lighthouse 100 |
 | 🔒 **Telemetría** | Cero en los productos forenses y en Empresa Operativa Chile — verificada en cada build (sin permiso `INTERNET` en Android) |
-| 🌐 **Sitios publicados** | **57 sitios** en GitHub Pages —56 landings, una por producto, programa o navegador del ecosistema, más el portafolio— cada uno desplegado desde su propio repositorio · los 57 comprobados con respuesta `200` |
+| 🌐 **Sitios publicados** | **58 sitios** en GitHub Pages —57 landings, una por producto, programa o navegador del ecosistema, más el portafolio— cada uno desplegado desde su propio repositorio · los 58 comprobados con respuesta `200` |
 
 ## 🛠️ Stack tecnológico
 
@@ -133,11 +133,11 @@ Tecnologías detectadas en los repositorios públicos (manifiestos, dependencias
 La obra práctica del perfil vive en un documento propio: software que se descarga e instala, laboratorios de ingeniería, IA aplicada, currículos técnicos completos y computación científica, además de la descripción de cada fork de proyectos de terceros que hay en la cuenta.
 
 - 📦 [**Productos con distribución real**](docs/ECOSYSTEM.md#products) (24)
-- 🧪 [**Laboratorios de ingeniería**](docs/ECOSYSTEM.md#labs) (11)
+- 🧪 [**Laboratorios de ingeniería**](docs/ECOSYSTEM.md#labs) (12)
 - 🤖 [**IA aplicada**](docs/ECOSYSTEM.md#ai) (7)
 - 📚 [**Currículos técnicos completos**](docs/ECOSYSTEM.md#curricula) (22)
 - 🔬 [**Computación científica**](docs/ECOSYSTEM.md#science) (1)
-- 🍴 [**Forks de proyectos de terceros**](docs/ECOSYSTEM.md#forks) (60)
+- 🍴 [**Forks de proyectos de terceros**](docs/ECOSYSTEM.md#forks) (65)
 
 👉 **[Ver el ecosistema completo](docs/ECOSYSTEM.md)** · [🍴 Forks de proyectos de terceros](docs/ECOSYSTEM.md#forks)
 
@@ -161,7 +161,7 @@ Participé en el **NASA Space Apps Challenge 2026** (Santiago, 14 y 15 de noviem
 - **Honestidad sobre el estado** — un repo se renombró (`Multisimulador` → `machine-operator-program`) para no prometer software que aún no existe.
 - **Los badges son señales, no evidencia** — cada repo declara también **lo que NO hace**.
 - **Del modelo hacia afuera** — el dominio se diseña primero; la interfaz es una proyección.
-- **Lo ajeno se declara ajeno** — los [60 forks](docs/ECOSYSTEM.md#forks) de proyectos de terceros se describen uno a uno y quedan fuera de todas las cifras de obra propia de este perfil.
+- **Lo ajeno se declara ajeno** — los [65 forks](docs/ECOSYSTEM.md#forks) de proyectos de terceros se describen uno a uno y quedan fuera de todas las cifras de obra propia de este perfil.
 
 ## ✅ Alcance profesional
 
@@ -215,6 +215,6 @@ Análisis de negocio y procesos · Gestión de proyectos tecnológicos · Produc
 [🛡️ Seguridad](SECURITY.md) ·
 [⚖️ Código de conducta](CODE_OF_CONDUCT.md)
 
-<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: <!-- VERIFIED:START -->2026-11-24<!-- VERIFIED:END -->.</sub>
+<sub>README sincronizado con el estado real verificable de los repositorios públicos —cifras y cambios leídos por API— · última verificación: <!-- VERIFIED:START -->2026-11-27<!-- VERIFIED:END -->.</sub>
 
 </div>
